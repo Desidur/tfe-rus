@@ -1,0 +1,4 @@
+﻿l_russian:
+pathfinder_debug_title: "DEBUG: Path found!" #NT!
+pathfinder_debug_desc: "Path from [origin.GetName] to [destination.GetName]" #NT!
+pathfinder_debug_print: "[THIS.Title.GetName]" #NT!

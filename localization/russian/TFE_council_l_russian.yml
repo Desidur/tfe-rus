@@ -1,0 +1,9 @@
+﻿l_russian:
+# Kemetic (Great Priest) #NT!
+ councillor_court_chaplain_kemetic_religion_county:0 "Great Priest" #NT!
+ councillor_court_chaplain_kemetic_religion_county_possessive:0 "Great Priest's" #NT!
+ #councillor_court_chaplain_kushitism_religion_duchy:0 "Great Priest" #NT!
+ #councillor_court_chaplain_kushitism_religion_duchy_possessive:0 "Great Priest's" #NT!
+
+ # Ammon (Priest of Gurzil) (Oracle) #NT!
+ councillor_court_chaplain_ammon_religion_county:0 "Oracle" #NT!

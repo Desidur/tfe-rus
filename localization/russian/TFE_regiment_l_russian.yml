@@ -1,0 +1,74 @@
+﻿l_russian:
+
+ #Roman units #NT!
+ comitatenses:0 "Comitatenses" #NT!
+ comitatenses_flavor:0 "#F Comitatenses were the backbone of the Roman field army after the reforms under Emperor Diocletian. They are experienced elite units that can beat back any barbarian horde - if they are given their pay.#!" #NT!
+ palatinae:0 "Palatinae" #NT!
+ palatinae_flavor:0 "#F Palatinae, or Palace Guards, were the most experienced and elite troops fielded by the Empire. They can outmatch anyone, given enough support.#!" #NT!
+ #cataphracts:0 "Cataphracts" #NT!
+ #cataphracts_flavor:0 "#F Cataphracts were elite heavily-armored cavalry, the hammer of the Roman army.#!" #NT!
+ cataphract_flavor:0 "#F Armored in coats of iron, Cataphracts can break almost any defensive line with their charge.#!" #NT!
+ clibanarius:0 "Clibanarii" #NT!
+ clibanarius_flavor:0 "Nicknamed camp oven bearers for how hot their heavy armor would get during battle, these horse archers attempted to take the tactics of the Parthians and Persians and make them useful for the Romans." #NT!
+
+
+ #Bri'ish units #NT!
+ cymbrogi:0 "Cymbrogi" #NT!
+ cymbrogi_flavor:0 "#F Cymbrogi is an ancient Brythonic word meaning "Fellow countrymen". This is where the endonym Cymru for Wales comes from. The Cymbrogi host appears several times in the Arthurian legends, all of them local farmers, and always loyal to the king.#!" #NT!
+ brythonic_warband:0 "Brythonic Warband" #NT!
+ brythonic_warband_flavor:0 "#F While not really an organized army, the Britons have always relied on guerrilla-type warfare, for which small, rather unorganized warbands are key.#!" #NT!
+ gaelic_warband:0 "Gaelic Warband" #NT!
+ gaelic_warband_flavor:0 "#F While not really an organized army, the Gaels have always relied on guerrilla-type warfare, for which small, rather unorganized warbands are key.#!" #NT!
+ pictish_warband:0 "Pictish Warband" #NT!
+ pictish_warband_flavor:0 "#F While not really an organized army, the Picts have always relied on guerrilla-type warfare, for which small, rather unorganized warbands are key.#!" #NT!
+ cantabrian_warband:0 "Cantabrian Warband" #NT!
+ cantabrian_warband_flavor:0 "#F The Cantabrian warriors are fierce mountainous experts who strike fear into the eyes of any unprofessional army.#!" #NT!
+
+ legions:0 "Legionaries" #NT!
+ legions_flavor:0 "#F The Legionaries are professional army regiments in the Roman Empire, composed of recruited Roman citizens.#!" #NT!
+
+ # Iranian units #NT!
+ chakar:0 "Chakar" #NT!
+ chakar_flavor:0 "#F The valiant, valorous personal retainers and guards of Eastern Iranian elites, particularly the patricians and nobles of cities along the Silk Road.#!" #NT!
+ savran:0 "Savran" #NT!
+ savran_flavor:0 "#F Combining heavy armor and mastery of the bow on horseback, the Savaran are a force to be reckoned with.#!" #NT!
+
+
+ # Siege Towers #NT!
+ siege_towers:0 "Siege Towers" #NT!
+ siege_towers_flavor:0 "#F Built with strong wood and metals, a fierce and sturdy tower can get us through an enemies' wall#!" #NT!
+
+ # War Dogs #NT!
+ war_dogs:0 "War Dogs" #NT!
+ war_dogs_flavor:0 "#F War Dogs were an essential part of ancient armies. Their barks and bloody fangs were feared all throughout Eurasia#!" #NT!
+ # Scorpio #NT!
+ scorpio:0 "Scorpio" #NT!
+ scorpio_flavor:0 "#F The Scorpio is a powerful wooden ballista that will help us pierce through wooden doors and walls#!" #NT!
+ # Churls #NT!
+ churls:0 "Churls" #NT!
+ churls_flavor:0 "#F The Churls form the backbone of North-Sea Germanic tribes. The freemen work on fields and as merchants, and have a writ to serve their lord in arms and have a place in the Witans#!" #NT!
+
+ # Daylami #NT!
+ daylami:0 "Daylami" #NT!
+ daylami_flavor:0 "#F Fierce Warriors from the Daylamite Highlands, they are armed with thick armour and a numerous array of weapons and formed the backbone of the Sassanid army#!" #NT!
+
+ # Kamandaran #NT!
+ kamandaran:0 "Kamandaran" #NT!
+ kamandaran_flavor:0 "#F The Kamandaran are highly specialized and trained bowmen. Taking from ancient Iranic traditions, they form thick walls with square shields and shoot a never ending storm of arrows from between the narrow spaces#!" #NT!
+
+ # Camel Archers #NT!
+ camel_horse_archers:0 "Camel Archers" #NT!
+ camel_horse_archers_flavor:0 "#F These warriors are highly valued for their mastery over archery while riding on a camel#." #NT!
+
+ # African Horse Archers #NT!
+ african_horse_archers:0 "Sahelian Horse Archers" #NT!
+ african_horse_archers_flavor:0 "#F These highly trained warriors specialize in loosing devastating volleys of arrows before galloping to safety among the brushwood and hills#." #NT!
+
+ # Proto-Mamluks #NT!
+ servile_soldiers:0 "Servile Soldiers" #NT!
+ servile_soldiers_flavor:0 "#F These auxiliaries were taken as captives from past raids and now provide manpower for future ones#." #NT!
+
+
+ # Zande Warrios #NT!
+ african_pikemen:0 "Long-Shield Bearers" #NT!
+ african_pikemen_flavor:0 "#F These African 'hoplites' prided themselves on their martial prowess and were often hired by others to fight in their wars#." #NT!

@@ -1,0 +1,1830 @@
+﻿l_russian:
+ # HISTORY RELATED NAMES # #NT!
+ YSATIS:0 "Ysatis" #NT!
+ OIUM:0 "Oium" #NT!
+ SPAHAN:0 "Spahan" #NT!
+
+ # NEW LANDED TITLES #NT!
+ d_media:0 "Media" #NT!
+ k_bosporus:0 "Bosporus" #NT!
+ k_bosporus_adj:0 "Bosporan" #NT!
+ c_san_marino:0 "San Marino" #NT!
+ c_san_marino_adj:0 "San Marinese" #NT!
+ b_san_marino:0 "San Marino" #NT!
+ # ALT ROMAN NAMES #NT!
+ d_bructeria_article:0 "the " #NT!
+ d_bructeria:0 "Bructeri" #NT!
+ GERMANIA_SECUNDA:0 "Germania Secunda" #NT!
+ DAVAKA:0 "Davaka" #NT!
+ k_ghassanid:0 "Ghassanids" #NT!
+ MAXIMACAESARIENSIS:0 "Maxima Caesariensis" #NT!
+ ARABIA:0 "Arabia" #NT!
+ d_phoenicia:0 "Phoenicia" #NT!
+ d_palestina_prima:0 "Palestina Prima" #NT!
+ ARWASTAN:0 "Arwastan" #NT!
+ NODSIRAGAN:0 "Nod-Ardashiragan" #NT!
+ ALPES_COTIAE:0 "Alpes Cottiae" #NT!
+ TUSCIA_ET_UMBRIA:0 "Tuscia et Umbria" #NT!
+ VENETIA_ET_HISTRIA:0 "Venetia et Histria" #NT!
+ PANNONIA_SECUNDA:0 "Pannonia Secunda" #NT!
+ FLAVIACAESARIENSIS:0 "Flavia Caesariensis" #NT!
+ PANNONIA_PRIMA:0 "Pannonia Prima" #NT!
+ d_pannonia_valeria:0 "Pannonia Valeria" #NT!
+ ZHANGZHUNG:0 "Zhangzhung" #NT!
+ KARTLI:0 "Kartli" #NT!
+ TAIFALIA:0 "Taifalia" #NT!
+ DUNNOTIG:0 "Dunnotig" #NT!
+ BRYNEICH:0 "Bryneich" #NT!
+ BRITANNIASECUNDA:0 "Britannia Secunda" #NT!
+ BRITANNIAPRIMA:0 "Britannia Prima" #NT!
+ RhaetiaII:0 "Rhaetia Secunda" #NT!
+ NORICUMRIPENSIS:0 "Noricum Ripensis" #NT!
+ NORICUMMEDITERRANEUM:0 "Noricum Mediterraneum" #NT!
+ BUCOBANTIA:0 "Bucobantia" #NT!
+ HERMUNDURIA:0 "Hermunduria" #NT!
+ LIGURIA:0 "Liguria" #NT!
+ RAETIAI:0 "Rhaetia Prima" #NT!
+ ALEMANNIA:0 "Alemannia" #NT!
+ JUTHUNGIA:0 "Juthungia" #NT!
+ GALLAECIA:0 "Gallaecia" #NT!
+ TARRACONENSIS:0 "Tarraconensis" #NT!
+ LUSITANIA:0 "Lusitania" #NT!
+ CARTHAGENENSIS:0 "Carthagenensis" #NT!
+ BAETICA:0 "Baetica" #NT!
+ MAURETANIA_TINGITANA:0 "Mauretania Tingitana" #NT!
+ SCYTHIA_MINOR:0 "Scythia Minor" #NT!
+ MOESIA_SECUNDA:0 "Moesia Secunda" #NT!
+ DACIA_RIPENSIS:0 "Dacia Ripensis" #NT!
+ HEMIMENTO:0 "Hemimento" #NT!
+ DARDANIA:0 "Dardania" #NT!
+ ALT_CLUT:0 "Alt Clut" #NT!
+ ALT_CLUT_adj:0 "Alt Clutian" #NT!
+ GODDODYN:0 "Goddodyn" #NT!
+ GODDODYN_adj:0 "Goddodyan" #NT!
+ ADULIS:0 "Adulis" #NT!
+ ADULIS_adj:0 "Adulian" #NT!
+ HARLA:0 "Harla" #NT!
+ HARLA_adj:0 "Harlan" #NT!
+ AVALITES:0 "Avalites" #NT!
+ AVALITES_adj:0 "Avalitian" #NT!
+ MALAO:0 "Malao" #NT!
+ MUNDUS:0 "Mundus" #NT!
+ MUNDUS_adj:0 "Mundian" #NT!
+ MOSYLON:0 "Mosylon" #NT!
+ MOSYLON_adj:0 "Mosylan" #NT!
+ HIPPONA:0 "Hippona" #NT!
+ HIPPO:0 "Hippo" #NT!
+ BYZACENA:0 "Byzacena" #NT!
+ CAPSA:0 "Capsa" #NT!
+ CARTAGO:0 "Cartago" #NT!
+ VAGA:0 "Vaga" #NT!
+ AFRICA:0 "Africa" #NT!
+ ZEUGITANA:0 "Zeugitana" #NT!
+ TACAPE:0 "Tacape" #NT!
+ TAPARURA:0 "Taparura" #NT!
+ TUSUROS:0 "Tusuros" #NT!
+ GIRBA:0 "Girba" #NT!
+ NUMIDIA:0 "Numidia" #NT!
+ NEMANCHA:0 "Nemancha" #NT!
+ DORSALES:0 "Dorsales" #NT!
+ OPONE:0 "Opone" #NT!
+ TAVE:0 "Tave" #NT!
+ SARAPION:0 "Sarapion" #NT!
+ SEVILLA:0 "Sevilla" #NT!
+ CORDOBA:0 "Cordoba" #NT!
+ TOLEDO:0 "Toledo" #NT!
+ VASCONIA:0 "Vasconia" #NT!
+ QUINQUE_PROVINCIARUM:0 "Quinque Provinciarum" #NT!
+ SEPTIMANIA:0 "Septimania" #NT!
+ YATHRIB:0 "Yathrib" #NT!
+ LYBIASUPERIOR:0 "Lybia Superior" #NT!
+ LYBIAINFERIOR:0 "Lybia Inferior" #NT!
+ AEGYPTUS:0 "Aegyptus" #NT!
+ AUGUSTAMNICA:0 "Augustamnica" #NT!
+ ARCADIA:0 "Arcadia" #NT!
+ THEBAIDA:0 "Thebaida" #NT!
+ d_salutaris:0 "Palestina Salutaris" #NT!
+ BRACARA:0 "Bracara" #NT!
+ OLISSIPO:0 "Olissipo" #NT!
+ EMERITA_AUGUSTA:0 "Emerita Augusta" #NT!
+ HISPALIS:0 "Hispalis" #NT!
+ CORDUBA:0 "Corduba" #NT!
+ ILLIBERIS:0 "Illiberis" #NT!
+ OROSPEDA:0 "Orospeda" #NT!
+ CARPETANIA:0 "Carpetania" #NT!
+ VALENTIA:0 "Valentia" #NT!
+ BARCINO:0 "Barcino" #NT!
+ CAESAR_AUGUSTA:0 "Caesar Augusta" #NT!
+ CELTIBERIA:0 "Celtiberia" #NT!
+ LEGIO:0 "Legio" #NT!
+ ASTURA:0 "Astura" #NT!
+ ALMEDINA:0 "Al-Medina" #NT!
+ EPIRUS_VETUS:0 "Epirus Vetus" #NT!
+ EPIRUS_NOVA:0 "Epirus Nova" #NT!
+ k_macedoniae:0 "Macedoniae" #NT!
+ d_lugdunensis_senonia:0 "Lugdunensis Senonia" #NT!
+ d_lugdunensis_tertia:0 "Lugdunensis Tertia" #NT!
+ LUGDUNENSIS_SECUNDA:0 "Lugdunensis Secunda" #NT!
+ d_lugdunensis_prima:0 "Lugdunensis Prima" #NT!
+ BELGICA_SECUNDA:0 "Belgica Secunda" #NT!
+ ALBION:0 "Albion" #NT!
+ ALBION_adj:0 "Albionic" #NT!
+ AESTIAN_EMPIRE:0 "Aestian Empire" #NT!
+ AESTIAN_EMPIRE_adj:0 "Aestian" #NT!
+ LITHUANIA:0 "Lithuania" #NT!
+ LITHUANIA_adj:0 "Lithuanian" #NT!
+ HUNNIC_EMPIRE:0 "Hunnic Empire" #NT!
+ HUNNIC_EMPIRE_adj:0 "Hunnic" #NT!
+ KHAZARIA:0 "Khazaria" #NT!
+ KHAZARIA_adj:0 "Khazar" #NT!
+ ROMAN_REPUBLIC_article:0 "the " #NT!
+ ROMAN_REPUBLIC:0 "Roman Republic" #NT!
+ WALES:0 "Wales" #NT!
+ WALES_adj:0 "Welsh" #NT!
+ CAMBRIA:0 "Cambria" #NT!
+ CAMBRIA_adj:0 "Cambria" #NT!
+ k_soissons:0 "Soissons" #NT!
+ k_soissons_adj:0 "Soissons" #NT!
+
+ k_france_2:0 "Francia" #NT!
+ k_france_2_adj:0 "French" #NT!
+ k_tanukhids_article:0 "the " #NT!
+ k_tanukhids:0 "Tanukhids" #NT!
+ c_chersonesus:0 "Chersonesus" #NT!
+ c_chersonesus_adj:0 "Chersonian" #NT!
+
+ d_kush:0 "Kush" #NT!
+ d_kush_adj:0 "Kushite" #NT!
+
+ k_najd:0 "Najd" #NT!
+ k_oman:0 "Oman" #NT!
+ k_mazun:0 "Mazun" #NT!
+
+ # Default title names #NT!
+ d_western_armenia:0 "Western Armenia" #NT!
+ d_skalvia:0 "Skalvians" #NT!
+ d_courland:0 "Curonia" #NT!
+ d_livonia:0 "Livonia" #NT!
+ b_agen:0 "Aginum" #NT!
+ b_aix:0 "Aquae Sextiae" #NT!
+ b_alarcon:0 "Libisosa" #NT!
+ b_alarcos:0 "Sisapo" #NT!
+ b_albarracin:0 "Lobetum" #NT!
+ b_albi:0 "Albiga" #NT!
+ b_albret:0 "Lamothe" #NT!
+ b_alcacerdosal:0 "Alcaceris" #NT!
+ b_alcaniz:0 "Cass" #NT!
+ b_alcantara:0 "Alcantarensis" #NT!
+ b_alcaraz:0 "Mentesa Oretana" #NT!
+ b_alcudia:0 "Pollentia" #NT!
+ b_algeciras:0 "Iulia Traducta" #NT!
+ b_alicante:0 "Lucentum" #NT!
+ b_almansa:1 "Saetabis" #NT!
+ b_almeria:0 "Urci" #NT!
+ b_alpuente:0 "Ademusia" #NT!
+ b_alto_aragon:0 "Vasconia" #NT!
+ b_andorra:1 "Orgellia" #NT!
+ b_angouleme:0 "Iculisma" #NT!
+ b_antequera:0 "Anticira" #NT!
+ b_apt:0 "Apta Iulia" #NT!
+ b_arcos:0 "Arcensium" #NT!
+ b_arles:0 "Arelate" #NT!
+ b_armagnac:0 "Eliumberrum" #NT!
+ b_arnedo:0 "Arenetum" #NT!
+ b_astana:0 "Astana" #NT!
+ b_astorga:0 "Lucus Augusti" #NT!
+ b_aurillac:0 "Aureliacum" #NT!
+ b_aveiro:0 "Lamecus" #NT!
+ b_avignon:0 "Aveinon" #NT!
+ b_avila:0 "Abela" #NT!
+ b_badajoz:0 "Regina Turdulorum" #NT!
+ b_balaguer:0 "Balagium" #NT!
+ b_barbastro:0 "Barbacastrum" #NT!
+ b_barcelona:0 "Barcino" #NT!
+ b_barman:0 "Barman" #NT!
+ b_bayonne:0 "Lapurdum" #NT!
+ b_beichtinen:0 "Beichtinen" #NT!
+ b_beja:0 "Pax Iulia" #NT!
+ b_bejar:0 "Salamantica" #NT!
+ b_belchite:0 "Belia" #NT!
+ b_bellac:0 "Pictonium" #NT!
+ b_benavente:0 "Asturica Augusta" #NT!
+ b_bergh:0 "Bergh" #NT!
+ b_bertrand_de_comminges:0 "Lugdunum Convenarum" #NT!
+ b_betanzos:0 "Flavium Brigantium" #NT!
+ b_betanzos_adj:0 "Brigantian" #NT!
+ b_beziers:0 "Baeterrae" #NT!
+ b_bordeaux:0 "Burdigala" #NT!
+ b_bourbon:0 "Avaricum" #NT!
+ b_braga:0 "Bracara" #NT!
+ b_braganza:0 "Juilobriga" #NT!
+ b_burgos:0 "Dessobriga" #NT!
+ b_cabra:0 "Igabrum" #NT!
+ b_caceres:0 "Norba Caeserina" #NT!
+ b_cadiz:0 "Gades" #NT!
+ b_calatayud:0 "Bibilis" #NT!
+ b_calatrava:0 "Oretum" #NT!
+ b_carcassonne:0 "Carcasum" #NT!
+ b_carmona:0 "Carmo" #NT!
+ b_cartagena:0 "Cartago" #NT!
+ b_castellon:0 "Hiberia" #NT!
+ b_castelo_branco:0 "Cattaleucos" #NT!
+ b_castelobranco:0 "Cattaleucos" #NT!
+ b_chavez:1 "Aquae Flaviae" #NT!
+ b_chavez_adj:0 "Flavian" #NT!
+ b_ciduadrodrigo:1 "Mirobriga" #NT!
+ b_ciudadrodrigo:0 "Mirobriga" #NT!
+ b_clermont_sur_ailler:0 "Augustonemetum" #NT!
+ b_coimbra:0 "Aeminimum" #NT!
+ b_coira:1 "Caurium" #NT!
+ b_colchester:0 "Camulodunum" #NT!
+ b_cordoba:0 "Corduba" #NT!
+ b_coria:0 "Caurium" #NT!
+ b_corunna:0 "Briganitum" #NT!
+ b_coucy:0 "Soissons" #NT!
+ b_cuenca:0 "Segobriga" #NT!
+ b_dambadeniya:0 "Dambadeniya" #NT!
+ b_dax:0 "Aquae Tarbellicae" #NT!
+ b_denia:0 "Dianium" #NT!
+ b_depenau:0 "Depenau" #NT!
+ b_derna:0 "Cyrene" #NT!
+ b_durne:0 "Durne" #NT!
+ b_ejea:0 "Segia" #NT!
+ b_embrun:0 "Ebrodunum" #NT!
+ b_evora:0 "Ebora" #NT!
+ b_faro:0 "Ossonoba" #NT!
+ b_fes:0 "Banasa" #NT!
+ b_feurs:0 "Segusiavorum Forum" #NT!
+ b_foix:0 "Consonanorum" #NT!
+ b_forcalquier:0 "Druentium" #NT!
+ b_fraga:0 "Gallica Flavia" #NT!
+ b_gevaudan:0 "Mimatensis" #NT!
+ b_gimhathiththa:0 "Gimhathiththa" #NT!
+ b_girona:0 "Gerona" #NT!
+ b_godawaya:0 "Godawaya" #NT!
+ b_gopakapattana:0 "Gopakapattana" #NT!
+ b_granada:0 "Lliberis" #NT!
+ b_grandmont:0 "Biturigum" #NT!
+ b_grenoble:0 "Gratianopolis" #NT!
+ b_griefswald:0 "Griefswald" #NT!
+ b_guadalajara:0 "Arraica" #NT!
+ b_guadiato:0 "Carbula" #NT!
+ b_guadix:0 "Gemella Acci" #NT!
+ b_hervas:0 "Ambracensis" #NT!
+ b_heves:0 "Heves" #NT!
+ b_hornachos:0 "Fornacis" #NT!
+ b_huelva:0 "Onuba" #NT!
+ b_huesca:0 "Osca" #NT!
+ b_hukeswag:0 "Hukeswag" #NT!
+ b_ilerena:1 "Ellerina" #NT!
+ b_itil:0 "Aorsia" #NT!
+ b_jaca:0 "Iaca" #NT!
+ b_jaen:0 "Castulo" #NT!
+ b_jerez:0 "Ager Ceretanus" #NT!
+ b_kotte:0 "Kotte" #NT!
+ b_kreusnach:0 "Kreusnach" #NT!
+ b_kurunagala:0 "Kurungala" #NT!
+ b_la_rochelle:0 "Bitugirum" #NT!
+ b_lagos:0 "Silves" #NT!
+ b_lamego:0 "Aveiro" #NT!
+ b_larochelle:0 "Bitugirum" #NT!
+ b_le_puy:0 "Gabalum" #NT!
+ b_lectoure:0 "Lactora" #NT!
+ b_leicester:0 "Ratae Corieltauvorum" #NT!
+ b_leon:0 "Legio" #NT!
+ b_letningen:0 "Letningen" #NT!
+ b_limoges:0 "Lemovices" #NT!
+ b_lisboa:0 "Olissipo" #NT!
+ b_lleida:0 "Illerda" #NT!
+ b_logrono:0 "Illo Gronno" #NT!
+ b_lorca:0 "Eliocroca" #NT!
+ b_lusignan:0 "Novioritum" #NT!
+ b_madrid:0 "Titulcia" #NT!
+ b_malaga:0 "Malaka" #NT!
+ b_malagon:0 "Consabura" #NT!
+ b_malaya_rata:0 "Malaya Rata" #NT!
+ b_marsan:0 "Elusa" #NT!
+ b_marseille:0 "Massilia" #NT!
+ b_medellin:0 "Metelinum" #NT!
+ b_medinaceli:0 "Occilis" #NT!
+ b_medinacelli:0 "Occilis" #NT!
+ b_medoc:0 "Medullicus" #NT!
+ b_melilla:0 "Mellitium" #NT!
+ b_menorca:0 "Minorica" #NT!
+ b_merida:0 "Emerita Augusta" #NT!
+ b_mersenburg:0 "Mersenburg" #NT!
+ b_mertola:0 "Myrtulis Iulia" #NT!
+ b_millau:0 "Condatomagus" #NT!
+ b_miranda_do_duoro:0 "Miranda do Duoro" #NT!
+ b_molina:0 "Segontia" #NT!
+ b_montdemarsan:0 "Elimberrum" #NT!
+ b_monte_faro:0 "Tudae" #NT!
+ b_monte_faro_adj:0 "Tudeian" #NT!
+ b_monterrei:0 "Nemetobriga" #NT!
+ b_montpellier:0 "Namaus" #NT!
+ b_motril:0 "Sexi" #NT!
+ b_muhlhausen:0 "Mulhausen" #NT!
+ b_murcia:0 "Carthago Nova" #NT!
+ b_murviedro:0 "Saguntum" #NT!
+ b_mzab:0 "Gaetulia" #NT!
+ b_najera:0 "Tritium Magallium" #NT!
+ b_nandagiri:0 "Nandagiri" #NT!
+ b_narbonne:0 "Narbo Martius" #NT!
+ b_nerja:0 "Maenoba" #NT!
+ b_neumunster:0 "Neumunster" #NT!
+ b_nice:0 "Nicaea" #NT!
+ b_niebla:0 "Ilipla" #NT!
+ b_olite:0 "Ologitum" #NT!
+ b_olivienza:0 "Olibensis" #NT!
+ b_olmedo:0 "Olmetum" #NT!
+ b_olot:0 "Olotis" #NT!
+ b_orange:0 "Arausio" #NT!
+ b_osma:0 "Uxama" #NT!
+ b_ourense:0 "Aurense" #NT!
+ b_oviedo:0 "Lucus Asturum" #NT!
+ b_padaividu:0 "Padaividu" #NT!
+ b_padron:0 "Petrum" #NT!
+ b_palampet:0 "Palampetv" #NT!
+ b_palencia:0 "Pallantia" #NT!
+ b_pamplona:0 "Pompaelo" #NT!
+ b_paris:0 "Lutetia" #NT!
+ b_pau:0 "Beneharnum" #NT!
+ b_pecheneg:0 "Thyssagatea" #NT!
+ b_perigueux:0 "Petricorii" #NT!
+ b_perpignan:1 "Emporium" #NT!
+ b_perpinya:0 "Emporium" #NT!
+ b_plasencia:0 "Ambracensis" #NT!
+ b_poitiers:0 "Lemonum" #NT!
+ b_ponferrada:0 "Bergidum" #NT!
+ b_porto:0 "Porto" #NT!
+ b_pravia:0 "Flavium Avia" #NT!
+ b_puigcerda:0 "Iulia Lybica" #NT!
+ b_quercy:0 "Cadurcorum" #NT!
+ b_riano:0 "Rivi Angulum" #NT!
+ b_rodez:0 "Segodunum" #NT!
+ b_roma:0 "Roma" #NT!
+ b_roses:0 "Rhodes" #NT!
+ b_sabta:0 "Septem" #NT!
+ b_saint_pourcain:0 "Elaveria" #NT!
+ b_saintonge:0 "Mediolanum Santonum" #NT!
+ b_santander:0 "Portus Victorae Iouliobrigensium" #NT!
+ b_santarem:0 "Scabales" #NT!
+ b_santiago:0 "Iria Flavia" #NT!
+ b_santiallana:0 "Flaviobriga" #NT!
+ b_sarinena:1 "Sarignena" #NT!
+ b_segovia:0 "Clunia" #NT!
+ b_setubal:0 "Cetobriga" #NT!
+ b_sevilla:0 "Hispalis" #NT!
+ b_siguenza:0 "Molina" #NT!
+ b_silves:0 "Lacobriga" #NT!
+ b_simancas:0 "Valladolid" #NT!
+ b_soria:0 "Numancia" #NT!
+ b_spantortosa:0 "Dertosa" #NT!
+ b_tafalla:0 "Curonion" #NT!
+ b_talavera:0 "Augustobriga" #NT!
+ b_tangermunde:0 "Tängermunde" #NT!
+ b_tangiers:0 "Tingis" #NT!
+ b_tarbes:0 "Turba" #NT!
+ b_tarifa:0 "Baelo Claudia" #NT!
+ b_tarragona:0 "Tarraco" #NT!
+ b_tasta:0 "Tåsta" #NT!
+ b_temesvar:0 "Temesvar" #NT!
+ b_temnikow:0 "Temnikow" #NT!
+ b_teruel:0 "Turbula" #NT!
+ b_thiers:0 "Decetium" #NT!
+ b_thouars:0 "Tudae arx" #NT!
+ b_toro:0 "Arbocola" #NT!
+ b_toulon:0 "Telo Martius" #NT!
+ b_toulouse:0 "Tolosa" #NT!
+ b_triana:1 "Tucci" #NT!
+ b_trujillo:0 "Turgalium" #NT!
+ b_tudela:0 "Tutela" #NT!
+ b_ubeda:0 "Baetula" #NT!
+ b_ucles:0 "Urcela" #NT!
+ b_udayavara:0 "Udayavara" #NT!
+ b_urgell:0 "Pyrenaeum" #NT!
+ b_uxkull:0 "Ikskila" #NT!
+ b_val_camonica:0 "Val Camonica" #NT!
+ b_valence:0 "Valentia" #NT!
+ b_valencia:0 "Valentia" #NT!
+ b_valladolid:0 "Septimanca" #NT!
+ b_vares:0 "Vares" #NT!
+ b_velay:0 "Anicum" #NT!
+ b_ventadelmoral:0 "Egelasta" #NT!
+ b_ventadelmoro:1 "Egelasta" #NT!
+ b_vhrbosna:0 "Vhrbosna" #NT!
+ b_vienne:0 "Vienna" #NT!
+ b_vigevano:0 "Viegvano" #NT!
+ b_vilkmerge:0 "Viklmerge" #NT!
+ b_viseu:0 "Visei" #NT!
+ b_viviers:0 "Helvium" #NT!
+ b_wadeilannen:0 "Wadeilannen" #NT!
+ b_werdenburg:0 "Werdenburg" #NT!
+ b_wezel:0 "Wezel" #NT!
+ b_wiedenbruck:0 "Wiedenbruck" #NT!
+ b_wolpe:0 "Wolpe" #NT!
+ b_wunsdorf:0 "Wunsdorf" #NT!
+ b_york:0 "Eboracum" #NT!
+ b_zamora:0 "Ocelo Durii" #NT!
+ b_zaragoza:0 "Caesar Augusta" #NT!
+ b_zuera:0 "Zubi" #NT!
+ c_agdeside_adj:0 "West Agðer" #NT!
+ c_agenais:0 "Aginum" #NT!
+ c_agenais_adj:0 "Aginian" #NT!
+ c_alarcon:0 "Libisosa" #NT!
+ c_alarcon_adj:0 "Libisosan" #NT!
+ c_albarracin:0 "Lobetum" #NT!
+ c_albarracin_adj:0 "Lobetian" #NT!
+ c_albi:0 "Albiga" #NT!
+ c_albi_adj:0 "Albegan" #NT!
+ c_albret:0 "Boatium" #NT!
+ c_albret_adj:0 "Boatian" #NT!
+ c_alcacer_do_sal:0 "Alcaceris" #NT!
+ c_alcacer_do_sal_adj:0 "Alcacerian" #NT!
+ c_alcaniz:0 "Cass" #NT!
+ c_alcaniz_adj:0 "Cassian" #NT!
+ c_alcaraz:0 "Mentesa Oretana" #NT!
+ c_alcaraz_adj:0 "Mentesan" #NT!
+ c_algeciras:0 "Iulia Traducta" #NT!
+ c_algeciras_adj:0 "Traductan" #NT!
+ c_alicante:0 "Lucentum" #NT!
+ c_alicante_adj:0 "Lucentian" #NT!
+ c_almader:1 "Sisapo" #NT!
+ c_almader_adj:1 "Sisaposian" #NT!
+ c_almeria:0 "Bastetania" #NT!
+ c_almeria_adj:0 "Bastetanian" #NT!
+ c_alto_aragon:0 "Osca" #NT!
+ c_alto_aragon_adj:0 "Oscan" #NT!
+ c_andujar:1 "Castulo" #NT!
+ c_andujar_adj:1 "Castulian" #NT!
+ c_angouleme:0 "Iculisma" #NT!
+ c_angouleme_adj:0 "Iculisman" #NT!
+ c_antwerpen_adj:0 "Antwerpen" #NT!
+ c_armagnac:0 "Ausciorum" #NT!
+ c_armagnac_adj:0 "Auscioran" #NT!
+ c_asayita_adj:0 "Asaita" #NT!
+ c_asirgarh_adj:0 "Asirgarh" #NT!
+ c_assab_adj:0 "Assab" #NT!
+ c_astorga:0 "Lucus Augusti" #NT!
+ c_astorga_adj:0 "Lucian" #NT!
+ c_asturias_de_oviedo:0 "Lucus Asturum" #NT!
+ c_asturias_de_oviedo_adj:0 "Asturian" #NT!
+ c_asturias_de_santillana:0 "Flaviobriga" #NT!
+ c_asturias_de_santillana_adj:0 "Flaviobrigan" #NT!
+ c_aunis:0 "Bitugirarum" #NT!
+ c_aunis_adj:0 "Bitugirian" #NT!
+ c_auvergne:0 "Arverni" #NT!
+ c_auvergne_adj:0 "Arvernian" #NT!
+ c_aveiro:0 "Lamecus" #NT!
+ c_aveiro_adj:0 "Lamecuan" #NT!
+ c_avila:0 "Abela" #NT!
+ c_avila_adj:0 "Abelan" #NT!
+ c_badajoz:0 "Regina Turdulorum" #NT!
+ c_badajoz_adj:0 "Reginan Turdulorum" #NT!
+ c_baghdad:0 "Baghdad" #NT!
+ c_baghdad_adj:0 "Baghdadian" #NT!
+ c_balkonda:0 "Balkonda" #NT!
+ c_balkonda_adj:0 "Balkondan" #NT!
+ c_bamiyan_adj:0 "Bamiyan" #NT!
+ c_bandhugadha_adj:0 "Bāndhūgadhan" #NT!
+ c_barcelona:0 "Barcino" #NT!
+ c_barcelona_adj:0 "Barcinonian" #NT!
+ c_bearn:0 "Benarnensium" #NT!
+ c_bearn_adj:0 "Benarnensium" #NT!
+ c_beja:1 "Pax Iulia" #NT!
+ c_beja_adj:1 "Pax Iulian" #NT!
+ c_bellac:0 "Pictonica" #NT!
+ c_bellac_adj:0 "Pictonican" #NT!
+ c_benavente:0 "Asturica Augusta" #NT!
+ c_benavente_adj:0 "Asturican" #NT!
+ c_berchtesgaden_adj:0 "Berchtesgaden" #NT!
+ c_beziers:0 "Baeterrensis" #NT!
+ c_bigorre:0 "Bigorra" #NT!
+ c_bordeaux:0 "Burdigala" #NT!
+ c_bordeaux_adj:0 "Burdigalian" #NT!
+ c_bourbon:0 "Avaricum" #NT!
+ c_braganza:0 "Juliobriga" #NT!
+ c_braganza_adj:0 "Juliobriga" #NT!
+ c_brunswick:0 "Brunswick" #NT!
+ c_brunswick_adj:0 "Brunswicker" #NT!
+ c_buchan_adj:2 "Buchan" #NT!
+ c_burgos:0 "Dessobriga" #NT!
+ c_burgos_adj:0 "Dessobrigan" #NT!
+ c_cabra:0 "Igabrum" #NT!
+ c_cabra_adj:0 "Igabran" #NT!
+ c_caceres:0 "Norba Caeserina" #NT!
+ c_caceres_adj:0 "Norban" #NT!
+ c_cadiz:0 "Gades" #NT!
+ c_cadiz_adj:0 "Gadesian" #NT!
+ c_calatayud:0 "Bibilis" #NT!
+ c_calatayud_adj:0 "Bibilian" #NT!
+ c_calatrava:0 "Oretum" #NT!
+ c_calatrava_adj:0 "Oretian" #NT!
+ c_carcassonne:0 "Narbo" #NT!
+ c_castellon:0 "Hiberia" #NT!
+ c_castellon_adj:0 "Hiberian" #NT!
+ c_castelo_branco:0 "Cattaleucos" #NT!
+ c_castelo_branco_adj:0 "Cattaleucian" #NT!
+ c_ceuta:0 "Septem" #NT!
+ c_chalons_adj:0 "Chalonnianj" #NT!
+ c_clermont_sur_allier:0 "Augustonemetum" #NT!
+ c_clermont_sur_allier_adj:0 "Augustonemetian" #NT!
+ c_coimbra:0 "Aeminium" #NT!
+ c_coimbra_adj:0 "Aeminian" #NT!
+ c_comminges:0 "Convenarum" #NT!
+ c_comminges_adj:0 "Convenarian" #NT!
+ c_connacht:0 "Connacht" #NT!
+ c_connacht_adj:0 "Connachtian" #NT!
+ c_cordoba:0 "Corduba" #NT!
+ c_cordoba_adj:0 "Corduban" #NT!
+ c_coruna:0 "Brigantium" #NT!
+ c_coruna_adj:0 "Brigantian" #NT!
+ c_crimea:0 "Bosphorus" #NT!
+ c_crimea_adj:0 "Bosphorean" #NT!
+ c_cuellar:0 "Clunia" #NT!
+ c_cuenca:0 "Segobriga" #NT!
+ c_cuenca_adj:0 "Segobrigan" #NT!
+ c_daman_adj:0 "Daman" #NT!
+ c_damoh_adj:0 "Damoh" #NT!
+ c_debul_adj:0 "Debul" #NT!
+ c_delhi_adj:0 "Delhi" #NT!
+ c_denia:0 "Dianium" #NT!
+ c_denia_adj:0 "Dianian" #NT!
+ c_durne:0 "Durne" #NT!
+ c_essex:0 "Camulodunum" #NT!
+ c_evora:0 "Pax Iulia" #NT!
+ c_evora_adj:0 "Pax Iulian" #NT!
+ c_evreux:0 "Evreux" #NT!
+ c_evreux_adj:0 "Evreuxian" #NT!
+ c_faro:0 "Ossonoba" #NT!
+ c_faro_adj:0 "Ossonoban" #NT!
+ c_fes:0 "Banasa" #NT!
+ c_fes_adj:0 "Banasian" #NT!
+ c_finland_adj:0 "Finlander" #NT!
+ c_foix:0 "Consonanorum" #NT!
+ c_foix_adj:0 "Consonanorian" #NT!
+ c_forcalquier:0 "Alpes Maritimae" #NT!
+ c_forez:0 "Segusiavorum" #NT!
+ c_forez_adj:0 "Segusiavorian" #NT!
+ c_fraga:0 "Gallica Flavia" #NT!
+ c_fraga_adj:0 "Flacian" #NT!
+ c_gevaudan:0 "Mons Mimatensis" #NT!
+ c_gevaudan_adj:0 "Mons Mimatensis" #NT!
+ c_gharb:0 "Sala" #NT!
+ c_girona:0 "Gerona" #NT!
+ c_girona_adj:0 "Geronan" #NT!
+ c_granada:0 "Lliberia" #NT!
+ c_granada_adj:0 "Lliberian" #NT!
+ c_guines:0 "Guines" #NT!
+ c_guines_adj:0 "Guinesian" #NT!
+ c_hampton:1 "Hamptonshire" #NT!
+ c_heves_adj:0 "Hevian" #NT!
+ c_hisar_adj:0 "Hisar" #NT!
+ c_ile_de_france:0 "Lutetia" #NT!
+ c_ile_de_france_adj:0 "Ile de Francian" #NT!
+ c_infa_adj:0 "Infan" #NT!
+ c_itil:0 "Aorsia" #NT!
+ c_itil_adj:0 "Aorsian" #NT!
+ c_iviza:1 "Ebusia" #NT!
+ c_iviza_adj:1 "Ebusian" #NT!
+ c_jaffna:0 "Jaffna" #NT!
+ c_jaligny:0 "Elaveria" #NT!
+ c_jaligny_adj:0 "Elaverian" #NT!
+ c_jharkand_adj:0 "Jharkand" #NT!
+ c_kafirkot_adj:0 "Kafirkot" #NT!
+ c_kaiserslautern_adj:0 "Kaiserslautern" #NT!
+ c_kalliopolis:0 "Kalliopolis" #NT!
+ c_kambampet:0 "Kambampet" #NT!
+ c_kambampet_adj:0 "Kambampetian" #NT!
+ c_kanara_adj:0 "Kanaran" #NT!
+ c_karor_adj:0 "Karor" #NT!
+ c_khozistan_adj:0 "Khozistian" #NT!
+ c_kiev_adj:0 "Kievian" #NT!
+ c_kotte:0 "Kotte" #NT!
+ c_kutch_adj:0 "Kutch" #NT!
+ c_la_marche:0 "Biturigum" #NT!
+ c_la_marche_adj:0 "Biturigian" #NT!
+ c_labourd:0 "Lapurdum" #NT!
+ c_labourd_adj:0 "Lapurdian" #NT!
+ c_leicestershire_adj:0 "Rataean" #NT!
+ c_leicestershire:0 "Ratae" #NT!
+ c_leon:0 "Legio" #NT!
+ c_leon_adj:0 "Legionian" #NT!
+ c_limousin:0 "Lemovicinus" #NT!
+ c_limousin_adj:0 "Lemovician" #NT!
+ c_lisboa:0 "Olissipo" #NT!
+ c_lisboa_adj:0 "Olissipian" #NT!
+ c_lleida:0 "Illerda" #NT!
+ c_lleida_adj:0 "Illerdan" #NT!
+ c_lombardia:0 "Mediolanum" #NT!
+ c_lombardia_adj:0 "Mediolanian" #NT!
+ c_lubeck:0 "Lubeck" #NT!
+ c_luristan_adj:0 "Luristian" #NT!
+ c_lusignan:0 "Novioritum" #NT!
+ c_lusignan_adj:0 "Novioritan" #NT!
+ c_madrid:0 "Titulcia" #NT!
+ c_madrid_adj:0 "Titulcian" #NT!
+ c_malaga:0 "Malaka" #NT!
+ c_malaga_adj:0 "Malakan" #NT!
+ c_malagon:0 "Consabura" #NT!
+ c_malagon_adj:0 "Consaburan" #NT!
+ c_mallorca:0 "Maiorica" #NT!
+ c_mallorca_adj:0 "Maiorican" #NT!
+ c_marsan:0 "Elusiatum" #NT!
+ c_marsan_adj:0 "Elusian" #NT!
+ c_medellin:0 "Metelinum" #NT!
+ c_medellin_adj:0 "Metelinian" #NT!
+ c_melilla:0 "Mellitium" #NT!
+ c_melitene:0 "Mellitian" #NT!
+ c_memel:0 "Skalvia" #NT!
+ c_menorca:0 "Menorica" #NT!
+ c_menorca_adj:0 "Menorican" #NT!
+ c_merida:0 "Emerita Augusta" #NT!
+ c_merida_adj:0 "Emeritan" #NT!
+ c_mersenburg:0 "Mersenburg" #NT!
+ c_middlesex:0 "Londinium" #NT!
+ c_middlesex_adj:0 "Londinian" #NT!
+ c_millau:0 "Condatomagus" #NT!
+ c_millau_adj:0 "Condatomagan" #NT!
+ c_molina:0 "Segontia" #NT!
+ c_molina_adj:0 "Segontian" #NT!
+ c_monterrei:0 "Nemetobriga" #NT!
+ c_monterrei_adj:0 "Nemetobrigan" #NT!
+ c_montpellier:0 "Namaus" #NT!
+ c_montpellier_adj:0 "Namausan" #NT!
+ c_mora:1 "Urcela" #NT!
+ c_mora_adj:1 "Urcelian" #NT!
+ c_moura:0 "Serpa" #NT!
+ c_moura_adj:0 "Serpan" #NT!
+ c_munster:0 "Munster" #NT!
+ c_munster_adj:0 "Munsterian" #NT!
+ c_murcia:0 "Carthago Nova" #NT!
+ c_murcia_adj:0 "Carthaginian" #NT!
+ c_najera:0 "Tritium Magallium" #NT!
+ c_najera_adj:0 "Tritian" #NT!
+ c_naumberg:1 "Lubsko" #NT!
+ c_naumberg_adj:0 "Lubskian" #NT!
+ c_navarra:0 "Vasconia" #NT!
+ c_navarra_adj:0 "Vasconian" #NT!
+ c_nice:0 "Nicaea" #NT!
+ c_nicopolis:0 "Nicpolis" #NT!
+ c_niebla:0 "Onuba" #NT!
+ c_niebla_adj:0 "Onuban" #NT!
+ c_olmedo:0 "Olmetum" #NT!
+ c_olomouc:0 "Olmetian" #NT!
+ c_pecheneg:0 "Thyssagatea" #NT!
+ c_pecheneg_adj:0 "Thyssagatean" #NT!
+ c_perigord:0 "Petricorii" #NT!
+ c_perigord_adj:0 "Petricorian" #NT!
+ c_plasencia:0 "Ambracensis" #NT!
+ c_plasencia_adj:0 "Ambracensian" #NT!
+ c_poitiers:0 "Lemonum" #NT!
+ c_poitiers_adj:0 "Lemonian" #NT!
+ c_porto:0 "Bracara" #NT!
+ c_porto_adj:0 "Bracaran" #NT!
+ c_pravia:0 "Flavium Avia" #NT!
+ c_provence:0 "Provincia" #NT!
+ c_provence_adj:0 "Provincian" #NT!
+ c_puigcerda:1 "Iulia Lybica" #NT!
+ c_puigcerda_adj:1 "Lybican" #NT!
+ c_quercy:0 "Cadurcorum" #NT!
+ c_quercy_adj:0 "Cadurcorian" #NT!
+ c_rouergue:0 "Rutenorum" #NT!
+ c_rouergue_adj:0 "Rutenorian" #NT!
+ c_saintonge:0 "Santonorum" #NT!
+ c_saintonge_adj:0 "Santonian" #NT!
+ c_salamanca:0 "Salamantica" #NT!
+ c_salamanca_adj:0 "Salamantican" #NT!
+ c_samaiqan:0 "Samaiqan" #NT!
+ c_santiago:0 "Iria Flavia" #NT!
+ c_santiago_adj:0 "Irian" #NT!
+ c_savoie:0 "Alpes Poenninae" #NT!
+ c_sevilla:0 "Hispalis" #NT!
+ c_sevilla_adj:0 "Hispalian" #NT!
+ c_silves:0 "Lacobriga" #NT!
+ c_silves_adj:0 "Lacobrigan" #NT!
+ c_sjaelland:0 "Sjaelland" #NT!
+ c_soria:0 "Numancia" #NT!
+ c_soria_adj:0 "Numancian" #NT!
+ c_srirangapatna:0 "Srirangapatna" #NT!
+ c_srirangapatna_adj:0 "Srirangapatnan" #NT!
+ c_sussex:0 "Sussex" #NT!
+ c_sussex_adj:0 "Sussexian" #NT!
+ c_tangiers:0 "Tingis" #NT!
+ c_tangiers_adj:0 "Tingitanian" #NT!
+ c_tarragona:0 "Tarraco" #NT!
+ c_tarragona_adj:0 "Tarraconian" #NT!
+ c_teruel:0 "Turbula" #NT!
+ c_teruel_adj:0 "Turbulan" #NT!
+ c_thiers:0 "Decetia" #NT!
+ c_thiers_adj:0 "Decetian" #NT!
+ c_thouars:0 "Tudae arx" #NT!
+ c_thouars_adj:0 "Tudaean" #NT!
+ c_toledo:0 "Toletum" #NT!
+ c_toledo_adj:0 "Toletian" #NT!
+ c_toulouse:0 "Tolosa" #NT!
+ c_toulouse_adj:0 "Tolosan" #NT!
+ c_trincomalee:0 "Trincomalee" #NT!
+ c_tudela:0 "Tutela" #NT!
+ c_tudela_adj:0 "Tutelan" #NT!
+ c_tui:0 "Tudae" #NT!
+ c_tui_adj:0 "Tudaian" #NT!
+ c_urgell:0 "Pyrenaeum" #NT!
+ c_urgell_adj:0 "Pyrenaeum" #NT!
+ c_uses:0 "Voconicarum" #NT!
+ c_uses_adj:0 "Voconicarian" #NT!
+ c_valence:0 "Valentia" #NT!
+ c_valence_adj:0 "Valentian" #NT!
+ c_valencia:0 "Valentia" #NT!
+ c_valencia_adj:0 "Valentian" #NT!
+ c_valladolid:0 "Septimanca" #NT!
+ c_valladolid_adj:0 "Septimanca" #NT!
+ c_valois:0 "Soissons" #NT!
+ c_valois_adj:0 "Soisson" #NT!
+ c_varmland:0 "Värmaland" #NT!
+ c_velay:0 "Anicum" #NT!
+ c_venaissin:0 "Arelate" #NT!
+ c_venaissin_adj:0 "Arelatan" #NT!
+ c_viseu:0 "Visei" #NT!
+ c_viseu_adj:0 "Viseian" #NT!
+ c_viviers:0 "Helvia" #NT!
+ c_viviers_adj:0 "Helvian" #NT!
+ c_west_dvina:0 "West dvina" #NT!
+ c_winchester_adj:0 "Belgarian" #NT!
+ c_wolpe:0 "Wolpe" #NT!
+ c_wolpe_adj:0 "Wolper" #NT!
+ c_zamora:0 "Ocelo Durii" #NT!
+ c_zamora_adj:0 "Ocelo Durii" #NT!
+ c_zaragoza:0 "Caesar Augusta" #NT!
+ c_zaragoza_adj:0 "Augustan" #NT!
+ d_abkhazia:0 "Lazika" #NT!
+ d_abkhazia_adj:0 "Lazikan" #NT!
+ d_alsace:0 "Germania Prima" #NT!
+ d_anjou:0 "Anjou" #NT!
+ d_anjou_adj:0 "Anjouan" #NT!
+ d_aquitaine:0 "Aquitainia" #NT!
+ d_aragon:0 "Tarraconensis" #NT!
+ d_aragon_adj:0 "Tarraconensan" #NT!
+ d_armagnac:0 "Novempopulania" #NT!
+ d_badajoz:0 "Lusitania" #NT!
+ d_badajoz_adj:0 "Lusitanian" #NT!
+ d_baghdad:0 "Ctesiphon" #NT!
+ d_baghdad_adj:0 "Ctesiphonian" #NT!
+ c_ctesiphon:0 "Ctesiphon" #NT!
+ c_ctesiphon_adj:0 "Ctesiphonian" #NT!
+ d_bavaria:0 "Noricum" #NT!
+ d_bavaria_adj:0 "Noric" #NT!
+ d_bergslagen_adj:0 "Bergslags" #NT!
+ d_berry:0 "Berry" #NT!
+ d_berry_adj:0 "Berrian" #NT!
+ d_bordeaux:0 "Burdigala" #NT!
+ d_bosna:1 "Bosnia" #NT!
+ d_bosna_adj:0 "Bosnian" #NT!
+ d_bourbon:0 "Aquitanica Prima" #NT!
+ d_brittany:0 "Britanny" #NT!
+ d_burgundy:0 "Lugdunensis Prima" #NT!
+ d_caspin:0 "Caspin" #NT!
+ d_champagne:0 "Belgica Secunda" #NT!
+ d_dakhina_desa:0 "Dhakina Desa" #NT!
+ d_dalmatia:0 "Illyria" #NT!
+ d_dalmatia_adj:0 "Illyrian" #NT!
+ d_dauphine:0 "Viennensis" #NT!
+ d_epirus_adj:0 "Epirotian" #NT!
+ d_porto:0 "Bracarensis" #NT!
+ d_porto_adj:0 "Bracarensis" #NT!
+ d_gascogne:0 "Aquitanica Secunda" #NT!
+ d_gotland_adj:0 "Visby" #NT!
+ d_greater_poland:0 "Polania" #NT!
+ d_greater_poland_adj:0 "Polanian" #NT!
+ d_itil:0 "Aorsia" #NT!
+ d_itil_adj:0 "Aorsian" #NT!
+ d_julich:0 "Germania Secunda" #NT!
+ d_khazars:0 "Sarmatia" #NT!
+ d_khazars_adj:0 "Sarmatian" #NT!
+ d_languedoc:0 "Narbonensis Prima" #NT!
+ d_mallorca:0 "Balearica" #NT!
+ d_mallorca_adj:0 "Balearican" #NT!
+ d_murcia:0 "Carthaginensis" #NT!
+ d_murcia_adj:0 "Carthaginensian" #NT!
+ d_mzab:0 "Gaetulia" #NT!
+ d_normandy:0 "Normandy" #NT!
+ d_normandy_adj:0 "Normandian" #NT!
+ d_orleans:0 "Orleans" #NT!
+ d_orleans_adj:0 "Orleans" #NT!
+ d_provence:0 "Narbonensis Secunda" #NT!
+ d_rif:0 "Mauritana Tingitana" #NT!
+ d_rif_adj:0 "Mauritanian Tingitanian" #NT!
+ d_romagna:0 "Ravenna" #NT!
+ d_romagna_adj:0 "Ravennese" #NT!
+ d_salamanca:0 "Salamantica" #NT!
+ d_salamanca_adj:0 "Salamantican" #NT!
+ d_savoie:0 "Alpes Poenninae" #NT!
+ d_sevilla:0 "Hispalis" #NT!
+ d_sevilla_adj:0 "Hispalis" #NT!
+ d_sinhala:0 "Sinhala" #NT!
+ d_swabia:0 "Alemannia" #NT!
+ d_swabia_adj:0 "Alemannian" #NT!
+ d_transjurania:0 "Alpes Poeninae" #NT!
+ d_udayagiri:0 "Udayagiri" #NT!
+ d_upper_burgundy:0 "Maxima Sequanorum" #NT!
+ d_upper_lorraine:0 "Belgica Prima" #NT!
+ d_valois:0 "Valois" #NT!
+ e_arabia:0 "Arabia" #NT!
+ e_hunnic_empire_article:0 "the " #NT!
+ e_hunnic_empire:0 "Hunnic Empire" #NT!
+ e_hunnic_empire_adj:0 "Hunnic" #NT!
+ e_britannia_pre:0 "Albo" #NT!
+ e_byzantium:0 "Eastern Roman Empire" #NT!
+ e_byzantium_adj:0 "Roman" #NT!
+ e_byz_ui:0 "The Eastern Roman Empire" #NT!
+ e_france:0 "Gaul" #NT!
+ e_france_adj:0 "Gaulish" #NT!
+ e_france_pre:0 "Gallo" #NT!
+ e_italy:0 "Italy" #NT!
+ e_maghreb:0 "Libya" #NT!
+ e_rome_ui:0 "The Roman Empire" #NT!
+ e_russia:0 "Rus" #NT!
+ e_russia_adj:0 "Rus" #NT!
+ e_russia_pre:0 "Ruso" #NT!
+ e_wendish_empire:1 "Baltia" #NT!
+ e_wendish_empire_adj:0 "Baltic" #NT!
+ k_abyssinia:0 "Aksum" #NT!
+ k_abyssinia_adj:0 "Aksumite" #NT!
+ k_arabia:0 "Hejaz" #NT!
+ k_arabia_adj:0 "Hejazi" #NT!
+ k_aragon:0 "Tarraconensis" #NT!
+ k_aragon_adj:0 "Tarraconensan" #NT!
+ k_bavaria:0 "Noricum" #NT!
+ k_bavaria_adj:0 "Noric" #NT!
+ k_brittany:0 "Armorica" #NT!
+ k_brittany_adj:0 "Armorican" #NT!
+ k_burgundy:0 "Burgundy" #NT!
+ k_burgundy_adj:0 "Burgundian" #NT!
+ k_france:0 "Francia" #NT!
+ e_caucasia:0 "Greater Kavkazia" #NT!
+ e_caucasia_adj:0 "Caucasian" #NT!
+ e_caucasia_pre:0 "Kavkazi" #NT!
+ k_georgia:0 "Sakartvelo" #NT!
+ k_georgia_adj:0 "Sakartvelan" #NT!
+ k_georgia_pre:0 "Sakartvelo" #NT!
+ k_east_francia:0 "Alemannia" #NT!
+ k_east_francia_adj:0 "Alemannic" #NT!
+ k_lotharingia:0 "Austrasia" #NT!
+ k_hungary:0 "Pannonia" #NT!
+ k_hungary_adj:0 "Pannonian" #NT!
+ k_hungary_pre:0 "Pannono" #NT!
+ k_italia_suburbicariae:0 "Italia Suburbicariae" #NT!
+ k_italia_suburbicariae_adj:0 "Italia Suburbicariae" #NT!
+ k_italy:0 "Italia" #NT!
+ k_moldavia:0 "Getia" #NT!
+ k_moldavia_adj:0 "Getia" #NT!
+ k_nubia:0 "Nobatia" #NT!
+ k_nubia_adj:0 "Nobatian" #NT!
+ k_pomerania:0 "Rugia" #NT!
+ k_pomerania_adj:0 "Rugian" #NT!
+ k_romagna:0 "Latium" #NT!
+ k_romagna_adj:0 "Latin" #NT!
+ k_saxony_article:0 "the " #NT!
+ k_saxony:0 "Saxon Confederation" #I swear if this is changed back without mentioning it on the server :gun: #NT!
+ k_scotland:0 "Pictland" #NT!
+ k_scotland_adj:0 "Pictish" #NT!
+ k_sicily:0 "Magna Graecia" #NT!
+ k_sicily_adj:0 "Magna Greacia" #NT!
+ k_thessalonika:0 "Thrace" #NT!
+ c_hereford:0 "Ergyng" #NT!
+ d_cherven_cities:0 "Lendia" #NT!
+ d_cherven_cities_adj:0 "Lendian" #NT!
+ d_cherven_cities_article:0 "" #NT!
+ b_baghdad:0 "Baghdad" #NT!
+ b_an-nahrawan:0 "Ctesiphon" #NT!
+ k_jazira:0 "Assyria" #NT!
+ k_jazira_adj:0 "Assyrian" #NT!
+ e_caspian-pontic_steppe:0 "Caspian-Pontic Steppe" #NT!
+ e_caspian-pontic_steppe_adj:0 "Steppe" #NT!
+ k_pontic_steppe:0 "Sarmatia" #NT!
+ k_pontic_steppe_adj:0 "Sarmatian" #NT!
+ k_caspian_steppe:0 "Scythia" #NT!
+ k_caspian_steppe_adj:0 "Scythian" #NT!
+ k_caucasus:0 "Alania" #NT!
+ k_caucasis_adj:0 "Alanian" #NT!
+ b_aswan-west:0 "Philae" #NT!
+ c_derna:0 "Cyrene" #NT!
+ c_derna_adj:0 "Cyrenian" #NT!
+ k_aegyptus:0 "Aegyptus" #NT!
+ k_aegyptus_adj:0 "Aegyptian" #NT!
+ d_samatata:0 "Samatata" #NT!
+ d_samatata_adj:0 "Samatatan" #NT!
+
+ #Anatolia & Cyprus #NT!
+ k_nikaea:0 "Pontus" #NT!
+ k_nikaea_adj:0 "Pontic" #NT!
+ d_isauria:0 "Isauria" #NT!
+ d_isauria_adj:0 "Isaurian" #NT!
+
+ #Armenia & Georgia #NT!
+ d_tao-klarjeti:0 "Klarjeti" #NT!
+ d_tao-klarjeti_adj:0 "Klarjetian" #NT!
+ d_bacs:0 "Iazygia" #NT!
+ d_bacs_adj:0 "Iazygian" #NT!
+ k_yemen:0 "Himyar" #NT!
+ k_yemen_adj:0 "Himyarite" #NT!
+ d_pecheneg:0 "Thyssagatea" #NT!
+ d_pecheneg_adj:0 "Thyssagatean" #NT!
+
+ #Somali City-States #NT!
+ d_oponi:0 "Oponi" #NT!
+ d_oponi_adj:0 "Oponian" #NT!
+ d_mundus:0 "Mundus" #NT!
+ d_mundus_adj:0 "Mundian" #NT!
+ d_malao:0 "Malao" #NT!
+ d_malao_adj:0 "Malaoian" #NT!
+ d_mosylon:0 "Mosylon" #NT!
+ d_mosylon_adj:0 "Mosylonian" #NT!
+ #Saharan Kingdoms #NT!
+ k_anbiya:0 "Numidia" #NT!
+ k_anbiya_adj:0 "Numidian" #NT!
+ d_fezzan:0 "Garamantia" #NT!
+ d_fezzan_adj:0 "Garaman" #NT!
+ d_timbuktu_adj:0 "Timbuktuan" #NT!
+ k_adal:0 "Avalites" #NT!
+ k_adal_adj:0 "Avalitian" #NT!
+ k_ajuraan:0 "Macrobia" #NT!
+ k_ajuraan_adj:0 "Macrobian" #NT!
+ k_outer_ajuraan:0 "Outer Macrobia" #NT!
+ k_outer_ajuraan_adj:0 "Outer Macrobian" #NT!
+ b_monteil:0 "Rhodonia" #NT!
+ b_digne:0 "Dinia" #NT!
+ b_montlaur:0 "Voconicum" #NT!
+
+ ### The vanilla names for the below regions need to be added as cultural names for the appropriate cultures #NT!
+
+ #Baltics #NT!
+ e_plc:0 "Polish-Lithuanian Commonwealth" #NT!
+ e_plc_adj:0 "Polish-Lithuanian" #NT!
+ e_plc_article:0 "the " #NT!
+ k_lithuania:0 "Aestia" #NT!
+ k_lithuania_adj:0 "Aestian" #NT!
+ d_masuria:0 "Galindia" #NT!
+ d_masuria_adj:0 "Galindian" #NT!
+ d_lithuanians:0 "Aukstatia" #NT!
+ d_lithuanians_adj:0 "Aukstatian" #NT!
+ d_sudovia:0 "Sudovia" #NT!
+ d_sudovia_adj:0 "Sudovian" #NT!
+ d_latgalians:0 "Latgale" #NT!
+ d_latgalians_adj:0 "Latgalian" #NT!
+ c_wiek:0 "Läänemaa" #NT!
+ c_zemigalians:0 "Zemgale" #NT!
+ c_selpils:0 "Sēlija" #NT!
+ c_yatvyagi:0 "Jotva" #NT!
+ c_jersika:0 "Jersika" #NT!
+ c_aluksne:0 "Alūksne" #NT!
+ c_kokenois:0 "Koknese" #NT!
+ c_braslau:0 "Breslauja" #NT!
+ c_siauliai:0 "Šiauliai" #NT!
+ c_kernave:0 "Kernavė" #NT!
+ c_grodno:0 "Gardinas" #NT!
+ c_talava:0 "Tālava" #NT!
+ c_reval:0 "Harjumaa" #NT!
+ c_angerburg:0 "Sūduva" #NT!
+ c_wormditt:0 "Wārmi" #NT!
+ c_malbork:0 "Pameddi" #NT!
+ c_konigsberg:0 "Semba" #NT!
+ c_allenstein:0 "Galinda" #NT!
+ c_torun:0 "Kulmus" #NT!
+ c_osterode:0 "Lūbawa" #NT!
+ c_natangia:0 "Notangi" #NT!
+ c_scalovia:0 "Skallawa" #NT!
+ c_memel:0 "Klaipėda" #NT!
+ c_bartenstein:0 "Barta" #NT!
+ c_vanemane:0 "Vanema" #NT!
+ c_grobin:0 "Grobiņa" #NT!
+
+ #Finland #NT!
+ c_finland:0 "Suomimaa" #NT!
+ c_nyland:0 "Uusimaa" #NT!
+ c_tavasts:0 "Häme" #NT!
+ c_kakisalmi:0 "Käkisalmi" #NT!
+ c_viena:0 "Väinäjoki" #NT!
+ c_salinis:0 "Salmi" #NT!
+ c_onega:0 "Äänislinna" #NT!
+
+ # Poland #NT!
+ k_poland:0 "Venedia" #NT!
+ k_poland_adj:0 "Venedian" #NT!
+ d_kuyavia:0 "Goplania" #NT!
+ d_kuyavia_adj:0 "Goplanian" #NT!
+
+ # Eastern Europe #NT!
+ k_white_rus:0 "Dnieper-Daugava" #NT!
+ k_white_rus_adj:0 "Dnieper-Daugavan" #NT!
+ k_ruthenia:0 "Antea" #NT!
+ k_ruthenia_adj:0 "Antean" #NT!
+ k_galicia-volhynia:0 "Sclavenia" #NT!
+ k_galicia-volhynia_adj:0 "Sclavenian" #NT!
+ k_novgorod:0 "Chudia" #NT!
+ k_novgorid_adj:0 "Chudic" #NT!
+ k_opolye:0 "Meryaland" #NT!
+ k_opolye_adj:0 "Merya" #NT!
+ k_bjarmaland:0 "Vepsia" #NT!
+ k_bjarmaland_adj:0 "Vepsian" #NT!
+ k_volga_bulgaria:0 "Volga" #NT!
+ k_volga_bulgaria_adj:0 "Volgan" #NT!
+ k_bashkiria:0 "Uralia" #NT!
+ k_bashkiria_adj:0 "Uralic" #NT!
+ k_oghuz_il:0 "Chorasmia" #NT!
+ k_oghuz_il_adj:0 "Chorasmia" #NT!
+ #k_oghuz_il:0 "Transcaspiana" #NT!
+ #k_oghuz_il_adj:0 "Transcaspian" #NT!
+ k_kimek:0 "Mugodzharia" #NT!
+ k_kimek_adj:0 "Mugodzhar" #NT!
+ k_cuman:0 "Turgay" #NT!
+ k_cuman_adj:0 "Turgay" #NT!
+ k_tuva:0 "Kirghizia" #NT!
+ k_tuva_adj:0 "Kirghiz" #NT!
+ k_dzungaria:0 "Uyghria" #NT!
+ k_dzungaria_adj:0 "Uyghur" #NT!
+ k_kipchak:0 "Semey" #NT!
+ k_kipchak_adj:0 "Semey" #NT!
+ k_buryatia:0 "Baikal" #NT!
+ k_buryatia_adj:0 "Baikal" #NT!
+ k_lechia:0 "Lechia" #NT!
+ k_lechia_adj:0 "Lechitic" #NT!
+
+ d_pihkova:0 "Pskov" #NT!
+ d_pihkova_adj:0 "Pskovan" #NT!
+
+ #Pre-Slavic Balkans & Italy #NT!
+ e_yugoslavia:0 "Yugoslavia" #NT!
+ e_yugoslavia_adj:0 "Yugoslavian" #NT!
+ b_adria:0 "Atria" #NT!
+ b_agricento:0 "Agrigentum" #NT!
+ b_antivari:0 "Antibarium" #NT!
+ b_vignola:0 "Vignola" #NT!
+ b_bari:0 "Barium" #NT!
+ b_biograd:0 "Nedinum" #NT!
+ b_bribir:0 "Varvaria" #NT!
+ b_calatafimi:0 "Segesta" #NT!
+ b_caltagirone:0 "Calata Hieronis" #NT!
+ b_caltanisetta:0 "Castra Nicia" #NT!
+ b_camarda:0 "Forcona" #NT!
+ b_caorle:0 "Caprulae" #NT!
+ b_castrogiovanni:0 "Henna" #NT!
+ b_castrovillari:0 "Sassonia" #NT!
+ b_cattaro:0 "Acruvium" #NT!
+ b_cefalu:0 "Cephaloedium" #NT!
+ b_chioggia:0 "Clodia" #NT!
+ b_cosenza:0 "Cosentia" #NT!
+ b_cotrone:0 "Crotona" #NT!
+ b_cres:0 "Crepsa" #NT!
+ b_danj:0 "Dagnum" #NT!
+ b_dobovec:0 "Latobicorum" #NT!
+ b_drivast:0 "Drivastum" #NT!
+ b_garda:0 "Ardelica" #NT!
+ b_gorizia:0 "Aesontius Inferior" #NT!
+ b_grado:0 "Gradus" #NT!
+ b_hvar:0 "Pharos" #NT!
+ b_kamnik:0 "Atrans" #NT!
+ b_knin:0 "Burnum" #NT!
+ b_kranj:0 "Carnia" #NT!
+ b_krk:0 "Curicum" #NT!
+ b_krsko:0 "Celeia" #NT!
+ b_kruje:0 "Albanopolis" #NT!
+ b_labin:0 "Alvona" #NT!
+ b_lentini:0 "Leontium" #NT!
+ b_lessinia:0 "Pagus Arusnatium" #NT!
+ b_lezhe:0 "Lissus" #NT!
+ b_ljubljana:0 "Aemona" #NT!
+ b_lonigo:0 "Aurari" #NT!
+ b_maratea:0 "Marathea" #NT!
+ b_maribor:0 "Poetovium" #NT!
+ b_mat:0 "Mathis" #NT!
+ b_messina:0 "Messana" #NT!
+ b_mestre:0 "Opitergium" #NT!
+ b_mokro:0 "Narona" #NT!
+ b_montagna:0 "Ateste" #NT!
+ b_moraca:0 "Moraca" ## #NT!
+ b_nin:0 "Aenona" #NT!
+ b_obrovac:0 "Argyruntum" #NT!
+ b_omis:0 "Oneum" #NT!
+ b_onogost:0 "Anderba" #NT!
+ b_palermo:0 "Panormus" #NT!
+ b_pazin:0 "Piquentum" #NT!
+ b_padua:0 "Patavium" #NT!
+ b_piran:0 "Parentium" #NT!
+ b_plav:0 "Plav" ## #NT!
+ b_pordenone:0 "Iulium Carnicum" #NT!
+ b_potenza:0 "Potentia" #NT!
+ b_pula:0 "Pola" #NT!
+ b_ragusa:0 "Epidaurum" #NT!
+ b_reggio_calabria:0 "Rhegium Iulii" #NT!
+ b_ribnica:0 "Nauportus" #NT!
+ b_ribnicapodgorica:0 "Doclea" #NT!
+ b_rijeka:0 "Tharsatica" #NT!
+ b_risan:0 "Risinium" #NT!
+ b_rossano:0 "Roscianum" #NT!
+ b_rovigo:0 "Hostilia" #NT!
+ b_rudolfswerde:0 "Carniola Inferior" #NT!
+ b_salerno:0 "Salernum" #NT!
+ b_senj:0 "Senia" #NT!
+ b_sibenik:0 "Sibinicum" #NT!
+ b_sinjcroat:0 "Aequum" #NT!
+ b_sisak:0 "Siscia" #NT!
+ b_skadar:0 "Scodra" #NT!
+ b_solin:0 "Salona" #NT!
+ b_split:0 "Spalatum" #NT!
+ b_squilluce:0 "Scyllatium" #NT!
+ b_stigliano:0 "Stilianum" #NT!
+ b_ston:0 "Stagnum" #NT!
+ b_syracusa:0 "Syracusae" #NT!
+ b_trapani:0 "Drepanum" #NT!
+ b_treviso:0 "Tarvisium" #NT!
+ b_trieste:0 "Tergeste" #NT!
+ b_triglavski: "Aesontius Superior" #NT!
+ b_udine:0 "Utinum" #NT!
+ b_ulcinj:0 "Olcinium" #NT!
+ b_vicenza:0 "Vicetia" #NT!
+ b_venezia:0 "Venetiae" #NT!
+ b_zadar:0 "Iadera" #NT!
+ b_zagreb:0 "Andautonia" #NT!
+ c_agrigento:0 "Agrigentum" #NT!
+ c_arbanon:0 "Albani" #NT!
+ c_bari:0 "Barium" #NT!
+ c_camarda:0 "Forcona" #NT!
+ c_cetina:0 "Salona" #NT!
+ c_cherso:0 "Curicta" #NT!
+ c_cosenza:0 "Cosentia" #NT!
+ c_duklja:0 "Doclea" #NT!
+ c_friuli:0 "Forum Iulii" #NT!
+ c_gacka:0 "Senia" #NT!
+ c_gorz:0 "Aesontius" #NT!
+ c_kranj:0 "Carniola" #NT!
+ c_knin:0 "Scardona" #NT!
+ c_ljubljana:0 "Aemona" #NT!
+ c_messina:0 "Messana" #NT!
+ c_padua:0 "Patavium" #NT!
+ c_palermo:0 "Panormus" #NT!
+ c_pagania:0 "Narenta" #NT!
+ c_polesine:0 "Atria" #NT!
+ c_pomorje:0 "Antibarium" #NT!
+ c_pula:0 "Histria" #NT!
+ c_ragusa:0 "Epidaurum" #NT!
+ c_reggio_calabria:0 "Rhegium Iulii" #NT!
+ c_rossano:0 "Roscianum" #NT!
+ c_salerno:0 "Salernum" #NT!
+ c_siracusa:0 "Syracusae" #NT!
+ c_treviso:0 "Tarvisium" #NT!
+ c_veneto:0 "Venetia" #NT!
+ c_venezia:0 "Venetiae" #NT!
+ c_zadar:0 "Iadera" #NT!
+ c_zagreb:0 "Andautonia" #NT!
+ d_ancona:0 "Picenum Suburbicarium" #NT!
+ d_apulia:0 "Apulia et Calabria" #NT!
+ d_benevento:0 "Samnium" #NT!
+ d_cantabria:0 "Lucania et Brutii" #NT!
+ d_duklja:0 "Praevalitana" #NT!
+ d_dyrrachion:0 "Epirus Nova" #NT!
+ d_latium:0 "Campania" #NT!
+ d_macva:0 "Moesia Prima" #NT!
+ d_sicily:0 "Sicilia" #NT!
+ d_slavonia:0 "Savia" #NT!
+ d_spoleto:0 "Valeria" #NT!
+ #Pre-Arab Levant #NT!
+ b_manbij:0 "Hierapolis Euphratensis" #NT!
+ b_amid:0 "Amida" #NT!
+ d_aleppo:0 "Euphratensis" #NT!
+ d_antioch:0 "Syria Prima" #NT!
+ d_diyarbakr:0 "Mesopotamia" #NT!
+ d_diyarmudar:0 "Osroene" #NT!
+ d_homs:0 "Syria Salutaris" #NT!
+ d_lebanon:0 "Phoenice" #NT!
+ d_oultrejourdain:0 "Arabia" #NT!
+ d_palmyra:0 "Phoenice Libanensis" #NT!
+ d_urdunn:0 "Palestina Secunda" #NT!
+
+ #Pontus #NT!
+ d_chaldia:0 "Pontus Polemoniacus" #NT!
+ d_mesopotamia:0 "Armenia Major" #NT!
+ d_sophene:0 "Satrapae" #NT!
+ d_armeniac:0 "Helenopontus" #NT!
+
+ #North Africa #NT!
+ d_tlemcen:0 "Mauretania Caesariensis" #NT!
+ d_bejaia:0 "Mauretania Sitifensis" #NT!
+
+ ### hungary idk where to put #NT!
+ c_komarom:0 "Pest" #NT!
+ c_komarom_adj:0 "Pest" #NT!
+ c_esztergom:0 "Bény" #NT!
+ c_esztergom_adj:0 "Bény" #NT!
+ b_an-najaf:0 "Al-Hira" #NT!
+
+ ### TFE NEW TITLES #NT!
+
+ #Empires #NT!
+ e_egypt:0 "Egyptian Empire" #NT!
+ e_egypt_adj:0 "Egyptian" #NT!
+ #Kingdoms #NT!
+ k_raetia:0 "Raetia" #NT!
+ k_raetia_adj:0 "Raetian" #NT!
+ k_quadia:0 "Quadia" #NT!
+ k_quadia_adj:0 "Quadian" #NT!
+ k_cyrenaica:0 "Cyrenaica" #NT!
+ k_cyrenaica_adj:0"Cyrenaican" #NT!
+ k_hadramwt:0 "Hadramwt" #NT!
+ k_hadramwt_adj:0 "Hadramawti" #NT!
+ k_muscat:0 "Mazun" #NT!
+ k_muscat_adj:0 "Mazunian"' #NT!
+ k_galatia:0 "Galatia" #NT!
+ k_galatia_adj:0 "Galatian" #NT!
+ k_cantabria:0 "Cantabria" #NT!
+ k_cantabria_adj:0 "Cantabrian" #NT!
+ k_gerrha:0 "Gerrha" #NT!
+ k_gerrha_adj:0 "Gerrhan" #NT!
+ k_nabatea:0 "Nabatea" #NT!
+ k_nabatea_adj:0 "Nabatean" #NT!
+ k_hejaz:0 "Hejaz" #NT!
+ k_hejaz_adj:0 "Hejazi" #NT!
+ k_lakhmids_article:0 "the " #NT!
+ k_lakhmids:0 "Lakhmids" #NT!
+ k_lakhmids_adj:0 "Lakhmidi" #NT!
+ k_macedon:0 "Macedon" #NT!
+ k_macedon_adj:0 "Macedonian" #NT!
+ k_cheruscia:0 "Sicambria" #NT!
+ k_cheruscia_adj:0 "Sicambrian" #NT!
+ k_vandalia:0 "Thuringia" #NT!
+ k_vandalia_adj:0 "Thuringian" #NT!
+ #germanic tribes, titular titles #NT!
+ k_thracian_goths_article:0 "the " #NT!
+ k_thracian_goths:0 "Moesogoths" #NT!
+ k_thracian_goths_adj:0 "Moesogothic" #NT!
+ k_quadi:0 "Quadi" #NT!
+ k_quadi_adj:0 "Quadian" #NT!
+ k_marcomanni_article:0 "the " #NT!
+ k_marcomanni:0 "Marcomanni" #NT!
+ k_marcomanni_adj:0 "Marcoman" #NT!
+ k_alani:0 "Alans" #NT!
+ k_alani_adj:0 "Alan" #NT!
+ k_hasding_vandals:0 "Hasdings" #NT!
+ k_hasding_vandals_adj:0 "Hasdingian" #NT!
+ k_siling_vandals:0 "Silings" #NT!
+ k_siling_vandals:0 "Silingian" #NT!
+ k_franks_article:0 "the " #NT!
+ k_franks:0 "Salian Franks" #NT!
+ k_franks_adj:0 "Salian" #NT!
+ k_franks_article:0 "the " #NT!
+ k_anglia:0 "Angles" #NT!
+ k_anglia_adj:0 "Anglish" #NT!
+ k_jutland:0 "Jutes" #NT!
+ k_jutland_adj:0 "Jute" #NT!
+ k_lombardia:0 "Lombards" #NT!
+ k_lombardia_adj:0 "Lombard" #NT!
+ k_cherusci:0 "Cherusci" #NT!
+ k_cherusci_adj:0 "Cheruscian" #NT!
+ k_rhinefranks:0 "Ripuarians" #NT!
+ k_rhinefranks_adj:0 "Ripuarian" #NT!
+ k_burgundia:0 "Burgundians" #NT!
+ k_burgundia_adj:0 "Burgundian" #NT!
+ k_suebi_article:0 "the " #NT!
+ k_suebi:0 "Suevi" #NT!
+ k_suebi_adj:0 "Suevic" #NT!
+
+ k_suebians_of_gallicia_article:0 "the " #NT!
+ k_suebians_of_gallicia:0 "Suebians of Gallicia" #NT!
+ k_suebians_of_gallicia_adj:0 "Suebic" #NT!
+
+ k_visigoths_article:0 "the " #NT!
+ k_visigoths:0 "Visigoths" #NT!
+ k_visigoths_adj:0 "Visigothic" #NT!
+ k_ostrogoths_article:0 "the " #NT!
+ k_ostrogoths:0 "Ostrogoths" #NT!
+ k_ostrogoths_adj:0 "Ostrogothic" #NT!
+ k_goths_article:0 "the " #NT!
+ k_goths:0 "Goths" #NT!
+ k_goths_adj:0 "Gothic" #NT!
+ k_gepids_pre:0 "the " #NT!
+ k_gepids:0 "Gepids" #NT!
+ k_gepids_adj:0 "Gepid" #NT!
+ k_antes:0 "Antes" #NT!
+ k_antes_adj:0 "Antean" #NT!
+ k_mauria:0 "Mauria" #NT!
+ k_mauria_adj:0 "Mauri" #NT!
+ k_caledonians:0 "Caledonians" #NT!
+ k_caledonians_adj:0 "Caledonian" #NT!
+ k_porto:0 "Protucale" #NT!
+ k_merida:0 "Mérida" #NT!
+ k_seville:0 "Seville" #NT!
+ k_murcia:0 "Murcia" #NT!
+ k_tangier:0 "Tangier" #NT!
+ #Duchies #NT!
+ d_abudhabi:0 "Abu Dhabi" #NT!
+ d_abudhabi_adj:0 "Abu Dhabi" #NT!
+ d_skopje:0 "Skopje" #NT!
+ d_skopje_adj:0 "Skopjan" #NT!
+ d_east_frisia:0 "East Frisia" #NT!
+ d_east_frisia_adj:0 "East Frisian" #NT!
+ d_plzen:0 "Plzen" #NT!
+ d_plzen_adj:0 "Plzenian" #NT!
+ d_freistadt:0 "Freistadt" #NT!
+ d_freistadt_adj:0 "Freistadtian" #NT!
+ d_metz:0 "Metz" #NT!
+ d_metz_adj:0 "Metz" #NT!
+ d_scalovia:0 "Scalovia" #NT!
+ d_scalovia_adj:0 "Scalovian" #NT!
+ d_plock:0 "Płock" #NT!
+ d_plock_adj:0 "Płockian" #NT!
+ d_tobruk:0 "Tobruk" #NT!
+ d_tobruk_adj:0 "Tobrukian" #NT!
+ d_hauran:0 "Hauran" #NT!
+ d_hauran_adj:0 "Hauran" #NT!
+ d_seven_slavic_tribes:0 "Seven Slavic Tribes" #NT!
+ #Counties #NT!
+ c_daylam:0 "Daylam" #NT!
+ c_waldkirchen:0 "Waldkirchen" #NT!
+ #Baronies #NT!
+ b_arar:0 "Arar" #NT!
+ b_arar_adj:0 "Arari" #NT!
+ b_turaif:0 "Turaif" #NT!
+ b_turaif_adj:0 "Turaifi" #NT!
+ b_mauriabruh:0 "Al-Mahbaiya" #NT!
+ b_mauriabruh_adj:0 "Mahbiyan" #NT!
+ #Baronies #NT!
+ #Cultural names #NT!
+ #(names specific to a culture) #NT!
+ cn_alemannia:0 "Alemannia" #NT!
+ cn_alemannia_adj:0 "Alemannian" #NT!
+ cn_al_clut:0 "Al Clut" #NT!
+ cn_otmus:0 "Otmus" #NT!
+
+ d_adrianopolis:0 "Adrianopolis" #NT!
+ d_adrianopolis_adj:0 "adrianopolian" #NT!
+ d_dacia_mediterrania:0 "Dacia Mediterrania" #NT!
+ d_dacia_mediterrania_adj:0 "Dacian" #NT!
+ d_sophene:0 "Sophene" #NT!
+ d_sophene_adj:0 "Sophian" #NT!
+ c_arsamosata:0 "Arsamosata" #NT!
+ c_arsamosata_adj:0 "Arsamosatan" #NT!
+ d_melitene:0 "Melitene" #NT!
+ d_melitene_adj:0 "Melitenian" #NT!
+ d_pisidia:0 "Pisidia" #NT!
+ d_pisidia_adj:0 "Pisidian" #NT!
+ d_lycia:0 "Lycia" #NT!
+ d_lycia_adj:0 "Lycian" #NT!
+ d_caria:0 "Caria" #NT!
+ d_caria_adj:0 "Carian" #NT!
+ d_frigia_pacatiana:0 "Frigia Pacatiana" #NT!
+ d_frigia_pacatiana-adj:0 "Pacatianan" #NT!
+ d_hellespontus:0 "Hellespontus" #NT!
+ d_hellespontus_adj:0 "Hellespontian" #NT!
+ k_pars:0 "Pars" #NT!
+ k_pars_adj:0 "Parsian" #NT!
+ d_shapur_khwarrah:0 "Shapur-Khwarrah" #NT!
+ d_shapur_khwarrah-adj:0 "Shapur-Khwarrahan" #NT!
+ d_adrashir_khwarrah:0 "Adrashir-Khwarrah" #NT!
+ d_adrashir_khwarrah_adj:0 "Adrashir-Khwarrahan" #NT!
+ d_turan:0 "Turan" #NT!
+ d_turan_adj:0 "Turanian" #NT!
+ c_kuvalala:0 "Kuvalala" #NT!
+ c_kuvalala_adj:0 "Kuvalalan" #NT!
+ k_thuringians:0 "Thuringians" #NT!
+ k_thuringians_adj:0 "Thuringian" #NT!
+ k_varini_article:0 "the " #NT!
+ k_varini:0 "Varini" #NT!
+ k_varini_adj:0 "Varinian" #NT!
+ k_fashion:0 "Fashion" #NT!
+ k_fashion_adj:0 "Fashionista" #NT!
+
+
+###CUSTOM TFE NAMES #NT!
+
+ k_noricum:0 "Noricum" #NT!
+ k_noricum_adj:0 "Norican" #NT!
+ k_gaull_pre:0 "the " #NT!
+ k_gaull:0 "Kingdom of the Gauls" #NT!
+ k_gaull_adj:0 "Gaulish" #NT!
+ e_gaul:0 "Gallic Empire" #NT!
+ e_gaul:0 "Gallic Empire" #NT!
+ e_palmyrene:0 "Palmyrene Empire" #NT!
+ e_palmyrene_adj:0 "Palmyrene Empire" #NT!
+ #Western Roman Empire #NT!
+
+ e_western_roman_empire_article:0 "the " #NT!
+ e_western_roman_empire:0 "Western Roman Empire" #NT!
+ e_western_roman_empire_adj:0 "Western Roman" #NT!
+ e_west_ui:0 "The Western Roman Empire" #NT!
+ k_britannia:0 "Britannia" #NT!
+ k_britannia_adj:0 "Britannian" #NT!
+ k_hispania:0 "Hispania" #NT!
+ d_maxima_caeserensis:0 "Maxima Caeserensis" #NT!
+ d_flavia_caeserensis:0 "Flavia Caeserensis" #NT!
+ d_britannia_prima:0 "Britannia Prima" #NT!
+ d_britannia_secunda:0 "Britannia Secunda" #NT!
+ d_valentia:0 "Valentia" #NT!
+ d_hibernia_superior:0 "Hibernia Superior" #NT!
+ d_hibernia_superior_adj:0 "Hibernian" #NT!
+ d_hibernia_inferior:0 "Hibernia Inferior" #NT!
+ d_hibernia_inferior_adj:0 "Hibernian" #NT!
+ d_caledonia:0 "Caledonia" #NT!
+ k_africae:0 "Africa" #NT!
+ k_africae_adj:0 "African" #NT!
+ k_roman_dacia:0 "Dacia" #NT!
+ k_roman_dacia_adj:0 "Dacian" #NT!
+ #Arabic Tribes #NT!
+ k_lakhmid_article:0 "the " #NT!
+ k_lakhmid:0 "Lakhmids" #NT!
+ k_lakhmid_adj:0 "Lakhmid" #NT!
+
+ #Religious Titles #NT!
+ k_myrdidin:0 "Myrdidin" #NT!
+
+ #Britonic Titles #NT!
+
+ k_cornwall:0 "Dumnonia" #NT!
+ k_cornwall_adj:0 "Dumnonian" #NT!
+ k_old_north_article:0 "the " #NT!
+ k_old_north:0 "Old North" #NT!
+ d_elmet:0 "Elmet" #NT!
+ d_deifr:0 "Ebrauc" #NT!
+ d_rheged:0 "Rheged" #NT!
+ d_dumnonia:0 "Dumnonia" #NT!
+ d_dumnonia_adj:0 "Dumnonian" #NT!
+ d_belgia:0 "Belgia" #NT!
+ d_belgia_adj:0 "Belgian" #NT!
+ d_cantia:0 "Cantia" #NT!
+ d_cantia_adj:0 "Cantian" #NT!
+ d_catuvellania:0 "Catuvellania" #NT!
+ d_catuvellania_adj:0 "Catuvellanian" #NT!
+ d_icenia:0 "Icenia" #NT!
+ d_icenia_adj:0 "Icenian" #NT!
+ d_coretania:0 "Coretania" #NT!
+ d_coretania_adj:0 "Coretanian" #NT!
+ d_dobunnia:0 "Dobunnia" #NT!
+ d_dobunnia_adj:0 "Dobunnian" #NT!
+ d_brynnach:0 "Brynnach" #NT!
+
+#Eastern Roman Empire #NT!
+
+ e_byzantium_article:1 "the " #NT!
+ e_byzantium:1 "Eastern Roman Empire" #NT!
+ e_byzantium_adj:1 "Roman" #NT!
+ b_constantinople:0 "Konstantinoupolis" #NT!
+ k_orientis:0 "Orientis" #NT!
+ k_orientis_adj:0 "Oriental" #NT!
+ k_macedon:0 "Macedon" #NT!
+ k_macedon_adj:0 "Macedonian" #NT!
+ k_asiae:0 "Asiana" #NT!
+ k_asiae_adj:0 "Asian" #NT!
+ k_orientis:0 "Orientis" #NT!
+#Hunnic Empire #NT!
+ e_hunnic_empire_article:0 "the " #NT!
+ e_hunnic_empire:0 "Hunnic Empire" #NT!
+ e_hunnic_empire_adj:0 "Hunnic" #NT!
+
+#Ireland #NT!
+ c_mayo:0 "Mayo" #NT!
+ c_ennis:0 "Ennis" #NT!
+
+#Caspia #NT!
+ e_rouran_article:0 "the " #NT!
+ e_rouran:0 "Rouran Empire" #NT!
+ e_rouran_adj:0 "Rouran" #NT!
+ k_yuehban:0 "Yuehban" #NT!
+ k_yuehban_adj:0 "Yuehban" #NT!
+ k_kidaria:0 "Kidaria" #NT!
+ k_kidaria_adj:0 "Kidarite" #NT!
+ k_kangui:0 "Kangui" #NT!
+ k_kangui_adj:0 "Kangui" #NT!
+ k_sabir:0 "Sabir" #NT!
+ k_sabir_adj:0 "Sabir" #NT!
+
+#Kingdoms #NT!
+ k_raetia:0 "Raetia" #NT!
+ k_raetia_adj:0 "Raetian" #NT!
+ k_quadia_article:0 "the " #NT!
+ k_quadia:0 "Quadi" #NT!
+ k_quadia_adj:0 "Quadian" #NT!
+ k_cyrenaica:0 "Cyrenaica" #NT!
+ k_cyrenaica_adj:0"Cyrenaican" #NT!
+ k_hadramwt:0 "Hadramwt" #NT!
+ k_hadramwt_adj:0 "Hadramawti" #NT!
+ k_muscat:0 "Mazun" #NT!
+ k_muscat_adj:0 "Mazunian"' #NT!
+ k_galatia:0 "Galatia" #NT!
+ k_galatia_adj:0 "Galatian" #NT!
+ k_cantabria:0 "Cantabria" #NT!
+ k_cantabria_adj:0 "Cantabrian" #NT!
+ k_gerrha:0 "Gerrha" #NT!
+ k_gerrha_adj:0 "Gerrhan" #NT!
+ k_nabatea:0 "Nabatea" #NT!
+ k_nabatea_adj:0 "Nabatean" #NT!
+ k_hejaz:0 "Hejaz" #NT!
+ k_hejaz_adj:0 "Hejazi" #NT!
+ k_lakhmids:0 "Lakhmids" #NT!
+ k_lakhmids_adj:0 "Lakhmidi" #NT!
+ k_macedon:0 "Macedon" #NT!
+ k_macedon_adj:0 "Macedonian" #NT!
+ k_cheruscia:0 "Sicambria" #NT!
+ k_cheruscia_adj:0 "Sicambrian" #NT!
+ k_vandalia:0 "Thuringia" #NT!
+ k_vandalia_adj:0 "Thuringian" #NT!
+ k_prussia:0 "Prussia" #NT!
+ k_prussia_adj:0 "Prussian" #NT!
+ #germanic tribes, titular titles #NT!
+ k_quadi_article:0 "the " #NT!
+ k_quadi:0 "Quadi" #NT!
+ k_quadi_adj:0 "Quadian" #NT!
+ k_marcomanni_article:0 "the " #NT!
+ k_marcomanni:0 "Marcomanni" #NT!
+ k_marcomanni_adj:0 "Marcoman" #NT!
+ k_alani:0 "Alania" #NT!
+ k_alani_adj:0 "Alan" #NT!
+ k_hasding_vandals:0 "Hasdingia" #NT!
+ k_hasding_vandals_adj:0 "Hasdingian" #NT!
+ k_siling_vandals:0 "Silingia" #NT!
+ k_siling_vandals:0 "Silingian" #NT!
+ k_vandals_article:0 "the " #NT!
+ k_vandals:0 "Vandals" #NT!
+ k_vandalsadj:0 "Vandal" #NT!
+ k_franks_united:0 "Frankish Kingdom" #NT!
+ k_franks_united_adj:0 "Frankish" #NT!
+ k_anglia:0 "Anglia" #NT!
+ k_anglia_Adj:0 "Anglish" #NT!
+ k_jutes:0 "Jutia" #NT!
+ k_jutes_adj:0 "Jute" #NT!
+ k_lombardia:0 "Lombardia" #NT!
+ k_lombardia_adj:0 "Lombard" #NT!
+ k_cherusci:0 "Cheruscia" #NT!
+ k_cherusci_adj:0 "Cheruscian" #NT!
+ k_rhinefranks:0 "Ripuaria" #NT!
+ k_rhinefranks_adj:0 "Ripuarian" #NT!
+ k_burgundia:0 "Burgundia" #NT!
+ k_burgundia_adj:0 "Burgundian" #NT!
+ k_gepids_article:0 "the " #NT!
+ k_gepids:0 "Gepids" #NT!
+ k_gepids_adj:0 "Gepid" #NT!
+ k_antes:0 "Antea" #NT!
+ k_antes_adj:0 "Antean" #NT!
+ k_east_francia:0 "Alemannia" #NT!
+ k_east_francia_adj:0 "Alemannic" #NT!
+ k_geatia:0 "Geatia" #NT!
+ k_geatia_adj:0 "Geat" #NT!
+ k_geatia:0 "Geatia" #NT!
+ k_geatia_adj:0 "Geat" #NT!
+ k_suionia:0 "Suionia" #NT!
+ k_suionia_adj:0 "Suionian" #NT!
+ k_sitonia:0 "Kvenland" #NT!
+ k_sitonia_adj:0 "Kven" #NT!
+ k_germania:0 "Germania" #NT!
+ k_germania_adj:0 "Germanian" #NT!
+
+ e_persia_article:0 "the " #NT!
+ e_persia:0 "Ērānian Empire" #NT!
+ e_persia_adj:0 "Ērānian" #NT!
+
+ k_persia:0 "Ērān" #NT!
+ k_persia_adj:0 "Ērānian" #NT!
+
+ e_persia_parthia:0 "Parthia" #NT!
+ e_persia_parthia_adj:0 "Parthian" #NT!
+
+ k_garamantes:0 "Garamantea" #NT!
+ k_garamantes_adj:0 "Garamantean" #NT!
+ k_mauria:0 "Mauria" #NT!
+ k_mauria_adj:0 "Mauri" #NT!
+ d_gaetulia:0 "Gaetulia" #NT!
+ d_gaetulia_adj:0 "Gaetulian" #NT!
+ d_musulamia:0 "Musulamia" #NT!
+ d_musulamia_adj:0 "Musulamian" #NT!
+ d_garamantia:0 "Garamantes" #NT!
+ d_garamantia_adj:0 "Garamantean" #NT!
+ d_tuareg:0 "Tuareg" #NT!
+ d_tuareg_adj:0 "Tuaregian" #NT!
+ d_perosi:0 "Perosia" #NT!
+ d_perosi_adj:0 "Perosian" #NT!
+ d_pharusii:0 "Pharusea" #NT!
+ d_pharusii_adj:0 "Pharusi" #NT!
+
+ k_oman:0 "Oman" #NT!
+ k_oman_adj:0 "Omani" #NT!
+ k_najd:0 "Najd" #NT!
+ k_najd_adj:0 "Najdian" #NT!
+
+ k_mazun:0 "Mazun" #NT!
+ k_mazun_adj:0 "Mazuni" #NT!
+ k_mann_the_isles:0 "Isles of Mann" #NT!
+
+ e_red_sea_article:0 "the " #NT!
+ e_red_sea:0 "Red Sea" #NT!
+ e_red_sea_adj:0 "Red" #NT!
+
+ e_assyria:0 "Assyria" #NT!
+ e_assyria_adj:0 "Assyrian" #NT!
+
+ e_rashidun_article:0 "the " #NT!
+ e_rashidun:0 "Rashidun Caliphate" #NT!
+ e_rashidun_adj:0 "Rashidun" #NT!
+
+ e_west_slavia:0 "Wendia" #NT!
+ e_west_slavia_adj:0 "Wendish" #NT!
+
+ d_imami:0 "Twelver Imamate" #NT!
+ d_imami_adj:0 "Imamal" #NT!
+ k_adurbadagan:0 "Adurbadagan" #NT!
+ k_italia_annonariae:0 "Italia Annonariae" #NT!
+ k_pannonia:0 "Illyricum Pannoniae" #NT!
+ k_septem_provinciae:0 "Septem Provinciae" #NT!
+ k_italia_suburbicariae:0 "Italia Suburbicariae" #NT!
+ d_germania_prima:0 "Germania Prima" #NT!
+ d_burgundians_article:0 "the " #NT!
+ d_burgundians:0 "Burgundi" #NT!
+ d_lombards_article:0 "the " #NT!
+ d_lombards:0 "Langobardi" #NT!
+ d_lombards_adj:0 "Langobard" #NT!
+ d_silingi_vandals_article:0 "the " #NT!
+ d_silingi_vandals:0 "Silingi Vandals" #NT!
+ d_hasdingi_vandals_article:0 "the " #NT!
+ d_hasdingi_vandals:0 "Hasdingi Vandals" #NT!
+ d_visigoths_article:0 "the " #NT!
+ d_visigoths:0 "Tervingi" #NT!
+ d_ostrogoths_article:0 "the " #NT!
+ d_ostrogoths:0 "Greuthungi" #NT!
+ k_gallia:0 "Gallia" #NT!
+ k_asiae:0 "Asiae" #NT!
+ k_daciae:0 "Dacia" #NT!
+ d_rugians:0 "Rugians" #NT!
+ k_rugiland:0 "Rugiland" #NT!
+
+ k_thracia:0 "Thracia" #NT!
+ d_worms:0 "Worms" #NT!
+ c_pest:0 "Pest" #NT!
+
+ k_xia:0 "Liang" #NT!
+ k_xia_adj:0 "Liang" #NT!
+ d_xia:0 "Liang" #NT!
+ d_xia_adj:0 "Liang" #NT!
+ # Kingdom of Loulan was renamed Shanshan, so it's a name given by Han Dynasty after they assassinated and replaced the King of Shanshan with their own king #NT!
+ d_charkliq:0 "Shanshan" #NT!
+ d_charkliq_adj:0 "Shanshan" #NT!
+ d_karashar:0 "Agni" #NT!
+ d_karashar_adj:0 "Agnean" #NT!
+ c_karashar:0 "Agni" #NT!
+ c_karashar_adj:0 "Agnean" #NT!
+
+ k_maryul:1 "Ladakh" #NT!
+ k_maryul_adj:1 "Ladakhi" #NT!
+
+ b_terek:1 "Xiuxun" # Or xiuxiu #NT!
+ b_ulugqat:1 "Juandu" #NT!
+ e_fennia:0 "Fennia" #NT!
+ e_fennia_adj:0 "Fennic" #NT!
+ e_ugria:0 "Ugria" #NT!
+ e_ugria_adj:0 "Ugric" #NT!
+
+ e_rus:0 "[rus_capital.GetAdjectiveToolTip] Rus" #NT!
+ e_rus_adj:0 "Rus" #NT!
+
+ e_carthage:0 "Carthage" #NT!
+ e_carthage_adj:0 "Carthaginian" #NT!
+
+# Tarim Basin #NT!
+
+ k_liang_later:0 "Later Liang" #NT!
+ k_liang_later_adj:0 "Later Liang" #NT!
+ k_liang_north:0 "Northern Liang" #NT!
+ k_liang_north_adj:0 "Northern Liang" #NT!
+ k_liang_east:0 "Eastern Liang" #NT!
+ k_liang_east_adj:0 "Eastern Liang" #NT!
+ k_liang_south:0 "Southern Liang" #NT!
+ k_liang_south_adj:0 "Southern Liang" #NT!
+ k_liang_west:0 "Western Liang" #NT!
+ k_liang_west_adj:0 "Western Liang" #NT!
+
+ k_kucha:0 "Kucha" #NT!
+ k_kucha_adj:0 "Kuchean" #NT!
+ d_kucha:0 "Kucha" #NT!
+ d_kucha_adj:0 "Kuchean" #NT!
+
+ e_hephthalite_article:0 "the " #NT!
+ e_hephthalite:0 "Hephthalite Empire" #NT!
+ e_hephthalite_adj:0 "Hephthalite" #NT!
+ k_hephthalite_article:0 "the " #NT!
+ k_hephthalite:0 "Hephthalite Kingdom" #NT!
+ k_hephthalite_adj:0 "Hephthalite" #NT!
+ k_nezak_hun_article:0 "the " #NT!
+ k_nezak_hun:0 "Nezak Huns" #NT!
+ k_nezak_hun_adj:0 "Nezak Hun" #NT!
+ k_alchon_hun_article:0 "the " #NT!
+ k_alchon_hun:0 "Alchon Huns" #NT!
+ k_alchon_hun_adj:0 "Alchon Hun" #NT!
+ e_kushan_article:0 "the " #NT!
+ e_kushan:0 "Kushan Empire" #NT!
+ e_kushan_adj:0 "Kushan" #NT!
+ k_wusun:0 "Wusun" #NT!
+ k_wusun_adj:0 "Wusun" #NT!
+ e_kushan_article:0 "the " #NT!
+ e_kushan:0 "Kushan Empire" #NT!
+ e_kushan_adj:0 "Kushan" #NT!
+
+ c_tonnerrois:0 "Alesia" #NT!
+ b_montbard:0 "Alesia" #NT!
+
+ # Old North #NT!
+ k_wessex:0 "Wessex" #NT!
+ k_east_anglia:0 "East Anglia" #NT!
+ k_kent:0 "Kent" #NT!
+ k_northumbria:0 "Northumbria" #NT!
+ k_mercia:0 "Mercia" #NT!
+ k_essex:0 "Essex" #NT!
+ k_pretania:0 "Pretania" #NT!
+
+### #NT!
+ k_carthaginensis:0 "Carthaginensis" #NT!
+ k_tarraconensis:0 "Tarraconensis" #NT!
+ k_tahert:0 "Caesarensis" #NT!
+
+ k_ireland:0 "Éire" #NT!
+ k_ireland_adj:0 "Éirean" #NT!
+
+
+ k_syr_darya:0 "$d_chah$" #NT!
+ k_syr_darya_adj:0 "$d_chah_adj$" #NT!
+
+ e_western_regions:0 "Xiyu" #NT!
+ e_western_regions_adj:0 "Xiyu" #NT!
+
+
+ k_kabulistan:0 "Tokharistan" #NT!
+ k_kabulistan_adj:0 "Tokharistani" #NT!
+ k_punjab:0 "Gandhara" #NT!
+ k_punjab_adj:0 "Gandhari" #NT!
+ k_sistan:0 "Sakastan" #NT!
+ k_sistan_adj:0 "Sakastani" #NT!
+
+ # Eastern Iranian struggle - compromise ending kingdoms #NT!
+ k_merv_struggle:0 "$d_merv$" #NT!
+ k_merv_struggle_adj:0 "$d_merv_adj$" #NT!
+ k_ghur_struggle:0 "$d_ghur$" #NT!
+ k_ghur_struggle_adj:0 "$d_ghur_adj$" #NT!
+ k_herat_struggle:0 "$d_herat$" #NT!
+ k_herat_struggle_adj:0 "$d_herat_adj$" #NT!
+ k_balkh_struggle:0 "$d_balkh$" #NT!
+ k_balkh_struggle_adj:0 "$d_balkh_adj$" #NT!
+ k_nasa_struggle:0 "$d_nasa$" #NT!
+ k_nasa_struggle_adj:0 "$d_nasa_adj$" #NT!
+ k_kohestan_struggle:0 "$d_kohestan$" #NT!
+ k_kohestan_struggle_adj:0 "$d_kohestan_adj$" #NT!
+ k_badakhshan_struggle:0 "$d_badakhshan$" #NT!
+ k_badakhshan_struggle_adj:0 "$d_badakhshan_adj$" #NT!
+ k_khuttal_struggle:0 "$d_khuttal$" #NT!
+ k_khuttal_struggle_adj:0 "$d_khuttal_adj$" #NT!
+ k_osrushana_struggle:0 "$d_osrushana$" #NT!
+ k_osrushana_struggle_adj:0 "$d_osrushana_adj$" #NT!
+ k_ferghana_struggle:0 "$d_ferghana$" #NT!
+ k_ferghana_struggle_adj:0 "$d_ferghana_adj$" #NT!
+ k_uzboy_struggle:0 "$d_uzboy$" #NT!
+ k_uzboy_struggle_adj:0 "$d_uzboy_adj$" #NT!
+ k_zabulistan_struggle:0 "$d_zabulistan$" #NT!
+ k_zabulistan_struggle_adj:0 "$d_zabulistan_adj$" #NT!
+ k_syr_darya_struggle:0 "$d_syr_darya$" #NT!
+ k_syr_darya_struggle_adj:0 "$d_syr_darya_adj$" #NT!
+ k_muyunkum_struggle:0 "$c_balashagun$" #NT!
+ k_muyunkum_struggle_adj:0 "$c_balashagun_adj$" #NT!
+ k_sistan_struggle:0 "$d_sistan$" #NT!
+ k_sistan_struggle_adj:0 "$d_sistan_adj$" #NT!
+ k_aral_il_struggle:0 "$d_aral_il$" #NT!
+ k_aral_il_struggle_adj:0 "$d_aral_il_adj$" #NT!
+ k_transcaspiana_struggle:0 "$d_transcaspiana$" #NT!
+ k_transcaspiana_struggle_adj:0 "$d_transcaspiana_adj$" #NT!
+ k_jemba_struggle:0 "$d_jemba$" #NT!
+ k_jemba_struggle_adj:0 "$d_jemba_adj$" #NT!
+ k_pamir_struggle:0 "$d_pamir$" #NT!
+ k_pamir_struggle_adj:0 "$d_pamir_adj$" #NT!
+
+ # Benin Rename #NT!
+ c_benin:0 "Igodomigodo" #NT!
+ c_benin_adj:0 "Igodomigodo" #NT!
+ d_benin:0 "Igodomigodo" #NT!
+ d_benin_adj:0 "Igodomigodo" #NT!
+ b_benin:0 "Igodomigodo" #NT!
+ b_benin-city:0 "Igodomigodo City" #NT!
+ b_benin_marshes:0 "Igodomigodo Marshes" #NT!
+
+ #Titular African Tribes #NT!
+ d_baquates_article:0 "the " #NT!
+ d_baquates:0 "Baquates" #NT!
+ d_baquates_adj:0 "Baquatean" #NT!
+ d_bavares_article:0 "the " #NT!
+ d_bavares:0 "Bavares" #NT!
+ d_bavares_adj:0 "Bavarean" #NT!
+
+ #Titular Heruli Tribe #NT!
+ k_heruli_article:0 "the " #NT!
+ k_heruli:0 "Heruli" #NT!
+ k_heruli_adj:0 "Heruli" #NT!
+
+ #Renames #NT!
+ d_khazaria:0 "Cimmeria" #NT!
+ d_khazaria_adj:0 "Cimmerian" #NT!
+ d_azov:0 "Tanais" #NT!
+ d_azov_adj:0 "Tanaisian" #NT!
+ d_volga_bulgaria:0 "Volga-Kama" #NT!
+ d_volga_bulgaria_adj:0 "Volgan-Kaman" #NT!

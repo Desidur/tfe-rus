@@ -1,0 +1,72 @@
+﻿l_russian:
+
+ ### GAME CONCEPTS ### #NT!
+
+ game_concept_T4N_permanent_tributary: "Permanent Tributary" #NT!
+ game_concept_T4N_permanent_tributary_desc: "Effects \n$BULLET_WITH_TAB$ Permanent [T4N_tributary|E] Type\n$BULLET_WITH_TAB$ [T4N_tributaries|E] pay #N 10%#! of their income to the suzerain \n$BULLET_WITH_TAB$ [T4N_tributaries|E] give #P 0.05#! [prestige|E] monthly to their suzerain \n$BULLET_WITH_TAB$ [T4N_tributaries|E] dont give [piety|E] to their Suzerain \n$BULLET_WITH_TAB$ [T4N_tributaries|E] lose #N 10%#! of [levy|E] reinforcement rate \n$BULLET_WITH_TAB$ Suzerain gains #P 5%#! [levy|E] reinforcement rate \n$BULLET_WITH_TAB$ Suzerain gets additional #P 1.5#! [men_at_arms|E] per #B 20#! $TAB$$TAB$$TAB$$TAB$  [T4N_tributaries|E] \n$BULLET_WITH_TAB$ Suzerain cannot declare war upon [T4N_tributaries|E] \n$BULLET_WITH_TAB$ Suzerain and [T4N_tributaries|E] can call to arms\n$BULLET_WITH_TAB$ [T4N_tributaries|E] of this type can be annexed after #B 20#! $TAB$ $TAB$$TAB$$TAB$   consecutive years of being a [T4N_tributary|E]" #NT!
+ game_concept_T4N_non_permanent_tributary: "Temporary Tributary" #NT!
+ game_concept_T4N_non_permanent_tributary_desc: "Effects \n$BULLET_WITH_TAB$ Permanent [T4N_tributary|E] Type\n$BULLET_WITH_TAB$ [T4N_tributaries|E] pay #N 5%#! of their income to the suzerain \n$BULLET_WITH_TAB$ [T4N_tributaries|E] give #P 0.01#! [prestige|E] monthly to their suzerain \n$BULLET_WITH_TAB$ [T4N_tributaries|E] dont give [piety|E] to their Suzerain \n$BULLET_WITH_TAB$ [T4N_tributaries|E] lose #N 5%#! of [levy|E] reinforcement rate \n$BULLET_WITH_TAB$ Suzerain gains #P 2.5%#! [levy|E] reinforcement rate \n$BULLET_WITH_TAB$ Suzerain gets additional #P 1#! [men_at_arms|E] per #B 20#! $TAB$$TAB$$TAB$$TAB$$TAB$  [T4N_tributaries|E] \n$BULLET_WITH_TAB$ Suzerain cannot declare war upon [T4N_tributaries|E] \n$BULLET_WITH_TAB$ Suzerain and [T4N_tributaries|E] can call to arms\n$BULLET_WITH_TAB$ [T4N_tributaries|E] of this type can be turn into Permanent $TAB$$TAB$$TAB$   [T4N_tributaries|E] after #B 15#! consecutive years of being a $TAB$$TAB$$TAB$$TAB$    [T4N_tributary|E]" #NT!
+ game_concept_T4N_tributary: "Tributary" #NT!
+ game_concept_T4N_tributary_desc: "A Tributary is a country which swears fealty to a more prominent power, paying a tribute of gold in exchange for protection provided by a [T4N_suzerain|E]." #NT!
+ game_concept_T4N_tributaries: "Tributaries" #NT!
+ game_concept_T4N_suzerain: "Suzerain" #NT!
+ game_concept_T4N_suzerain_desc: "A Suzerain is a high ranking [character|E] who exerts a degree of control over an autonomous state known as a [T4N_tributary|E], often requiring a monthly tribute in exchange for providing protection." #NT!
+
+ ### INTERACTIONS ### #NT!
+
+ ruler_offer_tribute_to_recipient: "Request Tribute" #NT!
+ offer_tribute: "Offer Tribute" #NT!
+ free_tributary: "Free Tributary" #NT!
+ annex_tributary: "Annex Tributary" #NT!
+ non_permanent_trib: "[T4N_non_permanent_tributary|E]" #NT!
+ permanent_trib: "[T4N_permanent_tributary|E]" #NT!
+ turn_non_perma_tributary_to_perma: "Make Permanent Tributary" #NT!
+ non_permanent_trib_turns_into_perma: "Your Temporary Tributary [RECEIPIENT.GetNameNoTooltip|E] has been converted to a Permanent Tributary" #NT!
+ will_accept_bigger_trib: "Will accept a larger Tributary" #NT!
+ will_accept_smaller_trib: "Will accept a smaller Tributary" #NT!
+ will_accept_bigger_suzerain: "Will accept a larger Suzerain" #NT!
+ will_not_accept_bigger_suzerain: "Will not accept a larger Suzerain" #NT!
+ do_not_want_to_fight_suzerain_war: "Does not want to be involved in a Suzerain's war" #NT!
+ do_not_want_to_fight_trib_war: "Does not want to be involved in a Tributary's war" #NT!
+ call_suzerain_to_war: "Call Suzerain" #NT!
+ call_tributaries_to_war: "Call Tributary" #NT!
+
+ ### WAR ### #NT!
+
+ trib_war_cb:0 "Claim [DEFENDER.GetShortUIName] as a [T4N_non_permanent_tributary|E]" #NT!
+ trib_on_victory_desc:0 "On Victory" #NT!
+ trib_on_victory_desc_attacker:0 "On Victory you will claim [defender.GetShortUIName|U] as a Tributary" #NT!
+ trib_on_victory_desc_defender:0 "On Victory:" #NT!
+ trib_on_white_peace_desc:0 "On White Peace:" #NT!
+ trib_on_white_peace_desc_attacker:0 "On White Peace the war will end with no benefit or loss" #NT!
+ trib_on_white_peace_desc_defender:0 "On White Peace Defender" #NT!
+ trib_on_defeat_desc:0 "On Defeat:" #NT!
+ trib_on_defeat_desc_attacker:0 "If you surrender:" #NT!
+ trib_on_defeat_desc_defender:0 "If you surrender:" #NT!
+ trib_on_invalidated_desc:0 "Claim against x as a [T4N_non_permanent_tributary|E] is now invalid" #NT!
+ perma_trib_war_cb:0 "Claim [DEFENDER.GetShortUIName] as a [T4N_permanent_tributary|E]" #NT!
+ perma_trib_on_victory_desc_attacker:0 "[defender.GetShortUIName|U] becomes [T4N_permanent_tributary|E]" #NT!
+ perma_trib_on_victory_desc_defender:0 "We remain Independent" #NT!
+ perma_trib_on_white_peace_desc:0 "On White Peace:" #NT!
+ perma_trib_on_white_peace_desc_attack:0 "On White Peace:" #NT!
+ perma_trib_on_white_peace_desc_defender:0 "On White Peace:" #NT!
+ perma_trib_on_defeat_desc:0 "[defender.GetShortUIName|U] becomes [T4N_permanent_tributary|E] of [T4N_permanent_tributary|E]" #NT!
+ perma_trib_on_defeat_desc_attacker:0 "[defender.GetShortUIName|U] remains Independent" #NT!
+ perma_trib_on_defeat_desc_defender:0 "I become [T4N_permanent_tributary|E] of [attacker.GetShortUIName|U]" #NT!
+ perma_trib_on_invalidated_desc:0 "War between [attacker.GetShortUIName|U] and [defender.GetShortUIName|U] is invalidated" #NT!
+ independence_tributary_war_cb:0 "Free yourself from [DEFENDER.GetShortUIName]" #NT!
+ trib_indp_on_victory_desc:0 "[attacker.GetShortUIName|U] is now free from paying tribute to [defender.GetShortUIName|U]" #NT!
+ trib_indp_on_victory_desc_attacker:0 "You are no longer required to pay [defender.GetShortUIName|U] tribute" #NT!
+ trib_indp_on_victory_desc_defender:0 "[attacker.GetShortUIName|U] is no longer required to pay you tribute" #NT!
+ trib_indp_on_white_peace_desc:0 "On White Peace:" #NT!
+ trib_indp_on_white_peace_desc_attacker:0 "Our war with [defender.GetShortUIName|U] is invalidated" #NT!
+ trib_indp_on_white_peace_desc_defender:0 "Our war with [attacker.GetShortUIName|U] is invalidated" #NT!
+ trib_indp_on_defeat_desc:0 "On White Peace:" #NT!
+ trib_indp_on_defeat_desc_attacker:0 "[attacker.GetShortUIName|U] stops being our Tributary" #NT!
+ trib_indp_on_defeat_desc_defender:0 "We remain as suzerain of [attacker.GetShortUIName|U]" #NT!
+ trib_indp_on_invalidated_desc:0 "War between [attacker.GetShortUIName|U] and [defender.GetShortUIName|U] is invalidated" #NT!
+
+ NOT_cannot_attack_suzerain_l:0 "Target is not protected by its Tributary Type" #NT!
+ cannot_attack_suzerain_l:0 "Tributary type of target disallows suzerain to declare war on the Tributary" #NT!
+ cannot_attack_tributary_l:0 "Tributary can never declare war on suzerain besides an Independence or Claimant war" #NT!
+ NOT_cannot_attack_tributary_l:0 "Is Independent Ruler" #NT!

@@ -1,0 +1,17 @@
+﻿l_russian:
+ ################################################## #NT!
+ # #General Character Modifiers #NT!
+ bhakti_celtic_briton_brigantia:0 "Devotee of Brigantia" #NT!
+ bhakti_celtic_briton_brigantia_desc:0 "This person has devoted themselves to the Goddess of Wisdom and Victory Brigantia" #NT!
+ bhakti_celtic_generic_epona:0 "Deovtee of Epona" #NT!
+ bhakti_celtic_generic_epona_desc:0 "This person has devoted themselves to the Goddess of Fertility Epona" #NT!
+ bhakti_celtic_briton_sulis:0 "Deovtee of Sulis Minerva" #NT!
+ bhakti_celtic_briton_sulis_desc:0 "This person has devoted themselves to the Goddess of the Sun and Healing Waters Sulis Minerva" #NT!
+ bhakti_celtic_briton_cunomaglus:0 "Deovtee of Cunomaglus" #NT!
+ bhakti_celtic_briton_cunomaglus_desc:0 "This person has devoted themselves to the God of the Hunt Cunomaglus" #NT!
+ TFE_cult_of_mary_virgin_modifier:0 "Venerated Mary, the Blessed Virgin" #NT!
+ TFE_cult_of_mary_virgin_modifier_desc:0 "This character recently performed an important ceremony by offering bread to the Virgin Mary. Through Mary, they could better worship God Almighty." #NT!
+ TFE_cult_of_mary_mother_modifier:0 "Venerated Mary, the Mother of God" #NT!
+ TFE_cult_of_mary_mother_modifier_desc:0 "$TFE_cult_of_mary_virgin_modifier_desc$" #NT!
+ TFE_cult_of_mary_saint_modifier:0 "Venerated Mary, the Immaculate Saint" #NT!
+ TFE_cult_of_mary_saint_modifier_desc:0 "$TFE_cult_of_mary_virgin_modifier_desc$" #NT!

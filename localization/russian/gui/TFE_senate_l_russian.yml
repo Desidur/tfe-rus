@@ -1,0 +1,116 @@
+﻿l_russian:
+ ITALIAN_SENATE_HEADER:0 "The Imperial Senate of Roma" #NT!
+ SENATE_ARISTOCRAT_TOOLTIP:0 "Aristocratic Party\nParty Balance: [GetGlobalVariable('aristocratic_senate_italy_gold').GetValue|0] [gold|E]\nParty Size: [GetDataModelSize(GetGlobalList('aristocratic_senate_italy'))]\n#F Composed of senators of either a patrician background or representing the elite, the Aristocratic Party has the goal of pushing forward the interests of the Roman Empire's upper classes.#!" #NT!
+ SENATE_ARISTOCRAT_TITLE:0 "Aristocrats" #NT!
+ SENATE_ARISTOCRAT_DESC:0 "[GetGlobalVariable('aristocratic_senate_italy_gold').GetValue|0] [gold|E]\n[GetDataModelSize(GetGlobalList('aristocratic_senate_italy'))]" #NT!
+ SENATE_POPULIST_TOOLTIP:0 "Populists Party\n\nParty Balance: [GetGlobalVariable('populist_senate_italy_gold').GetValue|0] [gold|E]\nParty Size: [GetDataModelSize(GetGlobalList('populist_senate_italy'))]\n#F Acting in the interests of the common people, the Populists seek to uphold the representation of the empire's plebeians and advocate for political reforms.#!" #NT!
+ SENATE_POPULIST_TITLE:0 "Populists" #NT!
+ SENATE_POPULIST_DESC:0 "[GetGlobalVariable('populist_senate_italy_gold').GetValue|0] [gold|E]\n[GetDataModelSize(GetGlobalList('populist_senate_italy'))]" #NT!
+ SENATE_TRADITIONALIST_TOOLTIP:0 "Traditionalists Party\nParty Balance: [GetGlobalVariable('traditionalist_senate_italy_gold').GetValue|0] [gold|E]\nParty Size: [GetDataModelSize(GetGlobalList('traditionalist_senate_italy'))]\n#F Traditionally acting in the best wishes of the Emperor and his supporters, the Traditionalists seek to maintain the status quo within the Imperial Senate and uphold the interests of the Imperial Government.#!" #NT!
+ SENATE_TRADITIONALIST_TITLE:0 "Traditionalists" #NT!
+ SENATE_TRADITIONALIST_DESC:0 "[GetGlobalVariable('traditionalist_senate_italy_gold').GetValue|0] [gold|E]\n[GetDataModelSize(GetGlobalList('traditionalist_senate_italy'))]" #NT!
+ SENATE_FACTIONS_TITLE:0 "Factions:" #NT!
+ SENATE_FACTIONS_PARTY_SIZE:0 "Party Balance:\nParty Size:\n [level_of_loyalty|e]:" #NT!
+ SENATE_GO_BACK:0 "Back" #NT!
+ SENATE_CONTRACTS_TITLE:0 "Levels of Influence" #NT!
+ SENATE_TASKS_TITLE:0 "Senatorial Tasks" #NT!
+ SENATE_LOYALIST:0 "Loyalist" #NT!
+ SENATE_DISLOYAL:0 "Disloyal" #NT!
+ SENATE_PRAGMATIC:0 "Pragmatic" #NT!
+ SENATE_GLORYHOUND:0 "Gloryhound" #NT!
+ Senate_Administrative_Powers:0 "Administrative Powers" #NT!
+ Senate_Military_Powers:0 "Military Powers" #NT!
+ Senate_Legislation_Powers:0 "Legislation Powers" #NT!
+ SENATE_MINIMUM_ADMIN:0 "Minimum" #NT!
+ SENATE_TAXING_RIGHTS:0 "Taxing Rights" #NT!
+ SENATE_ABSOLUTE_ADMIN:0 "Absolute Freedom" #NT!
+ SENATE_EXCLUSION:0 "Exclusion" #NT!
+ SENATE_REGULAR:0 "Regular Census" #NT!
+ SENATE_RETINUE:0 "Trained Retinue" #NT!
+ SENATE_NO_RIGHTS:0 "No Rights" #NT!
+ SENATE_REGULAR_RIGHTS:0 "Regular Rights" #NT!
+ SENATE_ABSOLUTE_RIGHTS:0 "Absolute Rights" #NT!
+ SENATE_NO_TASKS:0 "There are no tasks at the moment" #NT!
+ SENATE_MINIMUM_ADMIN_TOOLTIP:0 "[GetModifier('minumum_senate_admin').GetDesc]\n #N Senate parties will avoid distributing bread in large amounts and won't sponsor games#! \n\n #N You can only change admin contracts once every 5 years#!" #NT!
+ SENATE_TAXING_ADMIN_TOOLTIP:0 "[GetModifier('taxing_rights_senate_admin').GetDesc]\n #P Senate parties will distribute bread in kingdoms under the emperor and try to sponsor games#! \n\n #N You can only change admin contracts once every 5 years#! \n\nUnlocks #P Loyal#! and #N Disloyal#! [levels_of_loyalty|E]" #NT!
+ SENATE_ABSOLUTE_ADMIN_TOOLTIP:0 "[GetModifier('absolute_senate_admin').GetDesc]\n #P Senate parties will distribute bread all over the empire if possible and always sponsor games#! \n\n #N You can only change admin contracts once every 5 years#! \n\nUnlocks #P Supportive#! and #N Revolting#! [levels_of_loyalty|E]" #NT!
+
+ SENATE_EXCLUSION_MIL_TOOLTIP:0 "[GetModifier('exclusion_senate_mil').GetDesc]\n\n #N You can only change military contracts once every 5 years#!" #NT!
+ SENATE_REGULAR_MIL_TOOLTIP:0 "[GetModifier('regular_senate_mil').GetDesc]\n\n #N You can only change military contracts once every 5 years#! \n\nUnlocks #P Loyal#! and #N Disloyal#! [levels_of_loyalty|E]" #NT!
+ SENATE_RETINUE_MIL_TOOLTIP:0 "[GetModifier('retinue_senate_mil').GetDesc]\n\n #N You can only change military contracts once every 5 years#! \n\nUnlocks #P Supportive#! and #N Revolting#! [levels_of_loyalty|E]" #NT!
+
+ SENATE_NO_LEGISLATION_TOOLTIP:0 "[GetModifier('no_senate_legislation').GetDesc]\n #P Vassals won't have any imperial election power#! \n\n #N You can only change legislation contracts once every 5 years#!" #NT!
+ SENATE_REGULAR_LEGISLATION_ADMIN_TOOLTIP:0 "[GetModifier('regular_senate_legislation').GetDesc]\n #P Vassals have weak imperial election power#! \n\n #N You can only change legislation contracts once every 5 years#! \n\nUnlocks #P Loyal#! and #N Disloyal#! [levels_of_loyalty|E]" #NT!
+ SENATE_ABSOLUTE_LEGISLATION_TOOLTIP:0 "[GetModifier('absolute_senate_legislation').GetDesc]\n #P Vassals have high imperial election power#! \n\n #N You can only change legislation contracts once every 5 years#! \n\nUnlocks #P Supportive#! and #N Revolting#! [levels_of_loyalty|E]" #NT!
+
+ SENATE_TASK_CULTURE:0 "Convert Culture: [GetGlobalVariable('italy_senate_convert_culture_county').Title.GetName]" #NT!
+ SENATE_TASK_CULTURE_DESC:0 "The Senate requests the Imperial Government to convert the \nfollowing province to the [GetGlobalVariable('italy_senate_convert_culture_county').Title.GetHolder.GetTopLiege.GetCulture.GetName] culture group:\n\n[GetGlobalVariable('italy_senate_convert_culture_county').Title.GetName] \n\n# For the Senate and the People of Rome!#" #NT!
+
+ SENATE_TASK_FAITH:0 "Convert Faith: [GetGlobalVariable('italy_senate_convert_faith_county').Title.GetName]" #NT!
+ SENATE_TASK_FAITH_DESC:0 "The Senate requests the Imperial Government to convert the \nfollowing province to [GetGlobalVariable('italy_senate_convert_faith_county').Title.GetHolder.GetTopLiege.GetFaith.GetName]:\n\n[GetGlobalVariable('italy_senate_convert_faith_county').Title.GetName] \n\n# For the Senate and the People of Rome!#" #NT!
+
+ SENATE_TASK_CONQUER:0 "Attack: [GetGlobalVariable('italy_senate_conquer').GetCharacter.GetFirstName]" #NT!
+ SENATE_TASK_CONQUER_DESC:0 "The Senate requests the Imperial Government to attack the \nfollowing leader in the name of the empire:\n\n[GetGlobalVariable('italy_senate_conquer').GetCharacter.GetFirstName] \n\n# For the Senate and the People of Rome!#" #NT!
+
+ SENATE_TASK_BUILDING:0 "Construct a Building: [GetGlobalVariable('italy_senate_building_county').Title.GetName]" #NT!
+ SENATE_TASK_BUILDING_DESC:0 "The Senate requests the Imperial Government to construct a \nbuilding in the following province:\n\n[GetGlobalVariable('italy_senate_building_county').Title.GetName].\n\n# For the Senate and the People of Rome!#" #NT!
+
+ SENATE_FACTIONS_MAIN_TITLE:0 "Senatorial Factions" #NT!
+
+ VICAR_POSITION_LOCKED:0 "#N Members of the Imperial Senate are seemingly wary of replacing this vicar#!" #NT!
+
+
+ SENATE_ARISTOCRAT_TOOLTIP_EASTERN:0 "Aristocratic Party\nParty Balance: [GetGlobalVariable('aristocratic_senate_eastern_gold').GetValue|0] [gold|E]\nParty Size: [GetDataModelSize(GetGlobalList('aristocratic_senate_eastern'))]\n#F Composed of senators of either a patrician background or representing the elite, the Aristocratic Party has the goal of pushing forward the interests of the Roman Empire's upper classes.#!" #NT!
+ SENATE_ARISTOCRAT_DESC_EASTERN:0 "[GetGlobalVariable('aristocratic_senate_eastern_gold').GetValue|0] [gold|E]\n[GetDataModelSize(GetGlobalList('aristocratic_senate_eastern'))]" #NT!
+ SENATE_POPULIST_TOOLTIP_EASTERN:0 "Populists Party\nParty Balance: [GetGlobalVariable('populist_senate_eastern_gold').GetValue|0] [gold|E]\nParty Size: [GetDataModelSize(GetGlobalList('populist_senate_eastern'))]\n#F Acting in the interests of the common people, the Populists seek to uphold the representation of the empire's plebeians and advocate for political reforms.#!" #NT!
+ SENATE_POPULIST_DESC_EASTERN:0 "[GetGlobalVariable('populist_senate_eastern_gold').GetValue|0] [gold|E]\n[GetDataModelSize(GetGlobalList('populist_senate_eastern'))]" #NT!
+ SENATE_TRADITIONALIST_TOOLTIP_EASTERN:0 "Traditionalists Party\nParty Balance: [GetGlobalVariable('traditionalist_senate_eastern_gold').GetValue|0] [gold|E]\nParty Size: [GetDataModelSize(GetGlobalList('traditionalist_senate_eastern'))]\n#F Traditionally acting in the best wishes of the Emperor and his supporters, the Traditionalists seek to maintain the status quo within the Imperial Senate and uphold the interests of the Imperial Government.#!" #NT!
+ SENATE_TRADITIONALIST_DESC_EASTERN:0 "[GetGlobalVariable('traditionalist_senate_eastern_gold').GetValue|0] [gold|E]\n[GetDataModelSize(GetGlobalList('traditionalist_senate_eastern'))]" #NT!
+
+ SENATE_TASK_CULTURE_EASTERN:0 "Convert Culture: [GetGlobalVariable('eastern_senate_convert_culture_county').Title.GetName]" #NT!
+ SENATE_TASK_CULTURE_DESC_EASTER:0 "The Senate requests the Imperial Government to convert the \nfollowing province to the [GetGlobalVariable('eastern_senate_convert_culture_county').Title.GetHolder.GetTopLiege.GetCulture.GetName] culture group:\n\n [GetGlobalVariable('eastern_senate_convert_culture_county').Title.GetName] \n\n# For the Senate and the People of Rome!#" #NT!
+
+ SENATE_TASK_FAITH_EASTERN:0 "Convert Faith: [GetGlobalVariable('eastern_senate_convert_faith_county').Title.GetName]" #NT!
+ SENATE_TASK_FAITH_DESC_EASTER:0 "The Senate requests the Imperial Government to convert the \nfollowing province to [GetGlobalVariable('eastern_senate_convert_faith_county').Title.GetHolder.GetTopLiege.GetFaith.GetName]:\n\n [GetGlobalVariable('eastern_senate_convert_faith_county').Title.GetName] \n\n# For the Senate and the People of Rome!#" #NT!
+
+ SENATE_TASK_CONQUER_EASTERN:0 "Attack: [GetGlobalVariable('eastern_senate_conquer').GetCharacter.GetFirstName]" #NT!
+ SENATE_TASK_CONQUER_DESC_EASTER:0 "The Senate requests the Imperial Government to attack the \nfollowing leader in the name of the empire:\n\n[GetGlobalVariable('eastern_senate_conquer').GetCharacter.GetFirstName] \n\n# For the Senate and the People of Rome!#" #NT!
+
+ SENATE_TASK_BUILDING_EASTERN:0 "Construct a Building: [GetGlobalVariable('eastern_senate_building_county').Title.GetName]" #NT!
+ SENATE_TASK_BUILDING_DESC_EASTER:0 "The Senate requests the Imperial Government to construct a \nbuilding in the following province:\n\n [GetGlobalVariable('eastern_senate_building_county').Title.GetName].\n\n# For the Senate and the People of Rome!#" #NT!
+
+ EASTERN_SENATE_HEADER:0 "The Imperial Senate of Konstantinoupolis" #NT!
+
+
+ lol_senate_opinion:0 "Opinion of senators" #NT!
+ lol_diocese_recently_established:0 "Diocese recently established" #NT!
+ lol_italy_high_competence:0 "High competence (3500 or above)" #NT!
+ lol_senate_bribed:0 "Party Bribed" #NT!
+ lol_war_recently_won:0 "Recently won war" #NT!
+ lol_italy_war_recently_lost:0 "Recently lost war" #NT!
+ lol_italy_debt:0 "Debt" #NT!
+ lol_italy_low_competence:0 "Low competence (under 1200)" #NT!
+ lol_high_income:0 "High Income (25 or above)" #NT!
+ lol_low_income:0 "Low Income (1 or less)" #NT!
+ lol_high_stewardship:0 "High Stewardship (15 or above)" #NT!
+ lol_low_stewardship:0 "Low Stewardship (less than 10)" #NT!
+ lol_high_alliances:0 "Two Or More Alliances" #NT!
+ lol_low_alliances:0 "No Alliances" #NT!
+ lol_high_diplomacy:0 "High Diplomacy (15 or above)" #NT!
+ lol_low_diplomacy:0 "Low Diplomacy (less than 10)" #NT!
+ lol_high_maa:0 "High MAA Regiments (5 or above)" #NT!
+ lol_low_maa:0 "Low MAA Regiments (3 or less)" #NT!
+ lol_high_martial:0 "High Martial (15 or above)" #NT!
+ lol_low_martial:0 "Low Martial (less than 10)" #NT!
+ lol_high_prowess:0 "High Prowess (14 or above)" #NT!
+ lol_low_prowess:0 "Low Prowess (less than 9)" #NT!
+ lol_high_reserves:0 "Large Imperial Reserves (800 [gold|E] or above)" #NT!
+ lol_low_reserves:0 "Low Imperial Reserves (400 [gold|E] in debt or more)" #NT!
+
+ SENATE_REVOLTING:0 "#N Revolting#!" #NT!
+ SENATE_DISLOYAL:0 "#N Disloyal#!" #NT!
+ SENATE_INDIFFERENT:0 "#V Indifferent#!" #NT!
+ SENATE_LOYAL:0 "#P Loyal#!" #NT!
+ SENATE_SUPPORTIVE:0 "#P Supportive#!" #NT!
+
+ SENATE_TOOLTIP_LOL:0 "[level_of_loyalty|E]:\nLevels of loyalty detrimine the relation between a senate party and their liege, levels of loyalty can greatly affect\n your future as revolting parties can and will cause major revolts with the support of vicars and other vassals.\n\nLevels:\n- #N Revolting#! 0-15 (unlocked by 2nd tier of levels of influence)\n-#N Disloyal#! 16-40 (unlocked by 1st tier of levels of influence)\n- #V Indifferent#! 41-60\n- #P Loyal#!  61-75 (unlocked by 1st tier of levels of influence)\n- #P Supportive#! 76-100 (unlocked by 2nd tier of levels of influence)\n\nBreakdown:" #NT!

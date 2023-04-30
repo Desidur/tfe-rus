@@ -1,0 +1,58 @@
+﻿l_russian:
+
+ # TFE_flavour_events #NT!
+ TFE_flavour_events.0001.t:0 "The Monastery of Saint Germain l'Auxerrois" #NT!
+  TFE_flavour_events.0001.desc:0 "In the year of the Lord 448, the pious and clement Saint Germanus of Auxerre died in Ravenna, pleading for leniency from the Romans towards the barbarians of Armorica. A monastery was founded in his name in [auxerre.GetNameNoTier], an institution which is now very prosperous and which has been educating devotees from all around the world!" #NT!
+  TFE_flavour_events.0001.a:0 "Praise Sanctus Germanus!" #NT!
+ TFE_flavour_events.0002.t:0 "Of hair and pants" #NT!
+  TFE_flavour_events.0002.desc:0 "The city center of [county.GetNameNoTier] has been overrun by people dressing with pants! and boots! Can you believe that? I even saw a man with long hair! Where have the old ROMAN manners gone?? We need to put an end to this!" #NT!
+  TFE_flavour_events.0002.a:0 "Ban everything remotely barbaric!" #NT!
+  TFE_flavour_events.0002.b:0 "We need to go further... ban long hair and beards!!" #NT!
+
+ TFE_flavour_events.0003.t:0 "Restoring The Ma'rib Dam" #NT!
+ TFE_flavour_events.0003.desc:0 "The Ma'rib Dam is a great wonder visited by many to witness our ancient might and innovation. However, the dam can also help protect our lands and fields from the floods the commoners have been reporting.\n\nEven temporarily, the dam can greatly improve our realm and living conditions and thus we should consider investing to restore it to its old Sabaean might.\n\n Failing to restoring it properly will be rather embarrassing for our people and realm." #NT!
+ TFE_flavour_events.0003.a:0 "Proceed with the restoration" #NT!
+ TFE_flavour_events.0003.b:0 "....Nevermind" #NT!
+
+ TFE_flavour_events.0004.t:0 "Restoring The Ma'rib Dam" #NT!
+ TFE_flavour_events.0004.desc:0 "The Ma'rib Dam is a great wonder visited by many to witness our ancient might and innovation. However, the dam can also help protect our lands and fields from the floods the commoners have been reporting.\n\nAfter meeting with my council, we decided that restoring the dam for the foreseeable future is the best and most efficient path to follow." #NT!
+ TFE_flavour_events.0004.a:0 "It's time to rebuild our might!" #NT!
+
+ TFE_flavour_events.0005.t:0 "Persecution of Christians in Arabia" #NT!
+ TFE_flavour_events.0005.desc:0 "We have just received the news that our Christian brothers in Arabia are being persecuted by their king. We could lead an expedition to avenge this affront and put an end to this pagan kingdom" #NT!
+ TFE_flavour_events.0005.a:0 "To arms!" #NT!
+ TFE_flavour_events.0005.b:0 "We have to prepare" #NT!
+ TFE_flavour_events.0005.c:0 "Let's pretend nothing happened" #NT!
+ AKSUM_CHRISTIAN_ARMY:0 "Christian Zealots" #NT!
+
+ TFE_flavour_events.0006.t:0 "The Treasure of The Nibelungens" #NT!
+ TFE_flavour_events.0006.desc:0 "In our quest for revenge, some ancient legends of a mythical treasure resurfaced. Imagine our surprise when one of our men told us that he had got his hands on the riches of the Nibelungs." #NT!
+ TFE_flavour_events.0006.a:0 "Interesting" #NT!
+
+ TFE_flavour_events.0007.t:0 "Sinnimar's Compensation" #NT!
+ TFE_flavour_events.0007.desc:0 "After years of continuous construction, Sinnimar approaches me stating that the palace at Khawarnaq is at last complete. But there is something strange about his demeanor, and I paid close attention as we began to converse.\n\n"Your majesty, before I conclude my presence here, I must warn you that there is a brick within the palace that can cause its utter collapse with a single move -- and only I know of its location. And if you require my services once again, I am also capable of constructing an even grander palace, one that moves with the light of the sun wherever it may go."\n\nMy eyes widen and I can't help but feel rage boiling inside of me. His knowledge of the brick is far too dangerous and I cannot even stand the idea of him receiving the patronage of another ruler and constructing a palace more grand than what he had offered me with his services. Sinnimar takes notice.\n\n"Your majesty?"" #NT!
+ TFE_flavour_events.0007.a:0 "Guards, grant Sinnimar his #italic well-deserved #!compensation" #NT!
+ TFE_flavour_events.0007.b:0 "May [ROOT.Char.GetFaith.HighGodName] provide you with safe passage" #NT!
+
+
+ TFE_flavour_events.0009.t:0 "Our Dynasty Elevated!" #NT!
+ TFE_flavour_events.0009.desc:0 "After the death of one of our great houses, our great Shah has decided to elevate our dynasty to become one of the great houses of Eran!\nThis position will come with many rewards as well as many dangers as we guide this great empire to prosperity." #NT!
+ TFE_flavour_events.0009.a:0 "Our name will echo for a millennia" #NT!
+ TFE_flavour_events.0009.a.tt:0 "[recipient.GetDynasty.GetName] is now a [great_house|E]" #NT!
+
+ # Scapulimancy #NT!
+ TFE_flavour_events.0010.t:0 "Consult the Bones" #NT!
+ TFE_flavour_events.0010.desc.beginning:0 "I have called for a shaman to burn bones and interpret them for me, hoping that the shaman's results may hold some inght into my future.\n\nThe shaman has asked me what type of events they should focus on. I decide to ask them about..." #NT!
+ TFE_flavour_events.0010.a:0 "...my relationships with those around me" #NT!
+ TFE_flavour_events.0010.b:0 "...any battles and wars on the horizon" #NT!
+ TFE_flavour_events.0010.c:0 "...the prosperity of my lands and people" #NT!
+ TFE_flavour_events.0010.d:0 "...schemes and those lurking in the shadows" #NT!
+ TFE_flavour_events.0010.e:0 "...my faith and any personal revelations" #NT!
+ TFE_flavour_events.0011.t:0 "Consulting the Bones" #NT!
+ TFE_flavour_events.0011.a:0 "What else will the future bring?" #NT!
+ TFE_flavour_events.0011.desc.insane_outcome:0 "I could scarcely believe the amazing news the shaman, his face lit with joy, brought me. Truly, I have been blessed!" #NT!
+ TFE_flavour_events.0011.desc.great_outcome:0 "Great news! The shaman has told me that the bones have great portents for my future." #NT!
+ TFE_flavour_events.0011.desc.good_outcome:0 "The shaman happily informs me that the signs are encouraging, and that my future endeavors appear to be well on track for success." #NT!
+ TFE_flavour_events.0011.desc.neutral_outcome:0 "The signs, for once, are ambiguous. The shaman is unable to discern a clear path forward for me." #NT!
+ TFE_flavour_events.0011.desc.bad_outcome:0 "The shaman informs me gravely that the signs are grim; my future appears to be most troublesome..." #NT!
+ TFE_flavour_events.0011.desc.terrible_outcome:0 "Woe! Just moments ago, the shaman came rushing to me, his face pale and his hands shaking in fear. It appears that my future looks dire indeed..." #NT!

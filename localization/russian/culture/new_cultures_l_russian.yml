@@ -1,0 +1,725 @@
+﻿l_russian:
+ #Endonyms #NT!
+ persian:0 "Ērānian" #NT!
+ persian_prefix:0 "Ērāno" #NT!
+ persian_collective_noun:0 "Ērānians" #NT!
+ elamite:0 "Elamite" #NT!
+ elamite_prefix:0 "Elamo" #NT!
+ elamite_collective_noun:0 "Elamites" #NT!
+ elymaean:0 "Elymaean" #NT!
+ elymaean_prefix:0 "Elymaean" #NT!
+ elymaean_collective_noun:0 "Elymaeans" #NT!
+ pyu:0 "Pyu" #NT!
+ pyu_prefix:0 "Pyu" #NT!
+ pyu_colletcive_noun:0 "Pyus" #NT!
+ merya:0 "Merya" #NT!
+ merya_prefix:0 "Merya" #NT!
+ merya_collective_noun:0 "Meryans" #NT!
+ meschera:0 "Meschera" #NT!
+ meschera_collective_noun:0 "Mescherans" #NT!
+ muroma:0 "Muroma" #NT!
+ muroma_adj:0 "Muroman" #NT!
+ kangju:0 "Kangju" #NT!
+ kangju_prefix:0 "Kangju" #NT!
+ kangju_collective_noun:0 "Kangju" #NT!
+ mordivinian:0 "Mordivinian" #NT!
+ mordivinian_collective_noun:0 "Mordivinians" #NT!
+ shaka:0 "Shaka" #NT!
+ shaka_collective_noun:0 "Shaka" #NT!
+ syrian:0 "Syrian" #NT!
+ syrian_collective_noun:0 "Syrians" #NT!
+ nabatean:0 "Nabatean" #NT!
+ nabatean_collective_noun:0 "Nabateans" #NT!
+ #Central Germanic group #NT!
+ langobardi:0 "Langobardi" #NT!
+ langobardi_prefix:0 "Lango" #NT!
+ langobardi_collective_noun:1 "Langobards" #NT!
+ marcomannic:0 "Marcomannic" #NT!
+ marcomannic_prefix:0 "Marco" #NT!
+ marcomannic_collective_noun:0 "Marcomanni" #NT!
+ alemanni:0 "Alemanni" #NT!
+ alemanni_prefix:0 "Alemanno" #NT!
+ alemanni_collective_noun:1 "Alemannians" #NT!
+ gautish:0 "Geatish" #NT!
+ gautish_prefix:0 "Geato" #NT!
+ gautish_collective_noun:1 "Geats" #NT!
+ gutish:0 "Gutish" #NT!
+ gutish_prefix:0 "Guto" #NT!
+ gutish_collective_noun:0 "Gutes" #NT!
+ meitei:0 "Meitei" #NT!
+ meitei_prefix:0 "Meitei" #NT!
+ meitei_collective_noun:0 "Meitei" #NT!
+
+ #West Germanic group #NT!
+ west_germanic_group:0 "West Germanic" #NT!
+ west_germanic_group_collective_noun:0 "West Germanics" #NT!
+ english:0 "English" #NT!
+ english_prefix:0 "Anglo" #NT!
+ english_collective_noun:0 "English" #NT!
+ anglo_saxon:0 "Anglo-Saxon" #NT!
+ anglo_saxon_prefix:0 "Anglo" #NT!
+ anglo_saxon_collective_noun:1 "Anglo-Saxons" #NT!
+ jute:0 "Jutish" #NT!
+ jute_prefix:0 "Juto" #NT!
+ jute_colletcive_noun:1 "Jutes" #NT!
+ angle:0 "Anglish" #NT!
+ angle_prefix:0 "Anglo" #NT!
+ angle_collective_noun:0 "Angles" #NT!
+ frisian:0 "Frisian" #NT!
+ frisian_prefix:0 "Friso" #NT!
+ frisian_collective_noun:1 "Frisians" #NT!
+ frisa:0 "Frisii" #NT!
+ frisa_prefix:0 "Friso" #NT!
+ frisa_collective_noun:1 "Frisans" #NT!
+ dutch:2 "Dutch" #NT!
+ dutch_prefix:2 "Batavo" #NT!
+ dutch_collective_noun:2 "Dutch" #NT!
+ scottish:1 "Scots" #NT!
+ scottish_prefix:1 "Scoto" #NT!
+ scottish_collective_noun:1 "Scots" #NT!
+ suabian:0 "Swabian" #NT!
+ suabian_prefix:0 "Swabo" #NT!
+ suabian_collective_noun:0 "Swabians" #NT!
+ thuringian:0 "Thuringian" #NT!
+ thuringian_prefix:0 "Thuringo" #NT!
+ thuringian_collective_noun:0 "Thuringians" #NT!
+ sitonian:0 "Kven" #NT!
+ sitonian_prefix:0 "Kveno" #NT!
+ sitonian_collective_noun:0 "Kvens" #NT!
+####################à #NT!
+ # Latin cultures #NT!
+ illyro_roman:0 "Illyro-Roman" #NT!
+ illyro_roman_prefix:0 "Illyro-Romano" #NT!
+ illyro_roman_collective_noun:0 "Illyro-Romans" #NT!
+ hispano_roman:0 "Hispano-Roman" #NT!
+ hispano_roman_prefix:0 "Hispano-Romano" #NT!
+ hispano_roman_collective_noun:0 "Hispano-Romans" #NT!
+ gallo_roman:0 "Gallo-Roman" #NT!
+ gallo_roman_prefix:0 "Gallo-Romano" #NT!
+ gallo_roman_collective_noun:0 "Gallo-Romans" #NT!
+ afro_roman:0 "Afro-Roman" #NT!
+ afro_roman_prefix:0 "Afro-Romano" #NT!
+ afro_roman_collective_noun:0 "Afro-Romans" #NT!
+ britano_roman:0 "Britano-Roman" #NT!
+ britano_roman_prefix:0 "Britano-Romano" #NT!
+ britano_roman_collective_noun:0 "Britano-Romans" #NT!
+ thracio_roman:0 "Thracio-Roman" #NT!
+ thracio_roman_prefix:0 "Thracio-Romano" #NT!
+ thracio_roman_collective_noun:0 "Thracio-Romans" #NT!
+ dacio_roman:0 "Dacio-Roman" #NT!
+ dacio_roman_prefix:0 "Dacio-Romano" #NT!
+ dacio_roman_collective_noun:0 "Dacio-Romans" #NT!
+ rhaetian:0 "Rhaetian" #NT!
+ rhaetian_prefix:0 "Rhaeto" #NT!
+ rhaetian_collective_noun:0 "Rhaetians" #NT!
+ rhaetio_roman:0 "Rhaetio-Roman" #NT!
+ rhaetio_roman_prefix:0 "Rhaetio-Romano" #NT!
+ rhaetio_roman_collective_noun:0 "Rhaetio-Romans" #NT!
+ etruscan:0 "Etruscan" #NT!
+ etruscan_prefix:0 "Etrusco" #NT!
+ etruscan_collective_noun:0 "Etruscans" #NT!
+ nuragic:0 "Nuragic" #NT!
+ nuragic_prefix:0 "Nuragic" #NT!
+ nuragic_collective_noun:0 "Nuragics" #NT!
+
+ hispanian:0 "Hispanian" #NT!
+ hispanian_prefix:0 "Hispano" #NT!
+ hispanian_collective_noun:0 "Hispanians" #NT!
+
+# Latin Divergents #NT!
+ balearic:0 "Balearic" #NT!
+ balearic_prefix:0 "Balearo" #NT!
+ balearic_collective_noun:0 "Balearics" #NT!
+ galecian:0 "Galecian" #NT!
+ galecian_prefix:0 "Galecio" #NT!
+ galecian_collective_noun:0 "Galecians" #NT!
+ lusitanian:0 "Lusitanian" #NT!
+ lusitanian_prefix:0 "Lusitano" #NT!
+ lusitanian_collective_noun:0 "Lusitanians" #NT!
+ baetican:0 "Baetican" #NT!
+ baetican_prefix:0 "Baetico" #NT!
+ baetican_collective_noun:0 "Baeticans" #NT!
+ iberian:0 "Iberian" #NT!
+ iberian_prefix:0 "Iberio" #NT!
+ iberian_collective_noun:0 "Iberians" #NT!
+ armorican:0 "Armorican" #NT!
+ armorican_prefix:0 "Armorico" #NT!
+ armorican_collective_noun:0 "Armoricans" #NT!
+ germanian:0 "Germanian" #NT!
+ germanian_prefix:0 "Germano" #NT!
+ germanian_collective_noun:0 "Germanians" #NT!
+ helvetian:0 "Helvetian" #NT!
+ helvetian_prefix:0 "Helvetico" #NT!
+ helvetian_collective_noun:0 "Helvetians" #NT!
+ aquitan:0 "Aquitan" #NT!
+ aquitan_prefix:0 "Aquitano" #NT!
+ aquitan_collective_noun:0 "Aquitans" #NT!
+ gallian:0 "Gallian" #NT!
+ gallian_prefix:0 "Gallo" #NT!
+ gallian_collective_noun:0 "Gallians" #NT!
+ britanian:0 "Britanian" #NT!
+ britanian_prefix:0 "Britano" #NT!
+ britanian_collective_noun:0 "Britanians" #NT!
+
+ aegyptian:0 "Aegyptian" #NT!
+ aegyptian_prefix:0 "Aegypto" #NT!
+ aegyptian_collective_noun:0 "Aegyptians" #NT!
+
+ gaul:0 "Gallic" #NT!
+ gaul_prefix:0 "Gallo" #NT!
+ gaul_collective_noun:0 "Gauls" #NT!
+ briton:0 "Britonnic" #NT!
+ briton_prefix:0 "Britono" #NT!
+ briton_collective_noun:0 "Britons" #NT!
+ belgae:0 "Belgae" #NT!
+ belgae_prefix:0 "Belgo" #NT!
+ belgae_collective_noun:0 "Belgae" #NT!
+ helvetian:0 "Helvetian" #NT!
+ helvetian_prefix:0 "Helveto" #NT!
+ helvetian_collective_noun:0 "Helvetians" #NT!
+ noric:0 "Noric" #NT!
+ noric_prefix:0 "Noro" #NT!
+ noric_collective_noun:0 "Norics" #NT!
+ galatian:0 "Galatian" #NT!
+ galatian_prefix:0 "Galato" #NT!
+ galatian_collective_noun:0 "Galatians" #NT!
+
+ cantabrian:0 "Cantabrian" #NT!
+ cantabrian_prefix:0 "Cantabro" #NT!
+ cantabrian_collective_noun:0 "Cantabrians" #NT!
+
+ aquitanian:0 "Aquitanian" #NT!
+ aquitanian_prefix:0 "Aquitano" #NT!
+ aquitanian_collective_noun:0 "Aquitanians" #NT!
+
+ burgundian:0 "Burgundian" #NT!
+ burgundian_prefix:0 "Burgundo" #NT!
+ burgundian_collective_noun:0 "Burgundians" #NT!
+
+ alamannic:0 "Alemannic" #NT!
+ alamannic_prefix:0 "Alemanno" #NT!
+ alamannic_collective_noun:0 "Alemannians" #NT!
+
+ vandal:0 "Vandal" #NT!
+ vandal_prefix:0 "Vandalo" #NT!
+ vandal_collective_noun:0 "Vandals" #NT!
+
+ ostrogothic:0 "Ostrogothic" #NT!
+ ostrogothic_prefix:0 "Ostrogotho" #NT!
+ ostrogothic_collective_noun:0 "Ostrogoths" #NT!
+
+ taifalian:0 "Taifalian" #NT!
+ taifalian_prefix:0 "Taifalo" #NT!
+ taifalian_collective_noun:0 "Taifalians" #NT!
+
+ gepid:0 "Gepid" #NT!
+ gepid_prefix:0 "Gepo" #NT!
+ gepid_collective_noun:0 "Gepids" #NT!
+
+ rugian:0 "Rugian" #NT!
+ rugian_prefix:0 "Rugo" #NT!
+ rugian_collective_noun:0 "Rugians" #NT!
+
+ taifal:0 "Taifal" #NT!
+ taifal_prefix:0 "Taifalo" #NT!
+ taifal_collective_noun:0 "Taifalians" #NT!
+
+ venedian:0 "Venedian" #NT!
+ venedian_prefix:0 "Venedo" #NT!
+ venedian_collective_noun:0 "Venedi" #NT!
+
+ wendish:0 "Wendish" #NT!
+ wendish_prefix:0 "Wendo" #NT!
+ wendish_collective_noun:0 "Wends" #NT!
+
+ castran:0 "Gallaecian" #NT!
+ castran_prefix:0 "Gallaeco" #NT!
+ castran_collective_noun:0 "Gallaecians" #NT!
+ asturian:0 "Asturian" #NT!
+ asturian_prefix:0 "Asturo" #NT!
+ asturian_collective_noun:0 "Asturians" #NT!
+
+ illyrian:0 "Illyrian" #NT!
+ illyrian_prefix:0 "Illyro" #NT!
+ illyrian_collective_noun:0 "Illyrians" #NT!
+ Arbron:0 "Arbron" #NT!
+ Arbron_prefix:0 "Arbrono" #NT!
+ Arbron_collective_noun:0 "Arbrons" #NT!
+ Dardanian:0 "Dardanian" #NT!
+ Dardanian_prefix:0 "Dardano" #NT!
+ Dardanian_collective_noun:0 "Dardanians" #NT!
+ pannonian:0 "Pannonian" #NT!
+ pannonian_prefix:0 "Pannono" #NT!
+ pannonian_collective_noun:0 "Pannonians" #NT!
+ thracian:0 "Thracian" #NT!
+ thracian_prefix:0 "Thraco" #NT!
+ thracian_collective_noun:0 "Thracians" #NT!
+ dacian:0 "Dacian" #NT!
+ dacian_prefix:0 "Dacio" #NT!
+ dacian_collective_noun:0 "Dacians" #NT!
+
+ classical_latin_group:0 "Classical Latin" #NT!
+ classical_latin_group_collective_noun:0 "Latins" #NT!
+ balkan_natives_group:0 "Balkan Native" #NT!
+ balkan_natives_group_collective_noun:0 "Balkan Natives" #NT!
+
+ cappadocian:0 "Cappadocian" #NT!
+ cappadocian_prefix:0 "Cappadoco" #NT!
+ cappadocian_collective_noun:0 "Cappadocians" #NT!
+ phrygian:0 "Phrygian" #NT!
+ phrygian_prefix:0 "Phrygo" #NT!
+ phrygian_collective_noun:0 "Phrygians" #NT!
+ pontic:0 "Pontic" #NT!
+ pontic_prefix:0 "Ponto" #NT!
+ pontic_collective_noun:0 "Pontics" #NT!
+ isaurian:0 "Isaurian" #NT!
+ isaurian_prefix:0 "Isaurian" #NT!
+ isaurian_collective_noun:0 "Isaurians" #NT!
+
+ aramean:0 "Aramean" #NT!
+ aramean_prefix:0 "Arameo" #NT!
+ aramean_collective_noun:0 "Arameans" #NT!
+
+ median:0 "Median" #NT!
+ median_prefix:0 "Medio" #NT!
+ median_collective_noun:0 "Medians" #NT!
+ parthian:0 "Parthian" #NT!
+ parthian_prefix:0 "Partho" #NT!
+ parthian_collective_noun:0 "Parthians" #NT!
+ old_suebi:0 "Suebic" #NT!
+ old_suebi_prefix:0 "Suebo" #NT!
+ old_suebi_collective_noun:0 "Suebi" #NT!
+
+ western_suebi:0 "Western Seubic" #NT!
+ western_suebi_prefix:0 "Western Suebo" #NT!
+ western_suebi_collective_noun:0 "Western Suebi" #NT!
+
+ ripurian:0 "Ripurian" #NT!
+ ripurian_prefix:0 "Ripuro" #NT!
+ ripurian_collective_noun:0 "Ripurians" #NT!
+
+ oghur_group:0 "Oghur" #NT!
+ oghur_group_collective_noun:0 "Oghurs" #NT!
+ hun:0 "Hunnic" #NT!
+ hun_prefix:0 "Hunno" #NT!
+ hun_collective_noun:0 "Huns" #NT!
+
+ visigothic:0 "Visigothic" #NT!
+ visigothic_prefix:0 "Visigotho" #NT!
+ visigothic_collective_noun:0 "Visigoths". #NT!
+
+ gothic:0 "Gothic" #NT!
+ gothic_prefix:0 "Gotho" #NT!
+ gothic_collective_noun:0 "Goths" #NT!
+
+ gothonic:0 "Gothonic" #NT!
+ gothonic_prefix:0 "Gothono" #NT!
+ gothonic_collective_noun:0 "Gothones" #NT!
+
+ varinian:0 "Varinian" #NT!
+ varinian_prefix:0 "Varino" #NT!
+ varinian_collective_noun:0 "Varinians" #NT!
+
+ lugii:0 "Przeworsk" #NT!
+ lugii_prefix:0 "Przeworsk" #NT!
+ lugii_collective_noun:0 "Przeworsk" #NT!
+
+ tavastian:0 "Tavastian" #NT!
+ tavastian_prefix:0 "Tavasto" #NT!
+ tavastian_collective_noun:0 "Tavastians" #NT!
+
+ #Berber #NT!
+ north_african_group:0 "Berber" #NT!
+ north_african_group_collective_noun:1 "Berbers" #NT!
+ garamantian:0 "Garamantian" #NT!
+ garamantian_prefix:0 "Garamanto" #NT!
+ garamantian_collective_noun:1 "Garamantians" #NT!
+ maurian:0 "Maurian" #NT!
+ maurian_prefix:0 "Mauro" #NT!
+ maurian_collective_noun:1 "Maurians" #NT!
+ gaetulian:0 "Gaetulian" #NT!
+ gaetulian_prefix:0 "Gaetulo" #NT!
+ gaetulian_collective_noun:1 "Gaetulians" #NT!
+ libian:0 "Libyan" #NT!
+ libian_prefix:0 "Libio" #NT!
+ libian_collective_noun:0 "Libyians" #NT!
+ masmuda:0 "Masmuda" #NT!
+ masmuda_prefix:0 "Masmudo" #NT!
+ masmuda_collective_noun:0 "Masmuda" #NT!
+
+ #Slavic Tribes #NT!
+ antean:0 "Antean" #NT!
+ antean_prefix:0 "Anteo" #NT!
+ antean_collective_noun:1 "Anteans" #NT!
+ herulian:0 "Herulian" #NT!
+ herulian_prefix:0 "Herulo" #NT!
+ herulian_collective_noun:1 "Herulii" #NT!
+ scirian:0 "Scirian" #NT!
+ scirian_prefix:0 "Sciro" #NT!
+ scirian_collective_noun:1 "Scirian" #NT!
+ yazige:0 "Yazige" #NT!
+ yazige_prefix:0 "Yazigo" #NT!
+ yazige_collective_noun:1 "Yazigeans" #NT!
+ bastarnian:0 "Bastarnian" #NT!
+ bastarnian_prefix:0 "Bastarno" #NT!
+ bastarnian_collective_noun:1 "Bastarnians" #NT!
+ roxolan:0 "Roxolan" #NT!
+ roxolan_prefix:0 "Roxolo" #NT!
+ roxolan_collective_noun:1 "Roxolanians" #NT!
+ silesian:0 "Silesian" #NT!
+ silesian_prefix:0 "Silesio" #NT!
+ silesian_collective_noun:0 "Silesians" #NT!
+ lendian:0 "Lendian" #NT!
+ lendian_prefix:0 "Lendo" #NT!
+ lendian_collective_noun:0 "Lendians" #NT!
+
+ #Central Asian Tribes #NT!
+ sabir:0 "Sabir" #NT!
+ sabir_prefix:0 "Sabiro" #NT!
+ sabir_collective_noun:1 "Sabireans" #NT!
+ xionite:0 "Xionite" #NT!
+ xionite_prefix:0 "Xiono" #NT!
+ xionite_collective_noun:1 "Xionites" #NT!
+ akatzir:0 "Akatzir" #NT!
+ akatzir_prefix:0 "Akatzo" #NT!
+ akatzir_collective_noun:1 "Akatzireans" #NT!
+ ugrian:0 "Ugrian" #NT!
+ ugrian_prefix:0 "Ugro" #NT!
+ ugrian_collective_noun:1 "Ugrians" #NT!
+
+ #Baltic Tribes #NT!
+ aestian:0 "Aestian" #NT!
+ aestian_prefix:0 "Aesto" #NT!
+ aestian_collective_noun:1 "Aestians" #NT!
+ curonian:0 "Curonian" #NT!
+ curonian_prefix:0 "Curono" #NT!
+ curonian_collective_noun:0 "Curonians" #NT!
+ semigallian:0 "Semigallian" #NT!
+ semigallian_prefix:0 "Semigalo" #NT!
+ semigallian_collective_noun:0 "Semigallians" #NT!
+ selonian:0 "Selonian" #NT!
+ selonian_prefix:0 "Selono" #NT!
+ selonian_collective_noun:0 "Selonians" #NT!
+ samogitian:0 "Samogitian" #NT!
+ samogitian_prefix:0 "Samogitio" #NT!
+ samogitian_collective_noun:0 "Samogitians" #NT!
+ sudovian:0 "Sudovian" #NT!
+ sudovian_prefix:0 "Sudovo" #NT!
+ sudovian_collective_noun:0 "Sudovians" #NT!
+ galindian:0 "Galindian" #NT!
+ galindian_prefix:0 "Galindo" #NT!
+ galindian_collective_noun:0 "Galindians" #NT!
+ scalvian:0 "Scalovian" #NT!
+ scalvian_prefix:0 "Scalovo" #NT!
+ scalvian_collective_noun:0 "Scalovians" #NT!
+ dniepro:0 "Dniepr" #NT!
+ dniepro_prefix:0 "Dniepr" #NT!
+ dniepro_collective_noun:0 "Dniepr" #NT!
+ moshchiny:0 "East Galindian" #NT!
+ moshchiny_prefix:0 "Rytgalindo" #NT!
+ moshchiny_collective_noun:0 "East Galindians" #NT!
+ kolochiny:0 "Kolochin" #NT!
+ kolochiny_prefix:0 "Kolochino" #NT!
+ kolochiny_collective_noun:0 "Kolochins" #NT!
+
+ #Slavic cultures #NT!
+ permian:0 "Permian" #NT!
+ permian_prefix:0 "Permo" #NT!
+ permian_collective_noun:1 "Permians" #NT!
+ sclavenian:0 "Sclavenian" #NT!
+ sclavenian_prefix:0 "Sclaveno" #NT!
+ sclavenian_collective_noun:1 "Sclavenians" #NT!
+ fenni:0 "Fennic" #NT!
+ fenni_prefix:0 "Fenno" #NT!
+ fenni_collective_noun:0 "Fenni" #NT!
+ livonian:0 "Livonian" #NT!
+ livonian_prefix:0 "Livono" #NT!
+ livonian_collective_noun:0 "Livonians" #NT!
+ igaunian:0 "Igaunian" #NT!
+ igaunian_prefix:0 "Igauno" #NT!
+ igaunian_collective_noun:0 "Igaunian" #NT!
+ belocroat:0 "Belocroat" #NT!
+ belocroat_prefix:0 "Belocroato" #NT!
+ belocroat_collective_noun:0 "Belocroats" #NT!
+ beloserb:0 "Beloserb" #NT!
+ beloserb_prefix:0 "Beloserbo" #NT!
+ beloserb_collective_noun:0 "Beloserbs" #NT!
+ lutici:0 "Veletian" #NT!
+ lutici_prefix:0 "Veleto" #NT!
+ lutici_collective_noun:0 "Veleti" #NT!
+ vistulian:0 "Vistulan" #NT!
+ vistulian_prefix:0 "Vistulo" #NT!
+ vistulian_collective_noun:0 "Vistulans" #NT!
+ mazovian:0 "Mazovian" #NT!
+ mazovian_prefix:0 "Mazovo" #NT!
+ mazovian_collective_noun:0 "Mazovians" #NT!
+
+ # Finnic #NT!
+ chudic:0 "Chudic" #NT!
+ chudic_prefix:0 "Chudo" #NT!
+ chudic_collective_noun:0 "Chudes" #NT!
+ mordvin:0 "Mordvinian" #NT!
+ mordvin_prefix:0 "Mordvino" #NT!
+ mordvin_collective_noun:0 "Mordvins" #NT!
+
+ #Arabic Cultures #NT!
+ semitic_group:0 "Semitic" #NT!
+ semitic_group_collective_noun:1 "Semites" #NT!
+ himyarite:0 "Himyarite" #NT!
+ himyarite_prefix:0 "Himyaro" #NT!
+ himyarite_collective_noun:1 "Himyarites" #NT!
+ kemetic:0 "Kemetic" #NT!
+ kemetic_prefix:0 "Kemeto" #NT!
+ kemetic_collective_noun:0 "Kemites" #NT!
+ jewish:0 "Jewish" #NT!
+ jewish_prefix:0 "Judeo" #NT!
+ jewish_collective_noun:0 "Jews" #NT!
+ maganite:0 "Maganite" #NT!
+ maganite_prefix:0 "Magano" #NT!
+ maganite_collective_noun:0 "Maganites" #NT!
+ south_arabian:0 "South Arabian" #NT!
+ south_arabian_prefix:0 "South Arabian" #NT!
+ south_arabian_collective_noun:0 "South Arabians" #NT!
+
+ hebrew:0 "Hebrew" #NT!
+ hebrew_prefix:0 "Hebro" #NT!
+ hebrew_collective_noun:0 "Jews" #NT!
+ phoenician:0 "Phoenician" #NT!
+ phoenician_prefix:0 "Phoenicio" #NT!
+ phoenician_collective_noun:0 "Phoenicians" #NT!
+ punic:0 "Punic" #NT!
+ punic_prefix:0 "Puno" #NT!
+ punic_collective_noun:0 "Punics" #NT!
+
+ #Oghuz cultures #NT!
+ tujue:0 "Tujue" #NT!
+ tujue_prefix:0 "Tujo" #NT!
+ tujue_collective_noun:0 "Tujue" #NT!
+ tiele:0 "Tiele" #NT!
+ tiele_prefix:0 "Tielo" #NT!
+ tiele_collective_noun:0 "Tiele" #NT!
+ saragur:0 "Saragur" #NT!
+ saragur_prefix:0 "Sarago" #NT!
+ saragur_collective_noun:0 "Saragurs" #NT!
+ rouran:0 "Rouran" #NT!
+ rouran_prefix:0 "Rouro" #NT!
+ rouran_collective_noun:0 "Rouran" #NT!
+
+ #Caucasian cultures #NT!
+ kartvelian:0 "Kartvelian" #NT!
+ kartvelian_prefix:0 "Kartvelo" #NT!
+ kartvelian_collective_noun:0 "Kartvelians" #NT!
+ abkhazian:0 "Abkhazian" #NT!
+ abkhazian_prefix:0 "Abkhazo" #NT!
+ abkhazian_collective_noun:0 "Abkhazians" #NT!
+ caspian:0 "Caspian" #NT!
+ caspian_prefix:0 "Caspo" #NT!
+ caspian_collective_noun:0 "Caspians" #NT!
+ ciscaucasian:0 "Ciscaucasian" #NT!
+ ciscaucasian_prefix:0 "Ciscaucasio" #NT!
+ ciscaucasian_collective_noun:0 "Ciscaucasians" #NT!
+ circassian:0 "Circassian" #NT!
+ circassian_prefix:0 "Circasso" #NT!
+ circassian_collective_noun:0 "Circassians" #NT!
+
+ mingrelian:0 "Mingrelian" #NT!
+ mingrelian_prefix:0 "Mingrelo" #NT!
+ mingrelian_collective_noun:0 "Mingrelians" #NT!
+
+ svan:0 "Svan" #NT!
+ svan_prefix:0 "Svano" #NT!
+ svan_collective_noun:0 "Svans" #NT!
+
+ laz:0 "Laz" #NT!
+ laz_prefix:0 "Lazo" #NT!
+ laz_collective_noun:0 "Laz" #NT!
+
+ arran:0 "Arran" #NT!
+ arran_prefix:0 "Arrano" #NT!
+ arran_collective_noun:0 "Arrans" #NT!
+
+ abasgian:0 "Abasgian" #NT!
+ abasgian_prefix:0 "Abasgo" #NT!
+ abasgian_collective_noun:0 "Abasgians" #NT!
+
+ colchian:0 "Colchian" #NT!
+ colchian_prefix:0 "Colchiano" #NT!
+ colchian_collective_noun:0 "Colchians" #NT!
+
+ #Iranian cultures #NT!
+ pactyan:0 "Pactyan" #NT!
+ pactyan_prefix:0 "Pactyo" #NT!
+ pactyan_collective_noun:0 "Pactyans" #NT!
+ cadusian:0 "Cadusian" #NT!
+ cadusian_prefix:0 "Caduso" #NT!
+ cadusian_collective_noun:0 "Cadusians" #NT!
+ kwarezmian:0 "Kwarezmian" #NT!
+ kwarezmian_prefix:0 "Kwarezmo" #NT!
+ kwarezmian_collective_noun:0 "Kwarezmians" #NT!
+ bactrian:0 "Bactrian" #NT!
+ bactrian_prefix:0 "Bactro" #NT!
+ bactrian_collective_noun:0 "Bactrians" #NT!
+ wusun:0 "Wusun" #NT!
+ wusun_prefix:0 "Wuso" #NT!
+ wusun_collective_noun:0 "Wusun" #NT!
+ hephthalite:0 "Hephthalite" #NT!
+ hephthalite_prefix:0 "Hephthalo" #NT!
+ hephthalite_collective_noun:0 "Hephthalites" #NT!
+ aorsi:0 "Aorsi" #NT!
+ aorsi_prefix:0 "Aorso" #NT!
+ aorsi_collective_noun:0 "Aorsi" #NT!
+ yuezhi:0 "Yuezhi" #NT!
+ yuezhi_prefix:0 "Yuezhi" #NT!
+ yuezhi_collective_noun:0 "Yuezhi" #NT!
+ xiao_yuezhi:0 "Xiao Yuezhi" #NT!
+ xiao_yuezhi_prefix:0 "Xiao Yuezhi" #NT!
+ xiao_yuezhi_collective_noun:0 "Xiao Yuezhi" #NT!
+ turco_hephthalite:0 "Turco-Hephthalite" #NT!
+ turco_hephthalite_collective_noun:0 "Turco-Hephthalites" #NT!
+ turco_hephthalite_prefix:0 "Turco-Hephthalo" #NT!
+
+ #East African cultures #NT!
+ axumite:0 "Axumite" #NT!
+ axumite_prefix:0 "Axo" #NT!
+ axumite_collective_noun:0 "Axumites" #NT!
+ bafour:0 "Bafour" #NT!
+ bafour_prefix:0 "Bafouro" #NT!
+ bafour_collective_noun:0 "Bafours" #NT!
+
+ #Central African cultures #NT!
+ toubou:0 "Toubou" #NT!
+ toubou_prefix:0 "Toubou" #NT!
+ toubou_collective_noun:0 "Toubou" #NT!
+
+ celtiberian:0 "Celtiberian" #NT!
+ celtiberian_prefix:0 "Celthispano" #NT!
+ celtiberian_collective_noun:0 "Celtiberians" #NT!
+
+ # East/North Asian cultures #NT!
+ yeniseian:0 "Yeniseian" #NT!
+ yeniseian_prefix:0 "Yeniseian" #NT!
+ yeniseian_collective_noun:0 "Yeniseians" #NT!
+ xiongnu:0 "Xiongnu" #NT!
+ xiongnu_prefix:0 "Xiongnu" #NT!
+ xiongnu_collective_noun:0 "Xiongnu" #NT!
+ di:0 "Di" #NT!
+ di_prefix:0 "Di" #NT!
+ di_collective_noun:0 "Di" #NT!
+ xianbei:0 "Xianbei" #NT!
+ xianbei_prefix:0 "Xianbei" #NT!
+ xianbei_collective_noun:0 "Xianbei" #NT!
+ donghu:0 "Donghu" #NT!
+ donghu_prefix:0 "Donghu" #NT!
+ donghu_collective_noun:0 "Donghu" #NT!
+
+ #Culture groups #NT!
+ hellenistic_group:0 "Hellenistic" #NT!
+ slavic_group:0 "Slavic" #NT!
+ east_germanic_group:0 "East Germanic" #NT!
+ sarmatian_group:0 "Sarmatian" #NT!
+ celtic_group:1 "Continental Celtic" #NT!
+ celtiberian_group:0 "Celtiberian" #NT!
+ oghuz_group:0 "Oghuz" #NT!
+ caucasian_group:0 "Caucasian" #NT!
+ uralic_group:0 "Uralic" #NT!
+ thyssagataen:0 "Thyssagatean" #NT!
+ thyssagataen_collective_noun:0 "Thyssagateans" #NT!
+ ciscaucassian:0 "Ciscaucassian" #NT!
+ ciscaucassian_collective_noun:0 "Ciscaucasians" #NT!
+ tora:0 "Tora" #NT!
+ tora_collective_noun:0 "Toras" #NT!
+ tuareg:0 "Tuareg" #NT!
+ tuareg_collective_noun:0 "Tuaregians" #NT!
+ sanhaja:0 "Sanhaja" #NT!
+ sanhaja_collective_noun:0 "Sanhajas" #NT!
+
+ #Hybrids #NT!
+ horse_name:0 "Horse" #NT!
+ horse_prefix:0 "Equino" #NT!
+ horse_collective_noun:0 "Horse" #NT!
+ helleno_roman_name:0 "Helleno-Roman" #NT!
+ helleno_roman_prefix:0 "Helleno-Romano" #NT!
+ helleno_roman_collective_noun:0 "Helleno-Romans" #NT!
+ hiberno_roman_name:0 "Hiberno-Roman" #NT!
+ hiberno_roman_prefix:0 "Hiberno-Romano" #NT!
+ hiberno_roman_collective_noun:0 "Hiberno-Romans" #NT!
+ celto_roman_name:0 "Celto-Roman" #NT!
+ celto_roman_prefix:0 "Celto-Romano" #NT!
+ celto_roman_collective_noun:0 "Celto-Romans" #NT!
+ caledo_roman_name:0 "Caledo-Roman" #NT!
+ caledo_roman_prefix:0 "Caledo-Romano" #NT!
+ caledo_roman_collective_noun:0 "Caledo-Romans" #NT!
+ germano_roman_name:0 "Germano-Roman" #NT!
+ germano_roman_prefix:0 "Germano-Romano" #NT!
+ germano_roman_collective_noun:0 "Germano-Romans" #NT!
+ franco_roman_name:0 "Franco-Roman" #NT!
+ franco_roman_prefix:0 "Franco-Romano" #NT!
+ franco_roman_collective_noun:0 "Franco-Romans" #NT!
+ anglo_roman_name:0 "Anglo-Roman" #NT!
+ anglo_roman_prefix:0 "Anglo-Romano" #NT!
+ anglo_roman_collective_noun:0 "Anglo-Romans" #NT!
+ scando_roman_name:0 "Scando-Roman" #NT!
+ scando_roman_prefix:0 "Scando-Romano" #NT!
+ scando_roman_collective_noun:0 "Scando-Romans" #NT!
+ venedo_roman_name:0 "Venedo-Roman" #NT!
+ venedo_roman_prefix:0 "Venedo-Romano" #NT!
+ venedo_roman_collective_noun:0 "Venedo-Romans" #NT!
+ aesto_roman_name:0 "Aesto-Roman" #NT!
+ aesto_roman_prefix:0 "Aesto-Romano" #NT!
+ aesto_roman_collective_noun:0 "Aesto-Romans" #NT!
+ fenno_roman_name:0 "Fenno-Roman" #NT!
+ fenno_roman_prefix:0 "Fenno-Romano" #NT!
+ fenno_roman_collective_noun:0 "Fenno-Romans" #NT!
+ egypto_roman_name:0 "Egypto-Roman" #NT!
+ egypto_roman_prefix:0 "Egypto-Romano" #NT!
+ egypto_roman_collective_noun:0 "Egypto-Romans" #NT!
+ sarmatio_roman_name:0 "Sarmatio-Roman" #NT!
+ sarmatio_roman_prefix:0 "Sarmatio-Romano" #NT!
+ sarmatio_roman_collective_noun:0 "Sarmatio-Romans" #NT!
+ scytho_roman_name:0 "Scytho-Roman" #NT!
+ scytho_roman_prefix:0 "Scytho-Romano" #NT!
+ scytho_roman_collective_noun:0 "Scytho-Romans" #NT!
+ turko_roman_name:0 "Turko-Roman" #NT!
+ turko_roman_prefix:0 "Turko-Romano" #NT!
+ turko_roman_collective_noun:0 "Turko-Romans" #NT!
+ erano_roman_name:0 "Arianian" #NT!
+ erano_roman_prefix:0 "Ariano" #NT!
+ erano_roman_collective_noun:0 "Arianians" #NT!
+ moksha:0 "Moksha" #NT!
+ moksha_prefix:0 "Moksha" #NT!
+ moksha_collective_noun:0 "Mokshas" #NT!
+ udmurt:0 "Udmurt" #NT!
+ udmurt_prefix:0 "Udmurt" #NT!
+ udmurt_collective_noun:0 "Udmurts" #NT!
+
+ soissons:0 "Soissons" #NT!
+ soissons_prefix:0 "Soissono" #NT!
+ soissons_collective_noun:0 "Soi" #NT!
+
+ heritage_semitic_name:0 "Semitic" #NT!
+ #History loc #NT!
+ hispano_roman_history_loc:0 "Formed from [CULTURE.GetName] and several cultures of $celtiberian_group$ [heritage|E] in the year 220 BC" #NT!
+ gallo_roman_history_loc:0 "Formed from [CULTURE.GetName] and [TARGET_CULTURE.GetName] in the year 58 BC" #NT!
+ afro_roman_history_loc:0 "Formed from [CULTURE.GetName] and [TARGET_CULTURE.GetName] in the year 146 BC" #NT!
+ russian_history_loc:0 "Formed from [CULTURE.GetName] and several cultures of East Slavic [heritage|E] in the year [DATE.GetYear]" #NT!
+ anglo_saxon_history_loc:0 "Formed from [CULTURE.GetName] and [TARGET_CULTURE.GetName] in the year [DATE.GetYear]" #NT!
+ iranian_hun_history_loc:0 "Formed from various cultures of $iranian_group$ and $turkic_group$ [heritage|E] in the year [DATE.GetYear]" #NT!
+ tuyuhun_history_loc:0 "Diverged from [CULTURE.GetName] who settled in Lake Qinghai in the year [DATE.GetYear]" #NT!
+ iranian_shaka_history_loc:0 "Formed from [CULTURE.GetName] and [TARGET_CULTURE.GetName] around the year 150 AD" #NT!
+ yuezhi_history_loc:0 "Formed from Indo-European nomads influenced by Iranians and Greeks in the year 176 BC" # Date when Yuezhi split after their defeat by the Xiongnu #NT!
+ punic_history_loc:0 "Diverged from [CULTURE.GetName] around the year 800 BC" #NT!
+ xianbei_history_loc:0 "Formed from [CULTURE.GetName] remnants after their defeat by the Xiongnu in the year 208 BC" #NT!
+ rouran_history_loc:0 "Formed from [CULTURE.GetName] remnants and [TARGET_CULTURE.GetName] around the year 200 AD" #NT!
+ kangju_history_loc:0 "Formed from $iranian_group$ nomads ruling over [TARGET_CULTURE.GetName] peoples around the year 200 BC" #NT!
+ rhaetian_history_loc:0 "Diverged from [CULTURE.GetName] around the year 500 BC" #NT!
+ xiao_yuezhi_history_loc:0 "Formed from [CULTURE.GetName] refugees who sought shelter with the [TARGET_CULTURE.GetName] in the year 176 BC" #NT!
+ elymaean_history_loc:0 "Descended from Neo-[CULTURE.GetName] remnants under Persian rule in the first millennium BC" #NT!
+ nabatean_history_loc:0 "Formed from [CULTURE.GetName] tribes influenced by [TARGET_CULTURE.GetName] culture in the first millennium BC" #NT!
+ arran_history_loc:0 "Formed from [CULTURE.GetName] and several cultures of Caucasian [heritage|E]" #NT!
+ western_suebi_history_loc:0 "Diverged from [CULTURE.GetName] after establishing their own kingdom" #NT!
+ pontic_history_loc:0 "Formed from [CULTURE.GetCollectiveNoun] and [TARGET_CULTURE.GetCollectiveNoun] ruling over Anatolians in the 1st millennium BC" #NT!
+ syrian_history_loc:0 "Formed from [CULTURE.GetName] and [TARGET_CULTURE.GetName] in the year 332 BC" #NT!
+ aegyptian_history_loc:0 "Formed from [CULTURE.GetName] and [TARGET_CULTURE.GetName] in the year 332 BC" #NT!
+ galatian_history_loc:0 "Formed from [CULTURE.GetName] and [TARGET_CULTURE.GetName] in the year 275 BC" #NT!
+ sardinian_history_loc:0 "Formed from [CULTURE.GetName] and [TARGET_CULTURE.GetName] in the year 238 BC" #NT!
+ roman_rhaetian_history_loc:0 "Formed from [CULTURE.GetName] and [TARGET_CULTURE.GetName] in the year 15 BC" #NT!

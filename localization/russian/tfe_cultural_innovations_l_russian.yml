@@ -1,0 +1,7 @@
+﻿l_russian:
+ # Don't need to override the vanilla file #NT!
+
+ innovation_scorpio: "Scorpio" #NT!
+ innovation_equestrian_husbandry: "Equestrian Husbandry" #NT!
+
+ culture_parameter_unlock_maa_scorpion: "Can recruit [GetMaA('scorpion').GetName] as [men_at_arms|E]" #NT!

@@ -1,0 +1,72 @@
+﻿l_russian:
+ islamic_taxes:0 "[GetGovernment( 'muslim_government' ).GetNameNoTooltip] [taxes|E]" #NT!
+ islamic_tax_exempt:0 "Tax Exempt" #NT!
+ islamic_tax_exempt_short:0 "Exempt" #NT!
+ islamic_tax_low:0 "Low $game_concept_taxes$" #NT!
+ islamic_tax_low_short:0 "Low" #NT!
+ islamic_tax_normal:0 "Normal $game_concept_taxes$" #NT!
+ islamic_tax_normal_short:0 "Normal" #NT!
+ islamic_tax_high:0 "High $game_concept_taxes$" #NT!
+ islamic_tax_high_short:0 "High" #NT!
+ islamic_tax_extortionate:0 "Extortionate $game_concept_taxes$" #NT!
+ islamic_tax_extortionate_short:0 "Extortionate" #NT!
+ islamic_levies:0 "[GetGovernment( 'muslim_government' ).GetNameNoTooltip] [levies|E]" #NT!
+ islamic_levies_exempt:0 "No Contribution" #NT!
+ islamic_levies_exempt_short:0 "None" #NT!
+ islamic_levies_low:0 "Low $game_concept_levy$ Contribution" #NT!
+ islamic_levies_low_short:0 "Low" #NT!
+ islamic_levies_normal:0 "Normal $game_concept_levy$ Contribution" #NT!
+ islamic_levies_normal_short:0 "Normal" #NT!
+ islamic_levies_high:0 "High $game_concept_levy$ Contribution" #NT!
+ islamic_levies_high_short:0 "High" #NT!
+ islamic_levies_extortionate:0 "Massive $game_concept_levy$ Contribution" #NT!
+ islamic_levies_extortionate_short:0 "Massive" #NT!
+ caliphate_centralization:0 "[GetGovernment( 'caliphate_government' ).GetNameNoTooltip] Centralization" #NT!
+ no_caliphate_centralization:0 "No Centralization" #NT!
+ no_caliphate_centralization_short:0 "No" #NT!
+ low_caliphate_centralization:0 "Low Centralization" #NT!
+ low_caliphate_centralization_short:0 "Low" #NT!
+ moderate_caliphate_centralization:0 "Moderate Centralization" #NT!
+ moderate_caliphate_centralization_short:0 "Moderate" #NT!
+ high_caliphate_centralization:0 "High Centralization" #NT!
+ high_caliphate_centralization_short:0 "High" #NT!
+ full_caliphate_centralization:0 "Full Centralization" #NT!
+ full_caliphate_centralization_short:0 "Full" #NT!
+ jizya_obligations:0 "Jizya Obligations" #NT!
+ jizya_obligations_none:0 "Exempt from the jizya" #NT!
+ jizya_obligations_none_short:0 "Exempt" #NT!
+ jizya_obligations_enforced:0 "Enforced Jizya" #NT!
+ jizya_obligations_enforced_short:0 "Enforced" #NT!
+ dynastic_autonomy:0 "Dynastic Autonomy" #NT!
+ dynastic_autonomy_none:0 "No Dynastic Autonomy" #NT!
+ dynastic_autonomy_granted:0 "Dynastic Autonomy Granted" #NT!
+ dynastic_autonomy_none_short:0 "None" #NT!
+ dynastic_autonomy_granted_short:0 "Granted" #NT!
+ caliphate_zakah_rights:0 "Caliphate Zakah Rights" #NT!
+ caliphate_zakah_rights_none:0 "Free Caliph Zakah Rights" #NT!
+ caliphate_zakah_rights_enforced:0 "Enforced Caliph Zakah Rights" #NT!
+ caliphate_zakah_rights_none_short:0 "Free" #NT!
+ caliphate_zakah_rights_enforced_short:0 "Enforced" #NT!
+ gupta_organization:0 "[GetGovernment( 'gupta_government' ).GetNameNoTooltip] Organization" #NT!
+ full_gold_gupta_organization:0 "Full Tax Focus" #NT!
+ full_gold_gupta_organization_short:0 "Full Tax" #NT!
+ medium_gold_gupta_organization:0 "Partial Tax Focus" #NT!
+ medium_gold_gupta_organization_short:0 "Partial Tax" #NT!
+ no_gupta_organization:0 "No Focus" #NT!
+ no_gupta_organization_short:0 "No Focus" #NT!
+ medium_levy_gupta_organization:0 "Partial Levy Focus" #NT!
+ medium_levy_gupta_organization_short:0 "Partial Levy" #NT!
+ full_levy_gupta_organization:0 "Full Levy Focus" #NT!
+ full_levy_gupta_organization_short:0 "Full Levy" #NT!
+
+ gupta_nobility_scutage:0 "Nobility Scutage" #NT!
+ gupta_nobility_scutage_none:0 "None" #NT!
+ gupta_nobility_scutage_none_short:0 "None" #NT!
+ gupta_nobility_scutage_on:0 "Scutage Enacted" #NT!
+ gupta_nobility_scutage_on_short:0 "Enacted" #NT!
+
+ roman_contracts:0 "Roman Bureaucratic Contracts" #NT!
+ roman_contracts_none:0 "None" #NT!
+ roman_contracts_none_short:0 "None" #NT!
+ roman_contracts_foederati:0 "Foederati" #NT!
+ roman_contracts_foederati_short:0 "Foederati" #NT!

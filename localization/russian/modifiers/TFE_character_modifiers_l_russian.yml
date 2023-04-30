@@ -1,0 +1,178 @@
+﻿l_russian:
+ swords_bent_modifier:0 "Swords Bent" #NT!
+ swords_bent_modifier_desc:0 "This character's armies have been decommissioned after they were crushed in a war." #NT!
+
+ red_king_modifier:0 "Red King" #NT!
+ red_queen_modifier:0 "Red Queen" #NT!
+ caliph_auth:0 "Caliphate Authority" #NT!
+ statue_gold:0 "Gold Statue" #NT!
+ statue_marble:0 "Marble Statue" #NT!
+ statue_limestone:0 "Limestone Statue" #NT!
+ statue_stone:0 "Stone Statue" #NT!
+ statue_char_gold:0 "Gold Statue" #NT!
+ statue_char_marble:0 "Marble Statue" #NT!
+ statue_char_limestone:0 "Limestone Statue" #NT!
+ statue_char_stone:0 "Stone Statue" #NT!
+ statue_char_copper:0 "Copper Statue" #NT!
+ statue_copper:0 "Copper Statue" #NT!
+ monument_gardens:0 "Monument Gardens" #NT!
+ monument_gardens_char:0 "Monument Gardens" #NT!
+
+ monument_fences:0 "Monument Fences" #NT!
+ monument_fences_char:0 "Monument Fences" #NT!
+
+ TFE_refused_to_give_up_dunhuang:0 "Refused to Give Up Dunhuang" #NT!
+ TFE_refused_to_give_up_dunhuang_desc:0 "This character refused to give up the governorship of Dunhuang, even though everyone agreed there was a much worthier and better candidate for the job. What an arrogant imbecile, indeed!" #NT!
+ TFE_king_of_the_goths_modifier:0 "King of the Goths" #NT!
+ TFE_king_of_the_goths_modifier_desc:0 "This character has been proclamed King of the Goths by his people and will stop at nothing to humiliate his enemies." #NT!
+ distribute_bread_modifier:0 "Free Distribution of Bread" #NT!
+ distribute_bread_modifier_desc:0 "The people of this county have received free bread and food. Enough to survive and stay calm, even in times of need.\n#F Counties with this [modifier|E] cannot join #V $FACTION_PEASANT_NAME$#! [factions|E].#!" #NT!
+
+ gladiatorial_games_very_bad_modifier:0 "Very Bad Gladiatorial Games" #NT!
+ gladiatorial_games_very_bad_modifier_desc:0 "The people of this county are in an uproar and state of open revolt after what they consider to be disastrous and outrageous gladiatorial games." #NT!
+ gladiatorial_games_bad_modifier:0 "Bad Gladiatorial Games" #NT!
+ gladiatorial_games_bad_modifier_desc:0 "The people of this county have heavily disliked the recent gladiatorial games, and they are making it known." #NT!
+ gladiatorial_games_good_modifier:0 "Good Gladiatorial Games" #NT!
+ gladiatorial_games_good_modifier_desc:0 "The people of this county have been satisfied by the recent gladiatorial games." #NT!
+ gladiatorial_games_very_good_modifier:0 "Very Good Gladiatorial Games" #NT!
+ gladiatorial_games_very_good_modifier_desc:0 "The people of this county are constantly celebrating thanks to the recent gladiatorial games." #NT!
+
+ broken_bureaucratic_chain:0 "Broken Bureaucratic Chain" #NT!
+ broken_bureaucratic_chain_desc:0 "This character has yet to move on from his old liege's incompetence and establish a new autocratic realm" #NT!
+
+ senate_term:0 "Senate Term" #NT!
+ senate_term_desc:0 "This character will stay a senator until his term of 5 years ends" #NT!
+ minumum_senate_admin:0 "Minimum Senate Administration" #NT!
+ taxing_rights_senate_admin:0 "Senate Taxing Rights" #NT!
+ absolute_senate_admin:0 "Absolute Senate Administration" #NT!
+ exclusion_senate_mil:0 "Senate Exclusion From Military" #NT!
+ regular_senate_mil:0 "Regular Census Senate Rights" #NT!
+ retinue_senate_mil:0 "Trained Retinue Senate Rights" #NT!
+ no_senate_legislation:0 "No Senate Legislation" #NT!
+ regular_senate_legislation:0 "Regular Senate Legislation" #NT!
+ absolute_senate_legislation:0 "Absolute Senate Legislation" #NT!
+
+ minumum_senate_admin_desc:0 "" #NT!
+ taxing_rights_senate_admin_desc:0 "" #NT!
+ absolute_senate_admin_desc:0 "" #NT!
+ exclusion_senate_mil_desc:0 "" #NT!
+ regular_senate_mil_desc:0 "" #NT!
+ retinue_senate_mil_desc:0 "" #NT!
+ no_senate_legislation_desc:0 "" #NT!
+ regular_senate_legislation_desc:0 "" #NT!
+ absolute_senate_legislation_desc:0 "" #NT!
+
+ # All the literacy modifiers #NT!
+ script_grandeur_bonus:0 "Writing System" #NT!
+
+ # Roman Baths #NT!
+ TFE_recently_built_baths_roman_province_small:0 "Roman Baths Recently Built (Small)" #NT!
+ TFE_recently_built_baths_roman_province_small_desc:0 "Local authorities recently built an important Roman bathhouse in this region's capital, raising the locals' quality of life.\n\n#italic The [ruler|E] of this [county|E] will lose additional [stress|E] when taking the [decision|E] to $TFE_visit_roman_bathhouse$#!" #NT!
+ TFE_recently_built_baths_non_roman_province_small:0 "$TFE_recently_built_baths_roman_province_small$" #NT!
+ TFE_recently_built_baths_non_roman_province_small_desc:0 "$TFE_recently_built_baths_roman_province_small_desc$" #NT!
+ TFE_recently_built_baths_roman_province_medium:0 "Roman Baths Recently Built (Medium)" #NT!
+ TFE_recently_built_baths_roman_province_medium_desc:0 "$TFE_recently_built_baths_roman_province_small_desc$" #NT!
+ TFE_recently_built_baths_non_roman_province_medium:0 "$TFE_recently_built_baths_roman_province_medium$" #NT!
+ TFE_recently_built_baths_non_roman_province_medium_desc:0 "$TFE_recently_built_baths_roman_province_small_desc$" #NT!
+ TFE_recently_built_baths_roman_province_large:0 "Roman Baths Recently Built (Large)" #NT!
+ TFE_recently_built_baths_roman_province_large_desc:0 "$TFE_recently_built_baths_roman_province_small_desc$" #NT!
+ TFE_recently_built_baths_non_roman_province_large:0 "$TFE_recently_built_baths_roman_province_large$" #NT!
+ TFE_recently_built_baths_non_roman_province_large_desc:0 "$TFE_recently_built_baths_roman_province_small_desc$" #NT!
+
+ # Holy Wells #NT!
+ TFE_holy_well_level_1:0 "Minor Holy Well Recently Consecrated" #NT!
+ TFE_holy_well_level_1_desc:0 "The religious authorities in this region recently consecrated a holy well of some renown. Devotees are flocking to the site from nearby regions to pray and leave offerings.\n\n#italic The [ruler|E] of this [county|E] can take the [decision|E] to $TFE_visit_holy_well$ if their [culture|E] has the $tradition_sacred_springs_name$ [tradition|E]. A minor holy well offers fewer bonuses when taking this [decision|E], compared to major and great holy wells.#!" #NT!
+ TFE_holy_well_level_2:0 "Major Holy Well Recently Consecrated" #NT!
+ TFE_holy_well_level_2_desc:0 "The religious authorities in this region recently consecrated a holy well of some renown. Devotees are flocking to the site from the surrounding region to pray and leave offerings.\n\n#italic The [ruler|E] of this [county|E] can take the [decision|E] to $TFE_visit_holy_well$ if their [culture|E] has the $tradition_sacred_springs_name$ [tradition|E]. A major holy well offers more bonuses when taking this [decision|E] compared to a minor holy well, but less when compared to a great holy well.#!" #NT!
+ TFE_holy_well_level_3:0 "Great Holy Well Recently Consecrated" #NT!
+ TFE_holy_well_level_3_desc:0 "The religious authorities in this region recently consecrated a holy well of some renown. Devotees are flocking to the site from nearby regions to pray and leave offerings.\n\n#italic The [ruler|E] of this [county|E] can take the [decision|E] to $TFE_visit_holy_well$ if their [culture|E] has the $tradition_sacred_springs_name$ [tradition|E]. A great holy well offers more bonuses when taking this [decision|E], compared to minor and major holy wells.#!" #NT!
+ TFE_healing_waters_of_a_holy_well:0 "Healing Waters of a Holy Well" #NT!
+ TFE_healing_waters_of_a_holy_well_desc:0 "This character recently visited a holy well to pray and make religious offerings. Afterwards, this character felt like they were spiritually and physically rejuvenated." #NT!
+
+
+ sow_dissent_ere:0 "Sown Dissent" #NT!
+ sow_dissent_ere_desc:0 "The ruler of Italy has sown dissent in the empire to weaken the Emperor's position" #NT!
+
+ fellow_heptarch:0 "Fellow Heptarch" #NT!
+ fellow_heptarch_desc:0 "This ruler is a respected figurehead in the new political order of Britannia" #NT!
+
+ # Old North stuff #NT!
+ patron_of_trade:0 "Patron of Trade" #NT!
+
+# Misc stuff #NT!
+ bloody_pants_char:0 "You have forbidden foreign fashion..." #NT!
+
+ sevenhouses_bad_modifier_strong:0 "Unfavoured by the Great Houses (Strong)" #NT!
+ sevenhouses_bad_modifier_strong_desc:0 "This Shah is not favoured by the [great_houses|E], causing the shah's position to be less secure and increasingly questioned by many outside and within the empire." #NT!
+ sevenhouses_good_modifier_strong:0 "Favoured by the Great Houses (Strong)" #NT!
+ sevenhouses_good_modifier_strong_desc:0 "This Shah is favoured by the [great_houses|E] of Ērān, causing the shah's position to be more secure and accepted by most of Ērān." #NT!
+
+ sevenhouses_bad_modifier:0 "Unfavoured by the Great Houses" #NT!
+ sevenhouses_bad_modifier_desc:0 "This Shah is not favoured by the [great_houses|E], causing the shah's position to be less secure and increasingly questioned by many outside and within the empire." #NT!
+ sevenhouses_good_modifier:0 "Favoured by the Great Houses" #NT!
+ sevenhouses_good_modifier_desc:0 "This Shah is favoured by the [great_houses|E] of Ērān, causing the shah's position to be more secure and accepted by most of Ērān." #NT!
+
+ sevenhouses_bad_modifier_strong_dehqan:0 "Unfavoured by the Great Houses (Strong)" #NT!
+ sevenhouses_bad_modifier_strong_dehqan_desc:0 "This Shah is not favoured by the [great_houses|E], causing the shah's position to be less secure and increasingly questioned by many outside and within the empire." #NT!
+ sevenhouses_good_modifier_strong_dehqan:0 "Favoured by the Great Houses (Strong)" #NT!
+ sevenhouses_good_modifier_strong_dehqan_desc:0 "This Shah is favoured by the [great_houses|E] of Ērān, causing the shah's position to be more secure and accepted by most of Ērān." #NT!
+
+ sevenhouses_bad_modifier_dehqan:0 "Unfavoured by the Great Houses" #NT!
+ sevenhouses_bad_modifier_dehqan_desc:0 "This Shah is not favoured by the [great_houses|E], causing the shah's position to be less secure and increasingly questioned by many outside and within the empire." #NT!
+ sevenhouses_good_modifier_dehqan:0 "Favoured by the Great Houses" #NT!
+ sevenhouses_good_modifier_dehqan_desc:0 "This Shah is favoured by the [great_houses|E] of Ērān, causing the shah's position to be more secure and accepted by most of Ērān." #NT!
+
+ avenged_worms_modifier:0 "Avenged the Kingdom of Worms" #NT!
+
+ migration_leader:0 "Migration Leader" #NT!
+ migration_leader_desc:0 "This character has devoted their life towards the goal of providing their people a better future." #NT!
+
+ established_suebians:0 "Established a kingdom for the Suebians" #NT!
+
+ # Donatist Revolt #NT!
+ donatist_leader_modifier:0 "Leader of the Donatists" #NT!
+
+ #The Theodorics #NT!
+ king_of_the_ostrogoths:0 "King of the Ostrogoths" #NT!
+ king_of_the_ostrogoths_desc:0 "A silver-tongued diplomat, a cunning commander and an able administrator -- Theodoric has truly earned the epithet 'the Great'" #NT!
+
+ zenos_blessing:0 "Zeno's Blessing" #NT!
+ zenos_blessing_desc:0 "Zeno nominally backs this character's endeavors, but the Emperor is ever wary of potential threats from within the Empire" #NT!
+
+ pillager_king:0 "Feared Raider" #NT!
+ pillager_king_desc:0 "This character has become almost clinically efficient at pillaging and plundering" #NT!
+
+ reinvested_gift:0 "Reinvested Gift" #NT!
+ rearmed_personal_guard:0 "Rearmed Personal Guard" #NT!
+
+ #Scapulimancy #NT!
+ insane_diplomacy_scapulimancy:0 "Amazing Diplomatic Portents" #NT!
+ great_diplomacy_scapulimancy:0 "Great Diplomatic Portents" #NT!
+ good_diplomacy_scapulimancy:0 "Good Diplomatic Portents" #NT!
+ neutral_diplomacy_scapulimancy:0 "Neutral Diplomatic Portents" #NT!
+ bad_diplomacy_scapulimancy:0 "Bad Diplomactic Portents" #NT!
+ terrible_diplomacy_scapulimancy:0 "Terrible Diplomatic Portents" #NT!
+ insane_military_scapulimancy:0 "Amazing Martial Portents" #NT!
+ great_military_scapulimancy:0 "Great Martial Portents" #NT!
+ good_military_scapulimancy:0 "Good Martial Portents" #NT!
+ neutral_military_scapulimancy:0 "Neutral Martial Portents" #NT!
+ bad_military_scapulimancy:0 "Bad Martial Portents" #NT!
+ terrible_military_scapulimancy:0 "Terrible Martial Portents" #NT!
+ insane_stewardship_scapulimancy:0 "Amazing Stewardship Portents" #NT!
+ great_stewardship_scapulimancy:0 "Great Stewardship Portents" #NT!
+ good_stewardship_scapulimancy:0 "Good Stewardship Portents" #NT!
+ neutral_stewardship_scapulimancy:0 "Neutral Stewardship Portents" #NT!
+ bad_stewardship_scapulimancy:0 "Bad Stewardship Portents" #NT!
+ terrible_stewardship_scapulimancy:0 "Terrible Stewardship Portents" #NT!
+ insane_intrigue_scapulimancy:0 "Amazing Intrigue Portents" #NT!
+ great_intrigue_scapulimancy:0 "Great Intrigue Portents" #NT!
+ good_intrigue_scapulimancy:0 "Good Intrigue Portents" #NT!
+ neutral_intrigue_scapulimancy:0 "Neutral Intrigue Portents" #NT!
+ bad_intrigue_scapulimancy:0 "Bad Intrigue Portents" #NT!
+ terrible_intrigue_scapulimancy:0 "Terrible Intrigue Portents" #NT!
+ insane_learning_scapulimancy:0 "Amazing Learning Portents" #NT!
+ great_learning_scapulimancy:0 "Great Learning Portents" #NT!
+ good_learning_scapulimancy:0 "Good Learning Portents" #NT!
+ neutral_learning_scapulimancy:0 "Neutral Learning Portents" #NT!
+ bad_learning_scapulimancy:0 "Bad Learning Portents" #NT!
+ terrible_learning_scapulimancy:0 "Terrible Learning Portents" #NT!

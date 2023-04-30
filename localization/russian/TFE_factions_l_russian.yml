@@ -1,0 +1,11 @@
+﻿l_russian:
+ ridda_faction:0 "Ridda Faction" #NT!
+ ridda_faction_desc:0 "Members of the Ridda [faction|E] seek independence from the Caliphate.\n\n#S Ultimatum#!\nAll Faction Members become [independent|E]\n[liege|E] loses [prestige|E]\nFaction Members Revert to Arab Paganism" #NT!
+ ridda_faction_short_effect_desc:0 "Wants Independence from the Caliphate" #NT!
+
+ first_fitna_faction:0 "Fitna Faction" #NT!
+ first_fitna_faction_desc:0 "Members of the Fitna want to abolish the old ways of the Rashidun Caliphate" #NT!
+ first_fitna_faction_short_effect_desc:0 "Wants To Claim The Caliphate" #NT!
+
+ ridda_ui_trigger:0 "Create Ridda Faction" #NT!
+ fitna_ui_trigger:0 "Create Fitna Faction" #NT!

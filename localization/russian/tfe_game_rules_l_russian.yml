@@ -1,0 +1,79 @@
+﻿l_russian:
+ rule_tfe_migrations: "Migrations" #NT!
+ setting_tfe_migrations_very_rare: "Very Rare" #NT!
+ setting_tfe_migrations_very_rare_desc: "The AI will attempt to migrate every 25 years." #NT!
+ setting_tfe_migrations_rare: "Rare" #NT!
+ setting_tfe_migrations_rare_desc: "The AI will attempt to migrate every 15 years." #NT!
+ setting_tfe_migrations_occasional: "Occasional" #NT!
+ setting_tfe_migrations_occasional_desc: "The AI will attempt to migrate every 10 years." #NT!
+ setting_tfe_migrations_frequent: "Frequent" #NT!
+ setting_tfe_migrations_frequent_desc: "The AI will attempt to migrate every 5 years." #NT!
+ setting_tfe_migrations_very_frequent: "Very Frequent" #NT!
+ setting_tfe_migrations_very_frequent_desc: "The AI will attempt to migrate every 3 years." #NT!
+ setting_tfe_migrations_apocalyptic: "Apocalyptic" #NT!
+ setting_tfe_migrations_apocalyptic_desc: "The AI will attempt to migrate every year." #NT!
+ setting_tfe_migrations_off: "Off" #NT!
+ setting_tfe_migrations_off_desc: "The AI will never attempt to migrate." #NT!
+ rule_tfe_historical_migrations: "Historical Migrations" #NT!
+ setting_tfe_historical_migrations_default: "Default" #NT!
+ setting_tfe_historical_migrations_default_desc: "AI migrations are more likely to be historical." #NT!
+ setting_tfe_historical_migrations_strict: "#high Strict#!" #NT!
+ setting_tfe_historical_migrations_strict_desc: "AI migrations will almost always be historical." #NT!
+ setting_tfe_historical_migrations_relaxed: "#high Relaxed#!" #NT!
+ setting_tfe_historical_migrations_relaxed_desc: "AI migrations do not have any weighting." #NT!
+ rule_tfe_nomadic_migrations: "Nomadic Migrations" #NT!
+ setting_tfe_nomadic_migrations_very_rare: "Very Rare" #NT!
+ setting_tfe_nomadic_migrations_very_rare_desc: "Nomads will attempt to migrate every 25 years." #NT!
+ setting_tfe_nomadic_migrations_rare: "Rare" #NT!
+ setting_tfe_nomadic_migrations_rare_desc: "Nomads will attempt to migrate every 15 years." #NT!
+ setting_tfe_nomadic_migrations_occasional: "Occasional" #NT!
+ setting_tfe_nomadic_migrations_occasional_desc: "Nomads will attempt to migrate every 10 years." #NT!
+ setting_tfe_nomadic_migrations_frequent: "Frequent" #NT!
+ setting_tfe_nomadic_migrations_frequent_desc: "Nomads will attempt to migrate every 5 years." #NT!
+ setting_tfe_nomadic_migrations_very_frequent: "Very Frequent" #NT!
+ setting_tfe_nomadic_migrations_very_frequent_desc: "Nomads will attempt to migrate every 3 years." #NT!
+ setting_tfe_nomadic_migrations_apocalyptic: "Apocalyptic" #NT!
+ setting_tfe_nomadic_migrations_apocalyptic_desc: "Nomads will attempt to migrate every year." #NT!
+ setting_tfe_nomadic_migrations_off: "Off" #NT!
+ setting_tfe_nomadic_migrations_off_desc: "Nomads will never attempt to migrate." #NT!
+
+ migration.0012.desc: "[migrator.GetName]\n[migration_origin.GetName]\n[migration_destination.GetName]" #NT!
+
+
+ rule_imperial_internal_wars: "Imperial Internal Wars" #NT!
+ setting_imperial_war_enabled: "Enabled" #NT!
+ setting_imperial_war_enabled_desc: "Imperial vassals will be able to declare war on each other." #NT!
+ setting_imperial_war_disabled: "Disabled" #NT!
+ setting_imperial_war_disabled_desc: "Imperial vassals will not be able to declare war on each other (Historical)." #NT!
+
+ rule_larp: "Ahistorical Restoration Decisions" #NT!
+ setting_larp_enabled: "Enabled" #NT!
+ setting_larp_enabled_desc: "Grossly ahistorical restoration decisions (\"Larp\" decisions) and ahistorical cultures will be available." #NT!
+ setting_larp_disabled: "Disabled" #NT!
+ setting_larp_disabled_desc: "Grossly ahistorical restoration decisions (\"Larp\" decisions) and ahistorical cultures will not be available." #NT!
+
+ rule_imperial_competence_partial_collapse: "Imperial Partial Collapse" #NT!
+ setting_imperial_competence_partial_collapse_enabled: "Enabled" #NT!
+ setting_imperial_competence_partial_collapse_enabled_desc: "(Recommended for experienced players) Some Imperial vassals will secede if 2 competence bars fall." #NT!
+ setting_imperial_competence_partial_collapse_disabled: "Disabled" #NT!
+ setting_imperial_competence_partial_collapse_disabled_desc: "(Recommended for new players) Partial Collapse is disabled, doesn't affect total collapse." #NT!
+
+ rule_imperial_competence_collapse: "Imperial Collapse" #NT!
+ setting_imperial_competence_collapse_enabled: "Enabled" #NT!
+ setting_imperial_competence_collapse_enabled_desc: "(Recommended for experienced players) The empire will be destroyed if all competence bars fall." #NT!
+ setting_imperial_competence_collapse_disabled: "Disabled" #NT!
+ setting_imperial_competence_collapse_disabled_desc: "(Recommended for new players) The empire will not be destroyed if all competence bars fall, doesn't affect partial collapse." #NT!
+
+ rule_office_events: "Military Office Events" #NT!
+ setting_office_events_enabled: "Enabled" #NT!
+ setting_office_events_enabled_desc: "As a bureaucratic empire, you will get an event each time a direct vassal dies for you to decide who gains the office after them." #NT!
+ setting_office_events_disabled: "Disabled" #NT!
+ setting_office_events_disabled_desc: "As a bureaucratic empire, you will not get the military office events and instead it will automatically choose the option for the Senate to decide who gains the office." #NT!
+
+ rule_imperial_competence:0 "Imperial Competence" #NT!
+ setting_imperial_competence_enabled:0 "#high Enabled#!" #NT!
+ setting_imperial_competence_enabled_desc:0 "(Recommended for Experienced Players) You play with the challenge of keeping your Imperial Competence stable." #NT!
+ setting_imperial_competence_enabled_in_430:0 "#high Enabled After 430 AD#!" #NT!
+ setting_imperial_competence_enabled_in_430_desc:0 "You play with the challenge of keeping your Imperial Competence stable after the year 430 AD." #NT!
+ setting_imperial_competence_disabled:0 "#high Disabled#!" #NT!
+ setting_imperial_competence_disabled_desc:0 "(Recommended for New Players) You play without the challenge of keeping your Imperial Competence stable." #NT!

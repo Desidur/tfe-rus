@@ -1,0 +1,16 @@
+﻿l_russian:
+ TFE_culture_decisions.0001.t:0 "Let Them Eat Bread!" #NT!
+ TFE_culture_decisions.0001.desc:0 "A hungry population is a powerful one - a fact that rich and powerful rulers from my culture have understood well. It is customary to distribute necessities like bread whenever the population begins to grow more agitated. While it is expensive and temporary, it has brought peace to many regions where they were at a breaking point.\n\nHowever, it can be #emp very#! expensive; peace isn't cheap, after all." #NT!
+ TFE_culture_decisions.0001.a:0 "Distribute bread in the capital, [ROOT.Char.GetCapitalLocation.GetCounty.GetTitle.GetNameNoTierNoTooltip]." #NT!
+ TFE_culture_decisions.0001.b:0 "Distribute bread in the capital and its surrounding region, [ROOT.Char.GetCapitalLocation.GetCounty.GetTitle.GetDeJureLiege.GetNameNoTierNoTooltip]." #NT!
+ every_owned_county_within_de_jure_capital_kingdom_tt:0 "Every owned county within your capital de jure kingdom" #NT!
+ TFE_culture_decisions.0001.c:0 "Distribute bread all around the realm, [ROOT.Char.GetCapitalLocation.GetCounty.GetTitle.GetDeJureLiege.GetDeJureLiege.GetNameNoTierNoTooltip]." #NT!
+ every_owned_county_within_de_jure_capital_empire_tt:0 "Every owned county within your capital de jure empire" #NT!
+ TFE_culture_decisions.0001.d:0 "Distribute bread throughout the whole [ROOT.Char.GetCapitalLocation.GetCounty.GetTitle.GetDeJureLiege.GetDeJureLiege.GetDeJureLiege.GetNameNoTierNoTooltip]." #NT!
+ TFE_culture_decisions.0001.e:0 "#emp Very#! expensive, indeed." #NT!
+ TFE_culture_decisions.0001.e_effect:0 "No bread will be given out." #NT!
+
+ # Djeddar #NT!
+ TFE_djeddar_decision.t:0 "Djeddar Built" #NT!
+ TFE_djeddar_decision.desc:0 "As is tradition, a small group from my court gathered to bury my predecessor's body inside a newly built djeddar so that we could give them a proper burial." #NT!
+ TFE_djeddar_decision.a:0 "Rest in peace." #NT!

@@ -1,0 +1,64 @@
+﻿l_russian:
+ ################################################## #NT!
+ # #General Character Modifiers #NT!
+ capital_of_visigoths_opinion_modifier:0 "A Growing Capital" #NT!
+ capital_of_visigoths_opinion_modifier_desc:0 "The constant influx of goods, merchants, and thralls into this county has left its people utterly content." #NT!
+ capital_of_visigoths_misc_benefits_modifier:0 "Visigothic Capital" #NT!
+ capital_of_visigoths_misc_benefits_modifier_desc:0 "This settlement is #EMP the#! regional hub for Goths and Romans alike, and enjoys ample benefits for being home to innumerable bands of adventurers, conquerors, and pirates." #NT!
+
+# Disasters! #NT!
+ # County Modifiers #NT!
+  disaster_ager_wrecked:0 "This land has been devastated" #NT!
+   disaster_ager_helped:0 "This land has received relief aid" #NT!
+  disaster_earthquake_latium:0 "An earthquake struck Latium" #NT!
+  edessa_flooded:0 "A massive flood has completely destroyed the city" #NT!
+   disaster.edessa.secured.heavy.1:0 "This city is undergoing restoration" #NT!
+   disaster.edessa.secured.light.1:0 "Humanitarian efforts are taking place" #NT!
+   disaster.edessa.secured.heavy.2:0 "This city is undergoing restoration" #NT!
+   disaster.edessa.secured.light.2:0 "Humanitarian efforts are taking place" #NT!
+   edessa_rebuilt:0 "The city has been rebuilt" #NT!
+   county_raised_monument_modifier:0 "Monument" #NT!
+   county_built_djeddar_modifier:0 "Djeddar" #NT!
+ # Province Modifiers #NT!
+  disaster_random_avalanche:0 "An avalanche fell on this land" #NT!
+  disaster_random_landslide:0 "A landslide wrecked the county" #NT!
+  disaster_random_tornado:0 "A tornado laid waste to the province" #NT!
+  disaster_random_floods:0 "Floods engulfed the area" #NT!
+  disaster_random_fires:0 "Fires laid waste to the region" #NT!
+  disaster_random_earthquake:0 "An earthquake shattered the land" #NT!
+
+# misc events #NT!
+ auxerre_monastery:0 "The Monastery of Saint-Germain-l'Auxerrois" #NT!
+ bloody_pants:0 "Banned foreign fashion" #NT!
+
+# Struggle #NT!
+ struggle_kentish_ragstone_quarry:0 "Kentish Ragstone Quarry" #NT!
+ struggle_kentish_ragstone_quarry_desc:0 "A powerful quarry is being exploited near the settlement, granting cheap but sturdy materials for their buildings." #NT!
+
+ marib_dam_restored:0 "Restored Ma'rib Dam" #NT!
+ marib_dam_restored_desc:0 "This area is benefiting from the successful restoration of the nearby Ma'rib Dam." #NT!
+
+ marib_dam_restored_fail:0 "Failed Restoration of The Ma'rib Dam" #NT!
+ marib_dam_restored_fail_desc:0 "The people of this area previously had raised hopes that the nearby dam would be restored, but now they are disappointed with the failure of the project and the incompetence of its overseers." #NT!
+
+# HoS #NT!
+ gurgan_wall_modifier:0 "The Great Gorgan Wall" #NT!
+ gurgan_wall_modifier_desc:0 "Larger than Hadrian's Wall and the Antonine Wall combined, the Great Gorgan Wall will deter any northern nomadic incursion into the lands of Ērān." #NT!
+
+ baghdad_recently_built:0 "Baghdad recently constructed" #NT!
+ rebellious_people:0 "Rebellious" #NT!
+
+ carrhae_avenged:0 "Carrhae Avenged" #NT!
+
+ unruly_lords:0 "Unruly Lords" #NT!
+ bought_out_retinue:0 "Bought Out Retinue" #NT!
+ salaries_increased:0 "Salaries Increased" #NT!
+ missing_scholars:0 "Missing Scholars" #NT!
+ sown_dissent_opinion:0 "Sown Dissent" #NT!
+ new_markets:0 "New Markets" #NT!
+ new_forests:0 "New Forests" #NT!
+ field_workers:0 "Many Field Workers" #NT!
+ increased_traders:0 "Increased Trade" #NT!
+ increased_field_workers:0 "Increased Farming" #NT!
+ senators_solved_popular_issues:0 "Senators Solved Popular Issues" #NT!
+ withheld_bread_modifier:0 "Withheld Bread" #NT!

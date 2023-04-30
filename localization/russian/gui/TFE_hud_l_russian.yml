@@ -1,0 +1,18 @@
+﻿l_russian:
+ SENATE_HUD_TOOLTIP:0 "#T The Imperial Senate#" #NT!
+ SENATE_HUD_TOOLTIP_desc:0 "By the dawn of the 5th century AD, the Senate had lost most of its authority through centuries of reforms, transfers of powers, and the growing authority of the Roman Emperors. In spite of its decline, its members retain varying degrees of influence and prestige." #NT!
+ SEVEN_HOUSES_BUTTON:0 "#T The Great Houses#" #NT!
+ SEVEN_HOUSES_SUB_HEADING:0 "The Seven Houses" #NT!
+ SEVEN_HOUSES_SHAH:0 "The Shahanshah" #NT!
+ SEVEN_HOUSES_STRENGTH:0 "[great_house_strength|E]" #NT!
+ SEVEN_HOUSES_FAVOR:0 "[great_house_favor|E]" #NT!
+
+ trade_button_tooltip:0 "#T Inspect Trade Node#!" #NT!
+ monuments_button_tooltip:0 "#T Commission Monument#!" #NT!
+ monuments_view_button_tooltip:0 "#T View Monument#!" #NT!
+
+ MARS_UI_NAME:0 "[Select_CString(EqualTo_string(FaithWindow.GetFaith.GetNameNoTooltip, Localize('roman_pagan')), 'Mars ', 'Ares ')]" #NT!
+ MERCURY_UI_NAME:0 "[Select_CString(EqualTo_string(FaithWindow.GetFaith.GetNameNoTooltip, Localize('roman_pagan')), 'Mercury  ', 'Hermes ')]" #NT!
+ MINERVA_UI_NAME:0 "[Select_CString(EqualTo_string(FaithWindow.GetFaith.GetNameNoTooltip, Localize('roman_pagan')), 'Minerva  ', 'Athena ')]" #NT!
+ LAVERNA_UI_NAME:0 "[Select_CString(EqualTo_string(FaithWindow.GetFaith.GetNameNoTooltip, Localize('roman_pagan')), 'Laverna  ', 'Laverna ')]" #NT!
+ VENUS_UI_NAME:0 "[Select_CString(EqualTo_string(FaithWindow.GetFaith.GetNameNoTooltip, Localize('roman_pagan')), 'Venus  ', 'Aphrodite ')]" #NT!

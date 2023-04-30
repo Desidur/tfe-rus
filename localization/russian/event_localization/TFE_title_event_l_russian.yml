@@ -1,0 +1,20 @@
+﻿l_russian:
+ tfe_title_event.0002.t:0 "[title.GetName] Military Office Opened" #NT!
+ tfe_title_event.0002.desc:0 "The old office in [title.GetName] has been cleared and it's time to choose a new person to fill their role. Military offices require experience in both governance and military affairs and picking the right person could be the difference between a prosperous empire and one in ashes." #NT!
+ tfe_title_event.0002.option.a:0 "I'll leave it to the will of the council" #NT!
+ tfe_title_event.0002.option.a.tooltip:0 "The office will be given to a vassal in the dejure region of the title. If the Senate exists, the office will probably given to a vassal who bribed the Senate. Else, it will be given to the best vassal in terms of martial skill." #NT!
+ tfe_title_event.0002.option.b:0 "I'll pick the person myself" #NT!
+
+ tfe_title_event.0003.t:0 "[title_old_office.GetName] Military Office Opened" #NT!
+ tfe_title_event.0003.desc:0 "The old office in [title_old_office.GetName] has been cleared and it's time to choose a new person to fill their role. Military offices require experience in both governance and military affairs and picking the right person could be the difference between a prosperous empire and one in ashes." #NT!
+
+ tfe_title_event.0004.t:0 "Splitting the Roman Empire" #NT!
+ tfe_title_event.0004.desc:0 "Many years ago, [diocletian.GetFirstName] solved decades of imperial crisis and civil war through a series of reforms. Among these was splitting the Empire between four Emperors. While his system did not last, it helped the Empire rebuild by taking the burden of rulership off of one person's shoulders.\n\nThe Empire now faces many external and internal problems. To make the Empire more manageable, it needs to be split again, this time into two halves: a Western half centered on Italia, and an Eastern half centered on Constantinople.\n\nThe big question that remains is whether to do this now, or later. On one hand, ruling a united Empire is an overwhelming burden on myself. On the other hand, if I am confident enough in my abilities to hold the Empire together for the short-term, we can have it split between my heirs #italic after#! I die." #NT!
+ tfe_title_event.0004.a:0 "This split needs to happen now." #NT!
+ tfe_title_event.0004.b:0 "We can wait until I pass away." #NT!
+
+ tfe_title_event.0005.t:0 "Splitting the Roman Empire" #NT!
+ tfe_title_event.0005.desc:0 "Many years ago, [diocletian.GetFirstName] solved decades of imperial crisis and civil war through a series of reforms. Among these was splitting the Empire between four Emperors. While his system did not last, it helped the Empire rebuild by taking the burden of rulership off of one person's shoulders.\n\nhe Empire now faces many external and internal problems. The current Emperor, [split_emperor.GetFirstName] wants to split it into two halves: a Western half centered on Italia, and an Eastern half centered on Constantinople.\n\n" #NT!
+ tfe_title_event.0005.desc.now:0 "The split is now official. Whether because [split_emperor.GetSheHe] doubts [split_emperor.GetHerHis] abilities, or because [split_emperor.GetSheHe] feels the situation is too urgent, [split_emperor.GetFirstNameNoTooltip] decided not to wait. Only time will tell whether [split_emperor.GetSheHe] made the right decision in the end." #NT!
+ tfe_title_event.0005.desc.later:0 "[split_emperor.GetFirstNameNoTooltip], it seems, trusts in [split_emperor.GetHerHis] abilities to hold the Empire together, at least in the short-term. [split_emperor.GetSheHe|U] has decreed that the Empire will be split only once [split_emperor.GetSheHe] passes away. If and when that happens, how will history judge [split_emperor.GetFirstNamePossessiveNoTooltip] decision?" #NT!
+ tfe_title_event.0005.a:0 "Truly, the Roman Empire is undergoing great changes." #NT!

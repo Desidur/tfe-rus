@@ -1,0 +1,119 @@
+﻿l_russian:
+ mil_law_policy:0 "Military Policies" #NT!
+ mil_law_1:0 "Levy Focus" #NT!
+ mil_law_1_competency_requirement:0 "Our #V Military Competency#! must be higher than #V [EmptyScope.ScriptValue('imp_policy_1_requirement')|0]#! (current value: #V [GetPlayer.MakeScope.Var('mil_comp').GetValue]#!)" #NT!
+ mil_law_2:0 "Professional Army Focus" #NT!
+ mil_law_2_competency_requirement:0 "Our #V Military Competency#! must be higher than #V [EmptyScope.ScriptValue('imp_policy_2_requirement')|0]#! (current value: #V [GetPlayer.MakeScope.Var('mil_comp').GetValue]#!)" #NT!
+ mil_law_3:0 "Tactics Focus" #NT!
+ mil_law_3_competency_requirement:0 "Our #V Military Competency#! must be higher than #V [EmptyScope.ScriptValue('imp_policy_3_requirement')|0]#! (current value: #V [GetPlayer.MakeScope.Var('mil_comp').GetValue]#!)" #NT!
+
+ civic_law_policy:0 "Civic Policies" #NT!
+ civic_law_1:0 "Architecture Focus" #NT!
+ civic_law_1_competency_requirement:0 "Our #V Civic Competency#! must be higher than #V [EmptyScope.ScriptValue('imp_policy_1_requirement')|0]#! (current value: #V [GetPlayer.MakeScope.Var('civic_comp').GetValue]#!)" #NT!
+ civic_law_2:0 "Peasant Focus" #NT!
+ civic_law_2_competency_requirement:0 "Our #V Civic Competency#! must be higher than #V [EmptyScope.ScriptValue('imp_policy_2_requirement')|0]#! (current value: #V [GetPlayer.MakeScope.Var('civic_comp').GetValue]#!)" #NT!
+ civic_law_3:0 "Nobles Focus" #NT!
+ civic_law_3_competency_requirement:0 "Our #V Civic Competency#! must be higher than #V [EmptyScope.ScriptValue('imp_policy_3_requirement')|0]#! (current value: #V [GetPlayer.MakeScope.Var('civic_comp').GetValue]#!)" #NT!
+
+ diplo_law_policy:0 "Diplomatic Policies" #NT!
+ diplo_law_1:0 "Vassal Focus" #NT!
+ diplo_law_1_competency_requirement:0 "Our #V Diplomatic Competency#! must be higher than #V [EmptyScope.ScriptValue('imp_policy_1_requirement')|0]#! (current value: #V [GetPlayer.MakeScope.Var('diplo_comp').GetValue]#!)" #NT!
+ diplo_law_2:0 "Peasant Focus" #NT!
+ diplo_law_2_competency_requirement:0 "Our #V Diplomatic Competency#! must be higher than #V [EmptyScope.ScriptValue('imp_policy_2_requirement')|0]#! (current value: #V [GetPlayer.MakeScope.Var('diplo_comp').GetValue]#!)" #NT!
+ diplo_law_3:0 "External Affairs" #NT!
+ diplo_law_3_competency_requirement:0 "Our #V Diplomatic Competency#! must be higher than #V [EmptyScope.ScriptValue('imp_policy_3_requirement')|0]#! (current value: #V [GetPlayer.MakeScope.Var('diplo_comp').GetValue]#!)" #NT!
+
+ centeral_law_policy:0 "Centralization Policies" #NT!
+ centeral_law_policy_0:0 "Limited Centralization" #NT!
+ centeral_law_policy_1:0 "Low Centralization" #NT!
+ centeral_law_policy_2:0 "Medium Centralization" #NT!
+ centeral_law_policy_3:0 "High Centralization" #NT!
+ centeral_law_policy_4:0 "Absolute Centralization" #NT!
+ centeral_law_policy:0 "De-Centralization Policies" #NT!
+ centeral_law_policy_0:0 "Limited De-Centralization" #NT!
+ centeral_law_policy_1:0 "Low De-Centralization" #NT!
+ centeral_law_policy_2:0 "Medium De-Centralization" #NT!
+ centeral_law_policy_3:0 "High De-Centralization" #NT!
+ centeral_law_policy_4:0 "Absolute De-Centralization" #NT!
+
+ nomadic_authority:0 "Nomadic Authority" #NT!
+ nomadic_authority_0:0 "No Nomadic Authority" #NT!
+ nomadic_authority_1:0 "Limted Nomadic Authority" #NT!
+ nomadic_authority_2:0 "High Nomadic Authority" #NT!
+ nomadic_authority_3:0 "Absolute Nomadic Authority" #NT!
+
+ eranshar_authority:0 "Eranshar Authority" #NT!
+ eranshar_authority_0:0 "No Eranshar Authority" #NT!
+ eranshar_authority_1:0 "Limted Eranshar Authority" #NT!
+ eranshar_authority_2:0 "High Eranshar Authority" #NT!
+ eranshar_authority_3:0 "Absolute Eranshar Authority" #NT!
+
+ gupta_authority:0 "Gupta Centralization" #NT!
+ gupta_authority_0:0 "No Gupta Centralization" #NT!
+ gupta_authority_1:0 "Limted Gupta Centralization" #NT!
+ gupta_authority_2:0 "High Gupta Centralization" #NT!
+ gupta_authority_3:0 "Absolute Gupta Centralization" #NT!
+
+ MIL_COMP_MARTIAL:0 "[military_comp_martial|E]" #NT!
+ MIL_COMP_MARTIAL_MARSHAL:0 "[military_comp_martial_marshal|E]" #NT!
+ MIL_COMP_MARTIAL_COURT:0 "[military_comp_martial_court|E]" #NT!
+ MIL_COMP_EMPIRE_SIZE:0 "[military_comp_empire_size|E]" #NT!
+ MIL_COMP_UNPROTECTED_BORDERS:0 "[military_comp_unprotected_borders|E]" #NT!
+ MIL_COMP_ALLIES:0 "[mil_competence_allies_nhc|E]" #NT!
+ MIL_COMP_EMPIRE:0 "Military Size Expectations" #NT!
+ MIL_COMP_LEGIONS:0 "[mil_competence_legions|E]" #NT!
+ MIL_COMP_ARMY_SIZE:0 "[mil_competence_army_size|E]" #NT!
+ MIL_COMP_KNIGHTS_PROWESS:0 "[mil_competence_knights_prowess|E]" #NT!
+ MIL_COMP_MAA_REGIMENTS:0 "[mil_competence_maa_regiments|E]" #NT!
+ MIL_COMP_ARMYQUALITY:0 "Army Quality" #NT!
+ MIL_COMP_TOTAL:0 "Total Yearly Change" #NT!
+
+ CIVIC_COMP_STEWARDSHIP:0 "[civic_comp_stewardship|E]" #NT!
+ CIVIC_COMP_STEWARDSHIP_STEWARD:0 "[civic_comp_stewardship_steward|E]" #NT!
+ CIVIC_COMP_ADMINISTRATIVE_COURT:0 "[civic_comp_administrative_court|E]" #NT!
+ CIVIC_COMP_EMPIRE_SIZE:0 "[civic_comp_empire_size|E]" #NT!
+ CIVIC_COMP_EMPIRE_SIZE_UNINTEGRATED:0 "[civic_comp_empire_size_unintegrated|E]" #NT!
+ CIVIC_COMP_DOMAIN_SIZE:0 "[civic_comp_domain_size|E]" #NT!
+ CIVIC_COMP_EMPIRE_COUNTY_OPINION:0 "[civic_comp_empire_county_opinion|E]" #NT!
+ CIVIC_COMP_TRADE_NODES:0 "[civic_comp_trade_nodes|E]" #NT!
+ CIVIC_COMP_INCOME:0 "[civic_comp_income|E]" #NT!
+ CIVIC_COMP_GOLD_RESERVE:0 "[civic_comp_gold_reserve|E]" #NT!
+ CIVIC_COMP_DEVELOPMENT:0 "[civic_comp_development|E]" #NT!
+ CIVIC_COMP_BUILDINGS:0 "[civic_comp_buildings|E]" #NT!
+
+ CIVIC_COMP_DEV:0 "Development" #NT!
+ CIVIC_COMP_CENTRAL:0 "Vassal Centralization" #NT!
+ CIVIC_COMP_TRADE:0 "Trade Nodes" #NT!
+ CIVIC_COMP_CONTROL:0 "County Control" #NT!
+ # CIVIC_COMP_BUILDINGS:0 "Counties with many buildings" #NT!
+ CIVIC_COMP_TOTAL:0 "Total Yearly Change" #NT!
+
+ DIPLO_COMP_DIPLOMACY:0 "[diplomatic_comp_diplomacy|E]" #NT!
+ DIPLO_COMP_DIPLOMACY_CHANCELLOR:0 "[diplomatic_comp_diplomacy_chancellor|E]" #NT!
+ DIPLO_COMP_DIPLOMATIC_COURT:0 "[diplomatic_comp_diplomatic_court|E]" #NT!
+
+ DIPLO_COMP_COUNTY_OPINION:0 "[diplomatic_comp_county_opinion|E]" #NT!
+ DIPLO_COMP_ALLY:0 "Alliances" #NT!
+ DIPLO_COMP_VASSAL_OPINION:0 "[diplomatic_comp_vassal_opinion|E]" #NT!
+ DIPLO_COMP_TOTAL:0 "Total Yearly Change" #NT!
+
+
+ imperial_authority:0 "Imperial Authority" #NT!
+ imperial_authority_0:0 "Imperial Figurehead" #NT!
+ imperial_authority_1:0 "Minimal Imperial Authority" #NT!
+ imperial_authority_2:0 "Low Imperial Authority" #NT!
+ imperial_authority_3:0 "High Imperial Authority" #NT!
+ imperial_authority_4:0 "Extortionate Imperial Authority" #NT!
+ imperial_authority_5:0 "Absolute Imperial Authority" #NT!
+
+ military_office_authority:0 "Military Office Authority" #NT!
+ military_office_authority_0:0 "No Military Authority" #NT!
+ military_office_authority_1:0 "Minimal Military Authority" #NT!
+ military_office_authority_2:0 "Low Military Authority" #NT!
+ military_office_authority_3:0 "High Military Authority" #NT!
+
+ city_state_authority:0 "City State Authority" #NT!
+ city_state_authority_0:0 "No City State Authority" #NT!
+ city_state_authority_1:0 "Low City State Authority" #NT!
+ city_state_authority_2:0 "High City State Authority" #NT!
+ city_state_authority_3:0 "Absolute City State Authority" #NT!

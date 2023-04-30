@@ -1,0 +1,10 @@
+﻿l_russian:
+ death_sold_gladiator:0 "was sold into slavery as a gladiator" #NT!
+ death_sold_gladiator_killer:0 "was sold into slavery as a gladiator by [TARGET_CHARACTER.GetUIName]" #NT!
+ death_died_gladiator:0 "was defeated and killed in the arena as a gladiator" #NT!
+ death_burned_missionary:0 "was burned at the stake while trying to convert a ruler" #NT!
+ death_burned_missionary_killer:0 "was burned at the stake while trying to convert [TARGET_CHARACTER.GetUIName]" #NT!
+ death_defenestration:0 "was thrown out of a window" #NT!
+ death_defenestration_killer:0 "was thrown out of a window by [TARGET_CHARACTER.GetUIName]" #NT!
+ death_sacrificed_to_ancestor:0 "was sacrificed at the burial of an ancestor" #NT!
+ death_sacrificed_to_ancestor_killer:1 "was sacrificed at the burial of [TARGET_CHARACTER.GetUINamePossessive] ancestor" #NT!

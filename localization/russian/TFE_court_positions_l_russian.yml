@@ -1,0 +1,141 @@
+﻿l_russian:
+ COURT_POSITION_CATEGORY_ROMAN_VICAR:0 "Vicar Governors" #NT!
+ COURT_POSITION_CATEGORY_MISSIONARY:0 "Missionaries" #NT!
+ k_gallia_governor:0 "Vicar of Gallia" #NT!
+ k_gallia_governor_employer_custom_effect_description:0 "Governs and protects the lands of Gallia" #NT!
+ k_gallia_governor_desc:0 "Governs and protects the lands of Gallia" #NT!
+
+ k_britannia_governor:0 "Vicar of Britannia" #NT!
+ k_britannia_governor_employer_custom_effect_description:0 "Governs and protects the lands of Britannia" #NT!
+ k_britannia_governor_desc:0 "Governs and protects the lands of Britannia" #NT!
+
+ k_italia_suburbicariae_governor:0 "Vicar of Italia Suburbicariae" #NT!
+ k_italia_suburbicariae_governor_employer_custom_effect_description:0 "Governs and protects the lands of Italia Suburbicariae" #NT!
+ k_italia_suburbicariae_governor_desc:0 "Governs and protects the lands of Italia Suburbicariae" #NT!
+
+ k_africae_governor:0 "Vicar of Africae" #NT!
+ k_africae_governor_employer_custom_effect_description:0 "Governs and protects the lands of Africae" #NT!
+ k_africae_governor_desc:0 "Governs and protects the lands of Africae" #NT!
+
+ k_hispania_governor:0 "Vicar of Hispania" #NT!
+ k_hispania_governor_employer_custom_effect_description:0 "Governs and protects the lands of Hispania" #NT!
+ k_hispania_governor_desc:0 "Governs and protects the lands of Hispania" #NT!
+
+ k_septem_provinciae_governor:0 "Vicar of Septum Provinciae" #NT!
+ k_septem_provinciae_governor_employer_custom_effect_description:0 "Governs and protects the lands of Septum Provinciae" #NT!
+ k_septem_provinciae_governor_desc:0 "Governs and protects the lands of Septum Provinciae" #NT!
+
+ k_pannonia_governor:0 "Vicar of Pannonia" #NT!
+ k_pannonia_governor_employer_custom_effect_description:0 "Governs and protects the lands of Pannonia" #NT!
+ k_pannonia_governor_desc:0 "Governs and protects the lands of Pannonia" #NT!
+
+ k_italia_annonariae_governor:0 "Vicar of Italia Annonariae" #NT!
+ k_italia_annonariae_governor_employer_custom_effect_description:0 "Governs and protects the lands of Italia Annonariae" #NT!
+ k_italia_annonariae_governor_desc:0 "Governs and protects the lands of Italia Annonariae" #NT!
+
+ k_sardinia_governor:0 "Vicar of Sardinia" #NT!
+ k_sardinia_governor_employer_custom_effect_description:0 "Governs and protects the lands of Sardinia" #NT!
+ k_sardinia_governor_desc:0 "Governs and protects the lands of Sardinia" #NT!
+
+ k_romagna_governor:0 "Vicar of Romagna" #NT!
+ k_romagna_governor_employer_custom_effect_description:0 "Governs and protects the lands of Romagna" #NT!
+ k_romagna_governor_desc:0 "Governs and protects the lands of Romagna" #NT!
+
+ k_daciae_governor:0 "Vicar of Daciae" #NT!
+ k_daciae_governor_employer_custom_effect_description:0 "Governs and protects the lands of Daciae" #NT!
+ k_daciae_governor_desc:0 "Governs and protects the lands of Daciae" #NT!
+
+ k_aegyptus_governor:0 "Vicar of Aegyptus" #NT!
+ k_aegyptus_governor_employer_custom_effect_description:0 "Governs and protects the lands of Aegyptus" #NT!
+ k_aegyptus_governor_desc:0 "Governs and protects the lands of Aegyptus" #NT!
+
+ k_asiae_governor:0 "Vicar of Asiae" #NT!
+ k_asiae_governor_employer_custom_effect_description:0 "Governs and protects the lands of Asiae" #NT!
+ k_asiae_governor_desc:0 "Governs and protects the lands of Asiae" #NT!
+
+ k_orientis_governor:0 "Vicar of Orientis" #NT!
+ k_orientis_governor_employer_custom_effect_description:0 "Governs and protects the lands of Orientis" #NT!
+ k_orientis_governor_desc:0 "Governs and protects the lands of Orientis" #NT!
+
+ k_nikaea_governor:0 "Vicar of Nikaea" #NT!
+ k_nikaea_governor_employer_custom_effect_description:0 "Governs and protects the lands of Nikaea" #NT!
+ k_nikaea_governor_desc:0 "Governs and protects the lands of Nikaea" #NT!
+
+ k_macedoniae_governor:0 "Vicar of Macedonia" #NT!
+ k_macedoniae_governor_employer_custom_effect_description:0 "Governs and protects the lands of Macedonia" #NT!
+ k_macedoniae_governor_desc:0 "Governs and protects the lands of Macedonia" #NT!
+
+ k_saruhan_governor:0 "Vicar of Saruhan" #NT!
+ k_saruhan_governor_employer_custom_effect_description:0 "Governs and protects the lands of Saruhan" #NT!
+ k_saruhan_governor_desc:0 "Governs and protects the lands of Saruhan" #NT!
+
+ k_trinacria_governor:0 "Vicar of Trinacria" #NT!
+ k_trinacria_governor_employer_custom_effect_description:0 "Governs and protects the lands of Trinacria" #NT!
+ k_trinacria_governor_desc:0 "Governs and protects the lands of Trinacria" #NT!
+
+ k_tekke_governor:0 "Vicar of Tekke" #NT!
+ k_tekke_governor_employer_custom_effect_description:0 "Governs and protects the lands of Tekke" #NT!
+ k_tekke_governor_desc:0 "Governs and protects the lands of Tekke" #NT!
+
+ k_trebizond_governor:0 "Vicar of Trebizond" #NT!
+ k_trebizond_governor_employer_custom_effect_description:0 "Governs and protects the lands of Trebizond" #NT!
+ k_trebizond_governor_desc:0 "Governs and protects the lands of Trebizond" #NT!
+
+ k_ottoman_governor:0 "Vicar of Ottoman" #NT!
+ k_ottoman_governor_employer_custom_effect_description:0 "Governs and protects the lands of Ottoman" #NT!
+ k_ottoman_governor_desc:0 "Governs and protects the lands of Ottoman" #NT!
+
+ k_rum_governor:0 "Vicar of Rum" #NT!
+ k_rum_governor_employer_custom_effect_description:0 "Governs and protects the lands of Rum" #NT!
+ k_rum_governor_desc:0 "Governs and protects the lands of Rum" #NT!
+
+ k_mentese_governor:0 "Vicar of Mentese" #NT!
+ k_mentese_governor_employer_custom_effect_description:0 "Governs and protects the lands of Mentese" #NT!
+ k_mentese_governor_desc:0 "Governs and protects the lands of Mentese" #NT!
+
+ k_karaman_governor:0 "Vicar of Karman" #NT!
+ k_karaman_governor_employer_custom_effect_description:0 "Governs and protects the lands of Karman" #NT!
+ k_karaman_governor_desc:0 "Governs and protects the lands of Karman" #NT!
+
+ k_germiyan_governor:0 "Vicar of Germiyan" #NT!
+ k_germiyan_governor_employer_custom_effect_description:0 "Governs and protects the lands of Germiyan" #NT!
+ k_germiyan_governor_desc:0 "Governs and protects the lands of Germiyan" #NT!
+
+ k_eretnid_governor:0 "Vicar of Eretnid" #NT!
+ k_eretnid_governor_employer_custom_effect_description:0 "Governs and protects the lands of Eretnid" #NT!
+ k_eretnid_governor_desc:0 "Governs and protects the lands of Eretnid" #NT!
+
+ k_aydin_governor:0 "Vicar of Aydin" #NT!
+ k_aydin_governor_employer_custom_effect_description:0 "Governs and protects the lands of Aydin" #NT!
+ k_aydin_governor_desc:0 "Governs and protects the lands of Aydin" #NT!
+
+ k_candar_governor:0 "Vicar of Candar" #NT!
+ k_candar_governor_employer_custom_effect_description:0 "Governs and protects the lands of Candar" #NT!
+ k_candar_governor_desc:0 "Governs and protects the lands of Candar" #NT!
+
+ k_macedon_governor:0 "Vicar of Macedon" #NT!
+ k_macedon_governor_employer_custom_effect_description:0 "Governs and protects the lands of Macedon" #NT!
+ k_macedon_governor_desc:0 "Governs and protects the lands of Macedon" #NT!
+
+ k_thessalonika_governor:0 "Vicar of Thessalonika" #NT!
+ k_thessalonika_governor_employer_custom_effect_description:0 "Governs and protects the lands of Thessalonika" #NT!
+ k_thessalonika_governor_desc:0 "Governs and protects the lands of Thessalonika" #NT!
+
+ k_epirus_governor:0 "Vicar of Epirus" #NT!
+ k_epirus_governor_employer_custom_effect_description:0 "Governs and protects the lands of Epirus" #NT!
+ k_epirus_governor_desc:0 "Governs and protects the lands of Epirus" #NT!
+
+ k_hellas_governor:0 "Vicar of Hellas" #NT!
+ k_hellas_governor_employer_custom_effect_description:0 "Governs and protects the lands of Hellas" #NT!
+ k_hellas_governor_desc:0 "Governs and protects the lands of Hellas" #NT!
+
+ k_krete_governor:0 "Vicar of Krete" #NT!
+ k_krete_governor_employer_custom_effect_description:0 "Governs and protects the lands of Krete" #NT!
+ k_krete_governor_desc:0 "Governs and protects the lands of Krete" #NT!
+
+ head_missionary:0 "Head Missionary" #NT!
+ head_missionary_employer_custom_effect_description:0 "Goes on missions to convert other peoples and [rulers|E] to your [faith|E]; head missionaries also have a higher chance of successfully converting targets" #NT!
+ head_missionary_desc:0 "Goes on missions to convert other peoples and [rulers|E] to your [faith|E]; head missionaries also have a higher chance of successfully converting targets" #NT!
+ missionary:0 "Missionary" #NT!
+ missionary_employer_custom_effect_description:0 "Goes on missions to convert peoples and [rulers|E] to your [faith|E]" #NT!
+ missionary_desc:0 "Goes on missions to convert peoples and [rulers|E] to your [faith|E]" #NT!

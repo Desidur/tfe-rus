@@ -1,0 +1,20 @@
+﻿l_russian:
+ high_god:0 "Worshipper of Taranis" #NT!
+ health_god:0 "Worshipper of Epona" #NT!
+ wealth_god:0 "Worshipper of Cernunnos" #NT!
+ knowledge_god:0 "Worshipper of Brigid" #NT!
+ war_god:0 "Worshipper of Lugh" #NT!
+ cathedral_of_africa:0 "Cathedral of Africa" #NT!
+
+ mars_god:0 "Worshipper of Mars" #NT!
+ mercury_god:0 "Worshipper of Mercury" #NT!
+ minerva_god:0 "Worshipper of Minerva" #NT!
+ laverna_god:0 "Worshipper of Laverna" #NT!
+ venus_god:0 "Worshipper of Venus" #NT!
+
+ apotheosised_emperor_tomb:0 "Tomb of an Apotheosised Emperor" #NT!
+ apotheosised_emperor_tomb_desc:0 "A great Roman Emperor was buried here; to honor and celebrate their memory, one of their successors later apotheosised them." #NT!
+ apotheosised_relative:0 "Apotheosised Relative" #NT!
+ apotheosised_relative_desc:0 "This character apotheosised a late, great Roman Emperor of which he was related to" #NT!
+ apotheosised_dynasty:0 "Dynasty of an Apotheosised Emperor" #NT!
+ apotheosised_dynasty_desc:0 "A late apotheosised Emperor belongs to this dynasty and thus gives them great status among their fellow followers" #NT!

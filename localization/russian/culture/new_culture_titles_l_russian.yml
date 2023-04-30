@@ -1,0 +1,150 @@
+﻿l_russian:
+
+ ############################################# #NT!
+#Default Imperial tiers #NT!
+ baron_imperial_male:0 "Magnate" #NT!
+ baron_imperial_female:0 "Magnate" #NT!
+ barony_imperial:0 "District" #NT!
+ count_imperial_male:0 "Comes" #NT!
+ count_imperial_female:0 "Comes" #NT!
+ county_imperial:0 "Region" #NT!
+ duke_imperial_male:0 "Pro-consul" #NT!
+ duke_imperial_female:0 "Pro-consul" #NT!
+ duchy_imperial:0 "Province" #NT!
+ duke_imperial_independent:0 "Dux" #NT!
+ duke_imperial_independent_female:0 "Ducissa" #NT!
+ duchy_imperial_independent:0 "Ducatus" #NT!
+ king_imperial_male:0 "Vicarius" #NT!
+ king_imperial_female:0 "Vicaria" #NT!
+ kingdom_imperial:0 "Diocese" #NT!
+ king_imperial_independent_male:0 "Rex" #NT!
+ king_imperial_independent_female:0 "Regina" #NT!
+ kingdom_imperial_independent:0 "Kingdom" #NT!
+ emperor_imperial_male:0 "Imperator" #NT!
+ emperor_imperial_female:0 "Imperatrix" #NT!
+ empire_imperial:0 "Empire" #NT!
+ legion_commander:0 "Legatus" #NT!
+
+### Roman ### #NT!
+# Feudal #NT!
+ baron_feudal_male_roman:1 "Baro" #NT!
+ baron_feudal_female_roman:1 "Baronissa" #NT!
+ barony_feudal_roman:1 "Castrum" #NT!
+ count_feudal_male_roman:0 "Comes" #NT!
+ count_feudal_female_roman:1 "Comitissa" #NT!
+ county_feudal_roman:0 "County" #NT!
+ duke_feudal_male_roman:1 "Dux" #NT!
+ duke_feudal_female_roman:1 "Ducissa" #NT!
+ duchy_feudal_roman:0 "Duchy" #NT!
+ king_feudal_male_roman:0 "Rex" #NT!
+ king_feudal_female_roman:0 "Regina" #NT!
+ kingdom_feudal_roman:0 "Regnum" #NT!
+ emperor_feudal_male_roman:1 "Imperator" #NT!
+ emperor_feudal_female_roman:1 "Imperatrix" #NT!
+ empire_feudal_roman:1 "Imperium" #NT!
+
+# Republic #NT!
+ baron_republic_male_roman:0 "Magister" #NT!
+ baron_republic_female_roman:0 "Magistra" #NT!
+ count_republic_male_roman:0 "Praefect" #NT!
+ count_republic_female_roman:0 "Praefect" #NT!
+ duke_republic_male_roman:0 "Tribune" #NT!
+ duke_republic_female_roman:0 "Tribune" #NT!
+ duchy_republic_roman:0 "Duchy" #NT!
+ king_republic_male_roman:0 "Consul" #NT!
+ king_republic_female_roman:0 "Consul" #NT!
+ kingdom_republic_roman:0 "League" #NT!
+ emperor_republic_male_roman:0 "Princeps" #NT!
+ emperor_republic_female_roman:0 "Princess" #NT!
+ empire_republic_roman:0 "Grand Republic" #NT!
+
+# Viceroyalty #NT!
+ baron_viceroyalty_male_roman:0 "Governor" #NT!
+ baron_viceroyalty_female_roman:0 "Governess" #NT!
+ barony_viceroyalty_roman:0 "Province" #NT!
+ count_viceroyalty_male_roman:0 "Governor" #NT!
+ count_viceroyalty_female_roman:0 "Governess" #NT!
+ county_viceroyalty_roman:0 "Province" #NT!
+ duke_viceroyalty_male_roman:0 "Governor" #NT!
+ duke_viceroyalty_female_roman:0 "Governess" #NT!
+ duchy_viceroyalty_roman:0 "Province" #NT!
+ king_viceroyalty_male_roman:1 "Vicar" #NT!
+ king_viceroyalty_female_roman:1 "Vicarissa" #NT!
+ kingdom_viceroyalty_roman:1 "Diocese" #NT!
+ emperor_viceroyalty_male_roman:0 "Princeps" #NT!
+ emperor_viceroyalty_female_roman:1 "Principissa" #NT!
+ empire_viceroyalty_roman:0 "Principate" #NT!
+
+ arrasool:0 "[CHARACTER.Custom('ArRasool')]" #NT!
+ islam_arrasool:0 "Ar-Rasool" #NT!
+ islam_caliph:0 "Caliph" #NT!
+
+ #### Celtic Flavour #NT!
+ celtic_king:0 "Rix" #NT!
+ celtic_queen:0 "Rigani" #NT!
+ briton_duke:0 "Towissog" #NT!
+ briton_duchess:0 "Towissoges" #NT!
+ briton_king:0 "Brygentin" #NT!
+ briton_queen:0 "Brygentines" #NT!
+ bard_chaplain:0 "Bard" #NT!
+ bardess_chaplain:0 "Bardess" #NT!
+
+ #### Germanic Flavour #NT!
+ # Anglo-Saxon #NT!
+ brethwalda:0 "Bretwalda" #High King of All Anglo-Saxon Kingdoms, aka Holder of the Kingdom of Bret(britania) #NT!
+ # East Germans #NT!
+ east_german_count:0 "Mahteigs" #NT!
+ east_german_countess:0 "Mahteigs" #NT!
+ east_german_duke:0 "Reiks" #NT!
+ east_german_duchess:0 "Kwens" #NT!
+ east_german_king:0 "Kindins" #NT!
+ east_german_queen:0 "Kwens" #NT!
+
+ # Han #NT!
+ han_male_count:0 "Marquis" #NT!
+ han_female_count:0 "Marchioness" #NT!
+ han_count:0 "Marquisate" #NT!
+ duchy_han:0 "Province" #NT!
+ county_han:0 "Commandery" #NT!
+ barony_han:0 "District" #NT!
+
+ duke_feudal_voivode:0 "Voivode" #NT!
+ duchy_feudal_voivode:0 "Voivodeship" #NT!
+ # Because there isn't a way to make flavorization apply only to vassals for some reason #NT!
+ duke_feudal_male_voivode_independent:0 "Duke" #NT!
+ duke_feudal_female_voivode_independent:0 "Duchess" #NT!
+ duchy_feudal_voivode_independent:0 "Duchy" #NT!
+
+ pontifex:0 "Pontifex Maximus" #NT!
+
+ senator_flavour:0 "[CHARACTER.Custom('senator')]" #NT!
+ senator_title:0 "Senator" #NT!
+ not_senator:0 "" #NT!
+
+ # Guanche pagan #NT!
+ baron_theocracy_male_north_african_acham_pagan:0 "Kanku" #NT!
+ baron_theocracy_female_north_african_acham_pagan:0 "Kanku" #NT!
+ count_theocracy_male_north_african_acham_pagan:0 "Faycán" #NT!
+ count_theocracy_female_north_african_acham_pagan:0 "Faycán" #NT!
+ duke_theocracy_male_north_african_acham_pagan:0 "Guañameñe" #NT!
+ duke_theocracy_female_north_african_acham_pagan:0 "Maguada" #NT!
+ king_theocracy_male_north_african_acham_pagan:0 "Mencey-Guañameñe" #NT!
+ king_theocracy_female_north_african_acham_pagan:0 "Mencey-Maguada" #NT!
+
+ # Bretwalda #NT!
+ bretwalda:0 "Bretwalda" #NT!
+
+ sarkibraterbetti:0 "Sar Kibrāt Erbetti" #NT!
+
+ # Berbers #NT!
+ north_berber_male_baron:0 "Amghar" #NT!
+ north_berber_female_baron:0 "Tamghart" #NT!
+ north_berber_male_count:0 "Agellid Ameska" #NT!
+ north_berber_female_count:0 "Tagellit Ameska" #NT!
+ north_berber_male_duke:0 "Amussnaw" #NT!
+ north_berber_female_duke:0 "Tamussnawt" #NT!
+ north_berber_male_king:0 "Agellid" #NT!
+ north_berber_female_king:0 "Tagellidt" #NT!
+ north_berber_male_emperor:0 "Amenkad" #NT!
+ north_berber_female_emperor:0 "Tamenkadt" #NT!
+

@@ -1,0 +1,143 @@
+﻿l_russian:
+#Abandon the Province of Britannia #NT!
+ western_roman.0001.t:0 "The Abandonment of Britannia" #NT!
+ western_roman.0001.desc:0 "The Roman presence in Britannia has always been challenged by Pictish raids, and while in times of peace and prosperity Roman rule could be maintained far from the heartland of the empire, expenses have to be cut in light of the waning authority of the Imperial administration.\n\nSoldiers and administrators have been called back to the mainland, bringing with them riches and manpower that will be used to defend the empire's borders.\n\nWithout a strong Roman Empire to defend them, the locals that have chosen to remain now fear a renewal of Pictish raids, and some even talk about Germanic invasions from the east..." #NT!
+ western_roman.0001.a:0 "May [ROOT.Char.GetFaith.HighGodName] be with them!" #NT!
+ western_roman.0001.a_hadrians_wall_crumbles:0 "Hadrian's Wall, built to prevent the Picts from raiding and invading the province, #N loses its defensive abilities#!" #NT!
+ western_roman.0001.a_dolaucothi_gold_mines_crumbles:0 "The $building_type_dolaucothi_gold_mines_01$, without the infrastructure to exploit them, are #N closed#!, and #N will not produce [gold_i|E][gold|E] until reopened#!" #NT!
+ western_roman.0002.b:0 "On second thought..." #NT!
+
+#Formation of Roman Provinces #NT!
+ create_the_province_of_caledonia_decision:0 "Create the Province of Caledonia" #NT!
+ create_the_province_of_caledonia_decision_desc:0 "After the Claudian Campaign that led to the subjugation of most of Britannia, the peoples in the far north refused to bend the knee and instead stymied all efforts to bring the entire island under Roman control. Even after Emperor Hadrian constructed a wall to hold back the warmongering Picts, we never fully abandoned our desire to rule the rest of Britannia, made apparent by the construction of the Antonine Wall two decades after Hadrian's project and the more recent formation of the Province of Valentia." #NT!
+ create_the_province_of_caledonia_decision_tooltip:0 "We never fully abandoned our desire to rule the rest of Britannia, and so we must finish what Emperor Claudius started." #NT!
+ create_the_province_of_caledonia_decision_confirm:0 "Let us expand our reach in Britannia!" #NT!
+
+ create_the_province_of_hibernia_decision:0 "Create the Province of Hibernia" #NT!
+ create_the_province_of_hibernia_decision_desc:0 "The island of Hibernia has long been far from our focus as we considered greater opportunities and dangers. However, once we secure our presence in Britannia for centuries to come, we should bring the rest of the region under our control. Hibernia looks to be an ideal site for Roman civilization to expand into!" #NT!
+ create_the_province_of_hibernia_decision_tooltip:0 "Hibernia looks to be an ideal site for Roman settlement and innovation, so why not subjugate the island and bring it into our fold?" #NT!
+ create_the_province_of_hibernia_decision_confirm:0 "The Hibernian Celts shall be integrated!" #NT!
+
+ create_the_province_of_germania_decision:0 "Restore the Province of Germania" #NT!
+ create_the_province_of_germania_decision_desc:0 "After the disaster that was the Battle of Teutoburg Forest in 9 AD, the Romans gradually abandoned their ambitions within the hostile land of Germania. Now that the Western Roman border is threatened along the Rhine and Upper Danube, the most viable option may be to reinforce these frontiers, but it is only a matter of time before a reconquest of Germania is necessary to consolidate our defenses at the River Elbe and along the Ore and Sumava Mountains." #NT!
+ create_the_province_of_germania_decision_tooltip:0 "It is only a matter of time before a reconquest of Germania is necessary to consolidate our defenses at the River Elbe and along the Ore and Sumava Mountains" #NT!
+ create_the_province_of_germania_decision_confirm:0 "We must secure a more defensible frontier!" #NT!
+
+ create_the_province_of_dacia_decision:0 "Restore the Province of Dacia" #NT!
+ create_the_province_of_dacia_decision_desc:0 "During the Crisis of the Third Century, Emperor Aurelian was forced to abandon the province of Dacia in order to secure a defensible border along the Danube River. Now that the Germanic tribes pose a considerably smaller threat to the empire, it is best for us to restore Roman rule over the Carpathian Basin." #NT!
+ create_the_province_of_dacia_decision_tooltip:0 "Now that the Germanic tribes pose a considerably smaller threat to the empire, it is best for us to restore Roman rule over the Carpathian Basin" #NT!
+ create_the_province_of_dacia_decision_confirm:0 "Roman rule shall return to Dacia!" #NT!
+
+ reclaim_the_diocese_of_britannia:0 "Reclaim Britannia" #NT!
+ reclaim_the_diocese_of_britannia_decision_desc:0 "Britannia was once abandoned for the sake of expediency, its people left to survive on their own against both migratory Germanic tribes from the mainland like the Angles and Saxons, as well as the Celts which lay beyond Hadrian's wall. No more. \n\nThe old province has now been restored to its full glory. Once more, the banner of the empire waves proudly over the island, uncontested and unquestioned." #NT!
+ reclaim_the_diocese_of_britannia_decision_tooltip:0 "We control Britannia again" #NT!
+ reclaim_the_diocese_of_britannia_confirm:0 "The Romans are here!" #NT!
+
+ form_rome_decision:0 "Re-establish the Roman Empire" #NT!
+ form_rome_decision_desc:0 "Roman civilization cannot survive if its empire is split in two; numerous strifes plague both the Western and the Eastern Empires, ranging from Germanic migrations to political turmoil and economic collapse. The people of the Eternal City cannot survive if Rome’s empire remains divided. The best course of action is to formally reunite the west and the east under one emperor, one crown, and one empire." #NT!
+ form_rome_decision_tooltip:0 "Rome reunited" #NT!
+ form_rome_decision_confirm:0 "Restitutor Orbis" #NT!
+
+ restore_praetorian_guard_decision:0 "Restore the Praetorian Guard" #NT!
+ restore_praetorian_guard_decision_desc:0 "Although their legacy has been greatly tainted by treachery and corruption, stronger safeguards may allow us to revert Constantine's decision to disband the Praetorian Guard and have the elite force return without the flaws that required their dissolution." #NT!
+ restore_praetorian_guard_decision_tooltip:0 "Stronger safeguards may alloww us to revert Constantine's decision to disband the Praetorian Guard and have the elite force return without the flaws that required their dissolution." #NT!
+ restore_praetorian_guard_decision_confirm:0 "May the Praetorian Guard uphold its loyalty!" #NT!
+
+ overthrow_the_emperor:0 "Overthrow the Emperor" #NT!
+ overthrow_the_emperor_desc:0 "The emperor and his advisors can't be trusted with our realm anymore! For the saftey and longevity of our great empire, I will plot to overthrow and end this emperor's disastrous rule!" #NT!
+ overthrow_the_emperor_tooltip:0 "For the saftey and longevity of our great empire, I will plot to overthrow and end this emperor's disastrous rule!" #NT!
+ overthrow_the_emperor_effect_tooltip:0 "You start plotting against your emperor" #NT!
+ overthrow_the_emperor_confirm:0 "For the empire!" #NT!
+
+ restore_the_west:0 "Reunite the Western Roman Empire" #NT!
+ restore_the_west_desc:0 "The former lands of a glorious empire are now overrun by wretched kings, a mere shadow of what once was. The time to rise from the ashes has come." #NT!
+ restore_the_west_tooltip:0 "Rome restored." #NT!
+ restore_the_west_confirm:0 "Vae Victīs" #NT!
+ western_roman.0011.t:0 "The Western Empire Reforged" #NT!
+ western_roman.0011.desc:0 "Once again the eagle has risen from the ashes. Rome thrives under my name. My law stretches from the mighty Carthage and the bustling cities of Africa to the beautiful cities of Italia Annonariae, from Sicily to Dalmatia. The heartlands of the empire are again reunited and from the glorious city of Rome we will start a new age of light for the known world." #NT!
+ western_roman.0011.a:0 "Roma Invicta!" #NT!
+ western_roman.0012.t:0 "$western_roman.0011.t$" #NT!
+ western_roman.0012.desc:0 "[founder.Custom('GetQueenKing')] [founder.GetFirstName] has gained control of the Italian peninsula. A land that was formerly taken from us has once again fallen under our control. While [founder.GetFirstNameNoTooltip|U]'s achievements are outstanding on their own, only time will tell if he is suited for his title." #NT!
+ western_roman.0012.a:0 "Roma Invicta!" #NT!
+ western_roman.0012.b:0 "Perhaps I can take advantage of this..." #NT!
+ western_roman.0013.t:0 "$western_roman.0011.t$" #NT!
+ western_roman.0013.desc:0 "[founder.Custom('GetQueenKing')] [founder.GetFirstName] has gained control of the Italian peninsula. This will mark a new beginning for the Roman people. While the empire is still a fetus, we mustn't forget what it can become. We should beware of such a powerful neighbor." #NT!
+ western_roman.0013.a:0 "Roma Invicta!" #NT!
+ western_roman.0013.b:0 "We need to be prepared for war." #NT!
+ western_roman.0014.t:0 "$western_roman.0011.t$" #NT!
+ western_roman.0014.desc:0 "[founder.Custom('GetQueenKing')] [founder.GetFirstName] has gained control of the Italian peninsula. This will mark a new beginning for the Roman people. While the empire is still a fetus, we mustn't forget what it can become. We should beware of such a powerful neighbor." #NT!
+ western_roman.0014.a:0 "Roma Invicta!" #NT!
+ western_roman.0014.b:0 "We need to be prepared for war." #NT!
+ western_roman.0015.t:0 "$western_roman.0011.t$" #NT!
+ western_roman.0015.desc:0 "[founder.Custom('GetQueenKing')] [founder.GetFirstName] has gained control of the Italian peninsula. This will mark a new beginning for the Roman people. While the empire is still a fetus, we mustn't forget what it can become. We should beware of such a powerful neighbor." #NT!
+ western_roman.0015.a:0 "Roma Invicta!" #NT!
+ western_roman.0015.b:0 "We need to be prepared for war." #NT!
+
+ restore_the_west_empire:0 "Reunite the Western Roman Empire" #NT!
+ restore_the_west_empire_desc:0 "The former lands of the Western Roman Empire have long been left in ruin by barbarian kings. Now is the time to raise the Imperial standard from Carthage to Lutetia once again!" #NT!
+ restore_the_west_empire_tooltip:0 "I found the Imperial crown in the gutter, and I picked it up." #NT!
+ restore_the_west_empire_confirm:0 "Vae victīs" #NT!
+
+ restore_the_east_empire:0 "Reunite the Eastern Roman Empire" #NT!
+ restore_the_east_empire_desc:0 "The former lands of the Eastern Roman Empire have long been left in ruin by barbarian kings. Now is the time to raise the Imperial standard from Alexandria to Constantinople once again!" #NT!
+ restore_the_east_empire_tooltip:0 "I found the imperial crown in the gutter and I picked it up." #NT!
+ restore_the_east_empire_confirm:0 "Roma invicta!" #NT!
+
+ restore_the_east:0 "Reunite the Eastern Roman Empire" #NT!
+ restore_the_east_desc:0 "The former lands of a glorious empire are now overrun by wretched kings, a mere shadow of what once was. The time to rise from the ashes has come." #NT!
+ restore_the_east_tooltip:0 "The time has come for the Roman Empire in the east to be restored." #NT!
+ restore_the_east_confirm:0 "Roma invicta!" #NT!
+ eastern_roman.0001.t:0 "The Eastern Empire Reforged" #NT!
+ eastern_roman.0001.desc:0 "Once again, the eagle has risen from the ashes. \n\nConstantinople once more thrives under my name, and my rule once more stretches from the bustling cities of Alexandria and Antioch, to the southern shores of the Danube River. \n\nThe Eastern Roman Empire once again prospers and will once more assert its authority in the Eastern Mediterranean and beyond." #NT!
+ eastern_roman.0001.a:0 "Roma Invicta!" #NT!
+ eastern_roman.0002.t:0 "$eastern_roman.0001.t$" #NT!
+ eastern_roman.0002.desc:0 "[founder.Custom('GetQueenKing')] [founder.GetFirstName] has gained control of Hellas. A land that was formerly taken from us has one again fallen under our control. While [founder.GetFirstNameNoTooltip|U]'s achievements are outstanding on their own, only time will tell if he is suited for his title." #NT!
+ eastern_roman.0002.a:0 "Roma Invicta!" #NT!
+ eastern_roman.0002.b:0 "Perhaps I can take advantage of this..." #NT!
+ eastern_roman.0003.t:0 "$eastern_roman.0001.t$" #NT!
+ eastern_roman.0003.desc:0 "[founder.Custom('GetQueenKing')] [founder.GetFirstName] has gained control of Hellas. This will mark a new beginning for the Roman people. While the empire is still a fetus, we mustn't forget what it can become. We should beware of such a powerful neighbor." #NT!
+ eastern_roman.0003.a:0 "Roma Invicta!" #NT!
+ eastern_roman.0003.b:0 "We need to be prepared for war." #NT!
+ eastern_roman.0004.t:0 "$eastern_roman.0001.t$" #NT!
+ eastern_roman.0004.desc:0 "[founder.Custom('GetQueenKing')] [founder.GetFirstName] has gained control of Hellas. This will mark a new beginning for the Roman people. While the empire is still a fetus, we mustn't forget what it can become. We should beware of such a powerful neighbor." #NT!
+ eastern_roman.0004.a:0 "Roma Invicta!" #NT!
+ eastern_roman.0004.b:0 "We need to be prepared for war." #NT!
+ eastern_roman.0005.t:0 "$eastern_roman.0001.t$" #NT!
+ eastern_roman.0005.desc:0 "[founder.Custom('GetQueenKing')] [founder.GetFirstName] has gained control of Hellas. This will mark a new beginning for the Roman people. While the empire is still a fetus, we mustn't forget what it can become. We should beware of such a powerful neighbor." #NT!
+ eastern_roman.0005.a:0 "Roma Invicta!" #NT!
+ eastern_roman.0005.b:0 "We need to be prepared for war." #NT!
+
+ avenge_the_battle_of_carrhae_decision:0 "Avenge the Battle of Carrhae" #NT!
+ avenge_the_battle_of_carrhae_decision_desc:0 "The death of Marcus Licinius Crassus and his defeat at Carrhae by the Parthian Empire in 53 BC has long been a stain on Roman prestige, and so the Shahs of Ērān must be dealt with and given their own humiliating blow . . . Ctesiphono delenda est!" #NT!
+ avenge_the_battle_of_carrhae_decision_tooltip:0 "To avenge our humiliating defeat at Carrhae, the Shahs of Ērān must be dealt with and given their own humiliating blow . . . Ctesiphono delenda est!" #NT!
+ avenge_the_battle_of_carrhae_decision_confirm:0 "Tisfun must be destroyed" #NT!
+
+ TFE_flavour_events.0008.t:0 "The Battle of Carrhae Avenged!" #NT!
+ TFE_flavour_events.0008.desc:0 "The death of Marcus Licinius Crassus and his defeat at Carrhae by the Parthian Empire in 53 BC has long been a stain on Roman prestige, and so the Shahs of Ērān must be dealt with and given their own humiliating blow . . . Ctesiphono delenda est!" #NT!
+ TFE_flavour_events.0008.a:0 "The stain on our prestige is no more!" #NT!
+
+ move_to_ravenna_decision:0 "Move the Capital to Ravenna" #NT!
+ move_to_ravenna_decision_desc:0 "In 402 AD, Emperor Honorius transferred the capital of the Western Roman Empire from Mediolanum to Ravenna, primarily due to its more sufficient means of defense provided by proliferous swampland and resting near the shores of the Adriatic Sea." #NT!
+ move_to_ravenna_decision_tooltip:0 "Moving your Capital will cause you to lose all titles in Liguria and the Proconsol of Flaminia et Picenum to lose all of theirs in a swap." #NT!
+ move_to_ravenna_decision_confirm:0 "Move to Ravenna" #NT!
+ ravenna_walls_decision:0 "The defences of Ravenna have been shored up." #NT!
+ milano_walls_decision:0 "The defences of Mediolanum have been reduced." #NT!
+
+ # Restore Roman Dioceses #NT!
+ restore_western_dioceses_decision:0 "Restore Roman Dioceses" #NT!
+ restore_western_dioceses_decision_desc:0 "With the fall of the Western Roman Empire, the way of administrating territories in its lands changed with the settling of the new migrators. We must bring back Diocletian's and Constantine's ways of administrating Imperial land into dioceses in these fallen territories!" #NT!
+ restore_western_dioceses_decision_tooltip:0 "Diocese Restored." #NT!
+ restore_western_dioceses_decision_tooltip_1:0 "Reconquered territory will be reintegrated." #NT!
+ CHOOSE_DIOCESE_BUTTON:0 "Choose Diocese" #NT!
+ restore_western_dioceses_decision_confirm:0 "Roma Invicta!" #NT!
+ italia_suburbicariae_diocese_desc:0 "Italia Suburbicariae" #NT!
+ italia_suburbicariae_diocese_tooltip:0 "Take back the heart of the Empire! \n#bold Requirements:# \n#N Control [GetTitleByKey('d_ancona').GetNameNoTier]# \n#N Control [GetTitleByKey('d_spoleto').GetNameNoTier]# \n#N Control [GetTitleByKey('d_latium').GetNameNoTier]# \n#N Control [GetTitleByKey('d_capua').GetNameNoTier]# \n#N Control [GetTitleByKey('d_benevento').GetNameNoTier]# \n#N Control [GetTitleByKey('d_apulia').GetNameNoTier]# \n#N Control [GetTitleByKey('d_salerno').GetNameNoTier]# \n#N Control [GetTitleByKey('d_calabria').GetNameNoTier]# \n#N Control [GetTitleByKey('d_sicily').GetNameNoTier]# \n#N Control [GetTitleByKey('d_sardinia').GetNameNoTier]# \n#N Control [GetTitleByKey('d_corsica').GetNameNoTier]#" #NT!
+ illyricum_pannoniae_diocese_desc:0 "Illyricum Pannoniae" #NT!
+ illyricum_pannoniae_diocese_tooltip:0 "Take back the old diocese! \n#bold Requirements:# \n#N Control [GetTitleByKey('d_usora').GetNameNoTier]# \n#N Control [GetTitleByKey('d_bosna').GetNameNoTier]# \n#N Control [GetTitleByKey('d_syrmia').GetNameNoTier]# \n#N Control [GetTitleByKey('d_slavonia').GetNameNoTier]# \n#N Control [GetTitleByKey('d_dalmatia').GetNameNoTier]# \n#N Control [GetTitleByKey('d_croatia').GetNameNoTier]# \n#N Control [GetTitleByKey('d_visegrad').GetNameNoTier]# \n#N Control [GetTitleByKey('d_somogy').GetNameNoTier]# \n#N Control [GetTitleByKey('d_gyor').GetNameNoTier]# \n#N Control [GetTitleByKey('d_steyermark').GetNameNoTier]# \n#N Control [GetTitleByKey('d_osterreich').GetNameNoTier]# \n#N Control [GetTitleByKey('d_salzburg').GetNameNoTier]#" #NT!
+ septem_provinciae_diocese_desc:0 "Septem Provinciae" #NT!
+ septem_provinciae_diocese_tooltip:0 "Take back the old diocese! \n#bold Requirements:# \n#N Control [GetTitleByKey('d_aquitaine').GetNameNoTier]# \n#N Control [GetTitleByKey('d_poitou').GetNameNoTier]# \n#N Control [GetTitleByKey('d_gascogne').GetNameNoTier]# \n#N Control [GetTitleByKey('d_toulouse').GetNameNoTier]# \n#N Control [GetTitleByKey('d_languedoc').GetNameNoTier]# \n#N Control [GetTitleByKey('d_provence').GetNameNoTier]# \n#N Control [GetTitleByKey('c_berry').GetNameNoTier]# \n#N Control [GetTitleByKey('c_issoudun').GetNameNoTier]# \n#N Control [GetTitleByKey('c_bellac').GetNameNoTier]# \n#N Control [GetTitleByKey('c_la_marche').GetNameNoTier]# \n#N Control [GetTitleByKey('c_limousin').GetNameNoTier]# \n#N Control [GetTitleByKey('c_auvergne').GetNameNoTier]# \n#N Control [GetTitleByKey('c_clermont_sur_allier').GetNameNoTier]# \n#N Control [GetTitleByKey('c_jaligny').GetNameNoTier]# \n#N Control [GetTitleByKey('c_bourbon').GetNameNoTier]# \n#N Control [GetTitleByKey('c_valentinois').GetNameNoTier]# \n#N Control [GetTitleByKey('c_viennois').GetNameNoTier]#" #NT!
+ italia_annonariae_diocese_desc:0 "Italia Annonariae" #NT!
+ italia_annonariae_diocese_tooltip:0 "Take back the heart of the Empire! \n#bold Requirements:# \n#N Control [GetTitleByKey('d_romagna').GetNameNoTier]# \n#N Control [GetTitleByKey('d_emilia').GetNameNoTier]# \n#N Control [GetTitleByKey('d_genoa').GetNameNoTier]# \n#N Control [GetTitleByKey('d_piedmonte').GetNameNoTier]# \n#N Control [GetTitleByKey('d_lombardia').GetNameNoTier]# \n#N Control [GetTitleByKey('d_verona').GetNameNoTier]# \n#N Control [GetTitleByKey('d_friuli').GetNameNoTier]# \n#N Control [GetTitleByKey('d_tyrol').GetNameNoTier]# \n#N Control [GetTitleByKey('d_bavaria').GetNameNoTier]# \n#N Control [GetTitleByKey('d_augsburg').GetNameNoTier]# \n#N Control [GetTitleByKey('d_currezia').GetNameNoTier]#" #NT!
+ hispania_diocese_desc:0 "Hispania" #NT!
+ hispania_diocese_tooltip:0 "Take back the old diocese! \n#bold Requirements:# \n#N Control [GetTitleByKey('d_barcelona').GetNameNoTier]# \n#N Control [GetTitleByKey('d_murcia').GetNameNoTier]# \n#N Control [GetTitleByKey('d_granada').GetNameNoTier]# \n#N Control [GetTitleByKey('d_mallorca').GetNameNoTier]# \n#N Control [GetTitleByKey('d_cordoba').GetNameNoTier]# \n#N Control [GetTitleByKey('d_sevilla').GetNameNoTier]# \n#N Control [GetTitleByKey('d_algarve').GetNameNoTier]# \n#N Control [GetTitleByKey('d_beja').GetNameNoTier]# \n#N Control [GetTitleByKey('d_coimbra').GetNameNoTier]# \n#N Control [GetTitleByKey('d_porto').GetNameNoTier]# \n#N Control [GetTitleByKey('d_badajoz').GetNameNoTier]# \n#N Control [GetTitleByKey('d_toledo').GetNameNoTier]# \n#N Control [GetTitleByKey('d_aragon').GetNameNoTier]# \n#N Control [GetTitleByKey('d_navarra').GetNameNoTier]# \n#N Control [GetTitleByKey('d_viscaya').GetNameNoTier]# \n#N Control [GetTitleByKey('d_cantabria').GetNameNoTier]# \n#N Control [GetTitleByKey('d_leon').GetNameNoTier]# \n#N Control [GetTitleByKey('d_castilla').GetNameNoTier]# \n#N Control [GetTitleByKey('d_galicia').GetNameNoTier]# \n#N Control [GetTitleByKey('d_asturias').GetNameNoTier]#" #NT!
+

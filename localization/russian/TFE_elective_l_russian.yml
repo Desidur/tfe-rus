@@ -1,0 +1,16 @@
+﻿l_russian:
+ rashidun_elective_succession_law:0 "Rashidun Elective" #NT!
+ rashidun_elective_succession_law_subname:0 "Rashidun" #NT!
+
+ rashidun_elective_candidates:0 "Wise Close Family, Vassals and Sahabis" #NT!
+ rashidun_elective_candidates_tooltip:0 "To be considered a legitimate heir to the Caliphate, one must have 15 or more in martial, learning, diplomacy, and stewardship or be a sahabi." #NT!
+
+ rashidun_elective_electors:0 "Rashidun Electors" #NT!
+ rashidun_elective_electors_tooltip:0 "The Rashidun Candidates vote amongst themselves." #NT!
+
+ polish_elective_succession_law:0 "Polish Elective" #NT!
+ polish_elective_succession_law_subname:0 "Sejm" #NT!
+ polish_elective_electors:0 "All direct and indirect De Jure vassals" #NT!
+ polish_elective_electors_tooltip:1 "In order to be a valid elector of the Sejm, a character must be a De Jure vassal, either direct or indirect." #NT!
+ polish_elective_candidates:0 "Extended Family and Claimants" #NT!
+ polish_elective_candidates_tooltip:1 "In order to be a valid candidate, a character must either be part of the current ruler's [close_family|E] or [extended_family|E], or be a title claimant." #NT!

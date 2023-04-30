@@ -1,0 +1,838 @@
+﻿l_russian:
+ DECISION_ON_COOLDOWN:0 "@warning_icon!#X $DECISION_NAME$ unavailable until [DATE.GetStringLong]#!" #NT!
+ ALREADY_PLANNING_ACTIVITY:0 "You are already planning another [activity|E]" #NT!
+ start_hunt_decision:0 "Call Hunt" #NT!
+ start_hunt_decision_tooltip:1 "A [hunt|E] will be held" #NT!
+ start_hunt_decision_desc:0 "#F The untamed wilds are calling, and all manner of beasts are awaiting my spear and arrow!#!" #NT!
+ start_hunt_decision_go_on_hunt:1 "You go on a #V Hunt#! in one of the baronies of your realm" #NT!
+ start_hunt_decision_tt_header:0 "A successful Hunt will:" #NT!
+ start_hunt_decision_prestige:1 "You may get opportunities to increase your [prestige|E]" #NT!
+ start_hunt_decision_stress:0 "#P    Reduce your [stress|E]#!" #NT!
+ start_hunt_decision_stress_lazy:0 "#N You will not lose [stress|E] since you are [GetTrait('lazy').GetName( GetPlayer )]#!" #NT!
+ start_hunt_decision_confirm:0 "Sound the horn!" #NT!
+
+ host_feast_decision:0 "Host Feast" #NT!
+ host_feast_decision_tooltip:0 "A [feast|E] will be held" #NT!
+ host_feast_decision_opening_desc:0 "#F Cracking open the casks and inviting guests of honor is not only a duty, but an opportunity to reaffirm bonds of loyalty, and often a great pleasure!#!" #NT!
+ host_feast_decision_desc_vassals:1 "May increase your vassals' [opinion|E] of you" #NT!
+ host_feast_decision_desc_shy:1 "#N You will not lose [stress|E] since you are [GetTrait('shy').GetName( GetPlayer )]#!" #NT!
+ host_feast_decision_desc_stress_medium:1 "Your [stress|E] will reduce" #NT!
+ host_feast_decision_desc_stress:1 "Your [stress|E] may reduce" #NT!
+ host_feast_decision_desc_liege_opinion:1 "May increase your liege's [opinion|E] of you" #NT!
+ host_feast_decision_confirm:0 "Send the invitations" #NT!
+
+ hire_physician_decision:0 "Search for Physician" #NT!
+ hire_physician_decision_tooltip:2 "Your servants will suggest a number of suitable candidates for the position of [court_physician|E]" #NT!
+ hire_physician_decision_desc:0 "A court physician is essential to care for the sick and wounded at my court. I will ask my servants to bring forth a number of suitable candidates." #NT!
+ hire_physician_decision_effect_tooltip:2 "You will be presented with a group of [court_physician|E] candidates and may hire one of them for a fee" #NT!
+ hire_physician_decision_confirm:0 "Start the search" #NT!
+
+ borrow_from_holy_order_decision:0 "Borrow Gold from Holy Order" #NT!
+ borrow_from_holy_order_decision_tooltip:0 "You will borrow money from an available Holy Order" #NT!
+ borrow_from_holy_order_decision_desc:0 "I am in need of money, and who better to ask for help than the servants of [ROOT.Char.GetFaith.HighGodName]? I can send out letters and hope that I get a response." #NT!
+ borrow_from_holy_order_decision_confirm:0 "Write the inquiries!" #NT!
+ borrow_from_holy_order_decision_effect_tooltip:1 "You borrow [SCOPE.ScriptValue('holy_order_gold_value')|P00] [gold|E][gold_i] from a [holy_order|E]\n\n@warning_icon! The [holy_order|E] will start making demands if you do not repay the loan\n@warning_icon! You cannot borrow more money again until you have paid back this loan" #NT!
+ borrow_from_holy_order_gold_condition:1 "The [ROOT.Char.GetFaith.GetAdjective] order does not have enough gold" #NT!
+
+ escape_from_prison_decision:0 "Escape from Prison" #NT!
+ escape_from_prison_decision_tooltip:0 "Attempt to escape prison" #NT!
+ escape_from_prison_decision_desc:0 "The same walls, the same routine, the same gruel for food – every day is just like the last. This prison is eating away at me, and I will stand it no longer!" #NT!
+ escape_from_prison_decision_success.tt:0 "Your escape attempt succeeds" #NT!
+ escape_from_prison_decision_failure.tt:0 "Your escape attempt fails" #NT!
+ escape_from_prison_decision_failure_outcome.tt:0 "[imprisoner.GetTitledFirstName] might be... displeased" #NT!
+ escape_from_prison_decision_confirm:0 "No bars will hold me!" #NT!
+ escape_from_prison_decision_effect_tooltip:0 "@warning_icon! The success of you attempt depends on your [prowess|E] and your [traits|E]" #NT!
+
+ tribal_challenge_ruler_decision:0 "Challenge the [ROOT.Char.GetLiege.GetTitleAsNameNoTooltip|U]" #NT!
+ tribal_challenge_ruler_decision_desc:0 "[ROOT.Char.GetLiege.GetFirstName] carries the title of [ROOT.Char.GetLiege.GetTitleAsNameNoTooltip] as if it is unquestionable [ROOT.Char.GetLiege.GetHersHis]; as if it is not skill and strength alone that should decide our leader.\n\nI, [ROOT.Char.GetFullNameNoTooltip], question [ROOT.Char.GetLiege.GetHerHis] right to the title, to all of [ROOT.Char.GetLiege.GetPrimaryTitle.GetNameNoTier], and I will be silent no longer!" #NT!
+ tribal_challenge_ruler_decision_tooltip:0 "Challenge the [ROOT.Char.GetLiege.GetTitleAsNameNoTooltip|U] for [ROOT.Char.GetLiege.GetHerHis] title and [ROOT.Char.GetLiege.GetHerHis] land" #NT!
+ tribal_challenge_ruler_effect_tooltip:0 "[liege_to_challenge.GetTitledFirstNameNoTooltip] will decide upon the challenge\n" #NT!
+ tribal_challenge_ruler_desc_success:0 "You win the challenge" #NT!
+ tribal_challenge_ruler_desc_failure:0 "You lose the challenge" #NT!
+ recently_took_tribal_challenge_ruler_decision:0 "Has recently challenged someone's rule" #NT!
+ tribal_challenge_ruler_decision_confirm:0 "Challenge [ROOT.Char.GetLiege.GetTitledFirstNameNoTooltip]!" #NT!
+
+ gain_weight_decision:0 "Gain Weight" #NT!
+ gain_weight_decision_desc:0 "The fallacies of my body are growing too noticeable – I barely have the strength to make it through the day!\n\nA diet containing, among other things, lots of milk, butter, and dates has been suggested to me, and I think it's time to try it out." #NT!
+ gain_weight_decision_tooltip:0 "You will dedicate yourself to gaining weight" #NT!
+ gain_weight_decision_confirm:0 "Bring the butter!" #NT!
+
+ stop_gain_weight_decision:0 "Stop Gaining Weight" #NT!
+ stop_gain_weight_decision_desc:0 "A never ending stream of fatty food has done its work, and I can stomach it no longer. I will abandon my efforts to gain weight." #NT!
+ stop_gain_weight_decision_tooltip:0 "You will no longer attempt to gain weight" #NT!
+ stop_gain_weight_decision_confirm:0 "Stop Gaining Weight" #NT!
+
+ lose_weight_decision:0 "Lose Weight" #NT!
+ lose_weight_decision_desc:0 "My body weakens for every day that passes, and my girth weights heavy on me both bodily and mentally.\n\nRunning, warm baths, maybe even a mildly cathartic substance... I will find a way to lose some weight." #NT!
+ lose_weight_decision_tooltip:0 "You will dedicate yourself to losing weight" #NT!
+ lose_weight_decision_confirm:0 "Bring the scammony!" #NT!
+
+ stop_lose_weight_decision:0 "Stop Losing Weight" #NT!
+ stop_lose_weight_decision_desc:0 "I have tried every tincture and remedy recommended to me, and to push it further would be excessive. I will abandon my efforts to lose weight." #NT!
+ stop_lose_weight_decision_tooltip:0 "You will no longer attempt to lose weight" #NT!
+ stop_lose_weight_decision_confirm:0 "Stop Losing Weight" #NT!
+
+ commit_suicide_decision:1 "Attempt Suicide" #NT!
+ commit_suicide_decision_desc:0 "There is only darkness and pain. People tell me it will get better, but how do they know? And what does that help me in this moment? It is time to shed the trappings of this mortal realm." #NT!
+ commit_suicide_decision_tooltip:1 "The time has come to depart this world" #NT!
+ commit_suicide_decision_effect_tooltip:0 "@warning_icon! You will attempt to end your life, are you sure this is what you want?" #NT!
+ commit_suicide_decision_confirm:0 "My time has come" #NT!
+
+ pet_dog_decision:0 "Pet [ROOT.Char.Custom('DogStoryName')]" #NT!
+ pet_dog_decision_desc:0 "It is time to take a deep breath and find my trusted four-legged companion [ROOT.Char.Custom('DogStoryName')]. Some people say dogs are base creatures, but no matter how tough life gets I know [ROOT.Char.Custom('DogStorySheHe')] will always be there for me!" #NT!
+ pet_dog_decision_tooltip:0 "Pet your dog" #NT!
+ pet_dog_decision_confirm:0 "Pet your dog" #NT!
+ pet_decision_effect_tooltip:0 "You will lose some [stress|E]" #NT!
+
+ pet_cat_decision:0 "Pet [ROOT.Char.Custom('CatStoryName')]" #NT!
+ pet_cat_decision_desc:0 "It is time to take a deep breath and find my trusted four-legged companion [ROOT.Char.Custom('CatStoryName')]. Some people say cats are evil and selfish creatures, but no matter how tough life gets I know [ROOT.Char.Custom('CatStorySheHe')] will always be there for me!" #NT!
+ pet_cat_decision_tooltip:0 "Pet your cat" #NT!
+ pet_cat_decision_confirm:0 "Pet your cat" #NT!
+
+ repay_loan_decision:0 "Repay Loan" #NT!
+ repay_loan_decision_decision_tooltip:0 "You will pay back what you owe" #NT!
+ repay_loan_decision_decision_desc:0 "To have a debt hanging over me is unbecoming of a [ROOT.Char.GetTitleAsNameNoTooltip] – the time has come to repay the money I owe." #NT!
+ repay_loan_decision_confirm:0 "Send back the money!" #NT!
+
+ create_cadet_branch_decision:0 "Create Cadet Branch" #NT!
+ create_cadet_branch_decision_tooltip:1 "You will form a Cadet Branch" #NT!
+ create_cadet_branch_decision_desc:0 "It may be time for my family to abandon the legacy of the House [ROOT.Char.GetHouse.GetNameNoTooltip] and carve its own path in history, with me as the head of this new branch of our great dynasty." #NT!
+ create_cadet_branch_decision_confirm:0 "Create Cadet Branch" #NT!
+ I_CREATE_CADET_BRANCH_DECISION_SUCCESSION_LINE:1 "You are third or closer in the line of succession for one of your [house_head|E]'s [titles|E]" #NT!
+ I_NOT_CREATE_CADET_BRANCH_DECISION_SUCCESSION_LINE:1 "You are #bold not#! third or closer in the line of succession for one of your [house_head|E]'s [titles|E]" #NT!
+ I_CREATE_CADET_BRANCH_DECISION_ANCESTOR_IN_HOUSE:1 "One of your ancestors belong to your current [house|E]" #NT!
+ I_NOT_CREATE_CADET_BRANCH_DECISION_ANCESTOR_IN_HOUSE:1 "None of your ancestors belong to your current [house|E]" #NT!
+ created_cadet_branch_toast_new_house_desc:2 "A New House" #NT!
+ created_cadet_branch_toast_new_house_other_tt:2 "You are now a member of House [new_house.GetName]" #NT!
+
+ take_vow_of_poverty_decision:0 "Take Vow of Poverty" #NT!
+ take_vow_of_poverty_decision_tooltip:1 "You vow to hold no undue riches" #NT!
+ take_vow_of_poverty_decision_desc:0 "Money is the root of all evil. While I cannot feasibly give away everything and remain [ROOT.Char.GetTitleAsNameNoTooltip], I can vow to give a portion of my income away each month." #NT!
+ take_vow_of_poverty_decision_confirm:0 "Take vow of poverty" #NT!
+
+ return_rome_decision:0 "Return $c_roma$" #NT!
+ return_rome_decision_tooltip:0 "The Holy Father should be seated in $c_roma$, the title must be returned to him" #NT!
+ return_rome_decision_desc:0 "The Holy Father has been vanquished from his seat in $c_roma$. It is my sacred duty as a Catholic to return this most holy of places to its rightful owner." #NT!
+ return_rome_decision_confirm:0 "Return $c_roma$" #NT!
+
+ renounce_vow_of_poverty_decision:0 "Renounce Vow of Poverty" #NT!
+ renounce_vow_of_poverty_decision_tooltip:1 "You will no longer donate a portion of your income" #NT!
+ renounce_vow_of_poverty_decision_desc:0 "There is no getting around the fact that I need a bigger budget to effectively govern my realm. Pragmatism demands the revocation of my vow of poverty." #NT!
+ renounce_vow_of_poverty_decision_confirm:0 "Renounce vow of poverty" #NT!
+
+ initiate_consolamentum_decision:1 "Consolamentum: Initiate Endura" #NT!
+ initiate_consolamentum_decision_alternate:0 "Enact Ritual Suicide" #NT!
+ initiate_consolamentum_decision_tooltip:0 "It is time to prepare for the end of this life" #NT!
+ initiate_consolamentum_decision_desc:1 "#F As the end of my life draws near, I should initiate the Endura ritual to cleanse my soul of sin and move on from this world.#!" #NT!
+ initiate_consolamentum_decision_desc_alternate:0 "#F With the end of my life drawing near, I should undergo the holy suicide rituals that will cleanse my soul of sin before moving on from this world.#!" #NT!
+ initiate_consolamentum_decision_confirm:1 "Initiate Endura" #NT!
+
+ seek_aid_of_the_spirits_decision:0 "Seek Aid of the Spirits" #NT!
+ seek_aid_of_the_spirits_decision_tooltip:0 "Attempt to contact the spirits" #NT!
+ seek_aid_of_the_spirits_decision_desc:0 "#F Spirits inhabit the world all around us, some helpful, some malevolent, and some indifferent to human lives.\n\nI can ask my [ROOT.Char.Custom('MyPriestTitle')] to call upon them to aid me in my endeavors, but there is no telling what the outcome will be...#!" #NT!
+ seek_aid_of_the_spirits_decision_effect.tt:0 "You petition the unseen..." #NT!
+ seek_aid_of_the_spirits_decision_confirm:0 "Seek aid of the spirits" #NT!
+
+ select_personal_deity_decision:0 "Determine Bhakti" #NT!
+ select_personal_deity_decision_tooltip:0 "Think about the [ROOT.Char.GetFaith.PantheonTerm]" #NT!
+ select_personal_deity_decision_desc:0 "#F Every devout [ROOT.Char.GetFaith.GetAdherentNameNoTooltip] should have bhakti, or a devotion to a specific god or goddess who most strongly resonates with their soul.\n\nI should contemplate the various divine beings and decide which one calls to me the most.#!" #NT!
+ select_personal_deity_decision_confirm:0 "Contemplate bhakti" #NT!
+ select_personal_deity_decision_tt:0 "You gain a modifier associated with your selected bhakti" #NT!
+
+ meditate_in_seclusion_decision:0 "Meditate in Seclusion" #NT!
+ meditate_in_seclusion_decision_tooltip:0 "Retreat from public life to focus on your inner self" #NT!
+ meditate_in_seclusion_decision_desc:0 "Only through meditation can we come to understand the true nature of the universe.\n\nThough it means neglecting my other responsibilities, by retreating into seclusion for meditation I may learn more about myself and the universe I inhabit." #NT!
+ meditate_in_seclusion_decision_confirm:0 "Meditate in seclusion" #NT!
+ meditate_in_seclusion_tooltip:0 "You might lose [stress|E], gain [traits|E], or even increase your [learning|E] skill" #NT!
+
+ give_sky_burial_decision:0 "Give Your [ROOT.Char.Custom2('RelationToMe', ROOT.Var('ancestor_to_bury').Char)|U] a Sky Burial" #NT!
+ give_sky_burial_decision_tooltip:0 "Put your ancestor to rest and gain [piety|E] and [vassal|E] [opinion|E]" #NT!
+ give_sky_burial_decision_desc:0 "#F [ROOT.Var('ancestor_to_bury').Char.Custom2('MyCharacterIntroduction', ROOT.Char)|U] has passed away. Tradition dictates that [ROOT.Var('ancestor_to_bury').Char.GetSheHe] should be given a sky burial, [ROOT.Var('ancestor_to_bury').Char.GetHerHis] remains left for the scavengers to feast upon so that [ROOT.Var('ancestor_to_bury').Char.GetSheHe] may feed the world which once fed [ROOT.Var('ancestor_to_bury').Char.GetHerHim].#!" #NT!
+ give_sky_burial_decision_confirm:0 "Give Sky Burial" #NT!
+ give_sky_burial_vassals:0 "Every Vassal who believes in Sky Burials" #NT!
+
+ raise_runestone_decision:0 "Raise a Runestone" #NT!
+ raise_runestone_decision_desc:0 "[ROOT.Var('ancestor_to_bury').Char.Custom2('MyCharacterIntroduction', ROOT.Char)|U] has passed away. I will raise a runestone to honor [ROOT.Var('ancestor_to_bury').Char.GetHerHis] life, and to bring fame to all who bear the name [ROOT.Var('ancestor_to_bury').Char.GetDynasty.GetName]. Future generations will never forget the greatness of [ROOT.Var('ancestor_to_bury').Char.GetFullNameNicknamedNoTooltip]!" #NT!
+ raise_runestone_decision_tooltip:0 "Raise a runestone to honor your [ROOT.Char.Custom2('RelationToMeShort', ROOT.Var('ancestor_to_bury').Char)]" #NT!
+ raise_runestone_decision_confirm:0 "Raise Runestone" #NT!
+ raise_runestone_vassals:0 "Every Vassal of your [faith|E]" #NT!
+
+ divine_the_stars_decision:0 "Divine the Stars" #NT!
+ divine_the_stars_decision_tooltip:0 "Look to the heavens and see what the future has in store for you" #NT!
+ divine_the_stars_decision_desc:0 "#F Our destinies are written in the stars themselves. By studying them I may gain some insight into what the future holds...#!" #NT!
+ divine_the_stars_decision_confirm:0 "Divine the Stars" #NT!
+ divine_the_starts_effect:0 "You will discover a cosmic insight in the near future" #NT!
+ divine_the_stars_trigger:0 "You are already divining the stars" #NT!
+ divine_the_stars_modifier:0 "You do not already have an astrological modifier" #NT!
+
+ create_holy_order_decision:0 "Found Holy Order" #NT!
+ create_holy_order_decision_tooltip:0 "Establish a [holy_order|E] and become its [holy_order_patron|E]" #NT!
+ create_holy_order_decision_desc:0 "#F There can never be too many warriors dedicated to defending the true faith. I will honor [ROOT.Char.GetFaith.WarGodName] by giving those who would serve a home and arms!#!" #NT!
+ create_holy_order_decision_confirm:0 "Found Holy Order" #NT!
+ create_holy_order_decision_effect_message:1 "A [holy_order|E] of your [faith|E] will be founded\n$EFFECT_LIST_BULLET$You become the order's [holy_order_patron|E]" #NT!
+ destroy_holy_order_warning:0 "@warning_icon!#X Revoking their last lease will destroy the Holy Order!#!" #NT!
+ I_MUST_BE_KING_OR_EMPEROR:1 "You hold a [kingdom|E] or an [empire|E]" #NT!
+ I_AM_NOT_KING_OR_EMPEROR:1 "You must hold a [kingdom|E] or an [empire|E]" #NT!
+ I_HAVE_TWO_CASTLE_COUNTY:1 "You have a [barony|E] with a [city|E] or [castle|E] that can leased out as the Holy Order's Headquarters" #NT!
+ NOT_I_HAVE_HOLY_ORDER_BARONY_SELECTED:1 "You have #bold not#! selected a Barony" #NT!
+
+ cancel_holy_order_lease_decision:0 "Revoke Holy Order Lease" #NT!
+ cancel_holy_order_lease_decision_tooltip:0 "Revoke lease for a [holy_order|E]" #NT!
+ cancel_holy_order_lease_decision_desc:0 "#F The Holy Order stationed in the [barony.GetName] has done good work, but the holding is now needed for other things.#!" #NT!
+ cancel_holy_order_lease_hostile_decision_desc:0 "#F The Holy Order stationed in the [barony.GetName] will no longer be allowed to spread lies and discord – the holding will from now on be used for other, more righteous, things.#!" #NT!
+ cancel_holy_order_lease_decision_confirm:0 "Revoke Lease" #NT!
+
+ go_on_pilgrimage_decision:0 "Go on a Pilgrimage" #NT!
+ go_on_pilgrimage_decision_tooltip:1 "Undertake a [pilgrimage|E] to prove your dedication to [ROOT.Char.GetFaith.PantheonTerm]" #NT!
+ go_on_pilgrimage_decision_desc:0 "#F The holy sites are the places in our world that are closest to [ROOT.Char.GetFaith.PantheonTerm]. To see them for myself is to prove my dedication as a [ROOT.Char.GetFaith.GetAdherentNameNoTooltip].#!" #NT!
+ go_on_pilgrimage_decision_confirm:0 "Prepare for the journey" #NT!
+ pilgrimage_effect_1:0 "You choose a destination among your [faith|E]'s [holy_sites|E]" #NT!
+ pilgrimage_effect_2:0 "The further you travel, the more [piety|E] you will gain" #NT!
+ pilgrimage_effect_3:0 "Longer journeys are more expensive #weak (Minimum cost: @gold_icon! [SCOPE.ScriptValue('pilgrimage_minimum_cost')])#!" #NT!
+ pilgrimage_effect_4:0 "Longer journeys are more expensive #weak (Minimum cost: @gold_icon! [SCOPE.ScriptValue('pilgrimage_medium_extra_cost')])#!" #NT!
+ pilgrimage_effect_5:0 "Longer journeys are more expensive #weak (Minimum cost: @gold_icon! [SCOPE.ScriptValue('pilgrimage_long_extra_costv')])#!" #NT!
+ pilgrimage_effect_6:0 "Longer journeys are more expensive #weak (Minimum cost: @gold_icon! [SCOPE.ScriptValue('pilgrimage_very_long_extra_cost')])#!" #NT!
+ hajj_exceptionally_long_tt:0 "It is an #V exceptionally long#! pilgrimage from my capital to Mecca" #NT!
+ hajj_very_long_tt:0 "It is a #V very long#! pilgrimage from my capital to Mecca" #NT!
+ hajj_long_tt:0 "It is a #V long#! pilgrimage from my capital to Mecca" #NT!
+ hajj_short_tt:0 "It is a #V short#! pilgrimage from my capital to Mecca" #NT!
+ hajj_distance_info_text:0 "#weak Longer journeys provide more piety, but are more expensive#!" #NT!
+ pilgrimage_illness_warning:0 "@warning_icon! #X It is dangerous to travel while [GetTrait('ill').GetName( GetPlayer )]#!" #NT!
+
+ go_on_hajj_decision:0 "Undertake the Hajj" #NT!
+ go_on_hajj_decision_tooltip:0 "Undertake a [pilgrimage|E] to Mecca, to fulfill your duty to Allah" #NT!
+ go_on_hajj_decision_desc:0 "#F The Hajj to Mecca is one of the pillars of my faith. The time has come for me to undertake it, and fulfill my duty as a Muslim.#!" #NT!
+ go_on_hajj_decision_confirm:0 "$go_on_pilgrimage_decision_confirm$" #NT!
+
+ reclaim_britannia_decision:0 "Reclaim Britannia" #NT!
+ reclaim_britannia_decision_desc:1 "These lands were once ruled by Celts, and the significance and influence of the culture is once again spreading throughout the lands. As more men and women embrace the Celtic tongue and culture, it is only right to make it official!" #NT!
+ reclaim_britannia_decision_tooltip:0 "[ROOT.Char.GetCulture.GetName] culture will rule" #NT!
+ reclaim_britannia_decision_custom:0 "Cannot have more than 1 vassal with non-Celtic culture" #NT!
+ reclaim_britannia_decision_confirm:1 "Reclaim Britannia" #NT!
+ HAS_NON_CELTIC_POWERFUL_VASSAL:0 "All of your [powerful_vassals|E] belong to the Brythonic or Goidelic [culture_group|E]" #NT!
+
+ restore_the_danelaw_decision:0 "Restore the Danelaw" #NT!
+ restore_the_danelaw_decision_desc:0 "As the laws of the Danes once ruled these lands they shall once again!" #NT!
+ restore_the_danelaw_decision_tooltip:0 "Reform the Kingdom of the Danelaw" #NT!
+ restore_the_danelaw_decision_confirm:0 "Restore the Danelaw" #NT!
+
+ embrace_english_culture_decision:0 "Embrace English Culture" #NT!
+ embrace_english_culture_decision_tooltip:1 "You will give up your [ROOT.Char.GetCulture.GetName] culture" #NT!
+ embrace_english_culture_decision_desc:0 "My vassals, my family, and I have lived side by side with Saxons and Celts, and as our language and customs have mixed with theirs, it is time to embrace the fact that we have become one." #NT!
+ embrace_english_culture_decision_get_innovations:0 "#D English Culture gets a lot of Norman innovations#!" #NT!
+ embrace_english_culture_decision_vassals_custom:0 "All vassals in Britannia" #NT!
+ embrace_english_culture_decision_confirm:0 "Embrace English Culture" #NT!
+ decision_embrace_english_culture_get_innovations:0 "The English [culture|E] gains several Norman and Anglo-Saxon [innovations|E]" #NT!
+ MY_CAPITAL_IS_IN_ENGLAND:1 "Your [realm_capital|E] is in England" #NT!
+
+ restore_dumnonia_decision:0 "Restore the Kingdom of Cornwall" #NT!
+ restore_dumnonia_decision_desc:0 "The spirit of ancient Dumnonia has burned in our breasts since Brutus first landed on Britannia's misty shores. It will burn brighter yet." #NT!
+ restore_dumnonia_decision_tooltip:0 "Cornwall becomes a [de_jure|E] [kingdom|E]." #NT!
+ restore_dumnonia_decision_effects_de_jure_tt:0 "If owned, the [duchies|E] of [cornwall_somerset.GetNameNoTier] and [cornwall_gloucester.GetNameNoTier] will each become [de_jure|E] Cornwall." #NT!
+ restore_dumnonia_decision_confirm:0 "Onen hag oll!" #NT!
+
+ restore_roman_empire_decision:0 "Restore the Roman Empire" #NT!
+ restore_roman_empire_decision_confirm:0 "I will restore the Empire" #NT!
+ restore_roman_empire_decision_tooltip:0 "The Roman Empire will be restored" #NT!
+ restore_roman_empire_decision_desc:0 "If Rome and other key territories of the old empire could be reclaimed, the Byzantine Empire would win recognition in the eyes of the West as the true and rightful continuation of the Roman State." #NT!
+ restore_roman_empire_decision_effect_tooltip:0 "The Roman Empire will be restored and acquire the [de_jure|E] of all currently held Empires." #NT!
+
+ restore_roman_empire_holy_decision:0 "Restore the Roman Empire" #NT!
+ restore_roman_empire_holy_decision_tooltip:0 "The Roman Empire will be restored" #NT!
+ restore_roman_empire_holy_decision_desc:0 "If enough old provinces of the Empire are reclaimed, the Holy Roman Empire would win recognition in the eyes of the East as the true and rightful continuation of the Roman State." #NT!
+ restore_roman_empire_holy_decision_confirm:0 "I will restore the Empire" #NT!
+
+ adopt_roman_culture:0 "Adopt Roman Culture" #NT!
+ adopt_roman_culture_confirm:0 "This starts a new age" #NT!
+ adopt_roman_culture_tooltip:0 "You adopt a Roman culture based on your orginal one" #NT!
+ adopt_roman_culture_desc:0 "We must Abandon our old ways to survive." #NT!
+
+ mend_the_great_schism_decision:0 "Mend the Great Schism" #NT!
+ mend_the_great_schism_decision_confirm:0 "One God, one Church!" #NT!
+ mend_the_great_schism_decision_desc:0 "The Great Schism saw the Christian Church divided into two branches, but if all five of the Episcopal Sees of the Pentarchy could be restored under the rule of a single Empire under the enlightened leadership of a saintly ruler, there may be a chance to finally reunite Christendom." #NT!
+ mend_the_great_schism_decision_tooltip:0 "I will reunite Christendom" #NT!
+ mend_the_great_schism_decision_effect_tooltip:0 "The [THIS.Char.GetFaith.GetAdjective] Church will mend the Schism and establish itself as the only legitimate branch of Christianity." #NT!
+ every_ecumenical_christian_faith.tt:0 "$EFFECT_LIST_BULLET$ Every Christian [faith|E] with [GetFaithDoctrine('special_doctrine_ecumenical_christian').GetBaseName]" #NT!
+
+ set_capital_constantinople_decision:0 "Reclaim Constantinople" #NT!
+ set_capital_constantinople_decision_confirm:0 "Restore the true seat of the Empire!" #NT!
+ set_capital_constantinople_decision_desc:0 "Constantinople is the capital of the Eastern Empire and as such she rightfully belongs to me." #NT!
+ set_capital_constantinople_decision_tooltip:0 "Restore Constantinople as the capital of your Empire." #NT!
+
+ set_capital_rome_decision:0 "Reclaim Rome" #NT!
+ set_capital_rome_decision_confirm:0 "Restore the true seat of the Empire!" #NT!
+ set_capital_rome_decision_desc:0 "Rome is the ancestral capital of the Roman Empire and as such she rightfully belongs to me." #NT!
+ set_capital_rome_decision_tooltip:0 "Restore Rome as the capital of your Empire." #NT!
+
+ establish_iconoclast_patriarchate_decision:0 "Establish Iconoclast Patriarchate" #NT!
+ establish_iconoclast_patriarchate_decision_confirm:0 "For a purer Church!" #NT!
+ establish_iconoclast_patriarchate_decision_desc:0 "Only a pious and influential ruler that holds sway over Constantinople could cleanse the Ecumenical Patriarchate and restore it to a purer form, devoid of idolatry and corruption." #NT!
+ establish_iconoclast_patriarchate_decision_tooltip:0 "Use your influence to re-establish the Iconoclast Patriarchate." #NT!
+ establish_iconoclast_patriarchate_decision_effect_tooltip:0 "The Iconoclast Patriarchate will replace the Ecumenical Patriarchate" #NT!
+
+ restore_ecumenical_patriarchate_decision:0 "Restore Ecumenical Patriarchate" #NT!
+ restore_ecumenical_patriarchate_decision_confirm:0 "For the one true Church!" #NT!
+ restore_ecumenical_patriarchate_decision_desc:1 "Only a pious and influential ruler that holds sway over Constantinople will be capable of cleansing the Patriarchate to restore it to a purer form, devoid of barbarity and iconoclasm." #NT!
+ restore_ecumenical_patriarchate_decision_tooltip:0 "Use your influence to re-establish the Ecumenical Patriarchate." #NT!
+ restore_ecumenical_patriarchate_decision_effect_tooltip:0 "The Ecumenical Patriarchate will replace the Iconoclast Patriarchate" #NT!
+
+ restore_papacy_decision:0 "Restore the Papacy" #NT!
+ restore_papacy_decision_confirm:0 "The Papacy will be restored" #NT!
+ restore_papacy_decision_desc:0 "If a pious Catholic were to recover the core territories of Saint Peter's patrimony, the Holy See could be restored once more to its rightful place in the Vatican." #NT!
+ restore_papacy_decision_tooltip:0 "Restore the Holy See" #NT!
+ restore_papacy_decision_effect_tooltip:0 "The Papacy will be restored." #NT!
+
+ restore_pope_in_rome_decision:0 "Restore Pope in Rome" #NT!
+ restore_pope_in_rome_decision_confirm:0 "Let the Pontiff be welcomed!" #NT!
+ restore_pope_in_rome_decision_desc:0 "It is only right for the heir of Saint Peter to hold the key to the holiest of cities, wherein lays the shrine of the Apostle himself." #NT!
+ restore_pope_in_rome_decision_tooltip:0 "The Papacy will retake office in Rome." #NT!
+
+ form_switzerland_kingdom_decision:0 "Form the Swiss Confederation" #NT!
+ form_switzerland_kingdom_decision_confirm:0 "Our claims cannot be denied!" #NT!
+ form_switzerland_kingdom_decision_desc:0 "If all the Alpine Cantons are brought together, the Empire will have to recognize their claim as a unified Confederation." #NT!
+ form_switzerland_kingdom_decision_tooltip:0 "The Swiss Confederation will be founded." #NT!
+ form_switzerland_kingdom_decision_effect_tooltip:1 "If you [completely_control|E] the [savoy.GetName], it will become part of [switzerland.GetName]" #NT!
+
+ form_austria_kingdom_decision:0 "Form Archduchy of Austria" #NT!
+ form_austria_kingdom_decision_confirm:0 "Form the Archduchy of Austria" #NT!
+ form_austria_kingdom_decision_desc:0 "By gaining enough influence within the Empire, the Austrian Duchy could achieve greater dignity than any other Elector." #NT!
+ form_austria_kingdom_decision_tooltip:0 "The Archduchy of Austria will be formed." #NT!
+ form_austria_kingdom_decision_effect_stretch_goals_tt:0 "If [completely_controlled|E] the [carinthia.GetName], will become [de_jure|E] part of the [austria.GetName]" #NT!
+ form_austria_kingdom_decision_effect_stretch_fail_both_tt:0 "As they are cut off but not [completely_controlled|E], the [krain.GetName] and [istria.GetName] defect [de_jure|E] to the [new_controller.GetName]" #NT!
+ form_austria_kingdom_decision_effect_stretch_fail_krain_tt:0 "As it is cut off but not [completely_controlled|E], the [krain.GetName] defects [de_jure|E] to the [new_controller.GetName]" #NT!
+ form_austria_kingdom_decision_effect_stretch_fail_istria_tt:0 "As it is cut off but not [completely_controlled|E], the [istria.GetName] defects [de_jure|E] to the [new_controller.GetName]" #NT!
+
+ dismantle_papacy_decision:0 "Dismantle the Papacy" #NT!
+ dismantle_papacy_decision_confirm:0 "Let the Vatican burn!" #NT!
+ dismantle_papacy_decision_desc:0 "Once the entire Italian peninsula has been brought under [ROOT.Char.GetFaith.GetAdjective] control, we will be able to permanently expunge the Catholic heathens from this world." #NT!
+ dismantle_papacy_decision_tooltip:0 "The Papacy will be permanently destroyed." #NT!
+ dismantle_papacy_decision_effect_tooltip:0 "The Papacy will be permanently destroyed" #NT!
+
+ reform_carolingian_empire_decision:0 "Restore Carolingian Borders" #NT!
+ reform_carolingian_empire_decision_confirm:0 "For the Empire of the Franks!" #NT!
+ reform_carolingian_empire_decision_desc:0 "The dream of Charlemagne of a united Europe was unraveled by his sons and the pettiness of German Princes, yet it can still come true if the Franks unite under this single purpose." #NT!
+ reform_carolingian_empire_decision_tooltip:0 "The Carolingian Borders are restored." #NT!
+ reform_carolingian_empire_decision_effect_tooltip:0 "The Carolingian Borders are restored" #NT!
+
+ unify_burgundy_kingdom_decision:0 "Unify the Burgundies" #NT!
+ unify_burgundy_kingdom_decision_confirm:0 "Let the realm be whole again!" #NT!
+ unify_burgundy_kingdom_decision_desc:0 "Ever since being brought under Frankish heel, the lands of the Burgundians have been fragmented, split by foreign Kings. If all the Burgundies were united under the same banner, they could finally reclaim their place as a sovereign power in Europe." #NT!
+ unify_burgundy_kingdom_decision_tooltip:0 "The Kingdom of Burgundy is restored and reclaims its independence." #NT!
+ unify_burgundy_kingdom_decision_effect_tooltip:0 "The Kingdom of Burgundy is restored and reclaims its independence" #NT!
+
+ unify_italian_empire_decision:0 "Unify Italy" #NT!
+ unify_italian_empire_decision_confirm:0 "The peninsula will be unified" #NT!
+ unify_italian_empire_decision_desc:0 "If the squabbling city-states and barbarous realms of Italy are brought once again under Imperial rule, the entire peninsula will regain its dignity and power." #NT!
+
+ convert_to_feudalism_decision:0 "Adopt Feudalism" #NT!
+ convert_to_feudalism_decision_desc:0 "As my realm grows, so does the challenge to control it. If [ROOT.Char.GetPrimaryTitle.GetNameNoTierNoTooltip] is to keep expanding, we must leave the old ways behind and convert to feudalism." #NT!
+ convert_to_feudalism_decision_confirm:0 "Adopt [ROOT.Char.Custom('GetTribalReformGovernment')|U] Ways" #NT!
+ convert_to_feudalism_decision_tooltip:0 "Change [government|E] type by becoming [feudal|E] or [clan|E]" #NT!
+
+ convert_to_feudalism_liege_converted_decision:0 "Adopt [ROOT.Char.GetLiege.GetGovernment.GetNameNoTooltip] Ways through Liege" #NT!
+ convert_to_feudalism_liege_converted_decision_desc:1 "As my realm grows, so does the challenge to control it. My liege already follows the [ROOT.Char.GetLiege.GetGovernment.GetNameNoTooltip] system; I could ask [ROOT.Char.GetLiege.GetHerHis] help in restructuring my realm along similar lines." #NT!
+ convert_to_feudalism_liege_converted_decision_confirm:1 "Adopt [ROOT.Char.GetLiege.GetGovernment.GetNameNoTooltip|U] Ways" #NT!
+ convert_to_feudalism_liege_converted_decision_tooltip:0 "Change [government|E] type by becoming [feudal|E] or [clan|E]" #NT!
+
+ convert_whole_realm_to_feudalism_decision:0 "Adopt [ROOT.Char.Custom('GetTribalReformGovernment')|U] Ways" #NT!
+ convert_whole_realm_to_feudalism_decision_desc:0 "For [ROOT.Char.GetPrimaryTitle.GetNameNoTierNoTooltip] to keep expanding and developing we must leave the old ways behind and adopt a new method of governance, together." #NT!
+ convert_whole_realm_to_feudalism_decision_confirm:0 "Adopt [ROOT.Char.Custom('GetTribalReformGovernment')|U] Ways" #NT!
+ convert_whole_realm_to_feudalism_decision_tooltip:0 "Change [government|E] type by adopting [feudalism|E]" #NT!
+
+ islamic_vassals_will_convert:1 "As I am Islamic, my [tribal|E] vassals will change to [clan|E] government" #NT!
+ other_vassals_will_convert:1 "My [tribal|E] vassals will change to [feudalism|E]" #NT!
+ clan_liege_vassals_will_convert:0 "As my [liege|E] has a [clan_government|E], my [tribal|E] vassals will change to $game_concept_clan$" #NT!
+ feudal_liege_vassals_will_convert:0 "As my [liege|E] has a [feudal_government|E], my [tribal|E] vassals will become $game_concept_feudal$" #NT!
+ all_holding_will_change:0 "All Tribal [holdings|E] in the realm will become Castle Holdings" #NT!
+ all_vassals_will_convert:0 "All your vassals will change to [feudalism|E]" #NT!
+
+ unify_italian_empire_decision_tooltip:0 "Sicily and Croatia are brought back under [de_jure|E] Italia." #NT!
+ unify_italian_empire_decision_effect_tooltip:0 "Sicily and Croatia are brought back under [de_jure|E] Italia" #NT!
+
+ create_outremer_empire_decision:0 "Form the Outremer Empire" #NT!
+ create_outremer_empire_decision_confirm:0 "Finally, a genuinely holy land!" #NT!
+ create_outremer_empire_decision_desc:0 "Only once the golden cross shines from Ascalon to Omar and the infidels have been truly cast out of the Holy Land will the sacred mission of the Crusades be achieved." #NT!
+ create_outremer_empire_decision_tooltip:0 "The Empire of Outremer will be established." #NT!
+ create_outremer_empire_decision_effect_tooltip:0 "The Empire of Outremer will be established" #NT!
+
+ I_AM_UNDER_OUTREMER_LIEGE:0 "My liege has Outremer [culture|E]" #NT!
+ I_AM_NOT_UNDER_OUTREMER_LIEGE:0 "My liege has #bold not#! Outremer [culture|E]" #NT!
+ I_AM_UNDER_OUTREMER_EMPIRE:0 "My liege does #bold not#! rule the Empire of Outremer" #NT!
+ I_AM_NOT_UNDER_OUTREMER_EMPIRE:0 "My liege rules the Empire of Outremer" #NT!
+
+ embrace_celibacy_decision:0 "Embrace Celibacy" #NT!
+ embrace_celibacy_decision_desc:0 "#F A life devoid of carnal pleasures will bring me peace and satisfaction.#!" #NT!
+ embrace_celibacy_decision_tooltip:0 "I become Celibate" #NT!
+ embrace_celibacy_decision_confirm:0 "A new life begins today!" #NT!
+ abandon_celibacy_decision:0 "Abandon Celibacy" #NT!
+ abandon_celibacy_decision_desc:0 "#F I have duties to the realm, and to myself... I can no longer live in celibacy.#!" #NT!
+ abandon_celibacy_decision_tooltip:0 "I stop being Celibate" #NT!
+ abandon_celibacy_decision_confirm:0 "A new life begins today!" #NT!
+ msg_became_celibate:0 "Embrace Celibacy" #NT!
+ msg_stopped_being_celibate:0 "Abandon Celibacy" #NT!
+
+
+ sale_of_titles_decision:0 "Sell Minor Titles" #NT!
+ sale_of_titles_decision_desc:0 "#F Selling titles — of purely symbolic importance — to people of more means than pedigree will bolster my treasury.#!" #NT!
+ sale_of_titles_decision_tooltip:0 "Exchange Prestige for Gold" #NT!
+ sale_of_titles_decision_confirm:1 "Draw up Writs of Honor" #NT!
+ sale_of_titles_side_effects_tt:0 "Selling titles yields unpredictable results" #NT!
+ sell_titles_nickname_gained:0 "New Nickname" #NT!
+
+ extort_subjects_decision:0 "Extort Subjects" #NT!
+ extort_subjects_decision_desc:0 "#F When I am in need of money, my subjects should be happy to pay their dues! Where would they even be without me, after all?#!" #NT!
+ extort_subjects_decision_tooltip:0 "Ruffle feathers until gold falls out" #NT!
+ extort_subjects_decision_confirm:0 "Now where are my loyal subjects?" #NT!
+ extort_subjects_effect_tt:2 "You will have the opportunity to take gold from someone in your realm" #NT!
+ I_HAVE_NO_VASSALS_OF_COUNT_RANK_OR_HIGHER:0 "You have no vassals of [count|E] rank or higher" #NT!
+
+ commission_epic_decision:0 "Commission Epic" #NT!
+ commission_epic_decision_desc:0 "#F My family history contains many tales of great success and honor. If any of those were composed into a single story, it would certainly reflect very well on myself!#!" #NT!
+ COMMISSION_EPIC_ONCE_COMPLETE:0 "Once the Epic is complete:" #NT!
+ COMMISSION_EPIC_POTENTIAL_COST:1 "#F You are likely to get a better result if you have extra money to spend#!" #NT!
+ commission_epic_decision_tooltip:1 "Pay Gold for [prestige|E] and possibly [dynasty_prestige|E]" #NT!
+ commission_epic_decision_confirm:1 "Time to start composing!" #NT!
+ commission_epic_decision_message:0 "Commissioned Family Epic" #NT!
+
+ hold_mystical_communion_decision:0 "Hold Mystical Communion" #NT!
+ hold_mystical_communion_decision_desc:0 "#F I will reach for the presence of [ROOT.Char.GetFaith.HighGodName] in transfixed ecstasy.#!" #NT!
+ hold_mystical_communion_decision_tooltip:0 "You are the only one who truly knows" #NT!
+ hold_mystical_communion_decision_confirm:0 "I begin in peace" #NT!
+ hold_mystical_communion_side_effects_tt:0 "There may be unforeseen side effects" #NT!
+ held_mystical_communion_title:0 "Communed With [ROOT.Char.GetFaith.HighGodName]" #NT!
+
+
+ destroy_sunni_decision_effect_tooltip:0 "The Ash'ari Caliphate will be destroyed" #NT!
+
+ restore_sunni_caliphate_decision:0 "Restore the Ash'ari Caliphate" #NT!
+ restore_sunni_caliphate_decision_confirm:0 "I alone will lead the struggle!" #NT!
+ restore_sunni_caliphate_decision_desc:0 "If a righteous ruler reclaims the holy cities from the clutches of the infidels, the Caliphate could be restored and unite the true worshipers of Allah under a single cause." #NT!
+ restore_sunni_caliphate_decision_tooltip:1 "You will become the Ash'ari Caliph" #NT!
+ restore_sunni_caliphate_decision_effect_tooltip:1 "You will become the Ash'ari Caliph" #NT!
+
+ embrace_outremer_culture_decision:0 "Embrace Outremer Culture" #NT!
+ embrace_outremer_culture_decision_confirm:0 "We will be the best of both worlds!" #NT!
+ embrace_outremer_culture_decision_desc:0 "The European incursions in the Levant have brought a multitude of strident cultures together. From their clashes, a new Outremer identity is emerging." #NT!
+ embrace_outremer_culture_decision_tooltip:0 "Introduce the Outremer culture to the Court" #NT!
+ embrace_outremer_culture_decision_courtiers_embrace_outremer:3 "All [courtiers|E] of your [dynasty|E] become Outremer" #NT!
+ embrace_outremer_culture_decision_provinces_embrace_outremer:3 "All Middle-Eastern [counties|E] in your [domain|E] belonging to your [culture_group|E] become Outremer" #NT!
+ embrace_outremer_culture_decision_capital_embraces_outremer:3 "Your [realm_capital|E] will become Outremer" #NT!
+
+ create_israel_kingdom_decision:0 "Restore Israel" #NT!
+ create_israel_kingdom_decision_confirm:0 "The Exodus will finally end!" #NT!
+ create_israel_kingdom_decision_desc:0 "It is time for the Children of Israel to found a new United Monarchy built around Jerusalem and the Promised Land, so that Jews may once more live together in peace and harmony." #NT!
+ create_israel_kingdom_decision_tooltip:0 "The Kingdom of Israel is restored." #NT!
+ create_israel_kingdom_decision_effect_tooltip:0 "The Kingdom of Israel is restored" #NT!
+
+ jewish_restore_high_priesthood_decision:0 "Restore the [ROOT.Char.GetFaith.GetAdjectiveNoTooltip] High Priesthood" #NT!
+ jewish_restore_high_priesthood_decision_confirm:0 "Establish a new religious head" #NT!
+ jewish_restore_high_priesthood_decision_desc:0 "The office of the [ROOT.Char.GetFaith.ReligiousHeadName] — the High Priest of Judaism — has been vacant since the destruction of the Second Temple at the hands of the Romans. Yet, if we are able to retake control of enough of our ancestral holy sites, a new priesthood could be established." #NT!
+ jewish_restore_high_priesthood_decision_tooltip:0 "The [ROOT.Char.GetFaith.GetAdjective] priesthood is re-established." #NT!
+
+ restore_high_priesthood_decision_tooltip:0 "The [ROOT.Char.GetFaith.GetAdjective] priesthood is re-established." #NT!
+ restore_high_priesthood_decision_effect_tooltip:0 "The [THIS.Char.GetFaith.GetAdjective] priesthood is re-established" #NT!
+
+ zoroastrian_restore_high_priesthood_decision:0 "Restore the [ROOT.Char.GetFaith.GetNameNoTooltip] High Priesthood" #NT!
+ zoroastrian_restore_high_priesthood_decision_confirm:0 "Establish a new religious head" #NT!
+ zoroastrian_restore_high_priesthood_decision_desc:0 "If the [ROOT.Char.GetFaith.GetAdjective] faith gains a foothold in Persia, the time will be ripe for the reinstitution of a proper Zoroastrian Priesthood." #NT!
+ zoroastrian_restore_high_priesthood_decision_tooltip:0 "The [ROOT.Char.GetFaith.GetAdjective] priesthood is established." #NT!
+ zoroastrian_restore_high_priesthood_decision_effect_tooltip:0 "The [THIS.Char.GetFaith.GetAdjective] priesthood is established" #NT!
+
+ become_saoshyant_decision:0 "Become the Saoshyant" #NT!
+ become_saoshyant_decision_confirm:0 "I am the one!" #NT!
+ become_saoshyant_decision_desc:0 "By driving out the Muslims and restoring Zoroastrian rule over the entirety of the Persian Empire, a pious ruler may be recognized to be Zoroaster's prophesied Saoshyant — the chosen savior of the world." #NT!
+ become_saoshyant_decision_tooltip:0 "Become the Saoshyant." #NT!
+ become_saoshyant_decision_effect_tooltip:0 "Become the Saoshyant" #NT!
+ become_saoshyant_decision_decendant_trait_tooltip:0 "Your descendants will gain the [trait|E] [GetTrait('saoshyant_descendant').GetName( GetNullCharacter )|LV]" #NT!
+
+ restore_roman_empire_italian_decision:0 "Restore the Roman Empire" #NT!
+ restore_roman_empire_italian_decision_confirm:0 "I will restore the Empire" #NT!
+ restore_roman_empire_italian_decision_desc:0 "Italy is already under Imperial rule once more. The only thing that we have left is to reclaim the historical provinces in order to restore dignity to our new Roman Empire." #NT!
+ restore_roman_empire_italian_decision_tooltip:0 "The Roman Empire is restored" #NT!
+
+ dismantle_holy_pretender_decision:0 "Dismantle German Pretenders" #NT!
+ dismantle_holy_pretender_decision_confirm:0 "War to the pretenders!" #NT!
+ dismantle_holy_pretender_decision_desc:0 "Retaking the Italian Peninsula and the Gallic border will allow us to be in a position strong enough to challenge the German pretenders who are wrongfully claiming Imperial dignity." #NT!
+ dismantle_holy_pretender_decision_tooltip:0 "A war to destroy the Holy Roman Empire will begin." #NT!
+ dismantle_holy_pretender_decision_effect_tooltip:0 "A war to destroy the Holy Roman Empire will begin" #NT!
+
+ dismantle_byz_pretender_decision:0 "Dismantle Greek Pretenders" #NT!
+ dismantle_byz_pretender_decision_confirm:0 "War to the pretenders!" #NT!
+ dismantle_byz_pretender_decision_desc:0 "Controlling the Italian Peninsula and gaining a foothold in Greece will allow us to be in a position strong enough to challenge the decaying Empire of the Greeks still clinging to a waning shred of Imperial dignity." #NT!
+ dismantle_byz_pretender_decision_tooltip:0 "A war to destroy the Byzantine Empire will begin." #NT!
+ dismantle_byz_pretender_decision_effect_tooltip:0 "A war to destroy the Byzantine Empire will begin" #NT!
+
+ form_rum_sultanate_decision:0 "Form the Sultanate of Rum" #NT!
+ form_rum_sultanate_decision_confirm:0 "A new, [ROOT.Char.GetFaith.GetAdjectiveNoTooltip] Rome!" #NT!
+ form_rum_sultanate_decision_desc:0 "By bringing the Roman heartland of Asia Minor under [ROOT.Char.GetFaith.GetAdjective] control, we will create a new, better Rome under the guiding light of [ROOT.Char.GetFaith.HighGodName]." #NT!
+ form_rum_sultanate_decision_tooltip:0 "Establish the independent Sultanate of Rum." #NT!
+ form_rum_sultanate_decision_effect_tooltip:0 "Establish the independent Sultanate of Rum" #NT!
+
+ create_armenian_empire_decision:0 "Revive Greater Armenia" #NT!
+ create_armenian_empire_decision_desc:0 "Greece and Persia are not the only lands ever to maintain imperial dignity. There was a time long ago, before Rome had ever seen an emperor, when our monarch was King of Kings. That time may yet come again." #NT!
+ create_armenian_empire_decision_tooltip:0 "Armenia becomes a [de_jure|E] [empire|E]" #NT!
+ create_armenian_empire_decision_effects_de_jure_tt_a:0 "If held, the following [kingdoms|E] will become [de_jure|E] part of [armenian_armenia_empire.GetNameNoTier]:\n[armenian_georgia.GetNameNoTier], [armenian_daylam.GetNameNoTier], [armenian_jazira.GetNameNoTier], [armenian_syria.GetNameNoTier], [armenian_anatolia.GetNameNoTier], [armenian_pontus.GetNameNoTier], [armenian_jerusalem.GetNameNoTier]" #NT!
+ create_armenian_empire_decision_effects_de_jure_tt_b:1 "All [duchies|E] in $custom_greater_armenia$ become [de_jure|E] part of [armenian_armenia.GetNameNoTier], or remain part of their current [kingdom|E] if you hold that title" #NT!
+ create_armenian_empire_decision_confirm:0 "From sea to sea, again." #NT!
+
+ declare_bloodline_holy_decision:0 "Consecrate Bloodline" #NT!
+ declare_bloodline_holy_decision_desc:0 "By showing sufficient devotion and gathering the favor of the clergy, I can ensure that my dynasty is forever enshrined as a holy bloodline under divine protection." #NT!
+ declare_bloodline_holy_decision_tooltip:0 "The [ROOT.Char.GetDynasty.GetName] [dynasty|E] will be consecrated" #NT!
+ declare_bloodline_holy_decision_confirm:0 "Perform the final rites" #NT!
+
+ build_grand_church_decision:0 "Build a Grand Church" #NT!
+ build_grand_church_decision_desc:0 "There is a plot of land in Barcelona where communion with [ROOT.Char.GetFaith.HighGodName] supposedly flows easier; to build a [ROOT.Char.GetFaith.HouseOfWorship] upon this ground would honor [ROOT.Char.GetFaith.HighGodName] and the Holy Family.\n\nMay the finished building stand as a testament to [ROOT.Char.GetFaith.HighGodNameAlternatePossessive] greatness!" #NT!
+ build_grand_church_decision_tooltip:0 "The foundation for a grand church is laid" #NT!
+ build_grand_church_decision_confirm:0 "We begin construction #EMP at once#!!" #NT!
+
+ accept_cannibalism_decision:0 "[ROOT.Char.GetFaith.GetAdjectiveNoTooltip] Cannibalism" #NT!
+ accept_cannibalism_decision_desc:1 "Our creator [ROOT.Char.GetFaith.CreatorName] made us in [ROOT.Char.GetFaith.CreatorHerHis|U] image. By imbibing the reflection of the divine we grow closer to [ROOT.Char.GetFaith.HighGodNameAlternate]." #NT!
+ all_my_family_members:1 "All your [close_family_members|E]" #NT!
+ all_my_intimidated_vassals:1 "All your [intimidated|E] vassals" #NT!
+ accept_cannibalism_decision_confirm:0 "We feast!" #NT!
+ accept_cannibalism_decision_tooltip:1 "The cost to adopt cannibal-friendly doctrines is significantly lowered" #NT!
+ faith_accept_cannibalism:0 "The cost to adopt cannibal-friendly doctrines is significantly lowered" #NT!
+ accept_cannibalism_decision_custom:1 "Your [court_chaplain|E] has to be a [GetTrait('cannibal').GetName( GetPlayer )]" #NT!
+ accept_cannibalism_decision_custom_not:1 "Your [court_chaplain|E] cannot be a [GetTrait('cannibal').GetName( GetPlayer )]" #NT!
+
+ found_university_decision:0 "Found University" #NT!
+ found_university_decision_desc:0 "Learned scholars have been congregating within my realm as of late. Many are sought after as teachers, but to pool — and pass on — their knowledge, they need somewhere to gather." #NT!
+ found_university_decision_tooltip:1 "[special_building|E] Slot: [GetBuilding('generic_university').GetName] will be made available" #NT!
+ found_university_decision_confirm:1 "Lay the foundation!" #NT!
+ found_university_decision_custom:0 "In a fitting Barony" #NT!
+ no_built_university:0 "The province does not have a [special_building|E]" #NT!
+ no_special_building_slot:0 "The province does not already have a [special_building|E] Slot" #NT!
+ decision_found_university_custom:0 "All County Capitals without a [GetBuilding('generic_university').GetName]" #NT!
+
+ empower_sicilian_parliament_decision:0 "Empower Sicilian Parliament" #NT!
+ empower_sicilian_parliament_decision_desc:0 "By balancing the representative of Nobility, Clergy and Burghers with the old Roman infrastructure, a new advisory body could be organized, for the benefit of both monarch and subjects." #NT!
+ empower_sicilian_parliament_decision_tooltip:0 "Establish advisory assembly of the Estates" #NT!
+ empower_sicilian_parliament_decision_confirm:0 "Establish a new Parliament" #NT!
+ empower_sicilian_parliament_decision_every_province_custom:1 "Every Sicilian County" #NT!
+
+ england_request_laudabiliter_decision:0 "Request Claim on Ireland" #NT!
+ england_request_laudabiliter_decision_desc:0 "If the Holy See sanctions a campaign against the barbarous tribes of Ireland, all of the British Isles could become ours to rule." #NT!
+ england_request_laudabiliter_decision_tooltip:0 "Petition the Papacy" #NT!
+ england_request_laudabiliter_decision_confirm:0 "Petition the Papacy" #NT!
+ england_request_laudabiliter_decision_effects_tooltip:0 "The Papal Bull gives the [house|E] [THIS.Char.GetHouse.GetName] a [casus_belli|E] for all [counties|E] in Ireland" #NT!
+ laudabiliter_decision_effects_tooltip:0 "$england_request_laudabiliter_decision_effects_tooltip$" #NT!
+ embrace_english_culture_vassals_custom:0 "Every $norman$ or $french$ [vassal|E] in England" #NT!
+ embrace_english_culture_counties_custom:0 "Every $anglo_saxon$ [county|e] in England" #NT!
+
+ promote_gothic_innovations_decision:0 "Inspire Opus Francigenum" #NT!
+ promote_gothic_innovations_decision_desc:0 "A new age of art and discovery awaits us to drag [ROOT.Char.GetPrimaryTitle.GetNameNoTierNoTooltip] out of these dark times and make our homeland the pulsating heart of European culture." #NT!
+ promote_gothic_innovations_decision_tooltip:0 "Invest in patronage" #NT!
+ promote_gothic_innovations_decision_confirm:0 "Invest in patronage" #NT!
+
+ lunatic_building_decision:0 "Build a Glass Monument" #NT!
+ lunatic_building_decision_desc:0 "I dreamed of a building all made of glass, where the sun warms like a summer's day even in the deepest of winters, and plants can grow year round!" #NT!
+ lunatic_building_decision_tooltip:0 "A [GetBuilding('special_greenhouse_01').GetName] will be built" #NT!
+ lunatic_building_decision_confirm:0 "I will catch the sun!" #NT!
+
+ promote_hungarian_settlement_decision:0 "Promote Christian Settlements" #NT!
+ promote_hungarian_settlement_decision_desc:1 "By opening the [ROOT.Char.GetPrimaryTitle.GetName] to traders and settlers from nearby Christian realms, I will be able to speed the development of my country and strengthen our bond with the Universal Church." #NT!
+ promote_hungarian_settlement_decision_tooltip:0 "Welcome new Christian Settlers in [ROOT.Char.GetPrimaryTitle.GetNameNoTooltip]" #NT!
+ promote_hungarian_settlement_decision_ecumenical_christian:0 "Your [faith|E] is a Christian [faith] with [GetFaithDoctrine('special_doctrine_ecumenical_christian').GetBaseName]" #NT!
+ promote_hungarian_settlement_decision_confirm:0 "Send out the announcement!" #NT!
+ promote_hungarian_settlement_decision_every_vassal_custom:0 "Every Mogyer Vassal and Courtier" #NT!
+ promote_hungarian_settlement_decision_every_province_custom:1 "Every Mogyer County in the Kingdom of Hungary" #NT!
+ promote_hungarian_settlement_decision_increased_development:0 "Gains #V 1#! [development|E] if currently under 5 [development]" #NT!
+ promote_hungarian_settlement_decision_convert_county:0 "May convert to a nearby Christian [faith|E]" #NT!
+
+ revive_magyar_paganism_decision:1 "Revive $magyar_pagan$" #NT!
+ revive_magyar_paganism_decision_desc:1 "[ROOT.Char.GetFaith.GetReligion.GetNameNoTooltip] might have its advantages, but it has caused no end of grief and unrest amongst our subjects. Perhaps it is time to rekindle our connection with the ancient rites..." #NT!
+ revive_magyar_paganism_decision_tooltip:1 "Abandon [ROOT.Char.GetFaith.GetNameNoTooltip] and embrace the traditions of our ancestors" #NT!
+ revive_magyar_paganism_decision_confirm:1 "Renounce [ROOT.Char.GetFaith.GetNameNoTooltip]" #NT!
+ revive_magyar_paganism_decision_scripted_effect.county_conversions.tt:0 "[counties|E] in your [realm|E] that share your [culture_group|E] might convert to $magyar_pagan$" #NT!
+ revive_magyar_paganism_decision.adjust_the_faith.tt:0 "You may swap some of the tenets of $magyar_pagan$" #NT!
+ hungarian_resettlement.every_converted_province:0 "$EFFECT_LIST_BULLET$ All [counties|E] that convert" #NT!
+
+ dynasty_of_many_crowns_decision:0 "Dynasty of Many Crowns" #NT!
+ dynasty_of_many_crowns_decision_desc:1 "One day, our dynasty will rule realms across the world. Through marriage and conquest, the [ROOT.Char.GetDynasty.GetBaseNameNoTooltip] name will be known to all." #NT!
+ dynasty_of_many_crowns_decision_confirm:1 "Our legacy shall endure for eternity!" #NT!
+ dynasty_of_many_crowns_decision_tooltip:0 "Bring fame and glory to the [ROOT.Char.GetDynasty.GetBaseName] [dynasty|E]" #NT!
+
+ found_witch_coven_decision:0 "Found Witch Coven" #NT!
+ found_witch_coven_decision_desc:0 "Our proud house is united by blood, but the truth divides us. I long for the day when we will no longer live in fear, but be completely open with each other. Our sons and daughter will be raised to embrace their powers and the will of [ROOT.Char.GetFaith.WitchGodName]. May we serve [ROOT.Char.GetFaith.WitchGodHerHim|U] well!" #NT!
+ found_witch_coven_decision_confirm:0 "Found the [ROOT.Char.GetHouse.GetBaseNameNoTooltip] coven" #NT!
+ found_witch_coven_decision_tooltip:0 "Start a new family tradition" #NT!
+ found_witch_coven_decision_effects.children.tt:0 "All children of the [founder.GetHouse.GetBaseName] coven who are educated by a [GetTrait('witch').GetName( GetPlayer )] becomes a Witch" #NT!
+ found_witch_coven_decision_effects.convert.tt:0 "All Witches of the [founder.GetHouse.GetBaseName] coven are more successful when converting others to witchcraft" #NT!
+ found_witch_coven_decision_effects.grand_rite.tt:0 "The [house_head|E] of the [founder.GetHouse.GetBaseName] coven can host a Grand Rite [activity|E]" #NT!
+
+ strengthen_bloodline_decision:0 "Strengthen Bloodline" #NT!
+ strengthen_bloodline_decision_desc:0 "Vigor, beauty and intellect are all proof of a bloodline's strength. A dynasty thus blessed will pass these gifts on from generation to generation." #NT!
+ strengthen_bloodline_decision_confirm:0 "Strengthen bloodline" #NT!
+ strengthen_bloodline_decision_tooltip:0 "Establish a bloodline known for its strength, beauty and intelligence" #NT!
+
+ #UNITE THE WESTERN SLAVS #NT!
+ unite_the_western_slavs_decision:1 "Unite the West Slavs" #NT!
+ unite_the_western_slavs_decision_tooltip:1 "Unite the Western Slavs under one ruler" #NT!
+ unite_the_western_slavs_decision_desc:0 "We were one people when we first came to these lands. Over the years we scattered, dividing ourselves into many tribes. With foreign forces lurking at our doorstep, it is time to stand together once more." #NT!
+ unite_the_western_slavs_decision_titles_tt:1 "Every West Slavic [kingdom|E] [title|E] you own (except your [primary_title|E]) will be destroyed and their territories will become [de_jure|E] of your Primary Title ([THIS.Char.GetPrimaryTitle.GetNameNoTier])" #NT!
+ unite_the_western_slavs_decision_titles_empire_tt:0 "Every West Slavic [kingdom|E] [title|E] you own (except your [primary_title|E]) will be destroyed and their territories will become [de_jure|E] of a random owned West Slavic kingdom" #NT!
+ unite_the_western_slavs_decision_confirm:1 "Unite the West Slavs" #NT!
+
+ #UNITE THE SOUTHERN SLAVS #NT!
+ unite_the_southern_slavs_decision:0 "Unite the South Slavs" #NT!
+ unite_the_southern_slavs_decision_tooltip:0 "Unite the Southern Slavs under one ruler" #NT!
+ unite_the_southern_slavs_decision_confirm:0 "Unite the South Slavs" #NT!
+ unite_the_southern_slavs_decision_desc:0 "We were one people when we first came to these lands. Over the years we scattered, dividing ourselves into many tribes.\n\nNow we are surrounded by mighty Empires with strange customs. Due to their influence our own way of life is slowly fading. We cannot let this happen — the time has come to unite once more." #NT!
+ unite_the_southern_slavs_decision_titles_tt:1 "Every South Slavic [kingdom|E] [title|E] you own (except your [primary_title|E]) will be destroyed and their territories will become [de_jure|E] of your Primary Title ([THIS.Char.GetPrimaryTitle.GetNameNoTier])" #NT!
+
+ #UNITE ALL THE SLAVS #NT!
+ unite_the_slavs_decision:0 "Unite the Slavs" #NT!
+ unite_the_slavs_decision_tooltip:0 "Unite the Slavic peoples and found the [empire|E] of Slavia" #NT!
+ unite_the_slavs_decision_confirm:0 "Found Slavia" #NT!
+ unite_the_slavs_decision_desc:0 "If all of the Slavic peoples unite, there is no one who can stop us. I will bring about the mightiest empire the world has ever known!" #NT!
+ unite_the_slavs_decision_titles_tt:2 "Every Slavic [kingdom|E] [title|E] will become [de_jure|E] of the [slavia.GetName]" #NT!
+ unite_the_slavs_decision_effects_innovations_tt:1 "All Slavic cultures in your realm will discover up to 3 [innovations|E] from other Slavic cultures" #NT!
+
+ #DEFENDERS OF HIGHGOD #NT!
+ defenders_of_highgod_decision:0 "Defenders of [ROOT.Char.GetFaith.HighGodName]" #NT!
+ defenders_of_highgod_decision_desc:1 "Foreign forces are skirting our territories like a pack of hungry wolves. If the ways of old are to survive, I must win the respect of the clans. Together we will raise a glorious war hall in [ROOT.Char.GetFaith.WarGodNamePossessive] honor." #NT!
+ defenders_of_highgod_decision_confirm:0 "Fortify Holy Site" #NT!
+ defenders_of_highgod_decision_tooltip:0 "Win the loyalty of the tribes and unite in defense of [ROOT.Char.GetFaith.GetName]" #NT!
+
+ defenders_of_highgod_decision_effects_holy_site_of_choice:0 "A [SCOPE.GetRootScope.Char.GetFaith.GetAdjective] [holy_site|E] you hold" #NT!
+ defenders_of_highgod_decision_effects_holy_warriors_tt:0 "Many [defender_of_highgod.GetFaith.GetAdjective] warriors in your realm become [GetTrait('holy_warrior').GetName( GetPlayer )]s" #NT!
+
+ #UNITE THE SPANISH THRONES #NT!
+ unite_the_spanish_thrones_decision:0 "Unite the Spanish Thrones" #NT!
+ unite_the_spanish_thrones_decision_desc:0 "The Spanish Thrones will be united once more, and this time under the banner of [ROOT.Char.GetPrimaryTitle.GetNameNoTierNoTooltip]." #NT!
+ unite_the_spanish_thrones_decision_confirm:0 "Unite the Thrones" #NT!
+ unite_the_spanish_thrones_decision_tooltip:0 "The Spanish thrones will be united once more" #NT!
+ unite_the_spanish_thrones_decision_titles_tt:1 "Every Spanish [kingdom|E] [title|E] you own (except your [primary_title|E]) will be destroyed and their territories will become [de_jure|E] of your Primary Title ([THIS.Char.GetPrimaryTitle.GetNameNoTier])" #NT!
+ unite_the_spanish_thrones_decision_primary:0 "Your [primary_title|E] is an Iberian [kingdom|E]" #NT!
+
+ #UNITE AFRICA #NT!
+ unite_africa_decision:0 "Unite Africa" #NT!
+ unite_africa_decision_tooltip:0 "Bring the African peoples together in the name of [ROOT.Char.GetFaith.HighGodName]" #NT!
+ unite_africa_decision_confirm:0 "Unite Africa" #NT!
+ unite_africa_decision_ancestors_desc:0 "For far too long, our beautiful homelands have been exploited by foreign invaders. The time has come to unite the African peoples and return to the path of our Ancestors." #NT!
+ unite_africa_decision_spirits_desc:0 "For far too long, the spirits of our beautiful homelands have been disrespected by foreign infidels. The time has come to unite the African peoples under [ROOT.Char.GetFaith.HighGodName]." #NT!
+ unite_africa_decision_generic_desc:0 "The peoples of Africa are proud, brave and strong. Yet, so many are misled and worship false gods. The time has come to unite them all under [ROOT.Char.GetFaith.HighGodName]." #NT!
+ every_non_root_faith_vassal_africa:0 "Every non-[THIS.Char.GetFaith.GetAdjective] [vassal|E] or below in Africa" #NT!
+ every_non_root_faith_county_africa:0 "Every non-[THIS.Char.GetFaith.GetAdjective] county in Africa" #NT!
+ every_non_africa_uniter_faith_convert:1 "Converts to [africa_uniter.GetFaith.GetName|V]" #NT!
+
+ #AVENGE THE BATTLE OF TOURS #NT!
+ avenge_the_battle_of_tours_decision:0 "Avenge the Battle of Tours" #NT!
+ avenge_the_battle_of_tours_decision_desc:0 "In 732, the Umayyad forces were defeated by the Franks on the road to Tours. Had things gone differently, all of Europe would be under Muslim rule today.\n\nI will avenge our fallen martyrs and make their dream a reality." #NT!
+ avenge_the_battle_of_tours_decision_confirm:0 "Avenge the Battle of Tours" #NT!
+ avenge_the_battle_of_tours_decision_tooltip:0 "March up the Road of the Martyrs and right past wrongs" #NT!
+ every_non_avenger_faith_convert:1 "Converts to [avenger.GetFaith.GetName|V]" #NT!
+ every_non_root_faith_vassal_west_europe:0 "Every non-[THIS.Char.GetFaith.GetAdjective] vassal or below in Western Europe" #NT!
+ every_non_root_faith_county_west_europe:1 "Every non-[THIS.Char.GetFaith.GetAdjective] county in your realm in Western Europe" #NT!
+
+ #FORM PORTUGAL #NT!
+ form_portugal_decision:0 "Form Portugal" #NT!
+ form_portugal_decision_desc:0 "Once I am in control of the western coast of the Iberian Peninsula, I can form the Kingdom of Portugal and establish our own unique culture." #NT!
+ portguese_convert_list:1 "Every [THIS.Char.GetCulture.GetGroup.GetName] [culture_group|E] subject in [THIS.Char.GetUINamePossessive] Portuguese realm" #NT!
+ portguese_convert_list_court:1 "Every [THIS.Char.GetCulture.GetName] [courtier|E]" #NT!
+ portugese_convert_iberian_counties:0 "Every [THIS.Char.GetCulture.GetGroup.GetName] [culture_group|E] county in the Kingdom of Portugal" #NT!
+ portugese_convert_non_iberian_counties:0 "Every other county in the Kingdom of Portugal" #NT!
+ form_portugal_decision_confirm:0 "Form Portugal" #NT!
+ form_portugal_decision_tooltip:0 "Form the [kingdom|E] of Portugal and establish the Portuguese [culture|E]" #NT!
+ form_portugal_decision_effects_de_jure_tt:1 "[title_d_porto.GetNameNoTier], [title_d_coimbra.GetNameNoTier], [title_d_beja.GetNameNoTier], and [title_d_algarve.GetNameNoTier] become [de_jure|E] part of the #V [title_k_portugal.GetName]#! " #NT!
+
+
+ #Form custom kingdom or empire #NT!
+ found_kingdom_decision:1 "Found a New Kingdom" #NT!
+ found_kingdom_decision_desc:0 "I will unite my realm under a new Kingdom title, to belong to my dynasty for all time." #NT!
+ found_kingdom_decision_confirm:0 "Gather the realm" #NT!
+ found_kingdom_decision_tooltip:0 "Found an entirely new Kingdom title" #NT!
+ found_empire_decision:1 "Found a New Empire" #NT!
+ found_empire_decision_desc:0 "I will create an Empire to outshine all others, and to outlast history itself." #NT!
+ found_empire_decision_confirm:0 "Gather the realm" #NT!
+ found_empire_decision_tooltip:0 "Found an entirely new Empire title" #NT!
+ create_new_kingdom:1 "You create a new Kingdom" #NT!
+ create_title_every_held_duchy:2 "Every Duchy title you [hold|E] or [completely_control|E]" #NT!
+ create_custom_kingdom_de_jure_changes:1 "Becomes [de_jure|E] [duchies|E] of your new Kingdom" #NT!
+ create_new_empire:1 "You create a new Empire" #NT!
+ create_title_every_held_kingdom:2 "Every Kingdom title you [hold|E] or [completely_control|E]" #NT!
+ create_custom_empire_de_jure_changes:1 "Becomes [de_jure|E] [kingdoms|E] of your new Empire" #NT!
+ NEW_CREATED_TITLE_NAME:0 "[old_title.GetBaseNameNoTierNoTooltip]" #NT!
+
+ #Guest decisions #NT!
+ invite_knights_decision:1 "Invite $knight_culture_player_plural_no_tooltip$" #NT!
+ invite_knights_decision_desc:1 "As the [ROOT.Char.GetTitleAsNameNoTooltip] of [ROOT.Char.GetPrimaryTitle.GetNameNoTierNoTooltip], I need brave $knight_culture_player_plural_no_tooltip_lowercase$ to defend the realm and conquer new lands. I will send out a herald to let my subjects know I am in search of skilled warriors." #NT!
+ invite_knights_decision.men.tt:0 "At least #P 3#! able-bodied men with #V 12#! or more [prowess|E] will arrive as [guests|E] at Court within the coming months" #NT!
+ invite_knights_decision.women.tt:0 "At least #P 3#! able-bodied women with #V 12#! or more [prowess|E] will arrive as [guests|E] at Court within the coming months" #NT!
+ invite_knights_decision.warriors.tt:0 "At least #P3 #! warriors with #V 12#! or more [prowess|E] will arrive as [guests|E] at Court within the coming months" #NT!
+ invite_knights_decision_confirm:0 "Send the herald" #NT!
+ minor_decisions.0001.t:1 "$knight_culture_player_no_tooltip$ Has Arrived" #NT!
+ minor_decisions.0001.desc:1 "[knight.GetTitledFirstName] heeded my summons and has arrived at court as my guest" #NT!
+ invite_knights_decision_tooltip:1 "$knight_culture_player_plural$ are summoned to visit your court" #NT!
+
+
+ invite_claimants_decision:0 "Invite Claimants" #NT!
+ invite_claimants_decision_desc:0 "In order to extend my realm, I must have valid claims on foreign land. Luckily for me, there are many claimants out there who would be willing to become my vassals in return for military support." #NT!
+ invite_claimants_decision.tt:0 "The likelihood of [claimants|E] with relevant [claims|E] arriving as [guests|E] at Court is greatly increased for #V 5#! Years" #NT!
+ invite_claimants_decision_confirm:0 "Send the herald" #NT!
+ minor_decisions.0002.t:0 "Claimant Has Arrived" #NT!
+ minor_decisions.0002.desc:0 "[claimant.Custom2('MyCharacterIntroduction', ROOT.Char)|U] heeded my summons and has arrived at court as my guest" #NT!
+ invite_claimants_decision_tooltip:1 "[claimants|E] are summoned to visit your court" #NT!
+
+ #False Conversion decisions #NT!
+ revoke_false_conversion_decision:0 "Revoke False Conversion" #NT!
+ revoke_false_conversion_decision.tt:0 "Publicly reconvert to your old [faith|E]" #NT!
+ revoke_false_conversion_decision.desc:0 "#F Though officially I follow the [ROOT.Char.GetFaith.GetAdjectiveNoTooltip] faith, I cannot let go of many of the personal rituals and private beliefs held by my ancestors. Perhaps the old ways truly were better?#!" #NT!
+ revoke_false_conversion_decision.desc.tt:0 "You publicly reconvert to your previous [faith|E]. Your [vassals|E] and [close_family|E] may convert with you" #NT!
+ revoke_false_conversion_decision.desc.tt_own_faith_counties:0 "If You are [independent|E], [counties|E] within your [realm|E] that have [GetModifier('false_convert_modifier').GetNameWithTooltip] may convert with you, if secretly of your [faith|E]" #NT!
+ revoke_false_conversion_decision_confirm:0 "Make a proclamation" #NT!
+ encourage_confession_of_false_conversions_decision:0 "Amnesty for False Conversions" #NT!
+ encourage_confession_of_false_conversions_decision.tt:0 "Crypto-religionists may reveal their hidden [faith|E]" #NT!
+ encourage_confession_of_false_conversions_decision.desc:0 "#F It is an open secret that there are crypto-religionists in my realm, practicing their faith in hiding. Perhaps an official amnesty could convince them to drop the facade?#!" #NT!
+ encourage_confession_of_false_conversions_decision.desc.tt_pluralist:0 "Crypto-religionists within your realm may reveal themselves, if your [faith|E] [tolerates|E] their secret Faith better than their public one" #NT!
+ encourage_confession_of_false_conversions_decision.desc.tt_paranoia:0 "[characters|E] that are [GetTrait('deceitful').GetName( GetNullCharacter )] or [GetTrait('paranoid').GetName( GetNullCharacter )] will not reveal their secret [faith|E] unless it matches yours" #NT!
+ encourage_confession_of_false_conversions_decision.desc.tt_pluralist_counties:0 "If you are [independent|E], [counties|E] within your [realm|E] that have [GetModifier('false_convert_modifier').GetNameWithTooltip] may convert openly, depending on how hostile you would be to their new [faith|E]" #NT!
+ encourage_confession_of_false_conversions_decision.desc.tt_coreligionist:0 "Crypto-religionists within your realm may reveal themselves, if their private [faith|E] is the same as your public one" #NT!
+ encourage_confession_of_false_conversions_decision_confirm:0 "Make a proclamation" #NT!
+
+ #Restore the Holy Roman Empire #NT!
+ restore_holy_roman_empire_decision:0 "Restore the Holy Roman Empire" #NT!
+ restore_holy_roman_empire_decision_desc:0 "The true Empire in the West lies in tatters, the legacy of Charlemagne shattered by cruel fate. It would take a strong and godly ruler to return Germany's imperial dignity." #NT!
+ restore_holy_roman_empire_decision_confirm:0 "Renovatio Romani Imperii!" #NT!
+ restore_holy_roman_empire_decision_tooltip:0 "Revive the Roman Empire in the West" #NT!
+ decision_refound_hre_control_the_electors.tt:0 "You must control or hold the traditional elector titles: the Duchies of $d_ostmark$, $d_ostfalen$, $d_east_franconia$, and $d_bohemia$, as well as the Counties of $c_trier$, $c_mainz$, and $c_cologne$" #NT!
+ decision_refound_hre_own_three_kingdoms.tt:0 "You must control at least three kingdom titles" #NT!
+ restore_holy_roman_empire_decision_effects_de_jure.tt:0 "Any completely controlled kingdoms outside of $e_italy$ will become de jure part of the $e_hre$" #NT!
+ restore_holy_roman_empire_decision_effects_vassal_opinion.tt:0 "All direct vassals" #NT!
+ reformed_holy_roman_empire_opinion:0 "Reformed the $e_hre$" #NT!
+
+ #Adopt Special Succession decision #NT!
+ adopt_special_succession_decision:0 "Adopt Special Succession Type" #NT!
+ adopt_special_succession_decision_desc:0 "Partition succession makes us weak and divided. Perhaps the realm's magnates would accept a historical alternative..." #NT!
+ adopt_special_succession_decision_confirm:0 "Think on the matter" #NT!
+ adopt_special_succession_decision_tooltip:0 "Replace my partition [succession|E] with a local type of Elective $game_concept_succession$" #NT!
+ adopt_special_succession_decision_effects.tt:1 "You may pick a form of traditional Elective [succession|E] based on your [culture|E]\n$EFFECT_LIST_BULLET$It will be applied to any of your top-[rank|E] [titles|E] using Partition [succession|E]" #NT!
+ implemented_traditional_succession_law_opinion:0 "Implemented Traditional Succession Law" #NT!
+ found_kingdom_decision_advanced_succesion:0 "Does not have the Advanced Succession law" #NT!
+ found_kingdom_decision_elective_succesion:0 "Does not have the Elective Succession law" #NT!
+
+ # Establish Norman Culture #NT!
+ establish_norman_culture_decision:0 "Establish Norman Culture" #NT!
+ establish_norman_culture_decision_desc:0 "Our old traditions do not serve us well in our new home. We should look to the locals and see what we can learn from them." #NT!
+ establish_norman_culture_decision_confirm:0 "Normandy Rises!" #NT!
+ establish_norman_culture_decision_tooltip:0 "Merge our Norse and the local French cultures together" #NT!
+ establish_norman_culture_decision_effect.tt:0 "All [old_culture_1.GetName] and [old_culture_2.GetName] counties and characters in northern France become [new_culture.GetName]" #NT!
+ establish_norman_culture_decision_effect.tt.2:0 "[normandy_title.GetName] is renamed to $d_normandy$" #NT!
+
+ form_the_kingdom_of_aragon_decision:0 "Found the Kingdom of Aragon" #NT!
+ form_the_kingdom_of_aragon_decision_desc:0 "The Aragón river flows through my realm, creating rich and fertile lands. Such a land deserves to be its own kingdom, so I shall make it one!" #NT!
+ form_the_kingdom_of_aragon_decision_confirm:0 "Our home, our kingdom!" #NT!
+ form_the_kingdom_of_aragon_decision_tooltip:0 "Found the Kingdom of Aragon" #NT!
+
+ # Culture Conversion #NT!
+ convert_to_local_culture_decision:0 "Convert to Local Culture" #NT!
+ convert_to_local_culture_decision_desc:0 "Truth be told, there is little separating my traditions from those of the people in my capital. We observe the same holy days, the same public feasts, and our language has become almost the same." #NT!
+ convert_to_local_culture_decision_confirm:1 "I acknowledge who I am" #NT!
+ convert_to_local_culture_decision_tooltip:0 "Convert to the [culture|E] of your [capital|E]" #NT!
+ converted_culture_msg_title:0 "[converting_character.GetShortUIName|U] converted [culture|E]" #NT!
+ converted_from_old_culture_to_new_culture_tt:0 "Converted from [old_culture.GetName] to [new_culture.GetName]" #NT!
+ every_old_culture_vassal_holding_new_culture_land:0 "Every [vassal|E] sharing your [culture|E] that has [counties|E] of the new Culture" #NT!
+ every_close_family_member_sharing_your_culture:0 "Every close family member sharing your culture" #NT!
+ every_consort_sharing_your_culture:0 "Every consort sharing your culture" #NT!
+
+ #DECISIONS TO "USE" YOUR STRESS COPING TRAITS TO LOSE STRESS #NT!
+ stress_loss_drunkard_decision:0 "Indulge in Drink" #NT!
+ stress_loss_drunkard_decision_desc:0 "The camaraderie found in the company of fellow patrons of the drinks, the calm that the fog grants... The time has come to indulge in a drinking binge!" #NT!
+ stress_loss_drunkard_decision_tooltip:0 "Let loose and lose some stress" #NT!
+ stress_loss_drunkard_decision_effect_tooltip:1 "You will lose some [stress|E]" #NT!
+ stress_loss_drunkard_decision_confirm:0 "Cheers!" #NT!
+
+ stress_loss_hashishiyah_decision:1 "Consume Hashish Cakes" #NT!
+ stress_loss_hashishiyah_decision_desc:1 "Just a few bites, and the stress seems to flow from my body. My mind begins to fog, and a sense of peace and restfulness overcomes me. There is nothing that is quite as relaxing as good hashish!" #NT!
+ stress_loss_hashishiyah_decision_tooltip:1 "Let your stress melt into a drug-induced haze" #NT!
+ stress_loss_hashishiyah_decision_confirm:1 "Bring me a platter!" #NT!
+
+ stress_loss_rakish_decision:0 "Visit a Brothel" #NT!
+ stress_loss_rakish_decision_desc:0 "[ROOT.Char.Custom('AttractionWomanManIndef')|U] on my lap, and everything – and everyone – the brothel has to offer at my beck and call..." #NT!
+ stress_loss_rakish_decision_desc_woman_ending:0 "Nothing relieves the mind like some carnal relief." #NT!
+ stress_loss_rakish_decision_desc_man_ending:0 "Nothing releases the mind like a good release." #NT!
+ stress_loss_rakish_decision_tooltip:0 "Ease your mind by indulging in your desires" #NT!
+ stress_loss_rakish_decision_confirm:0 "Here I come, [ROOT.Char.Custom('AttractionGirlBoyPlural')]!" #NT!
+
+ stress_loss_reclusive_decision:0 "Seclude Yourself" #NT!
+ stress_loss_reclusive_decision_desc:1 "To truly center my mind and clear it of thoughts and concerns I have to be left to my own devices. Alone I can focus and heal." #NT!
+ stress_loss_reclusive_decision_tooltip:0 "Seclude yourself to focus your mind" #NT!
+ stress_loss_reclusive_decision_confirm:0 "Goodbye." #NT!
+
+ stress_loss_irritable_decision:1 "Lash Out" #NT!
+ stress_loss_irritable_decision_desc:1 "To let go off all this anger and irritation I have been holding in... Oh, there's nothing better than it to clear the mind! Next time an opportunity arises I will not stop myself." #NT!
+ stress_loss_irritable_decision_effect_tooltip:0 "You insult a random vassal" #NT!
+ stress_loss_irritable_decision_tooltip:0 "Let your mouth run loose to calm your mind" #NT!
+ stress_loss_irritable_decision_confirm:0 "Hey! Hey you!" #NT!
+
+ stress_loss_flagellant_decision:0 "Flagellate" #NT!
+ stress_loss_flagellant_decision_desc:0 "Nothing cleanses the mind like the catharsis of pain. I will apply the whip to my own back until my mind clears." #NT!
+ stress_loss_flaggelant_decision_effect_tooltip:0 "You will lose stress" #NT!
+ stress_loss_flagellant_decision_tooltip:0 "Cleanse your mind with pain" #NT!
+ stress_loss_flagellant_decision_confirm:0 "Ugh–!" #NT!
+
+ stress_loss_profligate_decision:0 "Visit the Market" #NT!
+ stress_loss_profligate_decision_desc:0 "Something new, something shiny, something rare... Nothing centers me like a new purchase, and the local market holds many treasures!" #NT!
+ stress_loss_profligate_decision_tooltip:0 "Spend gold to focus your mind" #NT!
+ stress_loss_profligate_decision_confirm:0 "Fill my purse!" #NT!
+
+ stress_loss_improvident_decision:0 "Donate to Charity" #NT!
+ stress_loss_improvident_decision_desc:0 "There are many who need my gold more than me. It might not directly solve my own issues, but it lightens the mind to give." #NT!
+ stress_loss_improvident_decision_tooltip:0 "Give to the ones in need to ease your mind" #NT!
+ stress_loss_improvident_decision_confirm:0 "It's for a good cause!" #NT!
+
+ stress_loss_contrite_decision:0 "Confess" #NT!
+ stress_loss_contrite_decision_desc:0 "Few things brings such release and freedom as a confession. By voicing my secrets and faults I can calm my mind." #NT!
+ stress_loss_contrite_decision_tooltip:0 "Confess your faults and free your mind" #NT!
+ stress_loss_contrite_decision_expose_random_secret:0 "A random secret of yours will be exposed" #NT!
+ stress_loss_contrite_decision_confirm:0 "I have something to say!" #NT!
+
+ stress_loss_comfort_eater_decision:0 "Indulge in Food" #NT!
+ stress_loss_comfort_eater_decision_desc:0 "When everything seems a bit #EMP too much#! I can always count on food to put my mind at ease – a full stomach leads to an empty and calm mind." #NT!
+ stress_loss_comfort_eater_decision_tooltip:0 "Eat to focus your mind" #NT!
+ stress_loss_comfort_eater_decision_confirm:0 "Set the table!" #NT!
+
+ stress_loss_inappetetic_decision:0 "Shun Food" #NT!
+ stress_loss_inappetetic_decision_desc:0 "I have too much on my plate at it is, even without counting the literal food sitting there! By skipping meals I can focus on the issues that actually matter to the realm." #NT!
+ stress_loss_inappetetic_decision_tooltip:0 "Avoid food and avoid stress" #NT!
+ stress_loss_inappetetic_decision_confirm:0 "Inform the cook." #NT!
+
+ stress_loss_journaller_decision:0 "Write Thoughts Down" #NT!
+ stress_loss_journaller_decision_desc:0 "I will put my thoughts and burdens down in writing. Nothing clears the mind like some ink and paper can!" #NT!
+ stress_loss_journaller_decision_tooltip:0 "Put your thoughts on paper and clear your mind" #NT!
+ stress_loss_journaller_decision_confirm:0 "Bring my journal!" #NT!
+
+ stress_loss_confider_decision:0 "Talk to Confidant" #NT!
+ stress_loss_confider_decision_desc:0 "To truly be listened to is a rare treat. Nothing eases the mind like a good conversation with someone you can trust, and it usually makes problems seem much smaller!" #NT!
+ stress_loss_confider_decision_tooltip:0 "Share your burdens with someone else" #NT!
+ stress_loss_confider_decision_confirm:0 "Now listen here..." #NT!
+
+ stress_loss_athletic_decision:0 "Work off Some Stress" #NT!
+ stress_loss_athletic_decision_desc:0 "Nothing eases the mind like a raised pulse and a healthy sweat! I will work my body until my mind is more at ease." #NT!
+ stress_loss_athletic_decision_tooltip:0 "A healthy body begets a healthy mind" #NT!
+ stress_loss_athletic_decision_confirm:0 "Let's go!" #NT!
+
+ DECISION_COOLDOWN_WARNING:0 "@warning_icon!#X $DECISION_NAME$ will be unavailable for $COOLDOWN$#!" #NT!
+
+ SHOW_DECISION_TOOLTIP:1 "#T [Decision.GetTitleForPlayer]#!\n[Decision.GetCommandDescForPlayer][Select_CString(StringIsEmpty(Decision.GetCommandDescForPlayer),'','\n')][Decision.GetShortDescForPlayer]" #NT!
+
+ all_courtiers_except_confidant:0 "All [courtiers|E] except confidant" #NT!
+
+ found_kingdom_of_bosnia_decision:0 "Found Kingdom of Bosnia" #NT!
+ found_kingdom_of_bosnia_decision_desc:0 "The mountains and forests of central Bosnia flit ceaselessly between lords from the north and south. Perhaps not for much longer..." #NT!
+ found_kingdom_of_bosnia_decision_tooltip:0 "Bosnia becomes a [de_jure|E] [kingdom|E]" #NT!
+ found_kingdom_of_bosnia_decision_confirm:0 "[ROOT.Char.GetLadyLord|U] of all Bosnia!" #NT!
+
+ accuse_krstjani_of_heresy_decision:0 "Accuse the $bosnian_church$ of Heresy" #NT!
+ accuse_krstjani_of_heresy_decision_desc:0 "The wild Bosnian highlands have, for years, housed a sect that does not truly belong to East or West, yet both seem content to ignore this growing deviation.\n\nNo longer! We shall have the [ROOT.Char.GetFaith.ReligiousHeadName] formally declare them heretics, and they will have nowhere to hide!" #NT!
+ accuse_krstjani_of_heresy_decision_tooltip:0 "The Christian world shall tolerate these schismatics no longer!" #NT!
+ accuse_krstjani_of_heresy_flavour_effect.tt:0 "You send a letter to the [GetPlayer.GetFaith.ReligiousHeadName], imploring [GetPlayer.GetFaith.GetReligiousHead.GetHerHim] to look into the matter of the $bosnian_church$..." #NT!
+ accuse_krstjani_of_heresy_decision_confirm:0 "First the pen, then the sword!" #NT!
+ cannot_be_atoned_krstjani_leader_flag:0 "You cannot be an atoned $bosnian_church_adherent$!" #NT!
+
+ launch_hungarian_migration_decision:0 "Prepare to Cross the Carpathians" #NT!
+ launch_hungarian_migration_decision_desc:0 "Competing tribes on the steppe, especially the marauding Pecheneg warbands that litter our territory, are making life increasingly difficult. Across the Carpathians, however, lie the fertile, wooded valleys and rolling plains of weak Pannonia..." #NT!
+ launch_hungarian_migration_decision_tooltip:0 "Flee the steppe to settle in Pannonia" #NT!
+ launch_hungarian_migration_decision_flavour_effect:0 "You gain the single-use special [hungarian_invasion_casus_belli|E]" #NT!
+ launch_hungarian_migration_decision_confirm:0 "Send riders to each tribe!" #NT!
+ launch_hungarian_migration_decision_before_last_date:0 "The date is 911.1.1 or earlier" #NT!

@@ -1,0 +1,126 @@
+﻿l_russian:
+ #core_l_english.yml #NT!
+ LOADSCREEN_INITIALIZING_GAME:0 "Sacking the Eternal City . . ." #NT!
+ #holdings_l_english.yml #NT!
+ castle_holding:0 "City" #NT!
+ city_holding:0 "Town" #NT!
+
+ tradition_roman_legacy_name:0 "Roman Legions" #NT!
+ tradition_roman_legacy_desc:0 "The Roman Empire was built and kept secure by the strength of its legions. Even in these times of crisis, the idea and ideal of a strong and powerful standing army resonates in the hearts of this culture, and powerful rulers are known to delegate parts of their realm to commanders, feeding and housing thousands of soldiers ready to defend their Empire." #NT!
+ tradition_roman_legacy_desc:0 "Even in these times of crisis, the idea and ideal of a strong and powerful standing army resonates in the hearts of this culture, and powerful rulers are known to delegate parts of their realm to commanders, feeding and housing thousands of soldiers ready to defend their Empire." #NT!
+ language_iranian_name:0 "West Iranian" #NT!
+ language_scythian_name:0 "East Iranian" #NT!
+
+ #heritage_arabic_name:0 "Semitic" #NT!
+ #heritage_arabic_collective_noun:0 "Semites" #NT!
+ heritage_latin_name:0 "Italic" #NT!
+ heritage_latin_collective_noun:0 "Italics" #NT!
+ heritage_celtic_name:0 "Continental Celtic" #NT!
+ heritage_celtic_collective_noun:0 "Continental Celts" #NT!
+ language_celtic_name:0 "Continental Celtic" #NT!
+
+ # Endonyms #NT!
+ greek:1 "Hellenic" #NT!
+ greek_prefix:1 "Helleno" #NT!
+ greek_collective_noun:1 "Hellenes" #NT!
+ suebi:0 "Suevi" #NT!
+ suebi_prefix:0 "Suevo" #NT!
+ suebi_collective_noun:0 "Suevi" #NT!
+ polish:0 "Polanian" #NT!
+ polish_prefix:0 "Polano" #NT!
+ polish_collective_noun:0 "Polanes" #NT!
+ prussian:0 "Pruthenian" #NT!
+ prussian_prefix:0 "Prutheno" #NT!
+ prussian_collective_noun:0 "Pruthenians" #NT!
+ assyrian:0 "Assyrian" #NT!
+ assyrian_prefix:0 "Assyro" #NT!
+ assyrian_collective_noun:0 "Assyrians" #NT!
+ old_saxon:0 "Saxonian" #NT!
+ old_saxon_prefix:0 "Saxo" #NT!
+ old_saxon_collective_noun:1 "Old Saxons" #NT!
+ ethiopian:0 "Aksumite" #NT!
+ ethiopian_prefix:0 "Aksumo" #NT!
+ ethiopian_collective_noun:0 "Aksumites" #NT!
+ russian:0 "Rus" #NT!
+ russian_prefix:0 "Ruso" #NT!
+ russian_collective_noun:0 "Rus" #NT!
+ persian:0 "Ērānian" #NT!
+ persian_prefix:0 "Ērāno" #NT!
+ persian_collective_noun:0 "Ērānians" #NT!
+
+ language_qiangic_name:1 "Qiangic" #NT!
+ language_wallachian_name:0 "Vlach" #NT!
+ language_israelite_name:0 "Hebrew" #NT!
+ heritage_tocharian_name:0 "Serindian" #NT!
+ name_list_latgalian:0 "Lettish" #NT!
+ cn_gaochan:0 "Gaochang" #NT!
+ cn_gaochan_adj:0 "Gaochang" #NT!
+
+ dynn_Kuci:0 "Bai" #NT!
+
+ artifact_arms_of_alex_description:0 "This ancient set of laminated linen armor is said to have once belonged to Alexander the Great. The armor itself carries the legacy of the great conqueror, known from the Mediterranean to the edges of India." #NT!
+
+ greed_strong_neg_adj:1 "Ascetic" #NT!
+
+ #Germanic/Ásatrú #NT!
+ germanic_religion:1 "Tuisticism" #NT!
+ germanic_religion_adj:1 "Tuistic" #NT!
+ germanic_religion_adherent:1 "Tuistic" #NT!
+ germanic_religion_adherent_plural:1 "Tuistics" #NT!
+ germanic_religion_desc:1 "The native faith of Scandinavia and Germania, Germanic and Norse paganism revolves around reverence of gods known as the Æsir. Adherents are expected to live — and preferably die — in an honorable fashion." #NT!
+ # Basque Paganism #NT!
+ basque_pagan_desc:0 "The ancient native Basque faith has long incorporated other, more transient religions. Elements of Celtic paganism, Christianity, Hellenic paganism, and a heavy substrata of their own local myths and beliefs all swirl together into a syncretic blend." #NT!
+ # The vanilla name, "Era Zaharrak", literally means "Old Ways" in Basque. It doesn't feel appropriate for TFE given it's not really the "old ways" in TFE's timeframe since the faith still exists. #NT!
+ # basque_pagan:0 "Euskal Erlijioa" #NT!
+ # basque_pagan_adj:0 "Euskal" #NT!
+ # basque_pagan_adherent:0 "Euskal" #NT!
+ # basque_pagan_adherent_plural:0 "Euskals" #NT!
+ # Vanilla "Old Ways" name #NT!
+ # basque_pagan_old:0 "Era Zaharrak" #NT!
+ # basque_pagan_old_adj:0 "Era Zaharra" #NT!
+ # More broad #NT!
+ # basque_religion:0 "Iberism" #NT!
+ # basque_religion_adj:0 "Iberic" #NT!
+ # basque_religion_adherent:0 "Iberic" #NT!
+ # basque_religion_adherent_plural:0 "Iberics" #NT!
+
+ GAME_DATE_STRING:9 "$DAY$ $MONTH$, [Abs_int32(Subtract_int32('(int32)$YEAR$', Select_int32(GreaterThan_int32('(int32)$YEAR$', '(int32)0'), '(int32)0', Select_int32(And(EqualTo_string('$DAY$', '1'), EqualTo_string('$MONTH$', 'January')), '(int32)1', '(int32)2'))))][Select_CString(GreaterThan_int32('(int32)$YEAR$', '(int32)0'),Select_CString(GreaterThan_int32('(int32)$YEAR$', '(int32)200'),'',' AD'),' BC')]" #NT!
+ GAME_DATE_STRING_SHORT:9 "$DAY$ $MONTH_SHORT$ [Abs_int32(Subtract_int32('(int32)$YEAR$', Select_int32(GreaterThan_int32('(int32)$YEAR$', '(int32)0'), '(int32)0', Select_int32(And(EqualTo_string('$DAY$', '1'), EqualTo_string('$MONTH$', 'January')), '(int32)1', '(int32)2'))))][Select_CString(GreaterThan_int32('(int32)$YEAR$', '(int32)0'),Select_CString(GreaterThan_int32('(int32)$YEAR$', '(int32)200'),'',' AD'),' BC')]" #NT!
+ GAME_DATE_STRING_LONG:9 "$DAY|O$ of $MONTH$, [Abs_int32(Subtract_int32('(int32)$YEAR$', Select_int32(GreaterThan_int32('(int32)$YEAR$', '(int32)0'), '(int32)0', Select_int32(And(EqualTo_string('$DAY$', '1'), EqualTo_string('$MONTH$', 'January')), '(int32)1', '(int32)2'))))][Select_CString(GreaterThan_int32('(int32)$YEAR$', '(int32)0'), ' AD',' BC')]" #NT!
+ CULTURE_WINDOW_ERA_JOINED:0 "[Abs_int32(Subtract_int32('(int32)$JOINED$', Select_int32(GreaterThan_int32('(int32)$JOINED$', '(int32)0'), '(int32)0', '(int32)1')))][Select_CString(GreaterThan_int32('(int32)$JOINED$', '(int32)0'),Select_CString(GreaterThan_int32('(int32)$JOINED$', '(int32)200'),'',' AD'),' BC')]" #NT!
+ CULTURE_WINDOW_ERA_JOINED_LEFT:0 "[Abs_int32(Subtract_int32('(int32)$JOINED$', Select_int32(GreaterThan_int32('(int32)$JOINED$', '(int32)0'), '(int32)0', '(int32)1')))][Select_CString(GreaterThan_int32('(int32)$JOINED$', '(int32)0'),Select_CString(GreaterThan_int32('(int32)$JOINED$', '(int32)200'),'',' AD'),' BC')]" #NT!
+
+ # Guanche religion #NT!
+ north_african_religion:0 "Guanche" #NT!
+ north_african_religion_adj:0 "Guanche" #NT!
+ north_african_religion_adherent:0 "Guanche" #NT!
+ north_african_religion_plural:0 "Guanches" #NT!
+ north_african_religion_desc:0 "Traditional Guanche beliefs follow the Cult of the Dead, and believe that when one passes from this world, one becomes deified among one's own family. Stone worship and construction of Megaliths bring followers closer to the Gods, with chief deities second only to the Creator being the Sun and Moon Gods." #NT!
+
+ world_europe_west_francia:0 "Gallia" #NT!
+ # Game rules #NT!
+ setting_none_hybrid_culture_ai_frequency_desc:0 "No non-player created [hybrid_cultures|E] will appear.\n#P TFE note: We recommend turning off all AI divergent and hybrid cultures as TFE adds its own collection of historical melting-pot cultures.#!" #NT!
+ setting_none_divergent_culture_ai_frequency_desc:0 "No non-player created [divergent_cultures|E] will appear.\n#P TFE note: We recommend turning off all AI divergent and hybrid cultures as TFE adds its own collection of historical melting-pot cultures.#!" #NT!
+
+
+ feudalize_tribal_holding_interaction:0 "Feudalize Tribe/Estate" #NT!
+ feudalize_tribal_holding_interaction_desc:0 "Destroy all [buildings|E] in this [holding|E] and turn it [feudal|E]" #NT!
+ feudalize_tribal_holding_interaction_title_not_county_or_below:0 "Select a [county|E] or [barony|E]" #NT!
+ feudalize_tribal_holding_interaction_notification:0 "Feudalized Tribe/Estate" #NT!
+
+ scandinavian_elective_succession_law:1 "Germanic Elective" #NT!
+
+ # Struggle (to not reference Iberia) #NT!
+ catalyst_usurp_title:0 "Usurped a  [title] [struggle_catalyst_catalyst|E]" #NT!
+ catalyst_usurp_title_desc:0 "Usurp a new [title|E] in the [struggle_region|E]" #NT!
+ game_concept_border_raid_desc:3 "This is a special type of [war|E] available between [struggle_involved|E] [rulers|E] in various [struggle_struggles|E] where the attacker aims to [siege|E] a specific enemy [county|E] bordering their [realm|E].\n\nThe [war_leader|E] gains [gold|E] for capturing the [war_target|E], which will lose [development|E] and [control|E]. [buildings|E] may also be destroyed, yielding more [gold|E], the chance increasing with [development|E] and [siege|E] [army|E] size.\n\n[war_score|E] will be gained rapidly by the attacker upon [occupying|E] the [war_target|E]." #NT!
+ game_concept_contract_assistance_desc:2 "This is a special type of [interaction|E] available to [struggle_involved|E] [rulers|E] in various [struggle_struggles|E], allowing them to join other [struggle_involved|E] [rulerpossessive|E] [wars|E] in exchange for [gold|E].\n\nPayment is made on conclusion of the [war|E], whatever the outcome, as long as the contractor made a [war_contribution|E] of at least 100." #NT!
+ catalyst_gain_claim_on_title:1 "Acquired [claim|E] [struggle_catalyst_catalyst|E]" #NT!
+ catalyst_gain_claim_on_title_desc:1 "Acquire a [claim|E] on a [title|E] in the [struggle_region|E]" #NT!
+
+ mordvin:0 "Erzya" #NT!
+ mordvin_prefix:0 "Erzya" #NT!
+ mordvin_collective_noun:1 "Erzyas" #NT!
+ komi:0 "Komi" #NT!
+ komi_prefix:0 "Komi" #NT!
+ komi_collective_noun:1 "Komis" #NT!

@@ -1,0 +1,120 @@
+﻿l_russian:
+
+############### #NT!
+###  Roman  ### #NT!
+############### #NT!
+
+ PORTRAIT_MODIFIER_custom_headgear_male_headgear_secular_roman_war_01:0 "Late Roman 'Burgh Castle' Helmet" #NT!
+ PORTRAIT_MODIFIER_custom_headgear_female_headgear_secular_roman_war_01:0 "$PORTRAIT_MODIFIER_custom_headgear_male_headgear_secular_roman_war_01$" #NT!
+
+ PORTRAIT_MODIFIER_custom_headgear_male_headgear_secular_roman_war_02:0 "Late Roman Spangenhelm" #NT!
+ PORTRAIT_MODIFIER_custom_headgear_male_headgear_secular_roman_war_03:0 "Late Roman Ridge Helmet" #NT!
+ PORTRAIT_MODIFIER_custom_headgear_male_headgear_secular_roman_war_04:0 "Late Roman High Helmet" #NT!
+ PORTRAIT_MODIFIER_custom_headgear_male_headgear_secular_roman_war_05:0 "Late Roman Christie Helmet" #NT!
+
+ PORTRAIT_MODIFIER_custom_headgear_male_headgear_secular_roman_diadem:0 "Imperial Roman Diadem" #NT!
+ PORTRAIT_MODIFIER_custom_headgear_female_headgear_secular_roman_diadem:0 "$PORTRAIT_MODIFIER_custom_headgear_male_headgear_secular_roman_diadem$" #NT!
+
+ PORTRAIT_MODIFIER_custom_headgear_male_imperial_crown_zoroastrian:0 "Zoroastrian Imperial Crown" #NT!
+ PORTRAIT_MODIFIER_female_headgear_secular_roman_diadem:0 "Imperial Spouse Roman Diadem" #NT!
+
+ PORTRAIT_MODIFIER_custom_headgear_male_headgear_secular_aurelian_helmet:0 "Aurelian's Helmet" #NT!
+ PORTRAIT_MODIFIER_custom_headgear_female_headgear_secular_aurelian_helmet:0 "$PORTRAIT_MODIFIER_custom_headgear_male_headgear_secular_aurelian_helmet$" #NT!
+
+ PORTRAIT_MODIFIER_custom_headgear_male_headgear_secular_centurion_helmet:0 "Centurion Helmet" #NT!
+ PORTRAIT_MODIFIER_custom_headgear_female_headgear_secular_centurion_helmet:0 "$PORTRAIT_MODIFIER_custom_headgear_male_headgear_secular_centurion_helmet$" #NT!
+
+ PORTRAIT_MODIFIER_custom_headgear_male_headgear_secular_galea_helmet:0 "Galea Helmet" #NT!
+ PORTRAIT_MODIFIER_custom_headgear_female_headgear_secular_galea_helmet:0 "$PORTRAIT_MODIFIER_custom_headgear_male_headgear_secular_galea_helmet$" #NT!
+
+ PORTRAIT_MODIFIER_custom_headgear_male_headgear_secular_pref_diadem:0 "Prefect Roman Diadem" #NT!
+ PORTRAIT_MODIFIER_custom_headgear_female_headgear_secular_pref_diadem:0 "$PORTRAIT_MODIFIER_custom_headgear_male_headgear_secular_pref_diadem$" #NT!
+
+ PORTRAIT_MODIFIER_custom_headgear_male_crown_of_justinian_01:0 "Crown of Justinian" fem_byz_crown_of_theodora_01 #NT!
+ PORTRAIT_MODIFIER_custom_headgear_fem_byz_crown_of_theodora_01:0 "Crown of Theodora" #NT!
+
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_roman_war:0 "Roman Armor" #NT!
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_roman_war_high:0 "Imperial Roman Armor" #NT!
+
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_roman_nobility_01:0 "Common Roman Tunic" #NT!
+
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_roman_nobility_02:0 "Low Nobility Roman Tunic" #NT!
+
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_roman_nobility_03:0 "High Nobility Roman Tunic" #NT!
+
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_roman_senate_01:0 "Senatorial Toga" #NT!
+
+ PORTRAIT_MODIFIER_custom_cloaks_male_byzantine_imperial_sagum_01:0 "Imperial Sagum 1" #NT!
+ PORTRAIT_MODIFIER_custom_cloaks_male_byzantine_imperial_sagum_02:0 "Imperial Sagum" #NT!
+ PORTRAIT_MODIFIER_custom_cloaks_female_byzantine_imperial_sagum_02:0 "Imperial Sagum 1" #NT!
+
+
+ PORTRAIT_MODIFIER_custom_headgear_male_epe_byz_pannonian_hat_01_high:0 "High Roman Pannonian Cap 1" #NT!
+ PORTRAIT_MODIFIER_custom_headgear_male_epe_byz_pannonian_hat_03_high:0 "High Roman Pannonian Cap 2" #isn't 3 cuz that would be weird in barbershop #NT!
+ PORTRAIT_MODIFIER_custom_headgear_male_epe_byz_pannonian_hat_04_high:0 "High Roman Pannonian Cap 3" #NT!
+ PORTRAIT_MODIFIER_custom_headgear_male_epe_byz_pannonian_hat_01_common:0 "Common Roman Pannonian Cap 1" #NT!
+ PORTRAIT_MODIFIER_custom_headgear_male_epe_byz_pannonian_hat_02_common:0 "Common Roman Pannonian Cap 2" #NT!
+ PORTRAIT_MODIFIER_custom_headgear_male_epe_byz_pannonian_hat_03_common:0 "Common Roman Pannonian Cap 3" #NT!
+ PORTRAIT_MODIFIER_custom_headgear_male_epe_byz_pannonian_hat_04_common:0 "Common Roman Pannonian Cap 4" #NT!
+ PORTRAIT_MODIFIER_custom_headgear_male_epe_byz_pannonian_hat_01_low:0 "Low Roman Pannonian Cap 1" #NT!
+ PORTRAIT_MODIFIER_custom_headgear_male_epe_byz_pannonian_hat_02_low:0 "Low Roman Pannonian Cap 2" #NT!
+ PORTRAIT_MODIFIER_custom_headgear_male_epe_byz_pannonian_hat_03_low:0 "Low Roman Pannonian Cap 3" #NT!
+ PORTRAIT_MODIFIER_custom_headgear_male_epe_byz_pannonian_hat_04_low:0 "Low Roman Pannonian Cap 4" #NT!
+
+################ #NT!
+###  Celtic  ### #NT!
+################ #NT!
+
+ PORTRAIT_MODIFIER_custom_headgear_male_headgear_secular_celtic_torque_01:0 "Noble Torque" #NT!
+ PORTRAIT_MODIFIER_custom_headgear_female_headgear_secular_celtic_torque_01:0 "$PORTRAIT_MODIFIER_custom_headgear_male_headgear_secular_celtic_torque_01$" #NT!
+
+ PORTRAIT_MODIFIER_custom_headgear_male_headgear_secular_celtic_torque_02:0 "High Torque" #NT!
+ PORTRAIT_MODIFIER_custom_headgear_female_headgear_secular_celtic_torque_02:0 "$PORTRAIT_MODIFIER_custom_headgear_male_headgear_secular_celtic_torque_02$" #NT!
+
+ PORTRAIT_MODIFIER_custom_headgear_male_headgear_secular_celtic_torque_03:0 "Imperial Torque" #NT!
+ PORTRAIT_MODIFIER_custom_headgear_female_headgear_secular_celtic_torque_03:0 "$PORTRAIT_MODIFIER_custom_headgear_male_headgear_secular_celtic_torque_03$" #NT!
+
+ PORTRAIT_MODIFIER_custom_headgear_male_headgear_secular_celtic_waterloo:0 "Waterloo Helmet" #NT!
+ PORTRAIT_MODIFIER_custom_headgear_female_headgear_secular_celtic_waterloo:0 "$PORTRAIT_MODIFIER_custom_headgear_male_headgear_secular_celtic_waterloo$" #NT!
+
+ PORTRAIT_MODIFIER_custom_headgear_male_headgear_secular_celtic_berru:0 "Berru Helmet" #NT!
+ PORTRAIT_MODIFIER_custom_headgear_female_headgear_secular_celtic_berru:0 "$PORTRAIT_MODIFIER_custom_headgear_male_headgear_secular_celtic_berru$" #NT!
+
+############### #NT!
+###  Greek  ### #NT!
+############### #NT!
+
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_greek_war:0 "Alexander's Linothorax" #NT!
+
+################ #NT!
+###  Hunnic  ### #NT!
+################ #NT!
+
+ PORTRAIT_MODIFIER_custom_headgear_male_headgear_secular_hunnic_royal_diadem_01:0 "Hunnic Royal Diadem" #NT!
+ PORTRAIT_MODIFIER_custom_headgear_female_headgear_secular_hunnic_royal_diadem_01:0 "$PORTRAIT_MODIFIER_custom_headgear_male_headgear_secular_hunnic_royal_diadem_01$" #NT!
+
+################### #NT!
+###  Gladiator  ### #NT!
+################### #NT!
+
+ PORTRAIT_MODIFIER_custom_headgear_male_headgear_special_gladiator_murmillo_01:0 "Murmillo Helmet" #NT!
+
+ PORTRAIT_MODIFIER_custom_clothes_male_clothes_gladiator_outfit_01:0 "Murmillo Outfit" #NT!
+ PORTRAIT_MODIFIER_custom_legwear_male_legwear_special_gladiator_outfit_01:1 "Murmillo Legwear" #NT!
+
+############# #NT!
+## Legwear ## #NT!
+############# #NT!
+
+ PORTRAIT_MODIFIER_custom_legwear:1 "Legwear" #NT!
+
+ PORTRAIT_MODIFIER_custom_legwear_male_empty:1 "No Legwear" #NT!
+ PORTRAIT_MODIFIER_custom_legwear_female_empty:1 "$PORTRAIT_MODIFIER_custom_legwear_male_empty$" #NT!
+ PORTRAIT_MODIFIER_custom_legwear_boy_empty:1 "$PORTRAIT_MODIFIER_custom_legwear_male_empty$" #NT!
+ PORTRAIT_MODIFIER_custom_legwear_girl_empty:1 "$PORTRAIT_MODIFIER_custom_legwear_male_empty$" #NT!
+
+############### #NT!
+##  Thracian ## #NT!
+############### #NT!
+
+ PORTRAIT_MODIFIER_custom_headgear_male_headgear_secular_thracianInfantry:0 "Thracian Helmet" #NT!

@@ -1,0 +1,165 @@
+﻿l_russian:
+ cultural_war_victory_desc:0 "[attacker.GetShortUIName|U] seizes all titles within [defender.GetShortUINamePossessive] realm with their culture." #NT!
+ cultural_war_warning_desc:1 "\n\n#X You may only attempt one cultural conquest per lifetime#!" #NT!
+ migration_war_warning_desc:1 "\n\n#X You may only attempt one migration per lifetime#!" #NT!
+ visigothic_invasion_war_victory_desc_attacker:0 "You seize all titles within [defender.GetShortUINamePossessive] realm in the Illyrian Province. All lands outside of this will be abandoned." #NT!
+ visigothic_invasion_war_victory_desc:0 "Seizes all titles within [defender.GetShortUINamePossessive] realm in the Illyrian Province. All lands outside of this will be abandoned." #NT!
+ visigothic_invasion_war_warning_desc:0 "\n\n#X The Migration may only be attempted once per campaign by anyone at all.#!" #NT!
+ war_395_visigothic_rebellion:1 "$visigothic$ Migration into Pannonia" #NT!
+ VISIGOTHIC_REBELLION_WAR_NAME_BASE:0 "" #NT!
+ VISIGOTHIC_REBELLION_CB_NAME:0 "Migrate to Illyricum Province" #NT!
+ visigothic_rebellion_scripted_effect.tt.custom_roman_illyricum_region_usurped:0 "The Illyiricum Province is usurped. You gain $k_hungary$ and $k_croatia$" #NT!
+ visigothic_rebellion_scripted_effect.tt.destroy_other_kingdoms:0 "Any [kingdoms|E] held outside of the Illyricum Province are destroyed" #NT!
+ visigothic_rebellion_scripted_effect.tt.romans_move_into_realm:0 "$roman_collective_noun$ move in to all [counties|E] in your [realm|E] outside of the Illyricum Province" #NT!
+ visigothic_rebellion_scripted_effect.tt.territory_outside_illyricum.german_vassals:0 "$german$ [vassals|E] outside of the Illyricum Province are assigned [titles|E] from your spare conquered $game_concept_titles$ within the Illyricum Province" #NT!
+ MIGRATION_WAR_NAME:0 "Migration to [TITLE.GetNameNoTier]" #NT!
+ MIGRATION_WAR_NAME_BASE:0 "[ATTACKER.GetPrimaryTitle.GetAdjective][DEFENDER.GetPrimaryTitle.GetName]" #NT!
+ MIGRATION_NAME_CB:0 "Migration" #NT!
+ MASS_MIGRATION_WAR_NAME:0 "Mass Migration to [TITLE.GetNameNoTier]" #NT!
+ MASS_MIGRATION_WAR_NAME_BASE:0 "[ATTACKER.GetPrimaryTitle.GetAdjective][DEFENDER.GetPrimaryTitle.GetName]" #NT!
+ MASS_MIGRATION_NAME_CB:0 "Mass Migration" #NT!
+ MIGRATION_TOOLTIP:0 "Some counties change to [attacker.GetCulture.GetName]" #NT!
+ CULTURAL_RECONQUEST_NAME:0 "[ATTACKER.GetCulture.GetName|U] Cultural Conquest" #NT!
+ CULTURAL_RECONQUEST_NAME_BASE:0 "[ATTACKER.GetPrimaryTitle.GetAdjective][DEFENDER.GetPrimaryTitle.GetName]" #NT!
+ CULTURAL_RECONQUEST_CB:0 "Cultural Conquest" #NT!
+ GRAND_RAID_WAR_NAME:0 "[ATTACKER.GetCulture.GetName|U] Grand Raid" #NT!
+ GRAND_RAID_WAR_NAME_BASE:0 "[ATTACKER.GetPrimaryTitle.GetAdjective][DEFENDER.GetPrimaryTitle.GetName]" #NT!
+ GRAND_RAID_CB:0 "Grand Raid" #NT!
+ grand_raid_war_warning_desc:0 "#X You may only attempt one grand raid every 5 years#!" #NT!
+ GRAND_RAID_TOOLTIP:0 "Gold and Prestige are calculated using the defender's realm size" #NT!
+ legion_army_name:0 "Legion of [county.GetNameNoTier]" #NT!
+ prae_guard:0 "Praetorian Guard" #NT!
+ CB_NOMAD_COST:0 "You are Nomadic" #NT!
+ NOMADIC_MIGRATION_WAR_NAME:0 "Migration to [TITLE.GetNameNoTier]" #NT!
+ NOMADIC_MIGRATION_WAR_NAME_BASE:0 "[ATTACKER.GetPrimaryTitle.GetAdjective][DEFENDER.GetPrimaryTitle.GetName]" #NT!
+ NOMADIC_MIGRATION_CB_NAME:0 "Migration" #NT!
+ nomadic_invasion_war_warning_desc:0 "\n\n#X You may only attempt one migration per lifetime#!" #NT!
+ nomadic_war_victory_desc_attacker:0 "You seize all titles within [defender.GetShortUINamePossessive] realm in the dejure lands of the target title. All lands outside of this will be abandoned." #NT!
+ nomadic_war_victory_desc:0 "Seizes all titles within [defender.GetShortUINamePossessive] realm in the dejure lands of the target title. All lands outside of this will be abandoned." #NT!
+ CALIPHATE_WAR_NAME:0 "Claiming the [ATTACKER.GetFaith.GetName] Caliphate" #NT!
+ CALIPHATE_WAR_NAME_BASE:0 "[ATTACKER.GetPrimaryTitle.GetAdjective][DEFENDER.GetPrimaryTitle.GetName]" #NT!
+ CALIPHATE_CB_NAME:0 "Claim The Caliphate" #NT!
+ caliphate_cb_victory_desc:0 "The attacker claims the Caliphate and increases his authority" #NT!
+ caliphate_cb_white_peace_desc:0 "The Caliphate stays with the defender" #NT!
+ caliphate_cb_defeat_desc:0 "The Caliphate stays with the defender and the attacker's authority decreases" #NT!
+ JIHAD_WAR_NAME:0 "Jihad for [TITLE.GetNameNoTier]" #NT!
+ JIHAD_WAR_NAME_BASE:0 "[ATTACKER.GetPrimaryTitle.GetAdjective][DEFENDER.GetPrimaryTitle.GetName]" #NT!
+ JIHAD_CB_NAME:0 "Jihad" #NT!
+ jihad_authority_requirement:0 "You need more than 50 [caliph_autho|E]" #NT!
+ claim_authority_requirement:0 "You need to have more [caliph_autho|E] than the defender" #NT!
+ msg_caliphate_war_invalidated_message:0 "The Defender has embraced Islam" #NT!
+ RIDDA_WAR_NAME:0 "The Ridda Wars" #NT!
+ FIRST_FITNA_WAR_NAME:0 "The First Fitna" #NT!
+ BRITANNIA_CLAIM_LOYALIST:0 "Loyalists" #NT!
+ USURPER_WAR_NAME:0 "War of The Usurper" #NT!
+ USURPER_WAR_NAME_BASE:0 "[ATTACKER.GetPrimaryTitle.GetAdjective][DEFENDER.GetPrimaryTitle.GetName]" #NT!
+ USURPER_CB_NAME:0 "War of The Usurper" #NT!
+ usurper_wars_victory_desc:0 "The Usurper is legitimized as the only Emperor in the west" #NT!
+ usurper_wars_white_peace_desc:0 "The Usurper returns back to the fold of the Emperor, but is assigned as the Co-Emperor" #NT!
+ usurper_wars_defeat_desc:0 "The Usurper is defeated by the Emperor and loses their claim to the empire" #NT!
+
+ SOISSONS_INVASION_WAR_NAME:0 "Frankish Invasion of Soissons" #NT!
+ SOISSONS_INVASION_WAR_NAME_BASE:0 "[ATTACKER.GetPrimaryTitle.GetAdjective][DEFENDER.GetPrimaryTitle.GetName]" #NT!
+ SOISSONS_INVASION_CB_NAME:0 "Frankish Invasion of Soissons" #NT!
+ FRANKISH_GLORYHOUNDS:0 "Frankish Glory Hounds" #NT!
+
+### Gothic Wars #NT!
+war_395_gothic_wars:0 "Alaric's Rampage in the East" #NT!
+GOTHIC_WARS_NAME:0 "Gothic Wars" #NT!
+FOEDERATI_WARS_NAME:0 "Foederati Raid" #NT!
+foederati_raid_victory_desc:0 "[defender.GetName] will have his lands pillaged by [attacker.GetName]. Woe!" #NT!
+foederati_raid_defeat_desc:0 "[attacker.GetName] will get no plunder from [defender.GetName]" #NT!
+gothic_wars_victory_desc:0 "[defender.GetName] will pay appropiate respect to [attacker.GetName] and recognize his men as citizens of the Empire." #NT!
+gothic_wars_victory_desc_attacker:0 "You will gain prestige and gold after pillaging the lands." #NT!
+gothic_wars_victory_desc_defender:0 "You will humiliate [attacker.GetName] and bring him to his knees." #NT!
+gothic_wars_white_peace_desc_attacker:0 "The bloodshedding has gone too far - although humiliating, we need to reach an agreement." #NT!
+gothic_wars_white_peace_desc_defender:0 "The bloodshedding has gone too far - although humiliating, we need to reach an agreement." #NT!
+gothic_wars_white_peace_desc:0 "Both sides have lost too much, they will reach an agreement for a truce." #NT!
+gothic_wars_defeat_desc_attacker:0 "[defender.GetName] has utterly humiliated us, we are defeated." #NT!
+gothic_wars_defeat_desc_defender:0 "[attacker.GetName] has utterly humiliated us, we are defeated." #NT!
+gothic_wars_defeat_desc:0 "[attacker.GetName] will pay appropiate respect to [defender.GetName] and return to Moesia in humiliation." #NT!
+## Radagaisus' Invasion #NT!
+RADAGAISUS_INVASION_NAME:0 "Gothic Invasion of Italy" #NT!
+RADAGAISUS_INVASION_NAME_BASE:0 "[ATTACKER.GetPrimaryTitle.GetAdjective][DEFENDER.GetPrimaryTitle.GetName]" #NT!
+RADAGAISUS_INVASION_CB_NAME:0 "Gothic Invasion of Italy" #NT!
+radagaisus_invasion_victory_desc:0 "Radagaisus will seize the Roman provinces of Italia Annonariae and Italia Suburbicariae, making them a safe haven for Goths." #NT!
+radagaisus_invasion_victory_desc_attacker:0 "You will seize the Roman provinces of Italia Annonariae and Italia Suburbicariae and make them a safe haven for Goths." #NT!
+radagaisus_invasion_victory_desc_defender:0 "Rome has fallen. The barbarian hordes have taken the city. God save us." #NT!
+radagaisus_invasion_white_peace_desc:0 "The bloodshedding has gone too far - although humiliating, we need to reach an agreement." #NT!
+radagaisus_invasion_white_peace_desc_attacker:0 "The bloodshedding has gone too far - although humiliating, we need to reach an agreement." #NT!
+radagaisus_invasion_white_peace_desc_defender:0 "The bloodshedding has gone too far - although humiliating, we need to reach an agreement." #NT!
+radagaisus_invasion_defeat_desc:0 "Radagaisus has been pushed back from Italia, putting an end to his ruthless assault." #NT!
+radagaisus_invasion_defeat_desc_attacker:0 "We have lost! Radagaisus is captured and our armies have been routed. We must live to fight another day." #NT!
+radagaisus_invasion_defeat_desc_defender:0 "You will capture the pagan king and slaughter his armies, halting the Gothic incursion." #NT!
+radagaisus_event_troops:0 "Gothic Horde" #NT!
+
+VISIGOTH_HISPANIA_TOOLTIP:0 "If you control over 50% of the kingdom liege of the county target, the kingdom drifts to the Hispania empire" #NT!
+VISIGOTH_HISPANIA_WAR_NAME:0 "Gothic Conquest of Iberia" #NT!
+VISIGOTH_HISPANIA_WAR_NAME_BASE:0 "[ATTACKER.GetPrimaryTitle.GetAdjective][DEFENDER.GetPrimaryTitle.GetName]" #NT!
+VISIGOTH_HISPANIA_CB:0 "Conquest of Iberia" #NT!
+gothic_event_troops:0 "Gothic Glory Hounds" #NT!
+
+EASTERN_IRANIAN_STRUGGLE:0 "$eastern_iranian_struggle$" #NT!
+
+domination_gaul_cb_victory_desc:0 "Franks take control of all titles and vassals in Aquitane and France" #NT!
+domination_gaul_cb_defeat_desc:0 "Goths take control of all titles and vassals in Aquitane and France" #NT!
+GAUL_DOMINATION_WAR_NAME:0 "War of Domination Over $e_gaul$" #NT!
+GAUL_DOMINATION_WAR_NAME_BASE:0 "[ATTACKER.GetPrimaryTitle.GetAdjective][DEFENDER.GetPrimaryTitle.GetName]" #NT!
+GAUL_DOMINATION_CB_NAME:0 "War of Domination Over $e_gaul$" #NT!
+
+GOTHIC_INVASION_ITALY_WAR_NAME:0 "Ostrogothic Invasion of Italy" #NT!
+
+italian_invasion_trib_effect:0 "You will become a tributary of the Eastern Roman Emperor" #NT!
+## Struggle Migrations #NT!
+tfe_brythonic_conquest:0 "Brythonic Migration" #NT!
+brythonic_adventurer_event_troops:0 "Brythonic Migrators" #NT!
+BRYTHONIC_ARMY_NEUTRAL_NAME:0 "Brythonic Army" #NT!
+
+
+ war_476_hephthalites_vs_persia:0 "The 2nd Persian-Hephthalite War" #NT!
+
+TRUCE_TFE_COMPROMISE:0 "Compromise in Britannia" #NT!
+TRUCE_TFE_COMPROMISE_PERSIA:0 "Compromise in East Eran" #NT!
+
+MEGA_WAR_WAR_NAME:0 "$ORDER$ [ATTACKER.GetPrimaryTitle.GetAdjective] [great_war|E] for The [TITLE.GetBaseName]" #NT!
+MEGA_WAR_WAR_NAME_BASE:0 "[ATTACKER.GetPrimaryTitle.GetAdjective][DEFENDER.GetPrimaryTitle.GetName]" #NT!
+MEGA_WAR_CB_NAME:0 "[great_war|E]" #NT!
+mega_war_warning_desc:0 "\n\n#X Losing a [great_war|E] will cause you to lose this [casus_belli|E] for this character#!" #NT!
+
+slave_raid_cb_victory_desc:0 "Characters and county inhabitants of [defender.GetShortUINamePossessive] realm are captured by [attacker.GetShortUIName]." #NT!
+slave_raid_cb_white_peace_desc:0 "No prisoners are taken." #NT!
+slave_raid_cb_defeat_desc:0 "No prisoners are taken." #NT!
+slave_raid_cb_prisoners.tt_attacker:0 "Between three and five of [defender.GetShortUINamePossessive] [courtiers|E] will be taken prisoner, depending on [defender.GetHerHis] tier." #NT!
+slave_raid_cb_prisoners.tt_defender:0 "Between three and five of [attacker.GetShortUINamePossessive] [courtiers|E] will be taken prisoner, depending on [attacker.GetHerHis] tier." #NT!
+slave_raid_cb:0 "Raid for Military Slaves" #NT!
+SLAVE_RAID_CB_NAME:0 "Raid against [DEFENDER.GetPrimaryTitle.GetNameNoTier]" #NT!
+SLAVE_RAID_WAR_NAME_BASE:0 "[ATTACKER.GetPrimaryTitle.GetAdjective][DEFENDER.GetPrimaryTitle.GetName]" #NT!
+SLAVE_RAID_CB_SPECIFIC_NAME:1 "Raid for Military Slaves against the [DEFENDER.GetPrimaryTitle.GetBaseNameNoTier]" #NT!
+
+#476 Truces #NT!
+ODOACER_TRUCE:0 "Odoacer's Coup" #NT!
+GOTH_TRUCE:0 "Goth Wars" #NT!
+
+### Theodoric Wars #NT!
+war_476_theodoric_wars:0 "War of the Theodorics" #NT!
+THEODORIC_WAR_NAME:0 "War of the Theodorics" #NT!
+THEODORIC_WAR_NAME_BASE:0 "[ATTACKER.GetPrimaryTitle.GetAdjective][DEFENDER.GetPrimaryTitle.GetName]" #NT!
+THEODORIC_CB_NAME:0 "Ostrogoth - Thracio-Goth War" #NT!
+theodoric_wars_victory_desc:0 "The Thracio-Goths will lose their lands to the Ostrogoths." #NT!
+theodoric_wars_victory_desc_attacker:0 "You will gain the lands of the Thracio-Goths." #NT!
+theodoric_wars_victory_desc_defender:0 "You will gain the lands of the Ostrogoths and become uncontested ruler of the local Goths." #NT!
+theodoric_wars_defeat_desc_attacker:0 "The Thracio-Goths have utterly humiliated us, we are defeated." #NT!
+theodoric_wars_defeat_desc_defender:0 "The Ostrogoths have utterly humiliated us, we are defeated." #NT!
+theodoric_wars_defeat_desc:0 "The Ostrogoths will lose their lands to the Thracio-Goths." #NT!
+
+CB_HUNNIC_INVASIONS_COST:0 "Hunnic Invasions" #NT!
+HUN_INVASION_CB_NAME:0 "Hun Invasion" #NT!
+
+ imperial_grand_reconquest_cooldown:0 "You have declared an Imperial Grand Reconquest within the last 10 years" #NT!
+ imperial_grand_reconquest_cb:0 "Imperial Grand Reconquest" #NT!
+ IMPERIAL_GRAND_RECONQUEST_NAME:0 "Seize All Imperial Provinces" #NT!
+ IMPERIAL_GRAND_RECONQUEST_WAR_NAME:1 "$ORDER$ [ATTACKER.GetPrimaryTitle.GetPrefix]-[DEFENDER.GetPrimaryTitle.GetAdjective] Imperial Reconquest" #NT!
+ IMPERIAL_GRAND_RECONQUEST_WAR_NAME_BASE:0 "[ATTACKER.GetPrimaryTitle.GetAdjective][DEFENDER.GetPrimaryTitle.GetName]" #NT!
+ IMPERIAL_GRAND_RECONQUEST_SPECIFIC_NAME:0 "Grand Restoration of an Imperial Province" #NT!
+ IMPERIAL_GRAND_RECONQUEST_WAR_SPECIFIC_NAME:1 "$ORDER$ [ATTACKER.GetPrimaryTitle.GetPrefix]-[DEFENDER.GetPrimaryTitle.GetAdjective] Imperial Reconquest" #NT!
+ IMPERIAL_GRAND_RECONQUEST_WAR_SPECIFIC_NAME_BASE:0 "[ATTACKER.GetPrimaryTitle.GetAdjective][DEFENDER.GetPrimaryTitle.GetName]" #NT!

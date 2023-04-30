@@ -1,0 +1,1179 @@
+﻿l_russian:
+l_english: #NT!
+
+ # Adapted from Ukonusko Overhaul Mod #NT!
+ # Credits to Naatturi #NT!
+
+ #Generic Pagan/Common Pagan Localization #NT!
+
+ councillor_court_chaplain_finnish_pagan_duchy:0 "Tietäjä" #NT!
+ councillor_court_chaplain_finnish_pagan_duchy_possessive:0 "Tietäjä's" #NT!
+ councillor_court_chaplain_sami_pagan_duchy:0 "Noaidi" #NT!
+ councillor_court_chaplain_sami_pagan_duchy_possessive:0 "Noaidi's" #NT!
+
+
+
+ ### Finnic ### #NT!
+ # Finn # #NT!
+
+
+ finno_ugric_religion:1 "Baltic-Finnic" #NT!
+ finno_ugric_religion_adj:1 "Baltic-Finnic" #NT!
+ finno_ugric_religion_adherent:1 "Baltic-Finnic" #NT!
+ finno_ugric_religion_adherent_plural:1 "Baltic-Finnics" #NT!
+ finno_ugric_religion_desc:1 "The nature-centered Baltic-Finnic pagans see birds as sacred animals, for it is believed that they were involved in the creation of our world." #NT!
+ finnish_pagan_desc:0 "The Finnic pagans believe that there are spirits all around us. Objects, places and people have their own guardian spirits known as Haltijas." #NT!
+
+# finnish_pagan:0 "Väenusko" #NT!
+
+ finnish_pagan_priest_male:0 "tietäjä" #NT!
+ finnish_pagan_priest_male_plural:0 "tietäjäs" #NT!
+ finnish_pagan_priest_female:0 "tietäjätär" #NT!
+ finnish_pagan_priest_female_plural:0 "tietäjätärs" #NT!
+
+#  finnish_pagan:1 "Väenusko" #NT!
+#  finnish_pagan_adj:1 "Väenusko" #NT!
+#  finnish_pagan_adherent:1 "Väenusko" #NT!
+#  finnish_pagan_adherent_plural:1 "Väenuskos" #NT!
+#  finnish_pagan:0 "Väenusko" #NT!
+#  finnish_pagan_adj:0 "Väenusko" #NT!
+#  finnish_pagan_adherent:0 "Väenusko" #NT!
+#  finnish_pagan_adherent_plural:0 "Väenuskos" #NT!
+
+#  finnish_pagan_old:0 "Vanha Väenusko" #NT!
+#  finnish_pagan_old_adj:0 "Vanha Väenusko" #NT!
+#  finnish_pagan_old_adherent:0 "Vanha Väenusko" #NT!
+#  finnish_pagan_old_adherent_plural:0 "Vanha Väenuskos" #NT!
+
+ # Council testi #NT!
+ councillor_court_chaplain_finnish_pagan_county:0 "Court Tietäjä" #NT!
+ councillor_court_chaplain_finnish_pagan_county_possessive:0 "Court Tietäjä's" #NT!
+ councillor_court_chaplain_finnish_pagan_duchy:1 "Court Tietäjä" #NT!
+ councillor_court_chaplain_finnish_pagan_possessive:1 "Court Tietäjä's" #NT!
+ councillor_court_chaplain_finnish_pagan_kingdom:1 "Court Tietäjä" #NT!
+ councillor_court_chaplain_finnish_pagan_female:1 "Court Tietäjä" #NT!
+ councillor_court_chaplain_finnish_pagan_possessive:1 "Court Tietäjä's" #NT!
+ councillor_court_chaplain_finnish_pagan_kingdom_female_possessive:1 "Court Tietäjä's" #NT!
+
+ councillor_court_chaplain_finno_ugric_religion_duchy:0 "Tietäjä" #NT!
+ councillor_court_chaplain_finno_ugric_religion_duchy_possessive:0 "Tietäjä's" #NT!
+ councillor_court_chaplain_finnish_pagan_duchy:0 "Tietäjä" #NT!
+ councillor_court_chaplain_finnish_pagan_duchy_possessive:0 "Tietäjä's" #NT!
+
+ finnish_priest_0: "Tietäjä" #NT!
+ finnish_priest_plural:0 "Tietäjäs" #NT!
+ finnish_priest_female:0 "Tietäjätär" #NT!
+ finnish_priest_plural_female:0 "Tietäjätärs" #NT!
+ finnish_pagan_high_god_name:0 "Ukko" #NT!
+ finnish_pagan_high_god_name_possessive:0 "Ukko's" #NT!
+ finnish_pagan_high_god_name_alternate:0 "Old Man" #NT!
+ finnish_pagan_high_god_name_alternate_possessive:0 "Old Man's" #NT!
+ finnish_pagan_good_god_akras:0 "Äkräs" #NT!
+ finnish_pagan_good_god_ilmarinen:0 "Ilmarinen" #NT!
+ finnish_pagan_good_god_lempo:0 "Lempo" #NT!
+ finnish_pagan_good_god_paivatar:0 "Päivätär" #NT!
+ finnish_pagan_devil_name:0 "Paholainen" #NT!
+ finnish_pagan_devil_name_possessive:0 "Paholainen's" #NT!
+ finnish_pagan_evil_god_nuolennoutaja:0 "Nuolennoutaja" #NT!
+ finnish_pagan_evil_god_painaja:0 "Painaja " #NT!
+ finnish_pagan_evil_god_kielen_kantaja:0 "Kielen Kantaja" #NT!
+ finnish_pagan_evil_god_ohimoiden_ottaja:0 "Ohimoiden Ottaja" #NT!
+ finnish_pagan_evil_god_sydamen_syoja:0 "Sydämen Syöjä" #NT!
+ finnish_pagan_death_deity_name:0 "Tuoni" #NT!
+ finnish_pagan_death_deity_name_possessive:0 "Tuoni's" #NT!
+ finnish_pagan_religious_symbol:0 "swan" #NT!
+ finnish_pagan_religious_text:0 "great epics" #NT!
+ finnish_pagan_afterlife:0 "Tuonela" #NT!
+ finnish_pagan_witgodname_vainamoinen:0 "Väinämöinen" #NT!
+
+ finnish_pagan_creator_god_name:0 "$finnish_pagan_high_god_name$" #NT!
+ finnish_pagan_creator_god_name_possessive:0 "$finnish_pagan_high_god_name_possessive$" #NT!
+ finnish_pagan_health_god_name:0 "Akka" #NT!
+ finnish_pagan_health_god_name_possessive:0 "Akka's" #NT!
+ finnish_pagan_fertility_god_name:0 "Lempo" #NT!
+ finnish_pagan_fertility_god_name_possessive:0 "Lempo's" #NT!
+ finnish_pagan_wealth_god_name:0 "Äkräs" #NT!
+ finnish_pagan_wealth_god_name_possessive:0 "Äkräs'" #NT!
+ finnish_pagan_household_god_name:0 "$finnish_pagan_health_god_name$" #NT!
+ finnish_pagan_household_god_name_possessive:0 "$finnish_pagan_health_god_name_possessive$" #NT!
+ finnish_pagan_fate_god_name:0 "Raako" #NT!
+ finnish_pagan_fate_god_name_possessive:0 "Raako's" #NT!
+ finnish_pagan_knowledge_god_name:0 "Väinämöinen" #NT!
+ finnish_pagan_knowledge_god_name_possessive:0 "Väinämöinen's" #NT!
+ finnish_pagan_war_god_name:0 "Perkele" #NT!
+ finnish_pagan_war_god_name_possessive:0 "Perkele's" #NT!
+ finnish_pagan_trickster_god_name:0 "the Menninkäinen" #NT!
+ finnish_pagan_trickster_god_name_possessive:0 "the Menninkäinen's" #NT!
+ finnish_pagan_night_god_name:0 "Kuu" #NT!
+ finnish_pagan_night_god_name_possessive:0 "Kuu's" #NT!
+ finnish_pagan_water_god_name:0 "Ahto" #NT!
+ finnish_pagan_water_god_name_possessive:0 "Ahto's" #NT!
+
+ holy_order_warriors_of_the_swan:0 "Warriors of the swan" #NT!
+
+ finnish_religious_symbol:0 "swan" #NT!
+ finnish_pagan_religious_symbol:0 "swan" #NT!
+
+ holy_order_followers_of_keremet:0 "Warriors of the Keremets" #NT!
+ holy_order_warriors_of_tyus:0 "Warriors of Tyushtya" #NT!
+
+
+
+ ## Misc ## #NT!
+
+ form_kvenland_decision:0 "Kingdom of Kvenland" #NT!
+ kvenland_holds_pohjanmaa:0 "You hold $d_pohjanmaa$" #NT!
+ kvenland_holds_giemajohka:0 "You hold $d_giemajohka$" #NT!
+ kvenland_holds_vuovdisamieana:0 "You hold $d_vuovdisamieana$" #NT!
+ kvenland_holds_guoldat:0 "You hold $d_guoldat$" #NT!
+ form_kvenland_decision_confirm:0 "Form the Kingdom of Kvenland" #NT!
+ form_kvenland_desc:0 "Form the Kingdom of Kvenland" #NT!
+ form_kvenland_tooltip:0 "Form a mighty Kvenic kingdom." #NT!
+ kvenland_event.0001.t:0 "Kingdom of Kvenland" #NT!
+ kvenland_event.0002.t:0 "Kingdom of Kvenland" #NT!
+ kvenland_event.0001.a:0 "A lasting, mighty realm!" #NT!
+ kvenland_event.0001.desc:0 "My dream to create a strong Kvenic kingdom has finally come true. The Kingdom of $k_kvenland$ has been established, meaning we can safely spread our influence as we please. We Kvens have a bright future ahead of us." #NT!
+ kvenland_event.0002.desc:0 "My liege, [founder.Custom('GetQueenKing')] [founder.GetFirstName], has achieved his dream to form a mighty Kvenic kingdom. Could this be the start of a bright future for the Kvens?" #NT!
+ kvenland_event.0002.a:0 "Hail the [founder.GetTitleAsNameNoTooltip]!" #NT!
+ kvenland_event.0002.b:0 "Cursed be the false [founder.Custom('GetQueenKing')]." #NT!
+ kvenland_event.0003.t:0 "Kingdom of Kvenland" #NT!
+ kvenland_event.0003.desc:0 "[founder.GetName] has achieved his dream to form a Kvenic kingdom. What does this mean for the future of the north?" #NT!
+ kvenland_event.0003.a:0 "Interesting..." #NT!
+
+ any_county_in_region:0 "Any county in region:" #NT!
+ any_county_province:0 "Any county province:" #NT!
+
+ int_vuovdi_decision:0 "Dismantle $d_perapoh$" #NT!
+ int_vuovdi_decision_confirm:0 "Dismantle $d_perapoh$" #NT!
+ int_vuovdi_tooltip:0 "Undo the Kven de jure changes in $k_sapmi$" #NT!
+ int_vuovdi_desc:0 "$d_perapoh$ is rightful $k_sapmi$ territory! I will undo all of the De Jure changes the Kvenic conquerors have made in $k_sapmi$." #NT!
+ you_have_sapmi:0 "You hold $k_sapmi$" #NT!
+
+ d_anar:0 "Anár" #NT!
+ d_perapoh:0 "Peräpohjola" #NT!
+
+
+ holy_order_warriors_of_sacred_lands:0 "Warriors of the sacred lands" #NT!
+
+ mercenary_company_izhorian_host:0 "Izhorian Host" #NT!
+ mercenary_company_livonian_host:0 "Livonian Host" #NT!
+ mercenary_company_osilian_host:0 "Warriors of Saaremaa" #NT!
+ mercenary_company_ugaunian_host:0 "Ugaunian Host" #NT!
+ mercenary_company_votian_host:0 "Votian Host" #NT!
+
+ d_kvenland:0 "Kvenland" #NT!
+ k_kvenland:0 "Kvenland" #NT!
+
+ name_list_livonian:0 "Livonian" #NT!
+ name_list_kven:0 "Kvenic" #NT!
+ name_list_osilian:0 "Osilian" #NT!
+ name_list_ugaunian:0 "Ugaunian" #NT!
+ name_list_votian:0 "Votic" #NT!
+
+ #sami dyn #NT!
+ dynn_oavan:0 "Oaván" #NT!
+ dynn_anar:0 "Anár" #NT!
+ dynn_aulu:0 "Åulo" #NT!
+ dynn_ajkka:0 "Ajkka" #NT!
+
+ #nenets dyn #NT!
+ dynn_Tobyid:0 "Tobyid" #NT!
+ dynn_Numid:0 "Numid" #NT!
+ dynn_Manvid:0 "Manvid" #NT!
+ dynn_Kakoid:0 "Kakoid" #NT!
+ dynn_Alikid:0 "Alikid" #NT!
+ dynn_Ngayid:0 "Ngayid" #NT!
+ dynn_Samayid:0 "Samayid" #NT!
+ dynn_Yaptid:0 "Yaptid" #NT!
+ dynn_Sayalid:0 "Sayalid" #NT!
+ dynn_Hasabid:0 "Hasabid" #NT!
+ dynn_Kolguyevid:0 "Kolguyevid" #NT!
+
+ #udmurt dyn #NT!
+ dynn_Udmurt:0 "Udmurt" #NT!
+ dynn_Od:0 "Od" #NT!
+ dynn_Kyldys:0 "Kyldys" #NT!
+ dynn_Inmar:0 "Inmar" #NT!
+ dynn_Kuaz:0 "Kuaz" #NT!
+ dynn_Vozho:0 "Vozho" #NT!
+ dynn_Vatka:0 "Vatka" #NT!
+ dynn_Kalmez:0 "Kalmez" #NT!
+ dynn_Shudzia:0 "Shudzia" #NT!
+
+ #old ugric# #NT!
+ khanty_religious_symbol:0 "reindeer" #NT!
+
+ holy_order_faithful_of_torum:0 "Warriors of Num-Torum" #NT!
+
+ khanty_pagan_high_god_name:0 "Num-Torum" #NT!
+ khanty_pagan_high_god_name_possessive:0 "Num-Torum's" #NT!
+ khanty_pagan_high_god_name_alternate:0 "Old Man" #NT!
+ khanty_pagan_high_god_name_alternate_possessive:0 "Old Man's" #NT!
+ khanty_pagan_good_god_ekwa:0 "Kaltes-Ekwa" #NT!
+ khanty_pagan_good_god_siwes:0 "Nŭm Sĭwes" #NT!
+ khanty_pagan_good_god_susne: "Mir-Susne-Hum" #NT!
+ khanty_pagan_devil_name:0 "Kuł" #NT!
+ khanty_pagan_devil_name_possessive:0 "Kuł's" #NT!
+ khanty_pagan_evil_god_kul:0 "Kuł" #NT!
+ khanty_pagan_death_deity_name:0 "Xuĺ Ōter" #NT!
+ khanty_pagan_death_deity_name_possessive:0 "Xuĺ Ōter's" #NT!
+ khanty_pagan_religious_symbol:0 "reindeer" #NT!
+ khanty_pagan_religious_text:0 "great epics" #NT!
+ khanty_pagan_afterlife:0 "The underworld" #NT!
+ khanty_pagan_witgodname_vainamoinen:0 "Num-Torum" #NT!
+
+ khanty_pagan_creator_god_name:0 "$khanty_pagan_high_god_name$" #NT!
+ khanty_pagan_creator_god_name_possessive:0 "$khanty_pagan_high_god_name_possessive$" #NT!
+ khanty_pagan_health_god_name:0 "Mir-Susne-Hum" #NT!
+ khanty_pagan_health_god_name_possessive:0 "Mir-Susne-Hum's" #NT!
+ khanty_pagan_fertility_god_name:0 "Kaltes-Ekwa" #NT!
+ khanty_pagan_fertility_god_name_possessive:0 "Kaltes-Ekwa's" #NT!
+ khanty_pagan_wealth_god_name:0 "Num-Torum" #NT!
+ khanty_pagan_wealth_god_name_possessive:0 "Num-Torum's" #NT!
+ khanty_pagan_household_god_name:0 "Xot łungx" #NT!
+ khanty_pagan_household_god_name_possessive:0 "xot łungx's" #NT!
+ khanty_pagan_knowledge_god_name:0 "Num-Torum" #NT!
+ khanty_pagan_knowledge_god_name_possessive:0 "Num-Torum's" #NT!
+ khanty_pagan_fate_god_name:0 "Kaltes-Ekwa" #NT!
+ khanty_pagan_fate_god_name_possessive:0 "Kaltes-Ekwa's" #NT!
+ khanty_pagan_war_god_name:0 "the Spirits of war" #NT!
+ khanty_pagan_war_god_name_possessive:0 "War spirit's" #NT!
+ khanty_pagan_trickster_god_name:0 "Kuł" #NT!
+ khanty_pagan_trickster_god_name_possessive:0 "Kuł's" #NT!
+ khanty_pagan_night_god_name:0 "Etposzojka" #NT!
+ khanty_pagan_night_god_name_possessive:0 "Etposzojka's" #NT!
+ khanty_pagan_water_god_name:0 "Wit Xōn" #NT!
+ khanty_pagan_water_god_name_possessive:0 "Wit Xōn's" #NT!
+
+ khanty_pagan:0 "Ob-Ugric" #NT!
+ khanty_pagan_adj:0 "Ob-Ugric" #NT!
+ khanty_pagan_adherent:0 "Ob-Ugric" #NT!
+ khanty_pagan_adherent_plural:0 "Ob-Ugrics" #NT!
+
+ khanty_pagan_old:0 "Old Ob-Ugric" #NT!
+ khanty_pagan_old_adj:0 "Old Ob-Ugric" #NT!
+ khanty_pagan_old_adherent:0 "Old Ob-Ugric" #NT!
+ khanty_pagan_old_adherent_plural:0 "Old Ob-Ugrics" #NT!
+
+ ## Sami ## #NT!
+
+ sami_pagan_religious_symbol:0 "noaidi" #NT!
+ sami_religious_symbol:0 "noaidi" #NT!
+
+ holy_order_warriors_of_beaivvi:0 "Beaivvi bártnit" #NT!
+
+ sami_pagan_desc:0 "The Noaide are the shamans of the animistic Sami pagans. Their role is to work as meditators between humans and the spirit world." #NT!
+
+ #sami_religion:0 "Noaidevuohta" #NT!
+
+ sami_pagan:0 "Noaidevuohta" #NT!
+ sami_pagan_adj:0 "Noaidevuohta" #NT!
+ sami_pagan_adherent:0 "Noaidevuohta" #NT!
+ sami_pagan_adherent_plural:0 "Noaidevuohtas" #NT!
+
+ sami_pagan_old:0 "Old Noaidevuohta" #NT!
+ sami_pagan_old_adj:0 "Old Noaidevuohta" #NT!
+ sami_pagan_old_adherent:0 "Old Noaidevuohta" #NT!
+ sami_pagan_old_adherent_plural:0 "Old Noaidevuohtas" #NT!
+
+ councillor_court_chaplain_sami_religion:0 "Court Noaidi" #NT!
+ councillor_court_chaplain_sami_religion_possessive:0 "Court Noaidi's" #NT!
+
+ realm_priest_sami:0 "Noaidi" #NT!
+ realm_priest_f_sami:0 "Noaidi" #NT!
+
+ sami_religion_desc:0 "The Noaide are the shamans of the animistic Sami pagans. Their role is to work as meditators between humans and the spirit world." #NT!
+ sami_religion:0 "Sami" #NT!
+ sami_religion_adj:0 "Sami" #NT!
+ sami_religion_adherent:0 "Sami" #NT!
+ sami_religion_adherent_plural:0 "Samis" #NT!
+
+ sami_pagan_high_god_name:0 "Tiermes" #NT!
+ sami_pagan_high_god_name_possessive:0 "Tiermes''" #NT!
+ sami_pagan_high_god_name_alternate:0 "Radien" #NT!
+ sami_pagan_high_god_name_alternate_possessive:0 "Radien's" #NT!
+ sami_pagan_good_god_beaivi:0 "Beaivi" #NT!
+ sami_pagan_good_god_rana:0 "Rana Niejta" #NT!
+ sami_pagan_good_god_leib:0 "Leib-Olmai" #NT!
+ sami_pagan_good_god_maderakka:0 "Maderakka" #NT!
+ sami_pagan_devil_name:0 "Ruohtta" #NT!
+ sami_pagan_devil_name_possessive:0 "Ruohtta's" #NT!
+ sami_pagan_evil_god_ruohtta:0 "Ruohtta" #NT!
+ sami_pagan_death_deity_name:0 "Ruohtta" #NT!
+ sami_death_deity_name_possessive:0 "Ruohtta's" #NT!
+ sami_pagan_religious_symbol:0 "the shaman" #NT!
+ sami_pagan_religious_text:0 "great epics" #NT!
+ sami_good_pagan_afterlife:0 "Jábmiidáibmu" #NT!
+ sami_bad_pagan_afterlife:0 "Jábmiidáibmu" #NT!
+ sami_pagan_wealth_god_name:0 "Čáhkalakkis" #NT!
+ sami_pagan_wealth_god_name_possessive:0 "Čáhkalakkis'" #NT!
+ sami_witgodname_vainamoinen:0 "Tiermes" #NT!
+
+ sami_pagan_creator_god_name:0 "$sami_pagan_high_god_name$" #NT!
+ sami_pagan_creator_god_name_possessive:0 "$sami_pagan_high_god_name_possessive$" #NT!
+ sami_pagan_health_god_name:0 "Beaivi" #NT!
+ sami_pagan_health_god_name_possessive:0 "Beaivi's" #NT!
+ sami_pagan_fertility_god_name:0 "Sarakka" #NT!
+ sami_pagan_fertility_god_name_possessive:0 "Sarakka's" #NT!
+ sami_pagan_household_god_name:0 "The spirits" #NT!
+ sami_pagan_household_god_name_possessive:0 "The spirits'" #NT!
+ sami_pagan_fate_god_name:0 "Tiermes" #NT!
+ sami_pagan_fate_god_name_possessive:0 "Tiermes's" #NT!
+ sami_pagan_knowledge_god_name:0 "Tiermes" #NT!
+ sami_pagan_knowledge_god_name_possessive:0 "Tiermes's" #NT!
+ sami_pagan_war_god_name:0 "Tiermes" #NT!
+ sami_pagan_war_god_name_possessive:0 "Tiermes'" #NT!
+ sami_pagan_night_god_name:0 "Mano" #NT!
+ sami_pagan_night_god_name_possessive:0 "Mano's" #NT!
+ sami_pagan_water_god_name:0 "Guolleipmil" #NT!
+ sami_pagan_water_god_name_possessive:0 "Guolleipmil's" #NT!
+
+
+ mari_pagan_religious_symbol:0 "mari" #NT!
+ khanty_pagan_religious_symbol:0 "reindeer" #NT!
+ komi_pagan_religious_symbol:0 "sun" #NT!
+ mordvin_pagan_religious_symbol:0 "mordvin" #NT!
+
+ ## Mordvin ## #NT!
+ # Credits to Макс for names #NT!
+
+ erzya_pagan:0 "Pazon Koy" #NT!
+ erzya_pagan_adj:0 "Pazon Koy" #NT!
+ erzya_pagan_adherent:0 "Pazon Koyist" #NT!
+ erzya_pagan_adherent_plural:0 "Pazon Koyists" #NT!
+ erzya_pagan_old:0 "Old Pazon Koy" #NT!
+ erzya_pagan_old_adj:0 "Old Pazon Koy" #NT!
+ erzya_pagan_old_adherent:0 "Old Pazon Koyist" #NT!
+ erzya_pagan_old_adherent_plural:0 "Old Pazon Koyists" #NT!
+ erzya_pagan_desc:0 "The Erzyas are one of the two Mordvin peoples. Mordvin pagans believe in various major and minor gods, like the great hero-god Tyushtya." #NT!
+ moksha_pagan:0 "Shkayism" #NT!
+ moksha_pagan_adj:0 "Shkayist" #NT!
+ moksha_pagan_adherent:0 "Shkayist" #NT!
+ moksha_pagan_adherent_plural:0 "Shkayists" #NT!
+ moksha_pagan_old:0 "Old Shkayism" #NT!
+ moksha_pagan_old_adj:0 "Old Shkayist" #NT!
+ moksha_pagan_old_adherent:0 "Old Shkayist" #NT!
+ moksha_pagan_old_adherent_plural:0 "Old Shkayists" #NT!
+ moksha_pagan_desc:0 "The Mokshas are one of the two Mordvin peoples. Mordvin pagans believe in various major and minor gods, like the great hero-god Tyushtya." #NT!
+
+ mordvin_religious_symbol:0 "mordvin" #NT!
+
+ mordvin_religion_desc:0 "The Erzya and Moksha peoples, who collectively make up the Mordvins, are Finno-Ugric speakers from the Volga River basin. Their religious practices are similar to other Finno-Ugric peoples, but they also have their own unique aspects as well." #NT!
+ mordvin_religion:0 "Mordvin" #NT!
+ mordvin_religion_adj:0 "Mordvin" #NT!
+ mordvin_religion_adherent:0 "Mordvin" #NT!
+ mordvin_religion_adherent_plural:0 "Mordvins" #NT!
+
+ mordvin_pagan_high_god_name:0 "Viarde Skai" #NT!
+ mordvin_pagan_high_god_name_possessive:0 "Viarde Skai's" #NT!
+ mordvin_pagan_high_god_name_alternate:0 "Nishke-Paz" #NT!
+ mordvin_pagan_high_god_name_alternate_possessive:0 "Nishke-Paz's" #NT!
+ mordvin_pagan_good_god_chipaz:0 "Chipaz" #NT!
+ mordvin_pagan_good_god_noroava:0 "Norovava" #NT!
+ mordvin_pagan_good_god_kirdi:0 "Mastoron kirdi" #NT!
+ mordvin_pagan_good_god_patiai:0 "Ange Patiai" #NT!
+ mordvin_pagan_good_god_tyus:0 "Tyushtya" #NT!
+ mordvin_pagan_devil_name:0 "Shäitan" #NT!
+ mordvin_pagan_devil_name_possessive:0 "Shäitan's" #NT!
+ mordvin_pagan_evil_god_shaitan:0 "Shäitan" #NT!
+ mordvin_pagan_evil_god_inekui:0 "Inekui" #NT!
+ mordvin_pagan_death_deity_name:0 "Mastoratia" #NT!
+ mordvin_pagan_death_deity_name_possessive:0 "Mastoratia's" #NT!
+ mordvin_pagan_religious_symbol:0 "Mordvin symbol" #NT!
+ mordvin_pagan_religious_text:0 "great epics" #NT!
+ mordvin_pagan_afterlife:0 "The underworld" #NT!
+
+ mordvin_pagan_creator_god_name:0 "$mordvin_pagan_high_god_name$" #NT!
+ mordvin_pagan_creator_god_name_possessive:0 "$mordvin_pagan_high_god_name_possessive$" #NT!
+ mordvin_pagan_health_god_name:0 "Ban'ava" #NT!
+ mordvin_pagan_health_god_name_possessive:0 "Ban'ava's" #NT!
+ mordvin_pagan_fertility_god_name:0 "Ban'ava" #NT!
+ mordvin_pagan_fertility_god_name_possessive:0 "Ban'ava's" #NT!
+ mordvin_pagan_wealth_god_name:0 "Viarde Skai" #NT!
+ mordvin_pagan_wealth_god_name_possessive:0 "Viarde Skai'" #NT!
+ mordvin_pagan_household_god_name:0 "Kud-ava" #NT!
+ mordvin_pagan_household_god_name_possessive:0 "Kud-ava" #NT!
+ mordvin_pagan_fate_god_name:0 "Viarde Skai" #NT!
+ mordvin_pagan_fate_god_name_possessive:0 "Viarde Skai's" #NT!
+ mordvin_pagan_knowledge_god_name:0 "Viarde Skai" #NT!
+ mordvin_pagan_knowledge_god_name_possessive:0 "Viarde Skai's" #NT!
+ mordvin_pagan_war_god_name:0 "Tyushtya" #NT!
+ mordvin_pagan_war_god_name_possessive:0 "Tyushtya's" #NT!
+ mordvin_pagan_trickster_god_name:0 "Shäitan" #NT!
+ mordvin_pagan_trickster_god_name_possessive:0 "Shäitan's" #NT!
+ mordvin_pagan_night_god_name:0 "Tyushtya" #NT!
+ mordvin_pagan_night_god_name_possessive:0 "Tyushtya's" #NT!
+ mordvin_pagan_water_god_name:0 "Ved'mastorpaz" #NT!
+ mordvin_pagan_water_god_name_possessive:0 "Ved'mastorpaz's" #NT!
+ mordvin_pagan_witgodname_vainamoinen:0 "Viarde Skai" #NT!
+ mordvin_pagan_KnowledgeGodHerHis:0 "Viarde Skai" #NT!
+ mordvin_pagan_KnowledgeGodSheHe:0 "Viarde Skai" #NT!
+ mordvin_pagan_WitchGodHerHis:0 "Viarde Skai" #NT!
+ mordvin_pagan_KnowledgeGodNamePossessive:0 "Viarde Skai" #NT!
+ mordvin_pagan_KnowledgeGodHerHim:0 "Viarde Skai" #NT!
+ mordvin_pagan_WitchGodName:0 "Viarde Skai" #NT!
+ mordvin_pagan_WitchGodMistressMaster:0 "Viarde Skai" #NT!
+ mordvin_pagan_WitchGodSheHe:0 "Viarde Skai" #NT!
+ mordvin_pagan_WitchGodMotherFather:0 "Viarde Skai" #NT!
+ mordvin_pagan_WitchGodHerHim:0 "Viarde Skai" #NT!
+ mordvin_pagan_KnowledgeGodName:0 "Viarde Skai" #NT!
+
+ # Credits to Макс for most of the Erzya and Moksha names #NT!
+ # Per Макс, translierations don't reflect palatalization of some word to 1) be consistent with Paradox and 2) it looks nicer this way #NT!
+
+ erzya_pagan_high_god_name:0 "Ineshkipaz" #NT!
+ erzya_pagan_high_god_name_possessive:0 "Ineshkipaz's" #NT!
+ erzya_pagan_high_god_name_alternate:0 "Nishkepaz" #NT!
+ erzya_pagan_high_god_name_alternate_possessive:0 "Nishkepaz's" #NT!
+ erzya_pagan_devil_name:0 "Idemevs" #NT!
+ erzya_pagan_devil_name_possessive:0 "Idemevs's" #NT!
+ erzya_pagan_death_deity_name:0 "Mastorpaz" #NT!
+ erzya_pagan_death_deity_name_possessive:0 "Mastorpaz's" #NT!
+ erzya_pagan_religious_symbol:0 "shtatol" #NT!
+ erzya_pagan_religious_text:0 "great epics" #NT!
+ erzya_pagan_afterlife:0 "The underworld" #NT!
+ erzya_pagan_good_god_purginepaz:0 "Purginepaz" # Thunder god #NT!
+ erzya_pagan_good_god_yondolpaz:0 "Yondolpaz" # Lightning god #NT!
+ erzya_pagan_good_god_varmava:0 "Varmava" # Wind spirit #NT!
+ erzya_pagan_good_god_viryava:0 "Viryava" # Foreset spirit #NT!
+
+ erzya_pagan_creator_god_name:0 "$erzya_pagan_high_god_name$" #NT!
+ erzya_pagan_creator_god_name_possessive:0 "$erzya_pagan_high_god_name_possessive$" #NT!
+ erzya_pagan_health_god_name:0 "Mastorava" # Technically earth goddess #NT!
+ erzya_pagan_health_god_name_possessive:0 "Mastorava's" #NT!
+ erzya_pagan_fertility_god_name:0 "Vedyava" # Water deity, but considered goddess of fertility as well #NT!
+ erzya_pagan_fertility_god_name_possessive:0 "Vedyava's" #NT!
+ erzya_pagan_wealth_god_name:0 "Paksyava" # Technically goddess of the fields #NT!
+ erzya_pagan_wealth_god_name_possessive:0 "Paksyava" #NT!
+ erzya_pagan_household_god_name:0 "Yurtava" #NT!
+ erzya_pagan_household_god_name_possessive:0 "Yurtava's" #NT!
+ erzya_pagan_fate_god_name:0 "$erzya_pagan_high_god_name$" #NT!
+ erzya_pagan_fate_god_name_possessive:0 "$erzya_pagan_high_god_name_possessive$" #NT!
+ erzya_pagan_knowledge_god_name:0 "Tyushtya" #NT!
+ erzya_pagan_knowledge_god_name_possessive:0 "Tyushtya's" #NT!
+ erzya_pagan_war_god_name:0 "Tyushtya" #NT!
+ erzya_pagan_war_god_name_possessive:0 "Tyushtya's" #NT!
+ erzya_pagan_trickster_god_name:0 "Idemevs" #NT!
+ erzya_pagan_trickster_god_name_possessive:0 "Idemevs'" #NT!
+ erzya_pagan_night_god_name:0 "Tyushtya" #NT!
+ erzya_pagan_night_god_name_possessive:0 "Tyushtya's" #NT!
+ erzya_pagan_water_god_name:0 "Vedyava" #NT!
+ erzya_pagan_water_god_name_possessive:0 "Vedyava's" #NT!
+ erzya_pagan_WitchGodName:0 "Nishkepaz" #NT!
+
+ erzya_pagan_house_of_worship:0 "keremet" # Sacred Grove #NT!
+ erzya_pagan_house_of_worship_2:0 "$erzya_pagan_house_of_worship$" # Optional translation alt #NT!
+ erzya_pagan_house_of_worship_3:0 "$erzya_pagan_house_of_worship$" # Optional translation alt #NT!
+ erzya_pagan_house_of_worship_plural:0 "keremets" # Sacred Grove #NT!
+ erzya_priest_male:0 "ozatya" # "Praying Father" #NT!
+ erzya_priest_male_plural:0 "ozatya" #NT!
+ erzya_priest_female:0 "ozyiy" #NT!
+ erzya_priest_female_plural:0 "ozyiy" #NT!
+ erzya_priest_neuter:0 "ozyiy" # Gender neutral form of Ozatya #NT!
+ erzya_priest_neuter_plural:0 "ozyiy" #NT!
+
+ moksha_pagan_high_god_name:0 "Shkay" #NT!
+ moksha_pagan_high_god_name_possessive:0 "Shkay's" #NT!
+ moksha_pagan_high_god_name_alternate:0 "Viarde Skai" #NT!
+ moksha_pagan_high_god_name_alternate_possessive:0 "Viarde Skai's" #NT!
+ moksha_pagan_devil_name:0 "Idemyavoz" #NT!
+ moksha_pagan_devil_name_possessive:0 "Idemyavoz's" #NT!
+ moksha_pagan_death_deity_name:0 "Mastorava" #NT!
+ moksha_pagan_death_deity_name_possessive:0 "Mastorava's" #NT!
+ moksha_pagan_religious_symbol:0 "shtatol" #NT!
+ moksha_pagan_religious_text:0 "great epics" #NT!
+ moksha_pagan_afterlife:0 "The underworld" #NT!
+ moksha_pagan_good_god_atyamshkay:0 "Atyamshkay" # Thunder god #NT!
+ moksha_pagan_good_god_varmava:0 "Varmava" # Wind god #NT!
+ moksha_pagan_good_god_viryava:0 "Viryava" # Forest god #NT!
+
+ moksha_pagan_creator_god_name:0 "$moksha_pagan_high_god_name$" #NT!
+ moksha_pagan_creator_god_name_possessive:0 "$moksha_pagan_high_god_name_possessive$" #NT!
+ moksha_pagan_health_god_name:0 "Modava" # Technically earth goddess #NT!
+ moksha_pagan_health_god_name_possessive:0 "Modava's" #NT!
+ moksha_pagan_fertility_god_name:0 "Vedyava" # Water deity, but considered goddess of fertility as well #NT!
+ moksha_pagan_fertility_god_name_possessive:0 "Vedyava's" #NT!
+ moksha_pagan_wealth_god_name:0 "Vazava" # Technically goddess of cattle #NT!
+ moksha_pagan_wealth_god_name_possessive:0 "Vazava" #NT!
+ moksha_pagan_household_god_name:0 "Yurkhtava" #NT!
+ moksha_pagan_household_god_name_possessive:0 "Yurkhtava's" #NT!
+ moksha_pagan_fate_god_name:0 "$moksha_pagan_high_god_name$" #NT!
+ moksha_pagan_fate_god_name_possessive:0 "$moksha_pagan_high_god_name_possessive$" #NT!
+ moksha_pagan_knowledge_god_name:0 "Tyushtya" #NT!
+ moksha_pagan_knowledge_god_name_possessive:0 "Tyushtya's" #NT!
+ moksha_pagan_war_god_name:0 "Tyushtya" #NT!
+ moksha_pagan_war_god_name_possessive:0 "Tyushtya's" #NT!
+ moksha_pagan_trickster_god_name:0 "Idemyavoz" #NT!
+ moksha_pagan_trickster_god_name_possessive:0 "Idemyavoz's" #NT!
+ moksha_pagan_night_god_name:0 "Kovava" # Moon goddess #NT!
+ moksha_pagan_night_god_name_possessive:0 "Kovava's" #NT!
+ moksha_pagan_water_god_name:0 "Vedyava" #NT!
+ moksha_pagan_water_god_name_possessive:0 "Vedyava's" #NT!
+ moksha_pagan_WitchGodName:0 "$moksha_pagan_high_god_name$" #NT!
+
+ moksha_pagan_house_of_worship:0 "repeshtye" # Sacred Grove #NT!
+ moksha_pagan_house_of_worship_2:0 "$moksha_pagan_house_of_worship$" # Optional translation alt #NT!
+ moksha_pagan_house_of_worship_3:0 "$moksha_pagan_house_of_worship$" # Optional translation alt #NT!
+ moksha_pagan_house_of_worship_plural:0 "repeshtyes" # Sacred Grove #NT!
+ moksha_priest_male:0 "inyatya" # "Priest" #NT!
+ moksha_priest_male_plural:0 "inyatyas" #NT!
+ moksha_priest_female:0 "inyatya" #NT!
+ moksha_priest_female_plural:0 "inyatyas" #NT!
+ moksha_priest_neuter:0 "inyatya" #NT!
+ moksha_priest_neuter_plural:0 "inyatyas" #NT!
+
+ # Other Erzya deities mentioned by Макс that couldn't be pidgeonholed somewhere: #NT!
+ # Wind spirit - Varmava #NT!
+ # Forest spirit - Viryava #NT!
+
+
+
+ ## Komi ## #NT!
+
+ komi_pagan:0 "Važesköm" #NT!
+ komi_pagan_adj:0 "Važesköm" #NT!
+ komi_pagan_adherent:0 "Važesköm" #NT!
+ komi_pagan_adherent_plural:0 "Važesköms" #NT!
+
+ komi_pagan_old:0 "Old Važesköm" #NT!
+ komi_pagan_old_adj:0 "Old Važesköm" #NT!
+ komi_pagan_old_adherent:0 "Old Važesköm" #NT!
+ komi_pagan_old_adherent_plural:0 "Old Važesköms" #NT!
+
+ komi_pagan_desc:0 "The Komi believe in various spirits, both malicious and benevolent. Their supreme creator god is En, who takes the form of a swan." #NT!
+
+ permic_religion_desc:0 "The Permic peoples believe in various spirits, both malicious and kind. Their supreme creator god is En, who takes the form of a swan." #NT!
+ permic_religion:0 "Permic" #NT!
+ permic_religion_adj:0 "Permic" #NT!
+ permic_religion_adherent:0 "Permian" #NT!
+ permic_religion_adherent_plural:0 "Permians" #NT!
+
+ komi:0 "Komi" #NT!
+
+ komi_religious_symbol:0 "sun" #NT!
+
+ komi_pagan_high_god_name:0 "En" #NT!
+ komi_pagan_high_god_name_possessive:0 "En's" #NT!
+ komi_pagan_high_god_name_alternate:0 "En" #NT!
+ komi_pagan_high_god_name_alternate_possessive:0 "En's" #NT!
+ komi_pagan_good_god_zarni:0 "Zarni an" #NT!
+ komi_pagan_good_god_kuaz:0 "En" #NT!
+ komi_pagan_good_god_kyldys:0 "En" #NT!
+ komi_pagan_devil_name:0 "Kul" #NT!
+ komi_pagan_devil_name_possessive:0 "Kul's" #NT!
+ komi_pagan_evil_god_omol:0 "Omöl" #NT!
+ komi_pagan_death_deity_name:0 "Omöl" #NT!
+ komi_pagan_death_deity_name_possessive:0 "Omöl's" #NT!
+ komi_pagan_religious_symbol:0 "Komi symbol" #NT!
+ komi_pagan_religious_text:0 "great epics" #NT!
+ komi_pagan_afterlife:0 "underworld" #NT!
+ komi_pagan_witgodname_vainamoinen:0 "En" #NT!
+
+ komi_pagan_creator_god_name:0 "$komi_pagan_high_god_name$" #NT!
+ komi_pagan_creator_god_name_possessive:0 "$komi_pagan_high_god_name_possessive$" #NT!
+ komi_pagan_health_god_name:0 "Zarni Ań" #NT!
+ komi_pagan_health_god_name_possessive:0 "Zarni Ań's" #NT!
+ komi_pagan_fertility_god_name:0 "Zarni Ań" #NT!
+ komi_pagan_fertility_god_name_possessive:0 "Zarni Ań's" #NT!
+ komi_pagan_wealth_god_name:0 "En" #NT!
+ komi_pagan_wealth_god_name_possessive:0 "En's" #NT!
+ komi_pagan_household_god_name:0 "En" #NT!
+ komi_pagan_household_god_name_possessive:0 "En's" #NT!
+ komi_pagan_fate_god_name:0 "En" #NT!
+ komi_pagan_fate_god_name_possessive:0 "En's" #NT!
+ komi_pagan_knowledge_god_name:0 "En" #NT!
+ komi_pagan_knowledge_god_name_possessive:0 "En's" #NT!
+ komi_pagan_war_god_name:0 "En" #NT!
+ komi_pagan_war_god_name_possessive:0 "En's" #NT!
+ komi_pagan_trickster_god_name:0 "Omöl" #NT!
+ komi_pagan_trickster_god_name_possessive:0 "Omöl's" #NT!
+ komi_pagan_night_god_name:0 "Voipel'" #NT!
+ komi_pagan_night_god_name_possessive:0 "Voipel's" #NT!
+ komi_pagan_water_god_name:0 "Omöl" #NT!
+ komi_pagan_water_god_name_possessive:0 "Omöl's" #NT!
+
+
+ ## Mari ## #NT!
+
+ mari_religious_symbol:0 "mari" #NT!
+
+ mari_pagan_desc:0 "The veneration of nature is what defines the Mari native faith." #NT!
+
+ mari_pagan:0 "Čimarij Jüla" #NT!
+ mari_pagan_adj:0 "Čimarij Jüla" #NT!
+ mari_pagan_adherent:0 "Čimarij Jüla" #NT!
+ mari_pagan_adherent_plural:0 "Čimarij Jülas" #NT!
+
+ mari_pagan_old:0 "Old Čimarij Jüla" #NT!
+ mari_pagan_old_adj:0 "Old Čimarij Jüla" #NT!
+ mari_pagan_old_adherent:0 "Old Čimarij Jüla" #NT!
+ mari_pagan_old_adherent_plural:0 "Old Čimarij Jülas" #NT!
+
+ mari_religion_desc:0 "The veneration of nature is what defines the Mari native faith." #NT!
+ mari_religion:0 "Mari" #NT!
+ mari_religion_adj:0 "Mari" #NT!
+ mari_religion_adherent:0 "Marick3 " #NT!
+ mari_religion_adherent_plural:0 "Maris" #NT!
+
+ mari_priest_plural:0 "Kart" #NT!
+ mari_priest_alternate_plural:0 "Kuguzas" #NT!
+ mari_priest_alternate:0 "Kuguza" #NT!
+ mari_priest:0 "Kart" #NT!
+ mari_priest_plural:0 "Karts" #NT!
+
+ mari_pagan_high_god_name:0 "Kugu Jumo" #NT!
+ mari_pagan_high_god_name_possessive:0 "Kugu Jumo's" #NT!
+ mari_pagan_high_god_name_alternate:0 "The Great White God" #NT!
+ mari_pagan_high_god_name_alternate_possessive:0 "The Great White God's" #NT!
+ mari_pagan_good_god_tolze:0 "Tõlze" #NT!
+ mari_pagan_good_god_codora:0 "Čodõra-kuva" #NT!
+ mari_pagan_good_god_kudorco:0 "Küdõrčö" #NT!
+ mari_pagan_good_god_kece:0 "Keče" #NT!
+ mari_pagan_devil_name:0 "Targõltõš" #NT!
+ mari_pagan_devil_name_possessive:0 "Targõltõš'" #NT!
+ mari_pagan_evil_god_targoltos:0 "Targõltõš" #NT!
+ mari_pagan_death_deity_name:0 "Kijamat" #NT!
+ mari_pagan_death_deity_name_possessive:0 "Kijamat's" #NT!
+ mari_pagan_religious_symbol:0 "tree" #NT!
+ mari_pagan_religious_text:0 "great epics" #NT!
+ mari_pagan_afterlife:0 "The Underworld" #NT!
+
+ mari_pagan_creator_god_name:0 "$mari_pagan_high_god_name$" #NT!
+ mari_pagan_creator_god_name_possessive:0 "$mari_pagan_high_god_name_possessive$" #NT!
+ mari_pagan_health_god_name:0 "Mlande-Ava" #NT!
+ mari_pagan_health_god_name_possessive:0 "Mlande-Ava's" #NT!
+ mari_pagan_fertility_god_name:0 "Tõlze" #NT!
+ mari_pagan_fertility_god_name_possessive:0 "Tõlze's" #NT!
+ mari_pagan_fate_god_name:0 "Pürõžö" #NT!
+ mari_pagan_fate_god_name_possessive:0 "Pürõžö's" #NT!
+
+ mari_pagan_knowledge_god_name:0 "Kugu Jumo" #NT!
+ mari_pagan_knowledge_god_name_possessive:0 "Kugu Jumo's" #NT!
+ mari_pagan_trickster_god_name:0 "Targõltõš" #NT!
+ mari_pagan_trickster_god_name_possessive:0 "Targõltõš'" #NT!
+ mari_pagan_war_god_name:0 "Kugu Jumo" #NT!
+ mari_pagan_war_god_name_possessive:0 "Kugu Jumo's" #NT!
+ mari_pagan_night_god_name:0 "Tõlze" #NT!
+ mari_pagan_night_god_name_possessive:0 "Tõlze's" #NT!
+
+ #sebeok mari# #NT!
+ mari_pagan_water_god_name:0 "Büt-Ava" #NT!
+ mari_pagan_water_god_name_possessive:0 "Büt-Ava's" #NT!
+
+ mari_pagan_household_god_name:0 "Pört Kuguza" #NT!
+ mari_pagan_household_god_name_possessive:0 "Pört Kuguza's" #NT!
+
+ mari_pagan_wealth_god_name:0 "Keča-Ava" #NT!
+ mari_pagan_wealth_god_name_possessive:0 "Keča-Ava's" #NT!
+
+ mari_pagan_good_god_mlande:0 "Mlande-Ava" #NT!
+ mari_pagan_good_god_socan:0 "Šočan-Ava" #NT!
+
+ mari_pagan_evil_god_muza:0 "Muža" #NT!
+ # #NT!
+
+ councillor_court_chaplain_mari_religion:0 "Kart" #NT!
+
+## Holy Site ## #NT!
+
+ holy_site_raivola_name:0 "Raivola" #NT!
+ holy_site_raivola_effect_name:0 "From [holy_site|E] #weak ($holy_site_raivola_name$)#!" #NT!
+ holy_site_hiiumaa_name:0 "Hiiumaa" #NT!
+ holy_site_hiiumaa_effect_name:0 "From [holy_site|E] #weak ($holy_site_hiiumaa_name$)#!" #NT!
+ holy_site_enare_name:0 "Äijihsuálui" #NT!
+ holy_site_enare_effect_name:0 "From [holy_site|E] #weak ($holy_site_enare_name$)#!" #NT!
+
+ holy_site_enarefi_name:0 "Ukonkivi" #NT!
+ holy_site_enarefi_effect_name:0 "From [holy_site|E] #weak ($holy_site_enarefi_name$)#!" #NT!
+
+ holy_site_perm_name:0 "Perm" #NT!
+ holy_site_perm_effect_name:0 "From [holy_site|E] #weak ($holy_site_perm_name$)#!" #NT!
+ holy_site_sjeltie_name:0 "Sjeltie" #NT!
+ holy_site_sjeltie_effect_name:0 "From [holy_site|E] #weak ($holy_site_sjeltie_name$)#!" #NT!
+ holy_site_choklema_name:0 "Choklema" #NT!
+ holy_site_choklema_effect_name:0 "From [holy_site|E] #weak ($holy_site_choklema_name$)#!" #NT!
+ holy_site_uiska_name:0 "Uiska" #NT!
+ holy_site_uiska_effect_name:0 "From [holy_site|E] #weak ($holy_site_uiska_name$)#!" #NT!
+ holy_site_yoshkar-ola_name:0 "Yoshkar-Ola" #NT!
+ holy_site_yoshkar-ola_effect_name:0 "From [holy_site|E] #weak ($holy_site_yoshkar-ola_name$)#!" #NT!
+ holy_site_tambov_name:0 "Tambov" #NT!
+ holy_site_tambov_effect_name:0 "From [holy_site|E] #weak ($holy_site_tambov_name$)#!" #NT!
+ holy_site_koda_name:0 "Koda" #NT!
+ holy_site_koda_effect_name:0 "From [holy_site|E] #weak ($holy_site_koda_name$)#!" #NT!
+ holy_site_tara_name:0 "Tara" #NT!
+ holy_site_tara_effect_name:0 "From [holy_site|E] #weak ($holy_site_tara_name$)#!" #NT!
+
+ glazov:0 "Glazov" #NT!
+ holy_site_glazov_name:0 "Glazov" #NT!
+ holy_site_glazov_effect_name:0 "From [holy_site|E] #weak ($holy_site_glazov_name$)#!" #NT!
+
+
+ ## Samoyedic / Nenets ## #NT!
+
+ samoyedic_group:0 "Samoyedic" #NT!
+ nenets:0 "Nenets" #NT!
+ samoyedic_religion:0 "Samoyedic" #NT!
+ samoyedic_religion_desc:0 "The Nenetsian faith is animistic and shamanistic. Their supreme god is the great Num, the ruler of one of the three worlds." #NT!
+ samoyedic_religion_adj:0 "Samoyedic" #NT!
+ samoyedic_religion_adherent:0 "Samoyedic" #NT!
+ samoyedic_religion_adherent_plural:0 "Samoyedics" #NT!
+ nenets_pagan:0 "Numism" #NT!
+ nenets_pagan_adj:0 "Numist" #NT!
+ nenets_pagan_adherent:0 "Numist" #NT!
+ nenets_pagan_adherent_plural:0 "Numists" #NT!
+ nenets_pagan_old:0 "Old Numist" #NT!
+ nenets_pagan_old_adj:0 "Old Numist" #NT!
+ nenets_pagan_old_adherent:0 "Old Numist" #NT!
+ nenets_pagan_old_adherent_plural:0 "Old Numists" #NT!
+ nenets_pagan_desc:0 "The Nenetsian faith is animistic and shamanistic. Their supreme god is the great Num, the ruler of one of the three worlds." #NT!
+
+ nenets_pagan_high_god_name:0 "Num" #NT!
+ nenets_pagan_high_god_name_possessive:0 "Num's" #NT!
+ nenets_pagan_high_god_name_alternate:0 "Num" #NT!
+ nenets_pagan_high_god_name_alternate_possessive:0 "Num's" #NT!
+ nenets_pagan_good_god_tolze:0 "Num" #NT!
+ nenets_pagan_good_god_codora:0 "Num" #NT!
+ nenets_pagan_good_god_kudorco:0 "Num" #NT!
+ nenets_pagan_good_god_kece:0 "Num" #NT!
+ nenets_pagan_devil_name:0 "Nga" #NT!
+ nenets_pagan_devil_name_possessive:0 "Nga's" #NT!
+ nenets_pagan_evil_god_targoltos:0 "Nga" #NT!
+ nenets_pagan_death_deity_name:0 "Nga" #NT!
+ nenets_pagan_death_deity_name_possessive:0 "Nga's" #NT!
+ nenets_pagan_religious_symbol:0 "reindeer" #NT!
+ nenets_pagan_religious_text:0 "great epics" #NT!
+ nenets_pagan_afterlife:0 "The Underworld" #NT!
+
+ nenets_pagan_creator_god_name:0 "$nenets_pagan_high_god_name$" #NT!
+ nenets_pagan_creator_god_name_possessive:0 "$nenets_pagan_high_god_name_possessive$" #NT!
+ nenets_pagan_health_god_name:0 "Num" #NT!
+ nenets_pagan_health_god_name_possessive:0 "Num's" #NT!
+ nenets_pagan_fertility_god_name:0 "Num" #NT!
+ nenets_pagan_fertility_god_name_possessive:0 "Num's" #NT!
+ nenets_pagan_household_god_name:0 "$nenets_pagan_health_god_name$" #NT!
+ nenets_pagan_household_god_name_possessive:0 "$nenets_pagan_health_god_name_possessive$" #NT!
+ nenets_pagan_fate_god_name:0 "Num" #NT!
+ nenets_pagan_fate_god_name_possessive:0 "Num's" #NT!
+ nenets_pagan_wealth_god_name:0 "Num" #NT!
+ nenets_pagan_wealth_god_name_possessive:0 "Num's" #NT!
+ nenets_pagan_knowledge_god_name:0 "Num" #NT!
+ nenets_pagan_knowledge_god_name_possessive:0 "Num's" #NT!
+ nenets_pagan_trickster_god_name:0 "Nga" #NT!
+ nenets_pagan_trickster_god_name_possessive:0 "Nga's" #NT!
+ nenets_pagan_war_god_name:0 "Num" #NT!
+ nenets_pagan_war_god_name_possessive:0 "Num's" #NT!
+ nenets_pagan_night_god_name:0 "Nga" #NT!
+ nenets_pagan_night_god_name_possessive:0 "Nga's" #NT!
+ nenets_pagan_water_god_name:0 "Num" #NT!
+ nenets_pagan_water_god_name_possessive:0 "Num's" #NT!
+
+ ## Udmurt ## #NT!
+
+ udmurt_religion:0 "Udmurt" #NT!
+ udmurt_religion_desc:0 "Inmar, the god of the heavens is one of the Udmurt main deities." #NT!
+ udmurt_religion_adj:0 "Udmurt" #NT!
+ udmurt_religion_adherent:0 "Udmurt" #NT!
+ udmurt_religion_adherent_plural:0 "Udmurts" #NT!
+ udmurt_pagan:0 "Inmarism" #NT!
+ udmurt_pagan_adj:0 "Inmarist" #NT!
+ udmurt_pagan_adherent:0 "Inmarist" #NT!
+ udmurt_pagan_adherent_plural:0 "Inmarists" #NT!
+ udmurt_pagan_old:0 "Old Inmarist" #NT!
+ udmurt_pagan_old_adj:0 "Old Inmarist" #NT!
+ udmurt_pagan_old_adherent:0 "Old Inmarist" #NT!
+ udmurt_pagan_old_adherent_plural:0 "Old Inmarists" #NT!
+ udmurt_pagan_desc:0 "Inmar, the god of the heavens is one of the Udmurt main deities." #NT!
+
+ udmurt_pagan_good_god_kildisin:0 "Kildisin" #NT!
+ udmurt_pagan_good_god_kuaz:0 "Kuaz" #NT!
+ udmurt_pagan_good_god_kyldys:0 "Kyldys" #NT!
+ udmurt_pagan_good_god_kvasja:0 "Kvasja" #NT!
+
+ udmurt_pagan_high_god_name:0 "Inmar" #NT!
+ udmurt_pagan_high_god_name_possessive:0 "Inmar's" #NT!
+ udmurt_pagan_high_god_name_alternate:0 "Kõldõsin-Inmar" #NT!
+ udmurt_pagan_high_god_name_alternate_possessive:0 "Kõldõsin-Inmar's" #NT!
+ udmurt_pagan_devil_name:0 "Sajtan" #NT!
+ udmurt_pagan_devil_name_possessive:0 "Sajtan's" #NT!
+ udmurt_pagan_evil_god_sajtan:0 "Sajtan" #NT!
+ udmurt_pagan_death_deity_name:0 "Sajtan" #NT!
+ udmurt_pagan_death_deity_name_possessive:0 "Sajtan's" #NT!
+ udmurt_pagan_religious_symbol:0 "Udmurt" #NT!
+ udmurt_pagan_religious_text:0 "great epics" #NT!
+ udmurt_pagan_afterlife:0 "The Underworld" #NT!
+
+ udmurt_pagan_creator_god_name:0 "$udmurt_pagan_high_god_name$" #NT!
+ udmurt_pagan_creator_god_name_possessive:0 "$udmurt_pagan_high_god_name_possessive$" #NT!
+ udmurt_pagan_health_god_name:0 "Kyldys" #NT!
+ udmurt_pagan_health_god_name_possessive:0 "Kyldys'" #NT!
+ udmurt_pagan_fertility_god_name:0 "Kyldys" #NT!
+ udmurt_pagan_fertility_god_name_possessive:0 "Kyldys'" #NT!
+ udmurt_pagan_household_god_name:0 "Gidquamuret" #NT!
+ udmurt_pagan_household_god_name_possessive:0 "Gidquamuret's" #NT!
+ udmurt_pagan_fate_god_name:0 "Kuaz" #NT!
+ udmurt_pagan_fate_god_name_possessive:0 "Kuaz's" #NT!
+ udmurt_pagan_wealth_god_name:0 "Kyldys" #NT!
+ udmurt_pagan_wealth_god_name_possessive:0 "Kyldys'" #NT!
+ udmurt_pagan_knowledge_god_name:0 "Inmar" #NT!
+ udmurt_pagan_knowledge_god_name_possessive:0 "Inmar's" #NT!
+ udmurt_pagan_trickster_god_name:0 "Sajtan" #NT!
+ udmurt_pagan_trickster_god_name_possessive:0 "Sajtan's" #NT!
+ udmurt_pagan_war_god_name:0 "Inmar" #NT!
+ udmurt_pagan_war_god_name_possessive:0 "Inmar's" #NT!
+ udmurt_pagan_night_god_name:0 "Inmar" #NT!
+ udmurt_pagan_night_god_name_possessive:0 "Inmar's" #NT!
+ udmurt_pagan_water_god_name:0 "Vumurt" #NT!
+ udmurt_pagan_water_god_name_possessive:0 "Vumurt's" #NT!
+
+ udmurt:0 "Udmurt" #NT!
+ udmurt_collective_noun:0 "Udmurts" #NT!
+
+ # BALT OVERHAUL VIROLAISET #NT!
+
+ estonian_pagan:0 "Maausk" #NT!
+ estonian_pagan_adj:0 "Maausuline" #NT!
+ estonian_pagan_adherent:0 "Maausuline" #NT!
+ estonian_pagan_adherent_plural:0 "Maausulised" #NT!
+ estonian_pagan_desc:0 "Maausk is a native faith of the Estonian tribes." #NT!
+ estonian_pagan_old:0 "Vana Maausk" #NT!
+ estonian_pagan_old_adj:0 "Vana Maausuline" #NT!
+ estonian_pagan_old_adherent:0 "Vana Maausuline" #NT!
+ estonian_pagan_old_adherent_plural:0 "Vana Maausulised" #NT!
+ estonian_divine_realm:0 "Linnutee" #NT!
+ estonian_house_of_worship:0 "hiis" #NT!
+ estonian_house_of_worship_plural:0 "hiisi" #NT!
+ estonian_negative_afterlife:0 "Manala" #NT!
+ estonian_positive_afterlife:0 "Hiiela" #NT!
+ estonian_bishop_male:0 "võlur" #NT!
+ estonian_bishop_male_plural:0 "võlurid" #NT!
+ estonian_bishop_female:0 "võlur" #NT!
+ estonian_bishop_female_plural:0 "võlurid" #NT!
+ estonian_bishop_neuter:0 "võlur" #NT!
+ estonian_bishop_neuter_plural:0 "võlurid" #NT!
+ estonian_devotee_female:0 "hoidja" #NT!
+ estonian_devotee_female_plural:0 "hoidjad" #NT!
+ estonian_devotee_male:0 "hoidja" #NT!
+ estonian_devotee_male_plural:0 "hoidjad" #NT!
+ estonian_devotee_neuter:0 "hoidja" #NT!
+ estonian_devotee_neuter_plural:0 "hoidjad" #NT!
+ estonian_priest_alternate_plural:0 "arbujad" #NT!
+ estonian_priest_female:0 "nõid" #NT!
+ estonian_priest_female_plural:0 "nõiad" #NT!
+ estonian_priest_male:0 "nõid" #NT!
+ estonian_priest_male_plural:0 "nõiad" #NT!
+ estonian_priest_neuter:0 "nõid" #NT!
+ estonian_priest_neuter_plural:0 "nõiad" #NT!
+ estonian_religious_head_title:0 "Vanem" #NT!
+ estonian_religious_head_title_name:0 "Vanadus" #NT!
+ estonian_religious_symbol:0 "ohvrikivi" #NT!
+ estonian_religious_text:0 "rahvaluule" #folklore #NT!
+
+ estonian_creator_god_name:0 "$estonian_good_god_Maajumal$" #NT!
+ estonian_creator_god_name_possessive:0 "$estonian_good_god_Maajumal$'s" #NT!
+ estonian_death_deity_name:0 "$estonian_evil_god_Mana$" #NT!
+ estonian_death_deity_name_possessive:0 "$estonian_evil_god_Mana$'s" #NT!
+ estonian_devil_name:0 "$estonian_evil_god_Kurat$" #NT!
+ estonian_devil_name_possessive:0 "$estonian_evil_god_Kurat$'s" #NT!
+ estonian_fate_god_name:0 "$estonian_good_god_Aio$" #NT!
+ estonian_fate_god_name_possessive:0 "$estonian_good_god_Aio$'s" #NT!
+ estonian_fertility_god_name:0 "$estonian_good_god_Tonn$" #NT!
+ estonian_fertility_god_name_possessive:0 "$estonian_good_god_Tonn$'s" #NT!
+ estonian_health_god_name:0 "$estonian_good_god_Metsavana$" #NT!
+ estonian_health_god_name_possessive:0 "$estonian_good_god_Metsavana$'s" #NT!
+ estonian_high_god_name:0 "Uku" #NT!
+ estonian_high_god_name_possessive:0 "Uku's" #NT!
+ estonian_high_god_name_alternate:0 "Taevataat" #NT!
+ estonian_high_god_name_alternate_possessive:0 "Taevataat's" #NT!
+ estonian_household_god_name:0 "$estonian_good_god_Majahaldjas$" #NT!
+ estonian_household_god_name_possessive:0 "$estonian_good_god_Majahaldjas$'" #NT!
+ estonian_knowledge_god_name:0 "$estonian_good_god_Vanemuine$" #NT!
+ estonian_knowledge_god_name_possessive:0 "$estonian_good_god_Vanemuine$'s" #NT!
+ estonian_night_god_name:0 "$estonian_high_god_name$" #NT!
+ estonian_night_god_name_possessive:0 "$estonian_high_god_name_possessive$" #NT!
+ estonian_trickster_god_name:0 "$estonian_evil_god_Luupainaja$" #NT!
+ estonian_trickster_god_name_possessive:0 "$estonian_evil_god_Luupainaja$'s" #NT!
+ estonian_war_god_name:0 "$estonian_good_god_Taara$" #NT!
+ estonian_war_god_name_possessive:0 "$estonian_good_god_Taara$'" #NT!
+ estonian_water_god_name:0 "$estonian_good_god_Ahto$" #NT!
+ estonian_water_god_name_possessive:0 "$estonian_good_god_Ahto$'s" #NT!
+ estonian_wealth_god_name:0 "$estonian_high_god_name$" #NT!
+ estonian_wealth_god_name_possessive:0 "$estonian_high_god_name_possessive$" #NT!
+ estonian_witch_god_name:0 "$estonian_good_god_Rougutaja$" #NT!
+
+ estonian_good_god_Ahto:0 "Ahto" #god of sea #NT!
+ estonian_good_god_Aio:0 "Äio" #god of dreams #NT!
+ estonian_good_god_Jumal:0 "Jumal" #god #NT!
+ estonian_good_god_Jutta:0 "Jutta" #goddess of birds, daughter of Uku #NT!
+ estonian_good_god_Kou:0 "Kõu" #god of thunder, son of Uku #NT!
+ estonian_good_god_Lemming:0 "Lemming" #god of hunting #NT!
+ estonian_good_god_Linda:0 "Linda" #goddess of birds, daughter of Uku #NT!
+ estonian_good_god_Maaema:0 "Maaema" #mother of earth #NT!
+ estonian_good_god_Maaisa:0 "Maaisa" #father of earth #NT!
+ estonian_good_god_Maajumal:0 "Maajumal" #god of earth #NT!
+ estonian_good_god_Majahaldjas:0 "Majahaldjas" #fairy of house #NT!
+ estonian_good_god_Metsavana:0 "Metsavana" #god of forest #NT!
+ estonian_good_god_Peko:0 "Peko" #god of fertility, Seto #NT!
+ estonian_good_god_Pikker:0 "Pikker" #god of lighting, son of Uku #NT!
+ estonian_good_god_Rougutaja:0 "Rõugutaja" #goddess of women and children #NT!
+ estonian_good_god_Tonn:0 "Tõnn" #god of fertility #NT!
+ estonian_good_god_Taara:0 "Taara" #god like Thor #NT!
+ estonian_good_god_Vanemuine:0 "Vanemuine" #god of song #NT!
+
+ estonian_evil_god_Ilmatutar:0 "Ilmatütar" #goddess of weather #NT!
+ estonian_evil_god_Kurat:0 "Kurat" #devil #NT!
+ estonian_evil_god_Luupainaja:0 "Luupainaja" #god of nightmare #NT!
+ estonian_evil_god_Mana:0 "Mana" #god of underworld #NT!
+ estonian_evil_god_Paharet:0 "Paharet" #devil helper #NT!
+ estonian_evil_god_Purgu_Vanaeit:0 "Põrgu Vanaeit" #goddess of underworld #NT!
+ estonian_evil_god_Sarvik:0 "Sarvik" #god of underworld #NT!
+ estonian_evil_god_Ussikuningas:0 "Ussikuningas" #god of snakes #NT!
+ estonian_evil_god_Vana_Tuhi:0 "Vana Tühi" #god of underworld #NT!
+
+ osilian_pagan:0 "Taarausk" #NT!
+ osilian_pagan_adj:0 "Taarausuline" #NT!
+ osilian_pagan_adherent:0 "Taarausuline" #NT!
+ osilian_pagan_adherent_plural:0 "Taarausulised" #NT!
+ osilian_pagan_desc:0 "Taarausk is a native faith of the Osilians." #NT!
+ osilian_pagan_old:0 "Vana Taarausuline" #NT!
+ osilian_pagan_old_adj:0 "Vana Taarausuline" #NT!
+ osilian_pagan_old_adherent:0 "Vana Taarausuline" #NT!
+ osilian_pagan_old_adherent_plural:0 "Vana Taarausulised" #NT!
+ osilian_divine_realm:0 "Ebaveremägi" #NT!
+ osilian_house_of_worship:0 "hiis" #NT!
+ osilian_house_of_worship_plural:0 "hiisi" #NT!
+ osilian_negative_afterlife:0 "Manala" #NT!
+ osilian_positive_afterlife:0 "Hiiela" #NT!
+ osilian_bishop_male:0 "võlur" #NT!
+ osilian_bishop_male_plural:0 "võlurid" #NT!
+ osilian_bishop_female:0 "võlur" #NT!
+ osilian_bishop_female_plural:0 "võlurid" #NT!
+ osilian_bishop_neuter:0 "võlur" #NT!
+ osilian_bishop_neuter_plural:0 "võlurid" #NT!
+ osilian_devotee_female:0 "hoidja" #NT!
+ osilian_devotee_female_plural:0 "hoidjad" #NT!
+ osilian_devotee_male:0 "hoidja" #NT!
+ osilian_devotee_male_plural:0 "hoidjad" #NT!
+ osilian_devotee_neuter:0 "hoidja" #NT!
+ osilian_devotee_neuter_plural:0 "hoidjad" #NT!
+ osilian_priest_alternate_plural:0 "arbujad" #NT!
+ osilian_priest_female:0 "nõid" #NT!
+ osilian_priest_female_plural:0 "nõiad" #NT!
+ osilian_priest_male:0 "nõid" #NT!
+ osilian_priest_male_plural:0 "nõiad" #NT!
+ osilian_priest_neuter:0 "nõid" #NT!
+ osilian_priest_neuter_plural:0 "nõiad" #NT!
+ osilian_religious_head_title:0 "Vanem" #NT!
+ osilian_religious_head_title_name:0 "Vanadus" #NT!
+ osilian_religious_symbol:0 "urituli" #sacred fire #NT!
+ osilian_religious_text:0 "rahvaluule" #folklore #NT!
+
+ osilian_creator_god_name:0 "$osilian_high_god_name$" #NT!
+ osilian_creator_god_name_possessive:0 "$osilian_high_god_name_possessive$" #NT!
+ osilian_death_deity_name:0 "$osilian_high_god_name$" #NT!
+ osilian_death_deity_name_possessive:0 "$osilian_high_god_name_possessive$" #NT!
+ osilian_devil_name:0 "Kurat" #NT!
+ osilian_devil_name_possessive:0 "Kurat's" #NT!
+ osilian_fate_god_name:0 "$osilian_high_god_name$" #NT!
+ osilian_fate_god_name_possessive:0 "$osilian_high_god_name_possessive$" #NT!
+ osilian_fertility_god_name:0 "$osilian_high_god_name$" #NT!
+ osilian_fertility_god_name_possessive:0 "$osilian_high_god_name_possessive$" #NT!
+ osilian_health_god_name:0 "$osilian_high_god_name$" #NT!
+ osilian_health_god_name_possessive:0 "$osilian_high_god_name_possessive$" #NT!
+ osilian_high_god_name:0 "Taara" #NT!
+ osilian_high_god_name_possessive:0 "Taara's" #NT!
+ osilian_high_god_name_alternate:0 "Taarapita" #NT!
+ osilian_high_god_name_alternate_possessive:0 "Taarapita's" #NT!
+ osilian_household_god_name:0 "$osilian_high_god_name$" #NT!
+ osilian_household_god_name_possessive:0 "$osilian_high_god_name_possessive$" #NT!
+ osilian_knowledge_god_name:0 "$osilian_high_god_name$" #NT!
+ osilian_knowledge_god_name_possessive:0 "$osilian_high_god_name_possessive$" #NT!
+ osilian_night_god_name:0 "$osilian_high_god_name$" #NT!
+ osilian_night_god_name_possessive:0 "$osilian_high_god_name_possessive$" #NT!
+ osilian_trickster_god_name:0 "$osilian_high_god_name$" #NT!
+ osilian_trickster_god_name_possessive:0 "$osilian_high_god_name_possessive$" #NT!
+ osilian_war_god_name:0 "$osilian_high_god_name$" #NT!
+ osilian_war_god_name_possessive:0 "$osilian_high_god_name_possessive$" #NT!
+ osilian_water_god_name:0 "$osilian_high_god_name$" #NT!
+ osilian_water_god_name_possessive:0 "$osilian_high_god_name_possessive$" #NT!
+ osilian_wealth_god_name:0 "$osilian_high_god_name$" #NT!
+ osilian_wealth_god_name_possessive:0 "$osilian_high_god_name_possessive$" #NT!
+ osilian_witch_god_name:0 "$osilian_devil_name$" #NT!
+
+ #Holy Sites: Estonian #NT!
+ holy_site_harja_name:0 "Härjä" #Toompea #NT!
+ holy_site_harja_effect_name:0 "From [holy_site|E] #weak ($holy_site_harja_name$)#!" #NT!
+ holy_site_kuremae_name:0 "Kuremäe" #NT!
+ holy_site_kuremae_effect_name:0 "From [holy_site|E] #weak ($holy_site_kuremae_name$)#!" #NT!
+ holy_site_puhajarv_name:0 "Pühajärv" #NT!
+ holy_site_puhajarv_effect_name:0 "From [holy_site|E] #weak ($holy_site_puhajarv_name$)#!" #NT!
+
+#Holy Sites: Osilian #NT!
+ holy_site_ebavere_name:0 "Ebaveremägi" #Birthplace of Taara #NT!
+ holy_site_ebavere_effect_name:0 "From [holy_site|E] #weak ($holy_site_ebavere_name$)#!" #NT!
+ holy_site_kaali_name:0 "Kaali" #NT!
+ holy_site_kaali_effect_name:0 "From [holy_site|E] #weak ($holy_site_kaali_name$)#!" #NT!
+ holy_site_taaralinn_name:0 "Taaralinn" #NT!
+ holy_site_taaralinn_effect_name:0 "From [holy_site|E] #weak ($holy_site_taaralinn_name$)#!" #NT!
+ holy_site_turaida_name:0 "Turaida" #NT!
+ holy_site_turaida_effect_name:0 "From [holy_site|E] #weak ($holy_site_turaida_name$)#!" #NT!
+
+ # Nenets courtier #NT!
+ nenets_courtier.0001:0 "Nenets courtier" #NT!
+ nenets_courtier.0001.title:0 "A Nenets wanderer arrives" #NT!
+ nenets_courtier.0001.desc:0 "A Traveller from the land of the Nenets arrives to your court, looking for a place to stay." #NT!
+ nenets_courtier.0001.a:0 "Welcome to our court!" #NT!
+ nenets_courtier.0001.b:0 "Embrace [ROOT.Char.GetFaith.HighGodName], and you may stay." #NT!
+ nenets_courtier.0001.c:0 "Your services are not needed." #NT!
+ nenets_stay:0 "You let the wanderer stay in your court" #NT!
+
+ #bjarmian #NT!
+ bjarmian_pagan:1 "Jómalinusko" #NT!
+ bjarmian_pagan_adj:1 "Jómalinusko" #NT!
+ bjarmian_pagan_adherent:1 "Jómalinusko" #NT!
+ bjarmian_pagan_adherent_plural:1 "Jómalinuskos" #NT!
+ bjarmian_pagan:0 "Jómalinusko" #NT!
+ bjarmian_pagan_adj:0 "Jómalinusko" #NT!
+ bjarmian_pagan_adherent:0 "Jómalinusko" #NT!
+ bjarmian_pagan_adherent_plural:0 "Jómalinuskos" #NT!
+
+ bjarmian_pagan_old:0 "Vanha Jómalinusko" #NT!
+ bjarmian_pagan_old_adj:0 "Vanha Jómalinusko" #NT!
+ bjarmian_pagan_old_adherent:0 "Vanha Jómalinusko" #NT!
+ bjarmian_pagan_old_adherent_plural:0 "Vanha Jómalinusko" #NT!
+
+ bjarmian_priest_0: "Tietäjä" #NT!
+ bjarmian_priest_plural:0 "Tietäjäs" #NT!
+ bjarmian_priest_female:0 "Tietäjätär" #NT!
+ bjarmian_priest_plural_female:0 "Tietäjätärs" #NT!
+ bjarmian_pagan_high_god_name:0 "Jómali" #NT!
+ bjarmian_pagan_high_god_name_possessive:0 "Jómali's" #NT!
+ bjarmian_pagan_high_god_name_alternate:0 "Jómali" #NT!
+ bjarmian_pagan_high_god_name_alternate_possessive:0 "Jómali's" #NT!
+ bjarmian_pagan_good_god_ukko:0 "Ukko" #NT!
+ bjarmian_pagan_good_god_ilmarinen:0 "Ilmarinen" #NT!
+ bjarmian_pagan_good_god_lempo:0 "Lempo" #NT!
+ bjarmian_pagan_good_god_paivatar:0 "Päivätär" #NT!
+ bjarmian_pagan_devil_name:0 "Paholainen" #NT!
+ bjarmian_pagan_devil_name_possessive:0 "Paholainen's" #NT!
+ bjarmian_pagan_evil_god_nuolennoutaja:0 "Nuolennoutaja" #NT!
+ bjarmian_pagan_evil_god_painaja:0 "Painaja " #NT!
+ bjarmian_pagan_evil_god_kielen_kantaja:0 "Kielen Kantaja" #NT!
+ bjarmian_pagan_evil_god_ohimoiden_ottaja:0 "Ohimoiden Ottaja" #NT!
+ bjarmian_pagan_evil_god_sydamen_syoja:0 "Sydämen Syöjä" #NT!
+ bjarmian_pagan_death_deity_name:0 "Tuoni" #NT!
+ bjarmian_pagan_death_deity_name_possessive:0 "Tuoni's" #NT!
+ bjarmian_pagan_religious_symbol:0 "Jómali" #NT!
+ bjarmian_pagan_religious_text:0 "great epics" #NT!
+ bjarmian_pagan_afterlife:0 "Tuonela" #NT!
+ bjarmian_pagan_witgodname_vainamoinen:0 "Jómali" #NT!
+
+ bjarmian_pagan_creator_god_name:0 "$bjarmian_pagan_high_god_name$" #NT!
+ bjarmian_pagan_creator_god_name_possessive:0 "$bjarmian_pagan_high_god_name_possessive$" #NT!
+ bjarmian_pagan_health_god_name:0 "Jómali" #NT!
+ bjarmian_pagan_health_god_name_possessive:0 "Jómali's" #NT!
+ bjarmian_pagan_fertility_god_name:0 "Jómali" #NT!
+ bjarmian_pagan_fertility_god_name_possessive:0 "Jómali's" #NT!
+ bjarmian_pagan_wealth_god_name:0 "Jómali" #NT!
+ bjarmian_pagan_wealth_god_name_possessive:0 "Jómali'" #NT!
+ bjarmian_pagan_household_god_name:0 "$bjarmian_pagan_health_god_name$" #NT!
+ bjarmian_pagan_household_god_name_possessive:0 "$bjarmian_pagan_health_god_name_possessive$" #NT!
+ bjarmian_pagan_fate_god_name:0 "Jómali" #NT!
+ bjarmian_pagan_fate_god_name_possessive:0 "Jómali's" #NT!
+ bjarmian_pagan_knowledge_god_name:0 "Jómali" #NT!
+ bjarmian_pagan_knowledge_god_name_possessive:0 "Jómali's" #NT!
+ bjarmian_pagan_war_god_name:0 "Jómali" #NT!
+ bjarmian_pagan_war_god_name_possessive:0 "Jómali's" #NT!
+ bjarmian_pagan_trickster_god_name:0 "the Menninkäinen" #NT!
+ bjarmian_pagan_trickster_god_name_possessive:0 "the Menninkäinen's" #NT!
+ bjarmian_pagan_night_god_name:0 "Jómali" #NT!
+ bjarmian_pagan_night_god_name_possessive:0 "Jómali's" #NT!
+ bjarmian_pagan_water_god_name:0 "Jómali" #NT!
+ bjarmian_pagan_water_god_name_possessive:0 "Jómali's" #NT!
+
+ bjarmian_pagan_desc:0 "Jómali is the supreme god of the Bjarmian pagans." #NT!
+
+ holy_site_bjarmiasite_name:0 "Kholmogory" #NT!
+ holy_site_bjarmiasite_effect_name:0 "From [holy_site|E] #weak ($holy_site_bjarmiasite_name$)#!" #NT!
+ holy_site_pudozh_name:0 "Pudozh" #NT!
+ holy_site_pudozh_effect_name:0 "From [holy_site|E] #weak ($holy_site_pudozh_name$)#!" #NT!
+
+ holy_site_volga_name:0 "Volga" #NT!
+ holy_site_volga_effect_name:0 "From [holy_site|E] #weak ($holy_site_volga_name$)#!" #NT!
+
+ holy_site_kainuu_name:0 "Kainuu" #NT!
+ holy_site_kainuu_effect_name:0 "From [holy_site|E] #weak ($holy_site_kainuu_name$)#!" #NT!
+
+ holy_order_children_of_fertilitygod:0 "Children of [FAITH.FertilityGodName]" #NT!
+holy_order_chosen_of_highgod:0 "Chosen of [FAITH.HighGodName]" #NT!
+holy_order_defenders_of_knowledgegod:0 "Defenders of [FAITH.KnowledgeGodName]" #NT!
+holy_order_deviants_of_trickstergod:0 "Deviants of [FAITH.TricksterGodName]" #NT!
+holy_order_elders_of_creatorgod:0 "Elders of [FAITH.CreatorGodName]" #NT!
+holy_order_faithful_of_fategod:0 "Faithful of [FAITH.FateGodName]" #NT!
+holy_order_guardians_of_divinerealm:0 "Guardians of [FAITH.DivineRealm]" #NT!
+holy_order_keepers_of_healthgod:0 "Keepers of [FAITH.HealthGodName]" #NT!
+holy_order_lords_of_nightgod:0 "Lords of [FAITH.NightGodName]" #NT!
+holy_order_masters_of_watergod:0 "Masters of [FAITH.WaterGodName]" #NT!
+holy_order_protectors_of_householdgod:0 "Protectors of [FAITH.HouseholdGodName]" #NT!
+holy_order_raiders_of_wealthgod:0 "Raiders of [FAITH.WealthGodName]" #NT!
+holy_order_servants_of_deathdeity:0 "Servants of [FAITH.DeathDeityName]" #NT!
+holy_order_warriors_of_wargod:0 "Warriors of [FAITH.WarGodName]" #NT!
+
+#Finnic #NT!
+estonian_holy_order_children_of_fertilitygod:0 "[FAITH.FertilityGodName] Lapsed" #NT!
+estonian_holy_order_chosen_of_highgod:0 "[FAITH.HighGodName] Valitud" #NT!
+estonian_holy_order_defenders_of_knowledgegod:0 "[FAITH.KnowledgeGodName] Kaitsjad" #NT!
+estonian_holy_order_deviants_of_trickstergod:0 "[FAITH.TricksterGodName] Hälvikud" #NT!
+estonian_holy_order_elders_of_creatorgod:0 "[FAITH.CreatorGodName] Vanemad" #NT!
+estonian_holy_order_faithful_of_fategod:0 "[FAITH.FateGodName] Usklikud" #NT!
+estonian_holy_order_guardians_of_divinerealm:0 "[FAITH.DivineRealm] Valvurid" #NT!
+estonian_holy_order_keepers_of_healthgod:0 "[FAITH.HealthGodName] Hoidjad" #NT!
+estonian_holy_order_lords_of_nightgod:0 "[FAITH.NightGodName] Isandad" #NT!
+estonian_holy_order_masters_of_watergod:0 "[FAITH.WaterGodName] Meistrid" #NT!
+estonian_holy_order_protectors_of_householdgod:0 "[FAITH.HouseholdGodName] Kaitsmed" #NT!
+estonian_holy_order_raiders_of_wealthgod:0 "[FAITH.WealthGodName] Marodöörid" #NT!
+estonian_holy_order_servants_of_deathdeity:0 "[FAITH.DeathDeityName] Sulased" #NT!
+estonian_holy_order_warriors_of_wargod:0 "[FAITH.WarGodName] Sõdalased" #NT!
+
+holy_order_kalevanpojat:0 "Kalevanpojat" #NT!
+holy_order_gr81:0 "Servants of the Great One" #NT!
+holy_order_tietajat:0 "Jómalist Guard" #NT!
+holy_order_kyldys:0 "Children of Kyldys" #NT!
+holy_order_kildisin:0 "Servants of Kildisin" #NT!
+holy_order_goldwoman:0 "Servants of the Golden Lady" #NT!
+holy_order_tolze:0 "Children of Tõlze" #NT!
+holy_order_paz:0 "Servants of Shkabavaz" #NT!
+holy_order_mano:0 "Servants of Mano" #NT!
+
+balto_finnic_group:0 "Baltic-Finnic & Sami" #NT!
+
+mercenary_company_nenets_host:0 "Nenets Host" #NT!
+language_nenets:0 "Nenets" #NT!
+language_nenets_name:0 "Nenets" #NT!
+heritage_samoyedic:0 "Samoyedic" #NT!
+heritage_samoyedic_name:0 "Samoyedic" #NT!
+heritage_samoyedic_collective_noun:0 "Samoyedics" #NT!
+
+heritage_sami:0 "Samic" #NT!
+heritage_sami_name:0 "Samic" #NT!
+heritage_sami_collective_noun:0 "Samics" #NT!
+
+
+
+######################################## #NT!
+#### BFO FIN #NT!
+######################################## #NT!
+izhorian:0 "Izhorian" #NT!
+izhorian_collective_noun:0 "Izhorians" #NT!
+livonian:0 "Livonian" #NT!
+livonian_collective_noun:0 "Livonians" #NT!
+kven:0 "Kvenic" #NT!
+kven_collective_noun:0 "Kvens" #NT!
+osilian:0 "Osilian" #NT!
+osilian_collective_noun:0 "Osilians" #NT!
+tavastian:0 "Tavastian" #NT!
+tavastian_collective_noun:0 "Tavastians" #NT!
+ugaunian:0 "Ugaunian" #NT!
+ugaunian_collective_noun:0 "Ugaunians" #NT!
+votian:0 "Votian" #NT!
+votian_collective_noun:0 "Votians" #NT!
+

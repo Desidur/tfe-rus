@@ -1,0 +1,63 @@
+﻿l_russian:
+ city_state_government:0 "City-State" #NT!
+ city_state_government_adjective:0 "City-State" #NT!
+ city_state_government_realm:0 "City-State" #NT!
+ city_state_government_desc:1 "City-States are self-governing realms that manage the economic and political systems over their territories" #NT!
+ city_state_government_vassals_label:1 "" #NT!
+
+ nomadic_government:0 "Nomadic" #NT!
+ nomadic_government_adjective:0 "Nomad" #NT!
+ nomadic_government_realm:0 "Nomads" #NT!
+ nomadic_government_desc:1 "Nomadic tribes never settle in one place, instead keeping themselves on the move to pursue resources." #NT!
+ nomadic_government_vassals_label:1 "" #NT!
+
+ autocratic_government:0 "Autocratic" #NT!
+ autocratic_government_adjective:0 "Autocratic" #NT!
+ autocratic_government_realm:0 "Autocratic State" #NT!
+ autocratic_government_desc:1 "- Independent rulers use [imperial_competence|E]\n\n#F The Roman Administrative system was a complex mix of civilian and military administrative power. Magistrates were appointed to oversee regions and insure they provided [soldiers|E] and [taxes|E] to the central Autocratic Government.#!" #NT!
+ autocratic_government_vassals_label:1 "" #NT!
+
+ legion_government:0 "Legionary" #NT!
+ legion_government_adjective:0 "Legionary" #NT!
+ legion_government_realm:0 "Legion State" #NT!
+ legion_government_desc:1 "Cities within a Latinized domain can be designated toward the recruitment and mustering of Legions, providing experienced units to serve on the battlefield." #NT!
+ legion_government_vassals_label:1 "" #NT!
+
+ eranshar_government:0 "Eranshar" #NT!
+ eranshar_government_adjective:0 "Eranshar" #NT!
+ eranshar_government_realm:0 "Eranshar Bureaucracy" #NT!
+ eranshar_government_desc:1 "Eranshar Bureaucracy is the main system of administration within the Eranian Empire. It focused primarily on centralizing the empire and giving most of the power to the Shah in terms of [soldiers|E] and [taxes|E]. That, however, didn't stop many nobles from ignoring the Shah's decrees, and instead sending solely [taxes|E]." #NT!
+ eranshar_government_vassals_label:1 "" #NT!
+
+ caliphate_government:0 "Caliphate" #NT!
+ caliphate_government_adjective:0 "Caliphate" #NT!
+ caliphate_government_realm:0 "Caliphate Administration" #NT!
+ caliphate_government_desc:1 "Caliphate Administration is the system of adminstration for Caliphs and Caliph Pretenders. It focuses on managing the realm's religion and even the surrounding independant realms if there are any. The Caliph would also be expected to keep his authority high so as to maintain the respect of his people. Finally, the Caliph can manage the collection of the Zakah and its impact on social welfare and distribution of wealth." #NT!
+ caliphate_government_vassals_label:1 "" #NT!
+
+ muslim_government:0 "Islamic" #NT!
+ muslim_government_adjective:0 "Islamic" #NT!
+ muslim_government_realm:0 "Islamic Administration" #NT!
+ muslim_government_desc:1 "Islamic Administration is the system of adminstration for Muslim rulers with no interest in becoming Caliph." #NT!
+ muslim_government_vassals_label:1 "" #NT!
+
+
+ caste_opinion:0 "Noble Purity" #NT!
+
+ gupta_government:0 "Brahmic" #NT!
+ gupta_government_adjective:0 "Brahmic" #NT!
+ gupta_government_realm:0 "Brahmic Bureaucracy" #NT!
+ gupta_government_desc:1 "Brahmic Bureaucracy is the main system for administration in the Gupta Empire. It focused primarily on centralizing the empire and giving most of the power to the Samrat in terms of [soldiers|E] and [taxes|E]. The empire's aristocracy also held noble purity as a matter of great importance - having a lowborn parent might decrease your authority in their eyes. Brahmic Bureaucracy also focused on the cultural assimilation and religious conversion of the Gupta Empire's inhabitants." #NT!
+ gupta_government_vassals_label:1 "" #NT!
+
+ imperial_cult_government:0 "Imperial Cult" #NT!
+ imperial_cult_government_adjective:0 "Imperial Cultist" #NT!
+ imperial_cult_government_realm:0 "Imperial Cult" #NT!
+ imperial_cult_government_desc:0 "- Rulers can hold [temple_holdings|E]\n\n#F In some [faiths|E], the position of [head_of_faith|E] is held by the Emperor. Said Emperor is often considered at least partly divine, and to defy their word is to defy the gods.#!" #NT!
+ imperial_cult_government_vassals_label:1 "" #NT!
+
+ roman_government:0 "Latin" #NT!
+ roman_government_adjective:0 "Latin" #NT!
+ roman_government_realm:0 "Latin Monarchy" #NT!
+ roman_government_desc:0 "Separate from the Roman Bureaucracy, rulers don't manage the empire and its policies, instead spending their time managing their [Estate|E] and pursuing a military office or Senate position if either are present in the empire.\n\n-Being a $roman_government_realm$ and independent would slowly make you convert to $feudal_government$ when Feudalization is discovered." #NT!
+ roman_government_vassals_label:1 "" #NT!

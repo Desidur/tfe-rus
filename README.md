@@ -1,2 +1,2 @@
 # tfe-rus
-The-Fallen-Eagle-RUS/tfe-rus
+Русификатор для модификации The Fallen Eagle - 'The Reign of the Apostate' для игры Crusader Kings 3

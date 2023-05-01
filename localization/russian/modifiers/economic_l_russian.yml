@@ -1,13 +1,13 @@
 ﻿l_russian:
- traders_attracted_modifier:0 "Traders Attracted" #NT!
- gave_out_titles:0 "Gave Out Titles" #NT!
- sold_titles:0 "Sold Titles" #NT!
- ignored_unstable_economy:0 "Ignored Unstable Economy" #NT!
- gave_back_gift:0 "Gave Back Gift" #NT!
- base_income:0 "Trade" #NT!
- opinion_zakah:0 "Zakah" #NT!
- zakah_modifier_supply:0 "Roads and journeys improved" #NT!
- zakah_modifier_dev:0 "Permanent shelter operations for the homeless" #NT!
- mil_collapse:0 "Collapsed Military Competence" #NT!
- civic_collapse:0 "Collapsed Civic Competence" #NT!
- secured_gaul_border:0 "Secured Frankish Border" #NT!
+ traders_attracted_modifier:0 "Привлечённые торговцы" #NT!
+ gave_out_titles:0 "Розданные титулы" #NT!
+ sold_titles:0 "Проданные титулы" #NT!
+ ignored_unstable_economy:0 "Проигнорированная нестабильная экономика" #NT!
+ gave_back_gift:0 "[Select_CString( CHARACTER.IsFemale, 'Вернула подарок', 'Вернул подарок' )]" #NT!
+ base_income:0 "Торговля" #NT!
+ opinion_zakah:0 "Закят" #NT!
+ zakah_modifier_supply:0 "Дороги и путешествия улучшились" #NT!
+ zakah_modifier_dev:0 "Постоянные приюты для бездомных" #NT!
+ mil_collapse:0 "Разрушенная военная компетентность" #NT!
+ civic_collapse:0 "Разрушенная гражданская компетентность" #NT!
+ secured_gaul_border:0 "Охраняемая франкская граница" #NT!

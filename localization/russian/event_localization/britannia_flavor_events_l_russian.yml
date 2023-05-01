@@ -1,22 +1,22 @@
 ﻿l_russian:
- TFE_kentish_ragstone_cultural_acceptnce_good:0 "Improving cross-cultural relations" #NT!
- TFE_kentish_ragstone_cultural_acceptnce_bad:0 "Declining cross-cultural relations" #NT!
- TFE_kentish_ragstone_construction:0 "Kentish Ragstone for Construction" #NT!
- TFE_kentish_ragstone_class_tensions:0 "Class Tensions" #NT!
- TFE_kentish_ragstone_giant_fantasies:0 "Tolerates Locals' Fantasies about Ancient Giants" #NT!
- TFE_kentish_ragstone_here_be_dragons:0 "Hic Sunt Dracones" #NT!
- TFE_kentish_ragstone_ignoring_annoyances:0 "Ignoring Annoyances" #NT!
+ TFE_kentish_ragstone_cultural_acceptnce_good:0 "Улучшение межкультурных отношений"
+ TFE_kentish_ragstone_cultural_acceptnce_bad:0 "Ухудшение межкультурных отношений"
+ TFE_kentish_ragstone_construction:0 "Кентский серый известняк для строительства"
+ TFE_kentish_ragstone_class_tensions:0 "Классовая напряженность"
+ TFE_kentish_ragstone_giant_fantasies:0 "Терпит фантазии местных жителей о древних гигантах"
+ TFE_kentish_ragstone_here_be_dragons:0 "Тут обитают драконы"
+ TFE_kentish_ragstone_ignoring_annoyances:0 "Игнорирование раздражающих факторов"
 
- britannia_flavor.0001.t:0 "Hitting Ragstone" #NT!
- britannia_flavor.0001.desc:0 "A messenger came to me this afternoon with interesting news from [kent.GetNameNoTier].\n\nHe said that one of those self-claimed Roman noblemen tried opening up a new silver mine around Maegdanstane - a rock-speaking fool. It just so happens that one of his workers had their ragged clothes snag on this hard grey rock deposit in their mine. The nobleman now claims he’s found a rich stretch of the rock that they used to quarry for building churches in the cities.\n\nPerhaps something can and should be done to benefit from this ragstone, as they call it." #NT!
- britannia_flavor.0001.a:0 "Building materials are sparse. Take control of the mine!" #NT!
- britannia_flavor.0001.b:0 "Perhaps a Roman knowledgeable about the area can help us." #NT!
- britannia_flavor.0001.b.tooltip:0 "A capable Britano-Roman character will join your court as a guest" #NT!
- britannia_flavor.0001.c:0 "There are more useful ventures elsewhere." #NT!
-
- britannia_flavor.0002.t:0 "Hic Sunt Dracones" #NT!
- britannia_flavor.0002.desc:0 "We have struck bone!\n\nThe local miners at Maegdanstane in [kent.GetNameNoTier] broke through a weak section of the rock and revealed great bones buried in the earth. The Romanish men there claim that the bones belong to the Giants who lived before a great flood!\n\nBah! My men say these instead belong to the wyrms of the world, who spit fire and ravage the lands." #NT!
- britannia_flavor.0002.a:0 "All that said, we shall let the locals have their fantasies." #NT!
- britannia_flavor.0002.b:0 "We clearly live in the land of the Dracaena." #NT!
- britannia_flavor.0002.c:0 "Cover this up before it causes any panic!" #NT!
+ britannia_flavor.0001.t:0 "Добыча серого известняка"
+ britannia_flavor.0001.desc:0 "Сегодня днем ко мне прибыл гонец с интересными новостями от [kent.GetNameNoTier].\n\nОн сказал, что один из тех самозваных римских дворян пытался открыть новый серебряный рудник вокруг Маэгданстана. Дурак, говорящий с камнями. Так уж случилось, что один из его рабочих зацепился рваной одеждой за это твердое серое каменное месторождение в их шахте. Дворянин теперь утверждает, что нашел богатый участок камня, который они использовали для строительства церквей в городах.\n\nВозможно, что-то можно и нужно сделать, чтобы извлечь выгоду из этого известняка, как они его называют."
+ britannia_flavor.0001.a:0 "Стройматериалов мало. Возьмите шахту под свой контроль!"
+ britannia_flavor.0001.b:0 "Возможно, римлянин, знающий местность, сможет нам помочь."
+ britannia_flavor.0001.b.tooltip:0 "Способный британо-римский персонаж присоединится к вашему двору в качестве гостя."
+ britannia_flavor.0001.c:0 "В других местах есть более полезные предприятия."
+ 
+ britannia_flavor.0002.t:0 "Тут обитают драконы"
+ britannia_flavor.0002.desc:0 "Мы наткнулись на кость!\n\nМестные горняки Маэгданстана в [kent.GetNameNoTier] пробили слабый участок скалы и обнаружили большие кости, зарытые в землю. Местные римляне утверждают, что кости принадлежат великанам, жившим до великого потопа!\n\nБа! Мои люди говорят, что они принадлежат змеям, которые извергают огонь и опустошают земли."
+ britannia_flavor.0002.a:0 "Тем не менее, мы позволим местным жителям сохранить свои фантазии."
+ britannia_flavor.0002.b:0 "Мы явно живем в земле Драцена."
+ britannia_flavor.0002.c:0 "Закройте это прежде, чем это вызовет панику!"
 

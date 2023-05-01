@@ -1,41 +1,41 @@
 ﻿l_russian:
- briton.0001.t:0 "The Kingdom of Briton" #NT!
- briton.0001.desc:0 "This once small batch of immigrants from across the Oceanus Britannicus have in their small time away from Britannia established themselves as a unique cultural group. It was inevitable under these factors that one among the bunch would rise to kingship on a wave of public appeal and praise, or prehaps though political intrigue and unspeakable tyranny.\n\nEither way you have become the Rex Britonorum, the king of the Britons. All that remains now is choosing the path on which you will lead your people; to a quick ruin or maybe to unspeakable glory." #NT!
- briton.0001.a:0 "All of Briton shall be free!" #NT!
- briton.0001.a_tt:0 "You gained the Kingdom of Briton and a new casus belli" #NT!
+ briton.0001.t:0 "Королевство бриттов"
+ briton.0001.desc:0 "Когда-то небольшая группа мигрантов из-за Британского океана, за короткое время вдали от Британии они показали свою уникальную культуру.Неизбежно, что на волне общественного призыва и похвалы, или, возможно, благодаря политическим интригам и невыразимой тирании один из группы возвысится и потребует себе королевскую власть.\n\nВ любом случае вы стали Rex Britonorum, королем бриттов. . Все, что осталось теперь, это выбрать путь, по которому вы поведете свой народ; к быстрому разорению или, может быть, к неслыханной славе."
+ briton.0001.a:0 "Все бритты будут свободны!"
+ briton.0001.a_tt:0 "Вы получили Королевство Бриттов и новый казус белли."
+ 
+ briton.0002.desc:0 "После столетий римского контроля один бритт осмелился положить этому конец и принести свободу своему народу. После бесчисленных сражений им удалось завладеть достаточным количеством земель, чтобы называться королем бриттов."
+ briton.0002.a:0 "Мы должны внимательно следить за их действиями"
 
- briton.0002.desc:0 "After centuries of Roman control, one Briton dared to end this and bring freedom to his people. After countless battles they succeeded in controlling enough land to be called King of Briton." #NT!
- briton.0002.a:0 "We must follow their actions closely" #NT!
+ briton.0003.t:0 "Сгибание мечей"
+ briton.0003.desc:0 "Я стою прямо, как кельтские герои древности и победоносно возывшаюсь над молящим о пощаде и снисхождении врагом. На мгновение я задумываюсь, но нужно преподать урок нашим будущим врагам. Бесчестие и поражение ждут каждого, кто встретит нас на поле брани!\n\nПеред своей армией я кладу меч врага в пылающее пламя. Вытащив меч из тлеющего огня, изгибая и деформируя его при этом, я разбиваю острие меча о край наковальни.\n\nОни пришли за победой, но не получат ничего, кроме бесчестия."
+ briton.0003.a:0 "Они будут страдать!"
+ 
+ briton.0004.t:0 "Наши мечи согнуты"
+ briton.0004.desc:0 "Согнуть меч врага все равно, что сломить его дух. Эта традиция стара, как сами кельты. После нашего поражения наши враги подумали, что было бы уместно согнуть наши мечи и вывести из строя большую часть наших армий."
+ briton.0004.a:0 "Мы отомстим!"
+ 
+ briton.0006.t:0 "Разделение бриттов"
+ briton.0006.desc:0 "С течением времени, будь то в результате иностранной оккупации или естественного расхождения, культуры раскалываются. Как бы то ни было, бриты навсегда раскололись на три отдельные и несовместимые ветви."
+ briton.0006.a:0 "Это эхо останется в веках."
+ briton.0006.a_tt:0 "Бриттская культура раскололась на валлийскую, конришскую и камбрийскую."
+ 
+ briton.0007.t:0 "Миграция в Британию"
+ briton.0007.desc:0 "Многие племена направляются на запад через Рейн в Галлию в надежде найти новый дом на римской территории. Вместо этого мы отправляемся через Северное море, но не в перенаселенную Галлию, а к нетронутым берегам Британии. Остров по-прежнему свободен от соперничающих племен, высадившихся на его берегах и не затронут десятилетиями грабежей и войн. Что наиболее важно, ситуация на материке вынудила римское правительство в Медиолане сосредоточиться на защите Рейна и Дуная, оставив Британию в значительной степени уязвимой и незащищенной. Когда римское владычество над Британией обратится в пепел, что может быть лучше для нас, чем создать новую родину среди этих белых скал, среди этих густых лесов, среди храмов и дворцов Камулодуна и Лондиниума?"
+ briton.0007.option.a:0 "Мы построим новую родину на пепле римской Британии!"
+ briton.0007.option.a.tooltip:0 "Вы провоцируете вторжение в Британию, начиная миграционную войну."
+ briton.0007.option.b:0 "Неважно, риск слишком велик"
 
- briton.0003.t:0 "Bending The Swords" #NT!
- briton.0003.desc:0 "As I stand victorious, standing tall like Celtic heroes of old, my enemy begs for mercy and clemency. For a quick moment I consider it, but a lesson must be taught to our would be foes. Dishonor and defeat await anyone who meets us on the field of battle!\n\nBefore my army I put the sword of my enemy into a hot fire. Removing it from the smoldering fire, I smash its edge onto the side of the anvil, bending and distorting it in the process.\n\nThey came for victory but shall receive nothing but dishonor." #NT!
- briton.0003.a:0 "They shall suffer!" #NT!
+ briton.0008.t:0 "Законный король"
+ briton.0008.desc:0 "В 43 году нашей эры император Клавдий начал завоевание Британии римлянами, в конечном итоге к 84 году нашей эры большая часть острова оказалась под имперским контролем. Поскольку Британия в значительной степени беззащитна, те, кто продолжает населять и управлять землей, теперь оказались во главе уязвимой провинции, которая вскоре может превратиться в хаотичное поле битвы.\n\n Очевидно, что некомпетентный двор в Медиолане меньше всего заботит защита Британии. В отличии от меня. Теперь я умоляю тех, кто верен достоинству Римской империи, собраться под моими знаменами и обеспечить безопасность Британии в это время неопределенности!"
+ briton.0008.a:0 "Наносим удар сейчас!"
+ briton.0008.a_tt:0 "Вы начинаете войну с императором, чтобы претендовать на провинцию Британия. Вассалы могут присоединиться."
 
- briton.0004.t:0 "Our Swords Bent" #NT!
- briton.0004.desc:0 "To bend the sword of a foe is akin to breaking their spirit. It is a tradition as old as the Celts themselves. After our defeat, our enemies thought it would be fitting to bend our swords and decommission a large portion of our armies" #NT!
- briton.0004.a:0 "We will get our revenge!" #NT!
+ briton.0009.t:0 "Узурпатор"
+ briton.0009.desc:0 "В 43 году нашей эры император Клавдий начал завоевание Британии римлянами, в конечном итоге к 84 году нашей эры большая часть острова оказалась под имперским контролем. Поскольку Британия в значительной степени беззащитна, те, кто продолжает населять и управлять землей, теперь оказались во главе уязвимой провинции, которая вскоре может превратиться в хаотичное поле битвы.\n\n [attacker.GetName] разослал это сообщение всем официальным лицам в провинции Британия, прося помощи в войне за создание операционной базы. Есть опасения, что он не удоволетворится лишь островом. . ."
+ briton.0009.a:0 "Мой меч - ваш!"
+ briton.0009.b:0 "Бесполезное заявление!"
 
- briton.0006.t:0 "The Briton Fracture" #NT!
- briton.0006.desc:0 "Over the long march of time cultures splinter, whether from foreign occupation of an external culture or simple, natural divergence. Whatever the case, the Briton have forever fractured into three distinct and incompatible branches." #NT!
- briton.0006.a:0 "This will echo till eternity" #NT!
- briton.0006.a_tt:0 "Briton culture has fractured into Welsh, Conrish, and Cumbrian" #NT!
-
- briton.0007.t:0 "Migrating to Britannia" #NT!
- briton.0007.desc:0 "Many tribes head west across the Rhine and into Gallia in hopes of finding a new home in Roman territory. We instead venture across the North Sea, not to land in the overpopulated Gaul but to the untouched shores of Britannia. The island remains free of rival tribes landing upon her shores, which have been untouched by decades of looting and war. Most importantly, the situation on the mainland has forced the Roman government in Mediolanum to focus on the defense of the Rhine and the Danube, leaving Britannia largely vulnerable and undefended. As Roman dominion over Britannia turns to ash, what could be a better time for us to carve out a new homeland along these white cliffs, within these dense forests, and among the temples and palaces of Camulodunum and Londinium?" #NT!
- briton.0007.option.a:0 "We shall build a new homeland upon the ashes of Roman Britain!" #NT!
- briton.0007.option.a.tooltip:0 "You ignite the invasion of Britannia, starting a migration war" #NT!
- briton.0007.option.b:0 "Nevermind, the risk is far too great" #NT!
-
- briton.0008.t:0 "A Rightful King" #NT!
- briton.0008.desc:0 "In 43 AD, Emperor Claudius commenced the Roman conquest of Britannia, eventually bringing most of the island under Imperial control by 84 AD. With Britannia largely defenseless, those who continue inhabiting and governing the land now find themselves leading a vulnerable province that may soon transform into a chaotic battleground.\n\n It is evident that the protection of Britannia is the least of the concerns of the incompetent court in Mediolanum, in complete contrast to myself. I now implore those who are faithful to the dignity of the Roman Empire to flock to my banners and ensure Britannia's security in this time of uncertainty!" #NT!
- briton.0008.a:0 "We strike now!" #NT!
- briton.0008.a_tt:0 "You start a war with the emperor to claim the province of Britannia. Vassals might join." #NT!
-
- briton.0009.t:0 "A Usurper" #NT!
- briton.0009.desc:0 "In 43 AD, Emperor Claudius commenced the Roman conquest of Britannia, eventually bringing most of the island under Imperial control by 84 AD. With Britannia largely defenseless, those who continue inhabiting and governing the land now find themselves leading a vulnerable province that may soon transform into a chaotic battleground.\n\n [attacker.GetName] has sent this message to all officials in the province of Britannia requesting help in his war to establish a base of operations, leading to concerns that he will not stop with the island . . ." #NT!
- briton.0009.a:0 "You have my sword!" #NT!
- briton.0009.b:0 "A worthless claim!" #NT!
-
- briton.0010.t:0 "A Usurper" #NT!
- briton.0010.desc:0 "[attacker.GetName] has laid a claim on the province of Britannia! Gaining much traction and support among the province's officials, this illegitimate claim poses a serious danger to the Western Roman Empire's stability! We cannot allow another repeat of the Crisis of the Third Century, or we will surely plunge the empire into a civil war!" #NT!
- briton.0010.a:0 "Muster the legions!" #NT!
+ briton.0010.t:0 "Узурпатор"
+ briton.0010.desc:0 "[attacker.GetName] предъявил претензии на провинцию Британия! Это незаконное требование, завоевавшее большую популярность и поддержку среди чиновников провинции, представляет серьезную опасность для стабильности Западной Римской империи! Мы не можем допустить повторения кризиса третьего века, иначе мы обязательно ввергнем империю в гражданскую войну!"
+ briton.0010.a:0 "Соберайте легионы!"

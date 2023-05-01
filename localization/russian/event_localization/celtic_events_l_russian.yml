@@ -1,11 +1,11 @@
 ﻿l_russian:
 
-# Restore Zoroastrian High Priesthood, by Flavio Verna #NT!
- celtic.0001.t:0 "The return of the Myrdidin" #NT!
- celtic.0001.desc:0 "After the Roman conquest of our land, the druids were persecuted and killed. Today, we are free from their religious oppression and the time to restore the head of the druids, the Myrdidin, is now." #NT!
- celtic.0001.a:0 "The bards will sing of the return of the Myrdidin!" #NT!
- celtic.0002.desc.christian:0 "The accursed followers of [scoped_ruler.GetFaith.HighGodName] have reclaimed enough land and influence to re-establish a blasphemous priesthood under the protection of [scoped_ruler.GetTitledFirstName].\n\nIf not soon stopped, these demon-worshiping pagans might turn the tide of Christian expansion in Albion, polluting the mind of their unaware subjects with lies and perversions." #NT!
- celtic.0002.desc.others:0 "The strange, grove-worshiping followers of [scoped_ruler.GetFaith.HighGodName] have reclaimed enough of their ancestral Britannian territories to re-establish a functional Priesthood.\n\nIf not stopped soon, they might turn the tide of Christian expansion and restore Albion under the protection of their old gods." #NT!
- celtic.0002.a:0 "Glory to [scoped_ruler.GetFaith.HighGodName]!" #NT!
- celtic.0002.b:0 "Their demons will not shield them from the might of [ROOT.Char.GetFaith.HighGodName]!" #NT!
- celtic.0002.c:0 "...Grove-worshiping?" #NT!
+# Restore Zoroastrian High Priesthood, by Flavio Verna
+ celtic.0001.t:0 "Возвращение Мирдидина"
+ celtic.0001.desc:0 "После завоевания нашей земли римлянами друидов преследовали и убивали. Сегодня мы свободны от их религиозного гнета и пришло время восстановить должность главы друидов, Мирдидина."
+ celtic.0001.a:0 "Барды воспоют возвращение Мирдидина!"
+ celtic.0002.desc.christian:0 "Проклятые последователи [scoped_ruler.GetFaith.HighGodName] вернули себе достаточно земли и влияния, чтобы восстановить богохульное духовенство под защитой [scoped_ruler.GetTitledFirstName].\n\nЕсли их не остановить, то эти демонопоклонники-язычники свернут волну христианской экспансии на Альбионе и загрязнят умы своих ничего не подозревающих подданных ложью и извращениями."
+ celtic.0002.desc.others:0 "Странные, поклоняющиеся рощам последователи [scoped_ruler.GetFaith.HighGodName] вернули достаточно своих исконных британских территорий, чтобы восстановить действующее духовенство.\n\nЕсли их не остановить в ближайшее время, то они могут переломить ход христианской экспансии и вернуть Альбион под защиту своих старых богов"
+ celtic.0002.a:0 "Слава [scoped_ruler.GetFaith.HighGodName]!"
+ celtic.0002.b:0 "Их демоны не защитят их от могущества [ROOT.Char.GetFaith.HighGodName]!"
+ celtic.0002.c:0 "...Поклонение роще?"

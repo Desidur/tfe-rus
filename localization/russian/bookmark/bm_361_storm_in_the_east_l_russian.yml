@@ -1,9 +1,9 @@
 ﻿l_russian:
- bm_361_storm_in_the_east:0 "The Storm in the East" #NT!
- bm_361_storm_in_the_east_desc:1 "As the Roman Empire continues to contend with its slow decline amidst Germanic incursions and the machinations of ambitious politicans, little attention is given to the lands formerly ruled by the Scythians. \n\nWith the power of the Xiongnu left in tatters, one of its splinter branches, the Huns, have made their way across the Ural Mountains and toward the banks of the Volga River, threatening the position of the Ostrogoths and coming dangerously close to the boundaries of the Sassanid and Roman Empires." #NT!
+ bm_361_storm_in_the_east:0 "Буря на Востоке" 
+ bm_361_storm_in_the_east_desc:1 "Поскольку Римская империя продолжает бороться со своим медленным упадком среди германских вторжений и махинаций амбициозных политиков, мало внимания уделяется землям, ранее управляемым скифами. \n\nКогда власть хунну была подорвана, одна из ее отколовшихся ветвей, гунны, пробралась через Уральские горы и к берегам Волги, угрожая положению остготов и подойдя в опасной близости к границам Сасанидов и Римской империи." 
 
- #Emperor Julian #NT!
- bookmark_apostate_julian:0 "Emperor Julian II 'The Apostate'" #NT!
- bookmark_apostate_julian_desc:0 "Julian II was Imperator of the Roman Empire from 361 until his untimely death in 363 AD. A half-nephew of Constantine the Great, Julian differed from his relatives in one way; religion. Having abandoned Christianity, Julian instead embraced the empire's once prominent Hellenic pantheon, granting him the epithet, 'The Apostate' among his Christian opponents. \n\n#bold In 363 AD, Julian died during a disastrous campaign against the Sassanid Empire, going down in history as the last pagan ruler of the Roman Empire. Can you do something different?" #NT!
+ #Император Юлиан 
+ bookmark_apostate_julian:0 "Император Юлиан II Отступник'" 
+ bookmark_apostate_julian_desc:0 "Юлиан II был императором Римской империи с 361 года до своей безвременной смерти в 363 году нашей эры. Наполовину племянник Константина Великого, Юлиан отличался от своих родственников в одном отношении; религия. Отказавшись от христианства, Юлиан вместо этого принял некогда видный эллинский пантеон империи, дав ему прозвище «Отступник» среди своих христианских противников. \n\n#bold В 363 году нашей эры Юлиан погиб во время катастрофического похода против империи Сасанидов, войдя в историю как последний языческий правитель Римской империи. Можете ли вы сделать что-то другое?" 
 
 

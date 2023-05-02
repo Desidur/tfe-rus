@@ -1,29 +1,29 @@
 ﻿l_russian:
- bm_476_heirs:0 "The Heirs of Rome" #NT!
- bm_476_heirs_desc:1 "With the downfall of the Western Roman Empire, the former provinces in the west have since fallen under the rule of Germanic monarchs and Roman claimants.\n\nWhile Odoacer rules over his nascent Italian kingdom and the Vandals dominate the western shores of the Mediterranean, others have also risen over the ashes of Rome:\n\n In Gaul, the Syagri Family have established the rump state of Soissons, but are threatened by the Frankish Merovingian Dynasty.\n\nIn Italy, Odoacer faces opponents in Feletheus of the Rugians and Theodoric of the Ostrogoths.\n\n Across the sea, Euric largely looks southward to Iberia, with only the Suebian Kingdom under Hermenerich as a potential rival.\n\n#bold The eagle has fallen in Western Europe - who will succeed in creating a legacy as profound as that of the Eternal City's empire?#!" #NT!
+ bm_476_heirs:0 "Наследники Рима" 
+ bm_476_heirs_desc:1 "С падением Западной Римской империи бывшие провинции на западе перешли под власть германских монархов и римских претендентов.\n\nВ то время как Одоакр правит своим зарождающимся итальянским королевством, а вандалы доминируют на западных берегах Средиземного моря, другие также восстали на пепелище Рима.:\n\n В Галлии семья Сягри основала государство Суассон, но им угрожает франкская династия Меровингов.\n\nВ Италии Одоакр сталкивается с противниками в лице Фелетея из ругов и Теодориха из остготов..\n\n Через море Эурик в основном смотрит на юг, в Иберию, и только Свебское королевство под властью Герменериха является потенциальным соперником.\n\n#bold В Западной Европе пал орел — кому удастся создать такое же глубокое наследие, как империя Вечного города?#!" 
 
- #Hermenerich I #NT!
- bookmark_heirs_hermenerich:0 "King Hermenerich I" #NT!
- bookmark_heirs_hermenerich_desc:0 "Hermenerich was King of the Suevi, having succeeded his older brother, Remismund, who had reunited the kingdom after a period of civil war. Although not much is known about his reign, Hermeneric was forced to contend with the encroaching Visigoths in Iberia. He also led the persecution of non-Arian Christians throughout his realm.\n\n#bold With tensions increasing, will you be able to solve the Suevi's crises and secure their rule in northwestern Iberia, or will you be forgotten in time like Hermenerich was?#!" #NT!
+ #Герменерих I 
+ bookmark_heirs_hermenerich:0 "Король Германерих I" 
+ bookmark_heirs_hermenerich_desc:0 "Герменерих был королем свевов, сменив своего старшего брата Ремимунда, который воссоединил королевство после периода гражданской войны. Хотя о его правлении известно немногое, Герменерик был вынужден бороться с вторгшимися вестготами в Иберию. Он также руководил преследованием неарианских христиан во всем своем королевстве.\n\n#bold С ростом напряженности вы сможете разрешить кризис свевов и обеспечить их правление в северо-западной Иберии, или вы будете забыты со временем, как Герменерих был?
+ 
+ #Фелетей I 
+ bookmark_heirs_feletheus:0 "Король Фелетей" 
+ bookmark_heirs_feletheus_desc:0 "Элетей был королем ругиев с 475 года до своей смерти в 487 году нашей эры, сменив своего отца, короля Флаккитея, который привел ругиев из вассалов гуннов к доминирующей силе в Норикуме. По приказу императора Зенона Фелетей двинулся в Италию, чтобы свергнуть Одоакра, но вскоре потерпел поражение в битве и был казнен в Равенне.\n\n#bold Через два года после смерти Фелетуса ругийцы под предводительством его сына Фридриха присоединились к Теодориху из остготов в его успешном вторжении в Италию. Сможет ли Фелетей на этот раз привести ругийцев к славе?#!" 
 
- #Feletheus I #NT!
- bookmark_heirs_feletheus:0 "King Feletheus" #NT!
- bookmark_heirs_feletheus_desc:0 "Feletheus was King of the Rugians from 475 until his death in 487 AD, succeeding his father, King Flaccitheus, who had led the Rugians from being vassals of the Huns to becoming the dominant power in Noricum. At the behest of Emperor Zeno, Feletheus marched into Italia to usurp Odoacer, but was soon defeated in battle and executed in Ravenna.\n\n#bold Two years after Felethus' death, the Rugians under his son, Frideric, joined Theodoric of the Ostrogoths in his successful invasion of Italia. Will Feletheus do better in leading the Rugians to glory this time?#!" #NT!
-
- #Euric I #NT!
- bookmark_heirs_euric:0 "King Euric I" #NT!
- bookmark_heirs_euric_desc:0 "Euric was King of the Visigoths from 466 until his death in 485 AD, first coming to the throne after murdering his brother in an act of kinslaying. During his eventful reign, Gothic Law was introduced to Gaul and Hispania, and Euric forced the emperors of the Western and Eastern Roman Empires to recognize Visigothic independence. By the time of his death in 481 CE, most of Iberia had come under Visigothic dominion after years of subjugating the remnants of Roman Hispania. \n\n#bold As Euric, will you take what's yours, or will you be overtaken by your foes?#!" #NT!
-
- #Childeric of the Franks #NT!
- bookmark_heirs_childerik:0 "Childeric of the Franks" #NT!
- bookmark_heirs_childerik_desc:0 "Childeric was one of four Merovingian leaders guiding the Salian Franks in Northern Gaul, ruling from 458 until his death in 481 AD. Despite his reign having little significance, Childeric's son, Clovis, would go on to unite the disparate Frankish tribes, conquer the Domain of Soissons, and create a proper Frankish kingdom in Gaul.\n\n#bold Will you protect the Franks and secure a realm for your heirs, or will you risk it all in a bid for power?#!" #NT!
- bookmark_heirs_clovis:0 "Clovis of the Franks" #NT!
+ #Эурик I 
+ bookmark_heirs_euric:0 "Король Эйрик I" 
+ bookmark_heirs_euric_desc:0 "Эурик был королем вестготов с 466 года до своей смерти в 485 году нашей эры, впервые взойдя на трон после убийства своего брата в акте убийства родственников. Во время его богатого событиями правления готское право было введено в Галлии и Испании, и Эурик заставил императоров Западной и Восточной Римской империй признать независимость вестготов. К моменту его смерти в 481 г. н.э. большая часть Иберии перешла под власть вестготов после многих лет подчинения остатков римской Испании. \n\n#bold Как Эурик, возьмете ли вы то, что принадлежит вам, или вас настигнут враги?
+ 
+ #Хильдерик из франков 
+ bookmark_heirs_childerik:0 "Хильдерик из франков" 
+ bookmark_heirs_childerik_desc:0 "Хильдерик был одним из четырех лидеров Меровингов, руководивших салианскими франками в Северной Галлии, правивших с 458 года до своей смерти в 481 году нашей эры. Несмотря на то, что его правление не имело большого значения, сын Хильдерик, Хлодвиг, продолжал объединять разрозненные франкские племена, завоевывать область Суассон и создавать настоящее франкское королевство в Галлии.\n\n#bold Вы защитите франков и обезопасите царство для ваших наследников, или вы рискнете всем в борьбе за власть?#!" 
+ bookmark_heirs_clovis:0 "Хлодвиг из франков" 
 
 
- #Theoderic the Great #NT!
- bookmark_heirs_theodoric:0 "King Theodoric 'The Great'" #NT!
- bookmark_heirs_theodoric_desc:0 "Theodoric was King of the Ostrogoths from 475 until 526 AD, having brought Italia under his control at the behest of Emperor Zeno between 489 and 493 AD. During his reign, the Ostrogoths ushered in a prosperous era in Italy as he revitalized Roman administrative practices, elevated the remnants of the Western Roman Senate, and ruled over an empire eventually stretching from the Adriatic Sea to the Shores of the Atlantic.\n\n#bold Will you follow in the same path as Theodoric did to win prosperity for your people, or look elsewhere from Moesia?#!" #NT!
-
- #Dux Syagrius #NT!
- bookmark_ravenna_syagrius:0 "Rex Afrianus Syagrius" #NT!
- bookmark_ravenna_syagrius_desc:0 "Syagrius was a Roman general and the last ruler of the Domain of Noviodunum (commonly known as the Domain of Soissons), having succeeded his father to the position until his defeat at the hands of the Frankish King, Clovis I, in 481 AD. Having fled after this defeat, Syagrius was then imprisoned by the Visigoths and delivered to the victorious Franks, where he soon died under mysterious circumstances.\n\n#bold Although the last ruler of Soissons met an unfortunate end, can you change his fate?#!" #NT!
+ #Теодорих Великий 
+ bookmark_heirs_theodoric:0 "Король Теодорих Великий'" 
+ bookmark_heirs_theodoric_desc:0 "Теодорих был королем остготов с 475 по 526 год нашей эры, взяв Италию под свой контроль по приказу императора Зенона между 489 и 493 годами нашей эры. Во время его правления остготы возвестили эру процветания в Италии, поскольку он возродил римскую административную практику, возвысил остатки западно-римского сената и правил империей, которая в конечном итоге простиралась от Адриатического моря до берегов Атлантики.\n\n#bold Будете ли вы следовать по тому же пути, что и Теодорих, чтобы добиться процветания для вашего народа, или искать в другом месте из Мезии?
+ 
+ #Дукс Сиагриус 
+ bookmark_ravenna_syagrius:0 "Рекс Африан Сиагриус" 
+ bookmark_ravenna_syagrius_desc:0 "«Сиагрий был римским полководцем и последним правителем области Новиодунум (обычно известной как область Суассон), сменившей своего отца на этом посту до своего поражения от рук франкского короля Хлодвига I в 481 году нашей эры. Бежав после этого поражения, Сиагрий был затем заключен вестготами в тюрьму и доставлен к победившим франкам, где вскоре умер при загадочных обстоятельствах.\n\n#bold Хотя последний правитель Суассона встретил печальный конец, можете ли вы изменить его судьбу ?#!" 

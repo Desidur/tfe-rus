@@ -1,19 +1,19 @@
 ﻿l_russian:
- bm_476_ravenna:0 "The Fallen Eagle" #NT!
- bm_476_ravenna_desc:1 "On the 4th of September, 476 CE, an army of Foederati under the command of Odoacer breached the walls of the Western Roman capital at Ravenna and forced Emperor Romulus Augustulus to abdicate, ending Roman rule over Western Europe and leaving Afrianus of Soissons, Nepos of Illyria, and Zenon of the Eastern Roman Empire as the last rulers left trying to preserve Roman rule and influence.\n\nAs one of the last remaining Roman strongholds in the west, Soissons is beset on all sides by the Visigoths, Alans, Burgundians, and the Franks, whilst Illyria's ruler maintains his claim on the crown of the former empire. Meanwhile, in Italia itself, Odoacer has established a new power in the form of the Kingdom of Italy, while contending with the Vandals in the Mediterranean and Illyria on the opposite shore of the Adriatic.\n\n#bold The eagle has fallen in Western Europe - who will succeed in creating a legacy as profound as that of the Eternal City's empire?#!" #NT!
-
- #Emperor Zeno #NT!
- bookmark_ravenna_zeno:0 "Emperor Zeno I" #NT!
- bookmark_ravenna_zeno_desc:0 "Zeno was Emperor of the Eastern Roman Empire from 473 to 475 AD, and a second time from 476 until his death in 491 AD. During his reign, he was forced to contend with civil unrest and religious controversies. He also ruled through the collapse of the Western Roman Empire and the rise of Odoacer's Italian kingdom as a Roman client state. \n\n#Bold By the time of his death in 491, the Eastern Roman Empire had become more stable and future emperors would continue to interfere in the affairs of a Western Europe now bereft of a Roman Empire. Will your reign be just as stable, or will your luck match Zeno's unfortunate dice throw in his infamous tabula game in 480 AD?#!" #NT!
-
- #King Odoacer #NT!
- bookmark_ravenna_odoacer:0 "King Odoacer I" #NT!
- bookmark_ravenna_odoacer_desc:0 "Odoacer was a Germanic soldier/statesman who presided over the final end of the Western Roman Empire through his capture of Ravenna, ruling over an Italian kingdom from 476 until his death in 493 AD. After reneging on his client status, Odoacer was forced to contend with Rugian and Ostrogothic invasions between 487 and until his assassination in 493 AD.\n\n#bold Can Odoacer establish a new empire on the ruins of the old? Or will his new kingdom fade away just like the one he destroyed?#!" #NT!
-
- #Rex Julius Nepos #NT!
- bookmark_ravenna_nepos:0 "Rex Julius Nepos" #NT!
- bookmark_ravenna_nepos_desc:0 "Julius Nepos was Emperor of the Western Roman Empire from 474 until his exile in 475, after which he remained in Dalmatia until his death in 480 AD. Despite his best efforts to uphold Western Roman authority, Nepos was forced into exile in Dalmatia after he failed to properly defeat the Visigoths and when his ally, Zeno, was briefly overthrown. After relocating to Dalmatia, Nepos continued to be seen as the legitimate Western Emperor until his murder in 480 AD. \n\n#bold Can he restore the Western Roman Empire, or will he perish as the dying breath of the fallen eagle?#!" #NT!
-
- #King Genseric #NT!
- bookmark_ravenna_genseric:0 "King Genseric I" #NT!
- bookmark_ravenna_genseric_desc:0 "Genseric was King of the Vandals from 425 until his death in 477 AD. Throughout his reign, the Vandals infamously sacked Rome in 455, went on to establish a formidable naval power in the former province of Africa, and signed a peace treaty with Eastern Rome which lasted until 530 AD. \n\n#Bold With the west continuing to crumble and the east placated, can Genseric and his heirs uphold their already-impressive legacy?#!" #NT!
+ bm_476_ravenna:0 "Падший орел" 
+ bm_476_ravenna_desc:1 "4 сентября 476 г. н.э. армия федератов под командованием Одоакра прорвала стены столицы Западной Римской империи в Равенне и вынудила императора Ромула Августула («Августул» - буквально — «мелкий Август») отречься от престола, положив конец римскому правлению над Западной Европой и оставив наедине Африана Суассонского, Непота Иллирии и Зенона из Восточной Римской империи, последних правителей, пытавшихся сохранить римское правление и влияние.\n\n Как один из последних оставшихся римских оплотов на западе, Суассон окружен со всех сторон вестготами, аланами, бургундами и франками, в то время как правитель Иллирии сохраняет свои претензии на корону бывшей империи. Тем временем в самой Италии Одоакр установил новую власть в виде королевства Италия, борясь с вандалами в Средиземном море и Иллирией на противоположном берегу Адриатики.\n\n#bold Орел пал в Западной Европе - кому удастся создать такое же глубокое наследие, как империя Вечного города?#!" 
+ 
+ #Император Зенон 
+ bookmark_ravenna_zeno:0 "Император Зенон I" 
+ bookmark_ravenna_zeno_desc:0 "Зенон был императором Восточной Римской империи с 473 по 475 год нашей эры и второй раз с 476 года до своей смерти в 491 году нашей эры. Во время своего правления он был вынужден бороться с гражданскими беспорядками и религиозными спорами. Он также правил во время краха Западной Римской империи и возвышения итальянского королевства Одоакра как римского государства-клиента. \n\n#Bold К моменту его смерти в 491 году Восточная Римская империя стала более стабильной, и будущие императоры могли вмешиваться в дела Западной Европы, лишенной Римской империи. Будет ли ваше правление столь же стабильным, или ваша удача сравняется с неудачным броском Зенона в его печально известной игре в табулу в 480 году нашей эры?#!" 
+ 
+ #Король Одоакр 
+ bookmark_ravenna_odoacer:0 "Король Одоакр I" 
+ bookmark_ravenna_odoacer_desc:0 "Одоакр был германским солдатом и государственным деятелем, который руководил окончательным концом Западной Римской империи в результате захвата Равенны и правил итальянским королевством с 476 года до своей смерти в 493 году нашей эры. Отказавшись от своего статуса клиента, Одоакр был вынужден бороться с ругийскими и остготскими вторжениями в период с 487 г. до своего убийства в 493 г. н.э.\n\n#bold Сможет ли Одоакр основать новую империю на руинах старой? Или его новое королевство исчезнет, как и то, которое он разрушил?#!" 
+ 
+ #Рекс Юлий Непос 
+ bookmark_ravenna_nepos:0 "Рекс Юлий Непос" 
+ bookmark_ravenna_nepos_desc:0 "Юлий Непос был императором Западной Римской империи с 474 года до своего изгнания в 475 году, после чего он оставался в Далмации до своей смерти в 480 году нашей эры. Несмотря на все свои усилия по поддержанию власти Западной Римской империи, Непос был вынужден бежать в Далмацию после того, как ему не удалось должным образом победить вестготов и когда его союзник Зенон был ненадолго свергнут. После переезда в Далмацию Непос продолжал считаться законным западным императором до своего убийства в 480 году нашей эры. \n\n#bold Сможет ли он восстановить Западную Римскую империю или погибнет, знаменуя предсмертный вздох павшего орла?#!" 
+ 
+ #Король Гензерих 
+ bookmark_ravenna_genseric:0 "Король Гензерих I" 
+ bookmark_ravenna_genseric_desc:0 "Гензерих был королем вандалов с 425 года до своей смерти в 477 году нашей эры. На протяжении всего его правления вандалы позорно разграбили Рим в 455 году, затем создали грозную военно-морскую мощь в бывшей африканской провинции и подписали мирный договор с Восточным Римом, который продлился до 530 года нашей эры. \n\n#Bold Пока запад продолжает рушиться, а восток успокаивается, смогут ли Гензерих и его наследники сохранить свое и без того впечатляющее наследие?#!" 

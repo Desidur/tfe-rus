@@ -1,13 +1,13 @@
 ﻿l_russian:
+ 
+ccu_debug_culture_heritage_group:0 "Предупреждение CCU" 
+ccu_debug_culture_heritage_group_desc:0 "У [culture|E] [problem_culture.GetName] нет [heritage_group|E]!"
 
-ccu_debug_culture_heritage_group:0 "CCU Warning" #NT!
-ccu_debug_culture_heritage_group_desc:0 "[problem_culture.GetName] [culture|E] has no [heritage_group|E]!" #NT!
+ccu_debug_culture_heritage_family:0 "Предупреждение CCU" 
+ccu_debug_culture_heritage_family_desc:0 "У [culture|E] [problem_culture.GetName] нет [heritage_family|E]!"
 
-ccu_debug_culture_heritage_family:0 "CCU Warning" #NT!
-ccu_debug_culture_heritage_family_desc:0 "[problem_culture.GetName] [culture|E] has no [heritage_family|E]!" #NT!
+ccu_debug_culture_language_group:0 "Предупреждение CCU"
+ccu_debug_culture_language_group_desc:0 "У [culture|E] [problem_culture.GetName] нет [language_group|E]!"
 
-ccu_debug_culture_language_group:0 "CCU Warning" #NT!
-ccu_debug_culture_language_group_desc:0 "[problem_culture.GetName] [culture|E] has no [language_group|E]!" #NT!
-
-ccu_debug_culture_language_family:0 "CCU Warning" #NT!
-ccu_debug_culture_language_family_desc:0 "[problem_culture.GetName] [culture|E] has no [language_family|E]!" #NT!
+ccu_debug_culture_language_family:0 "Предупреждение CCU"
+ccu_debug_culture_language_family_desc:0 "У [culture|E] [problem_culture.GetName] нет [language_family|E]!"

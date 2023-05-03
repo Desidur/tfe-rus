@@ -1,19 +1,19 @@
 ﻿l_russian:
 
-game_concept_heritage_family:0 "Heritage Family" #NT!
-game_concept_heritage_families:0 "Heritage Families" #NT!
-game_concept_heritage_family_desc:0 "Heritage Families are groupings of related [heritages|E]. A shared heritage family increases [cultural_acceptance|E] baseline." #NT!
+game_concept_heritage_family:0 "Семейство наследия"
+game_concept_heritage_families:0 "Семейства наследия"
+game_concept_heritage_family_desc:0 "Семейства наследия представляют собой группы родственного [heritages|E]. Семья с общим наследием повышает базовый уровень [cultural_acceptance|E]."
 
-game_concept_heritage_group:0 "Heritage Group" #NT!
-game_concept_heritage_groups:0 "Heritage Groups" #NT!
-game_concept_heritage_group_desc:0 "Heritage Groups are groupings of related [heritages|E]. A shared heritage group increases [cultural_acceptance|E] baseline." #NT!
+game_concept_heritage_group:0 "Группа наследия"
+game_concept_heritage_groups:0 "Группы наследия"
+game_concept_heritage_group_desc:0 "Группы наследия представляют собой группы родственного [heritages|E]. Группа с общим наследием повышает базовый уровень [cultural_acceptance|E]."
 
-game_concept_language_group:0 "Language Group" #NT!
-game_concept_language_groups:0 "Language Groups" #NT!
-game_concept_language_group_desc:0 "Language Groups are groupings of related [languages|E]. A shared language group increases [cultural_acceptance|E] baseline, and it is easier to learn a language in the same group as your [culture|E]'s." #NT!
+game_concept_language_group:0 "Группа языков"
+game_concept_language_groups:0 "Группы языков"
+game_concept_language_group_desc:0 "Группы языков представляют собой группы родственного [languages|E]. Группа с общим языком повышает базовый уровень [cultural_acceptance|E], и легче выучить язык в той же группе, что и ваша [culture|E]."
 
-game_concept_language_family:0 "Language Family" #NT!
-game_concept_language_families:0 "Language Families" #NT!
-game_concept_language_family_desc:0 "Language Families are groupings of related [language_groups|E]. A shared language family increases [cultural_acceptance|E] baseline, and it is easier to learn a language in the same family as your [culture|E]'s." #NT!
+game_concept_language_family:0 "Семейство языков"
+game_concept_language_families:0 "Семейства языков"
+game_concept_language_family_desc:0 "Семейства языков представляют собой группы родственного [language_groups|E]. Семейство с общим языком повышает базовый уровень[cultural_acceptance|E], и легче выучить язык в том же семействе, что и ваша [culture|E]."
 
-game_concept_heritages:0 "Heritages" #NT!
+game_concept_heritages:0 "Наследие"

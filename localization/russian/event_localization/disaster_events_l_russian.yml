@@ -1,68 +1,68 @@
 ﻿l_russian:
 
 
-# Notifications #NT!
- disaster_notif_latium_earthquake.t:0 "An earthquake struck Latium" #NT!
-  disaster_notif_latium_earthquake.tt:0 "Infrastructure was heavily hit. Even the Colosseum shook!" #NT!
- disaster_notif_edessa_floods.t:0 "A major flood happened in [edessa.GetNameNoTier]" #NT!
-  disaster_notif_edessa_floods.tt:0 "Only time will tell if they recover. Rumors of a very holy artifact being recovered are spreading..." #NT!
- disaster_notif_random_avalanche.t:0 "Avalanche in [wrecked_county.GetName]!" #NT!
-  disaster_notif_random_avalanche.tt:0 "A huge chunk of snow hit [wrecked_county.GetName.]. Only time will tell if the mountain heals." #NT!
- disaster_notif_random_landslide.t:0 "Landslide in [wrecked_county.GetName]!" #NT!
-  disaster_notif_random_landslide.tt:0 "Land shifted in [wrecked_county.GetName], destroying the infrastructure. The earth was completely turned upside down." #NT!
- disaster_notif_random_tornado.t:0 "Tornadoes in [wrecked_county.GetName]!" #NT!
-  disaster_notif_random_tornado.tt:0 "A massive tornado hit the dwellings of [wrecked_county.GetName], an event as rare as it is deadly. Entire buildings were warped into the skies." #NT!
- disaster_notif_random_floods.t:0 "Floods in [wrecked_county.GetName]!" #NT!
-  disaster_notif_random_farms_floods.tt:0 "Rain engulfed the farmlands of [wrecked_county.GetName]. The fields are now laid to waste." #NT!
-  disaster_notif_random_floodplains_floods.tt:0 "The river in [wrecked_county.GetName] played a bad trick on its neighbors. Reconstruction efforts are underway." #NT!
- disaster_notif_random_fires.t:0 "Fires in [wrecked_county.GetName]!" #NT!
-  disaster_notif_random_fires.tt:0 "Massive forest fires are rampaging throughout [wrecked_county.GetName]! The forest might never recover from such a disaster." #NT!
- disaster_notif_random_earthquake.t:0 "Earthquake in [wrecked_county.GetName]!" #NT!
-  disaster_notif_random_earthquake.tt:0 "An earthquake shattered [wrecked_county.GetName]. Devastation has been laid upon the land. It is not sure whether time will heal the earth's wounds." #NT!
+# Notifications
+ disaster_notif_latium_earthquake.t:0 "В Лацио произошло землетрясение"
+  disaster_notif_latium_earthquake.tt:0 "Инфраструктура сильно пострадала. Даже Колизей трясся!"
+ disaster_notif_edessa_floods.t:0 "В [edessa.GetNameNoTier] произошло крупное наводнение."
+  disaster_notif_edessa_floods.tt:0 "Только время покажет, восстановятся ли они. Распространяются слухи о возвращении священного артефакта..."
+ disaster_notif_random_avalanche.t:0 "Лавина в [wrecked_county.GetName]!"
+  disaster_notif_random_avalanche.tt:0 "Огромный кусок снега попал в [wrecked_county.GetName.]. Только время покажет, останется ли гора."
+ disaster_notif_random_landslide.t:0 "Оползень в [wrecked_county.GetName]!"
+  disaster_notif_random_landslide.tt:0 "В [wrecked_county.GetName] сошла земля, разрушив инфраструктуру."
+ disaster_notif_random_tornado.t:0 "Торнадо в [wrecked_county.GetName]!"
+  disaster_notif_random_tornado.tt:0 "Мощный торнадо обрушился на дома [wrecked_county.GetName] — событие столь же редкое, сколь и смертельно опасное. Целые здания были унесены небо."
+ disaster_notif_random_floods.t:0 "Наводнение в [wrecked_county.GetName]!"
+  disaster_notif_random_farms_floods.tt:0 "Дождь залил сельскохозяйственные угодья [wrecked_county.GetName]. Сейчас поля пусты."
+  disaster_notif_random_floodplains_floods.tt:0 "Река в [wrecked_county.GetName] сыграла со своими соседями злую шутку. Ведутся восстановительные работы."
+ disaster_notif_random_fires.t:0 "Пожары в [wrecked_county.GetName]!"
+  disaster_notif_random_fires.tt:0 "В [wrecked_county.GetName]бушуют масштабные лесные пожары! Лес может никогда не оправиться от такой катастрофы."
+ disaster_notif_random_earthquake.t:0 "Землетрясение в [wrecked_county.GetName]!"
+  disaster_notif_random_earthquake.tt:0 "Землетрясение разрушило [wrecked_county.GetName]. Земля опустошена. Неизвестно, залечит ли время земные раны."
 
 
-# Events #NT!
+# Events 
 
 
-disaster.0010.t:0 "The Dust Veil" #NT!
- disaster.0010.desc:0 "During this year a most dread portent took place, for the sun gave forth its light without brightness like the moon during this whole year. It seemed like the sun was in eclipse, for the beams it shed were not clear and from the time when this thing happened, men were neither free from war nor pestilence nor any other thing leading to death." #NT!
- disaster.0010.a:0 "A divine sign!" #NT!
- disaster.0010.b:0 "A bothersome omen at best" #NT!
-disaster.0011.t:0 "Earthquake in Latium" #NT!
- # Descritpion by Sethos #NT!
- disaster.0011.desc:0 "Today, in the middle of the night, the earth herself trembled. The aftermath was devastating. Reports of houses collapsing on unsuspecting families and fires breaking out throughout the lands of Latium have come piling in. Homes, marketplaces, and places of worship that were once sturdy and proud are now in complete ruin. Even the walls of the great Colosseum in Rome have not gone unscathed... This desolation has left countless wounded, homeless or dead." #NT!
- disaster.0011.a:0 "What would Titus do..." #NT!
-disaster.0012.t:0 "Crop Misrotation" #NT!
- disaster.0012.desc:0 "My [ROOT.Char.GetLadyLord|U]! News from the countryside has arrived. After years of pristine high yield, poor laborers from Latium apparently lost all output. According to their missive, an outbreak of fever decimated the population, after floods inflicted heavy damages on the fields. Our steward suspects that their stupidity led them to skip fallow rotation. There is nobody and nowhere to work anymore; everything is ruined." #NT!
- disaster.0012.a:0 "Greed is a sin. Their downfall does not concern us." #NT!
- disaster.0012.b:0 "We should send relief aid right away!" #NT!
+disaster.0010.t:0 "Пылевая завеса"
+ disaster.0010.desc:0 "В этом году пришло ужасное знамение. Весь год солнце светило тускло и больше напоминало луну. Это было похоже на затмение,ибо солнечные лучи были неясными. С тех пор люди не знали ни дня покоя. Война, чума и смерть были повсюду. "
+ disaster.0010.a:0 "Божественный знак!"
+ disaster.0010.b:0 "Назойливое предзнаменование"
+disaster.0011.t:0 "Землетрясение в Лацио"
+ # Descritpion by Sethos
+ disaster.0011.desc:0 "Сегодня среди ночи сама земля дрожала. Последствия были разрушительными. Постоянно поступают сообщения о домах, обрушавшихся на ничего не подозревающие семьи и пожарах, вспыхивающих по всему Лацио. Дома, рынки и места отправления культа, которые когда-то были крепкими и незыблемыми, теперь полностью разрушены. Даже стены великого Колизея в Риме не остались невредимыми... Это запустение оставило бесчисленное множество раненых, бездомных или мертвых." 
+ disaster.0011.a:0 "Что бы сделал Тит..?"
+disaster.0012.t:0 "Неурожай"
+ disaster.0012.desc:0 "Мой [ROOT.Char.GetLadyLord|U]! Пришли вести из деревни. После многих лет неизменно высокой урожайности бедные рабочие из Лациума, по-видимому, потеряли всю производительность. Согласно их сообщению, вспышка лихорадки косила население, после этого паводки нанесли большой ущерб полям. Наш управляющий подозревает, что их глупость привела к тому, что они пропустили паровую ротацию. Работать больше некому и негде; все разрушено."
+ disaster.0012.a:0 "Жадность - это грех. Их падение нас не касается."
+ disaster.0012.b:0 "Мы должны немедленно отправить гуманитарную помощь!"
 
 
-# The Anger #NT!
- disaster.0002.t:0 "The Anger" #NT!
-  disaster.0002.desc:0 "My liege! An envoy from [edessa.GetNameNoTier] just arrived. [emissary.GetSheHe|U] says he brings devastating news from the city of Edessa but was too distraught to say more and now wants an audience with you, my liege." #NT!
-  disaster.0002.info:0 "#italic Nothing will happen.#" #NT!
-  disaster.0002.a:0 "Bring [emissary.GetHerHim] to me as quickly as you can!" #NT!
-  disaster.0002.b:0 "[emissary.GetSheHe|U] shall wait for [emissary.GetHerHim] turn. I have a lot on my hands." #NT!
-  disaster.0002.c:0 "[emissary.GetSheHe|U] is a liar! Jail [emissary.GetHerHim]!" #NT!
-  disaster.0002.d:0 "I couldn't care less" #NT!
- disaster.0003.t:0 "The Envoy from Edessa" #NT!
-  disaster.0003.desc:0 "Guards immediately bring the emissary to your courtroom. You greet [emissary.GetHerHim] and [emissary.GetSheHe] immediately starts haphazardly telling [emissary.GetHerHim] story :\n "Christ is among us, my liege, I must believe. The Skirtos river, the bloodvein of the city, played a bad trick upon the citizens. The city was flooded in a matter of hours. It started in a bath house, where the doors were blasted by the waters. Then, citizens were stuck in their homes screaming before horribly drowning. God's anger struck the city so hard it became a tiny sea coiled within its own walls! Christ have mercy on us all... It's all the bishop's fault... everybody knew he was wicked... #italic God has punished us...#"" #NT!
-  disaster.0003.a:0 "Cleaning and rebuilding the city should start the moment the water recedes!" #NT!
-  disaster.0003.b:0 "We will send basic relief. Our coffers can not afford anymore." #NT!
-  disaster.0003.c:0 "This is dreadful... But we don't have any money left." #NT!
- disaster.0004.t:0 "The Envoy from Edessa" #NT!
-  disaster.0004.desc:0 "After a week or so of busy work, you finally find the time to allow for the emissary to speek. Well rested but infinitely anxious, [emissary.GetHerHim] begins right after you have finished greeting [emissary.GetHerHim] : \n "Christ is among us, my [ROOT.Char.GetLadyLord], I must believe. Our beloved Skirtos river, the bloodvein of the city, played a bad trick us, its citizens. The city was flooded in a matter of hours. It started in a bath house, where the doors were blasted by the waters. Then, citizens were stuck in their homes screaming before horribly drowning. God's anger struck the city so hard it became a tiny sea coiled within its own walls! Christ has mercy on us all... It's all the bishop's fault... everybody knew he was wicked... #italic God has punished us...#"" #NT!
-  disaster.0004.a:0 "Troubling news. We will rebuild the city when the time is right." #NT!
-  disaster.0004.b:0 "Organize the relief effort. And pray to God." #NT!
-  disaster.0004.c:0 "This is dreadful... But our coffers are empty." #NT!
- disaster.0005.t:0 "The Anger : Reconstruction" #NT!
-  disaster.0005.desc:0 "Ten years ago, the city of [edessa.GetNameNoTier|u] was destroyed by the will of God. Today, with lavish festivities and humble prayer, we celebrate His mercy, He who allowed the reconstruction of the prestigious city. We celebrate His grace and thank Him for the earthly bonds He allows us to cultivate." #NT!
-  disaster.0005.a:0 "Build a massive cathedral to celebrate His will" #NT!
-  disaster.0005.b:0 "We will organize a perpetual mass for the event" #NT!
-  disaster.0005.c:0 "Good work, everyone!" #NT!
- disaster.0006.t:0 "A bizarre article" #NT!
-  disaster.0006.desc:0 "My liege... A most strange article just arrived from the ruins of [edessa.GetNameNoTier|u]... It appears to be a very saintly and holy artifact! Our Lord and Saviour printed the image of His son on a piece of cloth! The relic was found in a house shattered by the flood. Surely this is a very good omen for the city reconstruction efforts!" #NT!
-  disaster.0006.a:0 "Christ is among us!" #NT!
+# The Anger
+ disaster.0002.t:0 "Гнев"
+  disaster.0002.desc:0 "Мой господин! Только что прибыл посланник из [edessa.GetNameNoTier]. [emissary.GetSheHe|U] говорит, что принес ужасные вести из города Эдесса, но он слишком расстроен, чтобы сказать больше. Он просит аудиенции у вас, мой повелитель."
+  disaster.0002.info:0 "#italic Ничего не случится.#"
+  disaster.0002.a:0 "Немедленно приведите [emissary.GetHerHim] ко мне!"
+  disaster.0002.b:0 "[emissary.GetSheHe|U] дождется [emissary.GetHerHim] очереди. У меня полно дел."
+  disaster.0002.c:0 "[emissary.GetSheHe|U] лжет! Арестуйте [emissary.GetHerHim]!"
+  disaster.0002.d:0 "Мне все равно"
+ disaster.0003.t:0 "Посланник из Эдессы"
+  disaster.0003.desc:0 "Охранники немедленно доставляют эмиссара в зал. Вы приветствуете [emissary.GetHerHim] и [emissary.GetSheHe] тут же начинает сбивчиво рассказывать [emissary.GetHerHim] историю: :\n "Христос среди нас, мой сеньор, я должен верить. Река Скиртос, кровь города, сыграла с горожанами злую шутку. Город был затоплен в считанные часы. Двери были блокированы водой. Горожане оказались заперты в своих домах и в ужасных мучениях утонули. Гнев Божий поразил город так сильно, что он превратился в крошечное море, свернувшееся в собственных стенах! Христос, помилуй нас всех... Это все вина епископа... все знали, что он нечестивец... #italic Бог наказал нас...#""
+  disaster.0003.a:0 "Очистка и восстановление города должны начаться сразу же, как отступит вода!"
+  disaster.0003.b:0 "Мы вышлем основную помощь. Наша казна не может выдержать большего."
+  disaster.0003.c:0 "Это ужасно... Но у нас не осталось денег."
+ disaster.0004.t:0 "Посланник из Эдессы"
+  disaster.0004.desc:0 "Примерно через неделю напряженной работы вы, наконец, находите время, чтобы высулашть эмиссара . После того, как вы приветствуете [emissary.GetHerHim],хорошо отдохнувший, но бесконечно взволнованный, [emissary.GetSheHe] начинает рассказ: \n "Христос среди нас, мой [ROOT.Char.GetLadyLord], Наша любимая река Скиртос, кровеносная жила города, сыграла с нами, его горожанами, злую шутку. Город был затоплен в считанные часы ... Это началось в бане, где вода выбила двери. Затем кричащие горожане застряли в своих домах и в муках утонули. Гнев Божий поразил город так сильно, что он превратился в крошечное море, свернувшееся в собственных стенах! Господи, помилуй нас всех... Во всем виноват епископ... все знали, что он нечестивец... #italic Бог наказал нас...#""
+  disaster.0004.a:0 "Тревожные новости. Мы восстановим город, когда придет время."
+  disaster.0004.b:0 "Организуйте спасательную операцию. И молись Богу."
+  disaster.0004.c:0 "Это ужасно... Но наша казна пуста."
+ disaster.0005.t:0 "Гнев: Реконструкция"
+  disaster.0005.desc:0 "Десять лет назад по воле Бога город [edessa.GetNameNoTier|u] был разрушен. Сегодня щедрыми празднествами и смиренной молитвой мы празднуем Его милость, позволившую восстановить знаменитый город. Мы прославляем Его благодать и благодарим Его за земные узы, которые Он позволяет нам развивать."
+  disaster.0005.a:0 "Постройте огромный собор, чтобы отпраздновать Его волю"
+  disaster.0005.b:0 "Организуем вечную мессу к мероприятию"
+  disaster.0005.c:0 "Отлично поработали, ребята!"
+ disaster.0006.t:0 "Странный лик"
+  disaster.0006.desc:0 "Мой сеньор... Очень странный предмет только что прибыл из руин [edessa.GetNameNoTier|u]... Похоже, это священный артефакт! Наш Господь и Спаситель отразил образ Своего сына на куске ткани! Реликвия была найдена в разрушенном наводнением доме. Несомненно, это очень хороший знак для восстановления города!"
+  disaster.0006.a:0 "Христос среди нас!"
 
 

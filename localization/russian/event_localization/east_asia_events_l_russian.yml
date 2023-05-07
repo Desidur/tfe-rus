@@ -1,28 +1,28 @@
 ﻿l_russian:
 
-# Li Gao flavor #NT!
- liang.0010.t:0 "The Governorship of Dunhuang" #NT!
- liang.0010.desc:0 "[previous_holder.GetFullName] is no longer the governor of Dunhuang. I've been the temporary caretaker governor while Dunhuang’s officials discuss who should succeed [previous_holder.GetHerHim]. Many favor [li_gao.GetFullName], who has been involved in the local administration for years and is an individual of many talents. Furthermore, he is said to be virtuous, benevolent, popular among the people, as well as wise and firm in his dealings.\n\nThe official and mystic sorcerer, [guo_nen.GetFullName], a friend of [li_gao.GetFirstName], once prophesied that when a mare bears a pony with a white forehead, [li_gao.GetFirstName] will found an independent state and ensure that his clan will achieve untold glory for generations. Recently, such a pony was reported to have been born nearby.\n\nThe [GetGeographicalRegion('custom_liang').GetName] has been engulfed in strife and conflict like much of the Middle Kingdom. Could [li_gao.GetFullNameNoTooltip] or his descendants be the ones destined to put an end to this chaos?" #NT!
- liang.0010.a:0 "[li_gao.GetSheHe|U] should be governor. We'll help him succeed in fulfilling his destiny." #NT!
- liang.0010.b:0 "[guo_nen.GetFirstNamePossessiveNoTooltip] sorcerer's ways don't frighten me. #underline #bold I#!#! am the permanent governor now!" #NT!
- liang.0011.t:0 "The Destiny of the Li Clan" #NT!
- liang.0011.desc:0 "I had scarcely received word that [previous_holder.GetFullName] is no longer governing Dunhuang when a messenger arrived from the caretaker governor, [governor.GetFullName], and various officials, bearing an important and clear message: due to my popularity and virtue, they think I should become the governor of Dunhuang.\n\nI now recall a prophecy my old friend, the mystic [guo_nen.GetFullName], once told me years ago: “You will one day found an independent state. This will happen when a mare bears a pony with a white forehead.” He added that my descendants will achieve unmatched glory and honor, too.\n\nThough a good man, [guo_nen.GetFirstName] was always an odd one, who frightened some with his sorcerer’s ways. But though he is a bit crazy, I have heard that such a pony was recently born nearby. Has the time come for the House of Li to ascend to greatness?" #NT!
- liang.0011.a:0 "I'll become governor of Dunhuang. What will my descendants achieve?" #NT!
- liang.0011.b:0 "They say ambition leads to one’s downfall. I can't accept this position." #NT!
- liang.0011.tooltip:0 "#weak Maybe my sorcerer friend is right. Could my descendants even restore order to the Middle Kingdom one day? What a nice dream that is, if a bit too idealistic, I think!#!" #NT!
+# Li Gao flavor
+ liang.0010.t:0 "Губернаторство Дуньхуана"
+ liang.0010.desc:0 "[previous_holder.GetFullName] больше не является губернатором Дуньхуана. Я был временным исполняющим обязанности губернатора, пока чиновники Дуньхуана обсуждали, кто должен [previous_holder.GetHerHim] наследовать. Многие отдают предпочтение талантливому [li_gao.GetFullName], много лет работающему в местной администрации. Он добродетелен, доброжелателен, популярен среди людей, а также мудр и тверд в своих решениях.\n\nОфициальный и мистический колдун [guo_nen.GetFullName], друг [li_gao.GetFirstName], однажды предсказал, что когда кобыла родит пони с белым лбом, [li_gao.GetFirstName] создаст независимое государство и заложит основы того, что поколениями его клан будет купаться в лучах славы и уважения. Недавно сообщалось, что поблизости родился такой пони.\n\n[GetGeographicalRegion('custom_liang').GetName] был охвачен раздорами и конфликтами, как и большая часть Поднебесной. Может ли [li_gao.GetFullNameNoTooltip] или его потомки быть теми, кому суждено положить конец этому хаосу?"
+ liang.0010.a:0 "[li_gao.GetSheHe|U] должен быть губернатором. Мы поможем ему преуспеть в исполнении своего предназначения."
+ liang.0010.b:0 "[guo_nen.GetFirstNamePossessiveNoTooltip] и его колдовские предсказания меня не волнуют. #underline #bold Я#!#! теперь бессменный губернатор!"
+ liang.0011.t:0 "Судьба клана Ли"
+ liang.0011.desc:0 "Едва я получил известие о том, что [previous_holder.GetFullName] больше не управляет Дуньхуаном, как прибыл посланник от исполняющего обязанности губернатора [governor.GetFullName] и различных чиновников с важным и ясным сообщением: благодаря моей популярности и добродетели они думаю, что я должен стать губернатором Дуньхуана.\n\nСейчас я вспоминаю пророчество, которое много лет назад произнес мой старый друг, мистик [guo_nen.GetFullName]: “Однажды вы создадите независимое государство. Это произойдет, когда кобыла родит пони с белым лбом.” Он добавил, что мои потомки тоже добьются непревзойденной славы и чести.\n\nНесмотря на то, что он был хорошим человеком, [guo_nen.GetFirstName] всегда был странным и некоторые боялись его колдовства. Но хоть он и немного сумасшедший, я слышал, что недавно неподалеку родился такой пони. Пришло ли время Дому Ли вознестись к величию?"
+ liang.0011.a:0 "Я стану губернатором Дуньхуана. Чего добьются мои потомки?"
+ liang.0011.b:0 "Говорят, честолюбие ведет к падению. Я не могу принять это назначение."
+ liang.0011.tooltip:0 "#weakВозможно, мой друг-волшебник прав. Смогут ли мои потомки когда-нибудь навести порядок в Поднебесной? Какой это хороший сон, хотя я думаю, что он слишком идеалистичен!#!"
 
-# Old placeholder text for the lulz #NT!
-#  liang.0010.t:0 "Governor of the People" #NT!
-#  liang.0010.desc:0 "Everybody simps for Li Gao because he's so chill and his descendants will be awesome and everybody thinks you suck\n\nDrake No: #italic you#!\n\nDrake Yes: Li Gao" #NT!
-#  liang.0010.a:0 "Li Gao you're a chad become governor plox" #NT!
-#  liang.0010.b:0 "But I wanna be the governor T___T" #NT!
-#  liang.0011.t:0 "Governor of the People" #NT!
-#  liang.0011.desc:0 "[governor.GetFullName] says: "Everyone simps for you Li Gai, even crazy magic man [guo_nen.GetFullName] says you're a chad, plox become governor instead of me" What about [previous_holder.GetFullName], think about [previous_holder.GetFullName]" #NT!
-#  liang.0011.a:0 "Jesus Christ calm down, if you insist lol" #NT!
-#  liang.0011.b:0 "hell no i dont want no simps" #NT!
+# Old placeholder text for the lulz
+#  liang.0010.t:0 "Губернатор из народа"
+#  liang.0010.desc:0 "Все тащатся от Ли Гао, потому что он такой крутой и его потомки будут потрясающими, и все думают, что ты отстой\n\nДрейк Нет: #italic Ты#!\n\nДрейк Да: Ли Гао"
+#  liang.0010.a:0 "Ли Гао, ты дурила, стань губернатором"
+#  liang.0010.b:0 "Но я хочу быть губернатором T___T"
+#  liang.0011.t:0 "Губернатор из народа"
+#  liang.0011.desc:0 "[governor.GetFullName] говорит: "Все тащаться от тебя, Ли Гай, даже сумасшедший волшебник [guo_nen.GetFullName] говорит, что ты ваще отпад, крутяк, стань губернатором вместо меня" А как же [previous_holder.GetFullName], подумай о [previous_holder.GetFullName]"
+#  liang.0011.a:0 "Иисусе, успокойся, если ты настаиваешь лол"
+#  liang.0011.b:0 "Черт возьми, нахрена вы все мне нужны?"
 
-# Li Ling descent flavor #NT!
- steppe.0001.t:0 "Descendants of Li Ling" #NT!
- steppe.0001.desc:0 "Centuries ago, during the Han Dynasty of China, there was a great Han general by the name of Li Ling. His grandfather, Li Guang, was so feared by the Xiongnu they called him the Flying General.\n\nLi Ling, however, was defeated by the Xiongnu, and made to serve them. The Xiongnu ruler, the #italic Chanyu#!, even gave him his daughter’s hand in marriage. Nonetheless, Li Ling was ashamed at his betrayal, and it is said he often had dreams of his homeland, his family, and his Han people. Many years after his defeat, he passed away in a foreign land.\n\nThere has been much speculation about who Li Ling’s descendants are, for they surely carry the sorrow of their tragic ancestor in their hearts. Now, [li_ling_claimant.GetTitledFirstName] has provided evidence that [li_ling_claimant.GetHerHis] clan, the [li_ling_claimant.GetDynasty.GetName], are in fact Li Ling’s progeny. Though this is questioned by some, this claim brings much honor and glory to [li_ling_claimant.GetHerHis] clan: they are Li Ling’s scions, born of Chinese culture and the nomads’ strength!" #NT!
- steppe.0001.a:0 "Our family has an illustrious history!" #NT!
- steppe.0001.b:0 "Interesting that they claim such a thing…." #NT!
+# Li Ling descent flavor
+ steppe.0001.t:0 "Потомки Ли Лин"
+ steppe.0001.desc:0 "Много веков назад, во времена династии Хань, в Китае жил великий ханьский полководец по имени Ли Лин. Его дед, Ли Гуан, так боялся хунну, что они называли его Летучим генералом.\n\nЛи Лин, однако, потерпел поражение от хунну и был вынужден служить им. Правитель хунну, #italic Чаньюй#!, даже отдал ему руку своей дочери. Тем не менее Ли Лину было стыдно за свое предательство, и говорят, что ему часто снились сны о своей родине, своей семье и своем ханьском народе. Спустя много лет после своего поражения он скончался в чужой стране.\n\nБыло много предположений о потомках Ли Лин, поскольку они, несомненно, несут в своих сердцах печаль своего трагического предка. Теперь [li_ling_claimant.GetTitledFirstName] предоставил доказательства того, что [li_ling_claimant.GetHerHis] клан,[li_ling_claimant.GetDynasty.GetName], на самом деле являются потомками Ли Лин. Хотя некоторые ставят это под сомнение, это заявление приносит много чести и славы [li_ling_claimant.GetHerHis] клану: они потомки Ли Лин, рожденные китайской культурой и силой кочевников!"
+ steppe.0001.a:0 "У нашей семьи славная история!"
+ steppe.0001.b:0 "Интересно, что они такое утверждают..."

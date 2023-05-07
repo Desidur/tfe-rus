@@ -1,34 +1,34 @@
 ﻿l_russian:
- islam.0002.t:0 "The Giving of The Zakah" #NT!
- islam.0002.desc:0 "Due to your beliefs, once a year, you are obliged to give away a small sum of your money relative to how much you earned in the past year to the poor and homeless. Not doing so will have harsh consequences as the people look to you for religious guidance and righteousness." #NT!
- islam.0002.option.a:0 "I will give what is needed" #NT!
- islam.0002.option.a.tooltip:0 "A sum of your money will be transferred to a caliph's Bayt-Al-Maal depending on your vassal contract and preferred caliph" #NT!
- islam.0002.option.b:0 "It is my gold, MINE!" #NT!
- islam.0003.t:0 "The Sword of Islam" #NT!
- islam.0003.desc:0 "Mecca has fallen! The Rashidun Caliphate has entered Mecca, ending our supremacy over Arabia. Now, we are expected to bend the knee and recognize Allah as the one true God and Muhammed as his prophet. But will I leave my ancestor's religion so easily?" #NT!
- islam.0003.option.a:0 "It is time to realize that our old gods are lost" #NT!
- islam.0003.option.a.tooltip:0 "You join the Rashidun Caliphate" #NT!
- islam.0003.option.b:0 "I won't betray my ancestors! NEVER!" #NT!
- islam.0003.option.b.tooltip:0 "The Rashidun Caliphate might try to claim your realm" #NT!
- islam.0004.t:0 "The Sword of Islam" #NT!
- islam.0004.desc:0 "As I was sitting in my throne room, a Muslim envoy reached me. Announcing it came from [attacker.GetName], they gave me 2 options. Either I join Islam and avoid bloodshed or face the consequences." #NT!
- islam.0004.option.a:0 "It's time to realize the truth in the words of Islam" #NT!
- islam.0004.option.b:0 "Never shall I be threatened by these words!" #NT!
- islam.0004.b.tooltip:0 "The war rages on" #NT!
- islam.0004.option.c:0 "It's time to realize the truth in the words of Islam" #NT!
- islam.0005.t:0 "Volunteering Soldiers" #NT!
- islam.0005.desc:0 "A large group of men requested to volunteer for the Islamic Caliphate. The group was composed of very different people from different backgrounds and different skill levels. They were promptly placed in the best fitting rank in the army." #NT!
- islam.0005.option.a:0 "Allahu Akbar" #NT!
- islam.0006.t:0 "The Arbitration" #NT!
- islam.0006.desc:0 "The first fitna has been going on for a month and the traitors have asked for an arbitration to end the bloodshed and surrender the Caliphate. Refusing this would continue the seemingly never-ending war but I would sacrifice what I hold dearest." #NT!
- islam.0006.option.a:0 "It is our only option" #NT!
- islam.0006.option.a.tooltip:0 "The Khawariji spawn" #NT!
- islam.0006.option.b:0 "Never shall I surrender!" #NT!
- islam.0006.option.b.tooltip:0 "The war rages on" #NT!
- islam.0007.t:0 "A Challenger To My Throne" #NT!
- islam.0007.desc:0 "After my father's rebellion and claim on the Caliphate throne, many subjects felt that my claim is weak or that I don't even have a claim on my father's throne! This has boiled over to the point of some subjects rallying behind Husayn Ibn Ali with the goal to dethrone me!" #NT!
- islam.0007.option.a:0 "This war will echo till the last day" #NT!
- islam.0008.t:0 "A Challenger To My Liege's Throne" #NT!
- islam.0008.desc:0 "After my liege's father's rebellion and claim on the Caliphate throne, many of my fellow-subjects felt that his claim is weak or that he didn't even have a claim on his father's throne! This boiled over to the point of some subjects rallying behind Husayn Ibn Ali with the goal to dethrone him!" #NT!
- islam.0008.option.a:0 "He has the rightful claim!" #NT!
- islam.0008.option.b:0 "I will not betray my honorable liege!" #NT!
+ islam.0002.t:0 "Выплата закята"
+ islam.0002.desc:0 "В соответствии с вашими убеждениями, раз в год вы обязаны отдавать небольшую часть того, что вы заработали в прошлом году, бедным и бездомным. Невыполнение этого требования будет иметь суровые последствия, поскольку люди обращаются к вам за религиозным руководством и праведностью."
+ islam.0002.option.a:0 "Я дам то, что нужно"
+ islam.0002.option.a.tooltip:0 "В зависимости от вашего вассального контракта и предпочтительного халифа, некоторая сумма будет переведена в Байт-аль-Маал халифа"
+ islam.0002.option.b:0 "Это мое золото, МОЕ!"
+ islam.0003.t:0 "Меч Ислама"
+ islam.0003.desc:0 "Мекка пала! Халифат Рашидун вошел в Мекку, положив конец нашему господству над Аравией. Теперь ожидается, что мы преклоним колено и признаем Аллаха единым истинным Богом, а Мухаммеда его пророком. Но так ли легко я оставлю религию предков?"
+ islam.0003.option.a:0 "Пришло время понять, что наши старые боги потеряны"
+ islam.0003.option.a.tooltip:0 "Вы присоединяетесь к Халифату Рашидун"
+ islam.0003.option.b:0 "Я не предам своих предков! НИКОГДА!"
+ islam.0003.option.b.tooltip:0 "Рашидунский халифат может попытаться захватить ваши владения"
+ islam.0004.t:0 "Меч Ислама"
+ islam.0004.desc:0 "Когда я сидел в своем тронном зале, ко мне подошел мусульманский посланник. Объявив, что это пришло от [attacker.GetName], они поставили меня перед выбором. Либо я присоединяюсь к исламу и избегаю кровопролития, либо сталкиваюсь с последствиями."
+ islam.0004.option.a:0 "Пришло время осознать истину в словах ислама"
+ islam.0004.option.b:0 "Меня не напугают эти слова!!"
+ islam.0004.b.tooltip:0 "Война продолжает бушевать"
+ islam.0004.option.c:0 "Пришло время осознать истину в словах ислама"
+ islam.0005.t:0 "Солдаты-добровольцы"
+ islam.0005.desc:0 "Большая группа мужчин добровольно захотела присоедениться к Исламскому халифату. Группа состояла из очень разных людей с разным опытом и разным уровнем подготовки. Их сразу же распределили по наиболее подходящим армейским частям."
+ islam.0005.option.a:0 "Аллах Акбар"
+ islam.0006.t:0 "Арбитраж"
+ islam.0006.desc:0 "Уже месяц продолжается первая фитна и предатели потребовали арбитража, чтобы прекратить кровопролитие и сдать Халифат. Отказ от этого приведет к продолжению, казалось бы, бесконечной войны, но я пожертвую тем, что мне дороже всего."
+ islam.0006.option.a:0 "Это наш единственный вариант"
+ islam.0006.option.a.tooltip:0 "Хариджитское отродье"
+ islam.0006.option.b:0 "Никогда не сдамся!"
+ islam.0006.option.b.tooltip:0 "Война продолжает бушевать"
+ islam.0007.t:0 "Претендент на мой трон"
+ islam.0007.desc:0 "После восстания моего отца и притязаний на трон Халифата многие подданные сочли, что мои претензии слабы или что у меня даже нет права на трон моего отца! Это дошло до того, что некоторые подданные сплотились вокруг Хусейна ибн Али с целью свергнуть меня!"
+ islam.0007.option.a:0 "Эта война будет эхом до последнего дня"
+ islam.0008.t:0 "Претендент на трон моего сюзерена"
+ islam.0008.desc:0 "После восстания отца моего сюзерена и его претензий на трон Халифата многие из моих собратьев-подданных почувствовали, что его претензии слабы или что у него даже не было прав на трон своего отца! Это дошло до того, что некоторые подданные сплотились вокруг Хусейна ибн Али с целью свергнуть его!"
+ islam.0008.option.a:0 "У него есть законные права!"
+ islam.0008.option.b:0 "Я не предам моего благородного сюзерена!"

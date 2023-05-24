@@ -142,8 +142,8 @@
  restore_kingdom_of_bosporus:0 "Restore the Kingdom of Bosporus" #NT!
  restore_kingdom_of_bosporus_tooltip:0 "Like a phoenix, Bosporus shall emerge again!" #NT!
  restore_kingdom_of_bosporus_decision_desc:0 "The centuries-old Bosporan Kingdom ruled the northern Black Sea until its fall at the hands of the Goths and Huns, but perhaps a new Hellenic endeavor into the region could bring forth the old kingdom's restoration." #NT!
- restore_kingdom_of_bosporus_decision_tt:1 "All duchies in the[GetGeographicalRegion('region_bosporus').GetName] region will shift to [GetTitleByKey('k_bosporus').GetName]" #NT!
- restore_kingdom_of_bosporus_decision_culture_tt:0 "Both Crimea and Azov are of the [ROOT.Char.GetCulture.GetName] culture" #NT!
+ restore_kingdom_of_bosporus_decision_tt:1 "All duchies in the[GetGeographicalRegion('custom_core_bosporus').GetName] region will shift to [GetTitleByKey('k_bosporus').GetName]"
+ restore_kingdom_of_bosporus_decision_culture_tt:0 "Both [GetTitleByKey('d_crimea').GetNameNoTier] and [GetTitleByKey('d_azov').GetNameNoTier] are of the [GetPlayer.GetCulture.GetName] culture"
  restore_kingdom_of_bosporus_confirm:0 "Bosporan vessels shall sail the Maeotis Lake once more!" #NT!
  # h #NT!
  dong_zhuo_culture_decision:0 "Adopt Soissons Culture" #NT!
@@ -299,7 +299,7 @@
 
  tfe_unlocks_byzantine_maa_effect:0 "Grants your culture, [GetPlayer.GetCulture.GetName], access to these [men_at_arms|E]: [GetMenAtArmsType('tfe_maa_protostates').GetName], [GetMenAtArmsType('tfe_maa_byz_archers').GetName], [GetMenAtArmsType('tfe_maa_hippo_toxotai').GetName], [GetMenAtArmsType('cataphract').GetName]" #NT!
 
- #Theodoric & Rome #NT!
+ # Theodoric & Rome #NT!
  tfe_theodoric_rome_decision:0 "Decide the Fate of Roman and [GetPlayer.GetCulture.GetNameNoTooltip] Peoples" #NT!
  tfe_theodoric_rome_decision_desc:0 "With the Italian peninsula under our control, I now stand before the task of managing both cultures present in the realm: my own [GetPlayer.GetCulture.GetNameNoTooltip] warrior class; and the established Roman elite, still administering the civil side of the realm.\n\nShould I keep it this way and fortify this seperation of cultures and duties, or should I strive to unite the two?" #NT!
  tfe_theodoric_rome_decision_tooltip:0 "Unite or segregate the cultures!" #NT!
@@ -320,5 +320,50 @@
  tfe_segregated_barbarians_and_romans_desc:0 "Romans know their place in the realm of this dynasty. They can legislate, while the fighting is left to their new overlords." #NT!
  tfe_hybridised_barbarians_and_romans:0 "Hybridised Barbarians and Romans" #NT!
  tfe_hybridised_barbarians_and_romans_desc:0 "In these lands, a fertile pairing of civilised and uncivilised is burgeoning." #NT!
- tfe_every_roman_realm_county_custom:0 "Every $roman$ county in your [realm|E]" #NT!
- roman_opinion:0 "$roman$ Opinion" #NT!
+ tfe_every_roman_realm_county_custom:0 "Every $roman$ [county|E] in your [realm|E]"
+ roman_opinion:0 "$roman$ Opinion"
+
+ # Recruit foreign specialist
+ recruit_foreign_specialist_decision:0 "Recruit Foreign Specialist"
+ recruit_foreign_specialist_decision_desc:0 "The peoples outside of our empire have many accomplished commanders we can draw from by leveraging our prestige as the Roman Emperor."
+ recruit_foreign_specialist_decision.tt:0 "You will recruit a commander of your choosing rependent on regions controlled, but displease your vassals and Senators (-10 opinion for all vassals and courtiers)."
+ recruit_foreign_specialist_decision_tooltip:0 "Recruit a Commander!"
+ recruit_foreign_specialist_decision_tt:0 "Recruit a Commander."
+ recruit_foreign_specialist_decision_confirm:0 "Confirm"
+
+ # Julius Nepos decision
+ nepos_ambition:0 "Prepare to Invade Italy"
+ nepos_ambition_desc:0 "If I am to successfully retake the Roman heartlands, I will need to prepare a new army with which to drive out Odoacer and his barbarian followers. Perhaps Zeno can also be convinced to see the righteousness of my cause?"
+ nepos_ambition_tooltip:0 "Begin Preparations"
+ nepos_ambition_custom_tooltip:0 "You will spend 250 Gold and 1000 Prestige"
+ nepos_ambition_tooltip_2:0 "Unlocks a [decision|E] to Prepare to Invade Italy"
+ nepos_ambition_confirm:0 "Confirm"
+
+ # Third Temple decision
+ rebuild_third_temple:0 "Build The Third Temple Of Jerusalem"
+ rebuild_third_temple_desc:0 "After the destruction of Herod's Temple in the wake of the failed Great Jewish Revolt, the Jews have long sought to rebuild what they call the Third Temple on the Temple Mount. This act will strike a decisive blow against the burgeoning rise of Christianity."
+ rebuild_third_temple_tooltip:0 "Rebuild the Temple"
+ rebuild_third_temple_custom_desc:0 "#warning Warning -- This will likely take time and significant resources and is a once in a generation opportunity. Do not start this unless you are prepared to see it through. You must complete this within one ruler's lifetime.#!"
+ rebuild_third_temple_confirm:0 "Confirm"
+ faith_third_temple:0 "Christian [faiths|E] will suffer massive [fervor|E] penalties, while Jewish [faiths|E] will be revitalized."
+
+ # Illyrian Sacrifice decision
+ TFE_illyrian_sacrifice_decision:0 "Perform Illyrian Sacrifices"
+ TFE_illyrian_sacrifice_decision_tooltip:0 "Worship the Sun or the Serpent"
+ TFE_illyrian_sacrifice_decision_desc:0 "The Cult of the Sun and the Cult of the Serpent are the two dominant cults among [ROOT.Char.GetFaith.GetAdherentNamePlural]. We should honor and worship the Sun or the Serpent through appropriate offerings and sacrifices."
+ TFE_illyrian_sacrifice_decision_confirm:0 "Prepare for the ceremony!"
+ TFE_illyrian_sacrifice_decision_effect_tooltip_1:0 "You will gain a random amount of [piety|E] depending on how much [gold|E] you are willing to spend"
+ TFE_illyrian_sacrifice_decision_effect_tooltip_2:0 "You have a chance of gaining a #P positive#! [character_modifier|E], the effects of which depend on whether you choose to worship the sun or the serpent"
+ TFE_illyrian_sacrifice_decision_effect_tooltip_3:0 "The chances of successfully gaining a [modifier|E] depend on your [piety_level|E], [virtues|E],  [sins|E], and how much [gold|E] you are willing to spend"
+ TFE_illyrian_sacrifice_decision_type:0 "Will we worship the Sun or the Serpent?"
+ TFE_illyrian_sacrifice_decision_type_gui:0 "$TFE_illyrian_sacrifice_decision_type$"
+ TFE_illyrian_sacrifice_sun_option:0 "#Bold #V The Sun#!#!"
+ TFE_illyrian_sacrifice_sun_option_desc:0 "$TFE_illyrian_sacrifice_sun_option$"
+ TFE_illyrian_sacrifice_sun_option_tooltip:0 "Potentially gain [modifiers|E] with bonuses related to [diplomacy|E], [martial|E], [prowess|E], and/or [prestige|E]\n\n#weak The Cult of the Sun was traditionally prominent among the northern Illyrian tribes. Waterfowl and deer were seen as symbols of the Sun, which was often worshipped on mountains.#!"
+ TFE_illyrian_sacrifice_serpent_option:0 "#Bold #V The Serpent#!#!"
+ TFE_illyrian_sacrifice_serpent_option_desc:0 "$TFE_illyrian_sacrifice_serpent_option$"
+ TFE_illyrian_sacrifice_serpent_option_tooltip:0 "Potentially gain [modifiers|E] with bonuses related to related to [stewardship|E], [intrigue|E], [learning|E], and/or [piety|E]\n\n#weak The Cult of the Serpent was traditionally prominent among the southern Illyrian tribes. The serpent was a totemic water and chthonic deity, seen as a symbol of fertility and magic.#!"
+
+
+
+

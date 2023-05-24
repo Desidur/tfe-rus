@@ -58,4 +58,9 @@
 
  # Jovinianism #NT!
  tenet_jovinianism_name:0 "Sanctity Without Distinction" #NT!
- tenet_jovinianism_desc:0 "Through baptism alone is a man or woman free of sin. Distinctions between marital status and celibacy, or between an austere life and a comfortable one, cannot be a source of holiness. Likewise, all sins are equally terrible, and all virtues equally noble and righteous in leading the faithful to heaven. To live a life of extreme asceticism is thus not only arrogant, but un-Christian." #NT!
+ tenet_jovinianism_desc:0 "Through baptism alone is a man or woman free of sin. Distinctions between marital status and celibacy, or between an austere life and a comfortable one, cannot be a source of holiness. Likewise, all sins are equally terrible, and all virtues equally noble and righteous in leading the faithful to heaven. To live a life of extreme asceticism is thus not only arrogant, but un-Christian."
+
+ # Illyrian Cults
+ tenet_illyrian_cults_name:0 "Illyrian Cults"
+ tenet_illyrian_cults_desc:0 "Two main cults are traditionally predominant among the Illyrians. The Cult of the Sun is prominent among the northern Illyrian tribes; it was typically worshipped on mountains, with waterfowl and deer as important solar symbols. Meanwhile, the Cult of the Serpent is popular among the southern Illyrian tribes, as the serpent is seen as a benevolent water and chthonic deity of fertility and magic."
+ doctrine_parameter_tfe_enables_illyrian_pagan_decisions:0 "Enables the [decision|E] to $TFE_illyrian_sacrifice_decision$"

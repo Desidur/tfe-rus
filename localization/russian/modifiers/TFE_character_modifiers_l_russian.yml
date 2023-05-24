@@ -176,3 +176,7 @@
  neutral_learning_scapulimancy:0 "Neutral Learning Portents" #NT!
  bad_learning_scapulimancy:0 "Bad Learning Portents" #NT!
  terrible_learning_scapulimancy:0 "Terrible Learning Portents" #NT!
+
+ rebuilt_third_temple:0 "Rebuilt Third Temple"
+ rebuilt_third_temple_desc:0 "This character rebuilt the Temple of Jerusalem, earning both the undying enmity of all Christians and the steadfast friendship of all Jews."
+ judaism_religion_opinion:0 "$judaism_religion_adherent$ Opinion"

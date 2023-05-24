@@ -15,4 +15,9 @@
  MERCURY_UI_NAME:0 "[Select_CString(EqualTo_string(FaithWindow.GetFaith.GetNameNoTooltip, Localize('roman_pagan')), 'Mercury  ', 'Hermes ')]" #NT!
  MINERVA_UI_NAME:0 "[Select_CString(EqualTo_string(FaithWindow.GetFaith.GetNameNoTooltip, Localize('roman_pagan')), 'Minerva  ', 'Athena ')]" #NT!
  LAVERNA_UI_NAME:0 "[Select_CString(EqualTo_string(FaithWindow.GetFaith.GetNameNoTooltip, Localize('roman_pagan')), 'Laverna  ', 'Laverna ')]" #NT!
- VENUS_UI_NAME:0 "[Select_CString(EqualTo_string(FaithWindow.GetFaith.GetNameNoTooltip, Localize('roman_pagan')), 'Venus  ', 'Aphrodite ')]" #NT!
+ VENUS_UI_NAME:0 "[Select_CString(EqualTo_string(FaithWindow.GetFaith.GetNameNoTooltip, Localize('roman_pagan')), 'Venus  ', 'Aphrodite ')]"
+ marshal_statue:0 "marshal"
+ personality_honorable_statue:0 "personality_honorable"
+ chancellor_statue:0 "chancellor"
+ aggressive_sword_statue:0 "aggressive_sword"
+ idle_statue:0 "idle"

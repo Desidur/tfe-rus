@@ -97,14 +97,15 @@
  TFE_minor_decisions.0005.d:0 "A grand qanat" #NT!
 
  # Ghana Burial #NT!
- TFE_ghana_funeral_decision:0 "Bury [ROOT.Char.Custom2('RelationToMe', ROOT.Var('TFE_ghana_burial_ancestor').Char)|U] in an Acacia Wood Dome" #NT!
+ TFE_ghana_funeral_decision:0 "Bury My [ROOT.Char.Custom2('RelationToMe', ROOT.Var('TFE_ghana_burial_ancestor').Char)|U] in an Acacia Wood Dome"
  TFE_ghana_funeral_decision_tooltip:0 "Put your ancestor to rest and gain [piety|E] and [vassal|E] [opinion|E]" #NT!
- TFE_ghana_funeral_decision_desc:0 "[ROOT.Var('TFE_ghana_burial_ancestor').Char.Custom2('MyCharacterIntroduction', ROOT.Char)|U] has passed away. Tradition dictates that [ROOT.Var('TFE_ghana_burial_ancestor').Char.GetSheHe] should be buried in a large dome of acacia wood, and provided a human sacrifice." #NT!
+ TFE_ghana_funeral_decision_desc:0 "My [ROOT.Var('TFE_ghana_burial_ancestor').Char.Custom2('RelationToMeAddress', ROOT.Char)], [ROOT.Var('TFE_ghana_burial_ancestor').Char.GetTitledFirstName], has passed away. [ROOT.Char.GetCulture.GetName] funerary traditions dictate that [ROOT.Var('TFE_ghana_burial_ancestor').Char.GetSheHe] should be buried in a large dome of acacia wood, and provided a human sacrifice."
  TFE_ghana_funeral_decision_confirm:0 "Prepare the burial and sacrifice!" #NT!
  TFE_ghana_funeral_decision_effect_tooltip_1:0 "This [decision|E] will be available for up to 5 years after your relative dies" #NT!
  TFE_ghana_funeral_decision_effect_tooltip_2:0 "You will also have the opportunity to sacrifice a [courtier|E] to gain an extra [piety_i|E] #P [GetPlayer.MakeScope.ScriptValue('major_piety_value')|0]#! if you spend an additional [gold_i|E] #V [GetPlayer.MakeScope.ScriptValue('TFE_minor_flavor_activity_cost')|0]#!" #NT!
- TFE_ghana_burial_vassals:0 "Every Vassal with the appropriate [culture|E] and [faith|E]" #NT!
- TFE_africa.0002.t:0 "The [ROOT.Char.GetCulture.GetNameNoTooltip] Burial" #NT!
+ TFE_ghana_burial_vassals:0 "Every [vassal|E] with the appropriate [culture|E] and [faith|E]"
+ TFE_ghana_burial_vassals_bad:0 "Every [vassal|E] following a non-pagan [faith|E]"
+ TFE_africa.0002.t:0 "Burying My [ROOT.Char.Custom2('RelationToMe', ROOT.Var('TFE_ghana_burial_ancestor').Char)|U]"
  TFE_africa.0002.desc:0 "As is our [ROOT.Char.GetCulture.GetName] tradition, I have ordered the construction of a large dome, made out of acacia wood, to bury [ROOT.Var('TFE_ghana_burial_ancestor').Char.GetFirstName]. The structure is almost complete, and I am thus making preparations for the burial ceremony.\n\nTypically, we sacrifice servants and slaves alongside [ROOT.Var('TFE_ghana_burial_ancestor').Char.GetFirstNameNoTooltip] in the dome. The [ROOT.Char.GetFaith.GetAdjective] [ROOT.Char.GetFaith.PriestNeuterPlural] have provided me a list of servants and slaves to sacrifice for the occasion." #NT!
  TFE_africa.0002.desc.sacrifice:0 "\n\nHowever, the [ROOT.Char.GetFaith.PriestNeuterPlural] have, in their wisdom, also suggested a few members of my court who could also be sacrificed. Such things would please [ROOT.Char.GetFaith.PantheonTerm], they argue." #NT!
  TFE_africa.0002.a:0 "[candidate_1.GetFirstName] will be a worthy sacrifice to [ROOT.Var('TFE_ghana_burial_ancestor').Char.GetFirstNameNoTooltip]." #NT!
@@ -112,10 +113,28 @@
  TFE_africa.0002.c:0 "Let us sacrifice [candidate_3.GetFirstName] to honor [ROOT.Var('TFE_ghana_burial_ancestor').Char.GetFirstNameNoTooltip]." #NT!
  TFE_africa.0002.d:0 "I hope sacrificing servants and slaves will work for [ROOT.Var('TFE_ghana_burial_ancestor').Char.GetFirstNameNoTooltip]!" #NT!
  TFE_africa.0002.sacrifice_tooltip:0 "Instead of the default [piety_i|E] #P [GetPlayer.MakeScope.ScriptValue('major_piety_value')|0]#!, you will gain double that." #NT!
- TFE_africa.0003.t:0 "The [ROOT.Char.GetCulture.GetNameNoTooltip] Burial" #NT!
+ TFE_africa.0003.t:0 "$TFE_africa.0002.t$"
  TFE_africa.0003.desc:0 "It is the day of [ROOT.Var('TFE_ghana_burial_ancestor').Char.GetFirstNamePossessive] burial. I and my entire court accompany [ROOT.Var('TFE_ghana_burial_ancestor').Char.GetHerHis] body as we bring it inside the dome of acacia wood that we have erected. We place the body on a bed with cushions, and surround it with many ornaments, weapons, and utensils, so that [ROOT.Var('TFE_ghana_burial_ancestor').Char.GetFirstNameNoTooltip] can feast and drink in the afterlife.\n\nAfter this, we sacrifice many slaves and servants by immuring them in the tomb. We then cover the dome with mats and curtains, placing as much earth as we can on top of the tomb, so that it becomes a small hill surrounded by a trench.\n\nFollowing this, we sacrifice victims and pour libations of fermented drinks to [ROOT.Var('TFE_ghana_burial_ancestor').Char.GetFirstNameNoTooltip] and our other ancestors." #NT!
  TFE_africa.0003.desc.sacrifice:0 "Among the sacrificial victims is [sacrificial_victim.GetFirstName], who I and the [ROOT.Char.GetFaith.GetAdjective] [ROOT.Char.GetFaith.PriestNeuterPlural] felt was a good candidate for this occasion." #NT!
- TFE_africa.0003.a:0 "May you rest in peace, [ROOT.Char.Custom2('RelationToMe', ROOT.Var('TFE_ghana_burial_ancestor').Char)]." #NT!
+ TFE_africa.0003.a:0 "May you rest in peace, dear [ROOT.Char.Custom2('RelationToMe', ROOT.Var('TFE_ghana_burial_ancestor').Char)]."
+
+ # Recruit Foreign Specialists
+ TFE_minor_decisions.0006.t:0 "Recruit a Foreign Specialist"
+ TFE_minor_decisions.0006.desc:0 "The Roman Empire has a long history of recruiting able commanders from different 'barbaric' cultures to lend their specialized knowledge and expertise for particular campaigns. Where would you like to recruit from?"
+ TFE_minor_decisions.0006.a:0 "The Steppes -- Open Terrain Experts"
+ TFE_minor_decisions.0006.b:0 "The Germanics -- Forest Fighters"
+ TFE_minor_decisions.0006.c:0 "The Moors and Arabs -- Desert Warriors"
+ TFE_minor_decisions.0006.d:0 "The Iranians and Anatolians -- Rough Terrain Experts"
+ TFE_minor_decisions.0006.e:0 "The Indians -- Jungle Stalkers"
+ TFE_minor_decisions.0006.f:0 "On second thought, I don't have any need for additional commanders that are available"
+
+ # Recruit Foreign Specialists -- Retinue
+ TFE_minor_decisions.0007.t:0 "Recruit a Foreign Specialist -- Retinue"
+ TFE_minor_decisions.0007.desc:0 "Would you like to hire some mercenaries along with your new commander?"
+ TFE_minor_decisions.0007.a:0 "Some? Give me an army!"
+ TFE_minor_decisions.0007.b:0 "A sizable retinue would be a welcome addition to my army"
+ TFE_minor_decisions.0007.c:0 "Some bodyguards for my new commander would be nice"
+ TFE_minor_decisions.0007.d:0 "No thanks"
 
 
 

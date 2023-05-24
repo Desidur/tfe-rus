@@ -899,8 +899,8 @@
  b_an-nahrawan:0 "Ctesiphon" #NT!
  k_jazira:0 "Assyria" #NT!
  k_jazira_adj:0 "Assyrian" #NT!
- e_caspian-pontic_steppe:0 "Caspian-Pontic Steppe" #NT!
- e_caspian-pontic_steppe_adj:0 "Steppe" #NT!
+ e_caspian-pontic_steppe:0 "Scythia"
+ e_caspian-pontic_steppe_adj:0 "Scythian"
  k_pontic_steppe:0 "Sarmatia" #NT!
  k_pontic_steppe_adj:0 "Sarmatian" #NT!
  k_caspian_steppe:0 "Scythia" #NT!
@@ -1009,8 +1009,8 @@
  c_onega:0 "Äänislinna" #NT!
 
  # Poland #NT!
- k_poland:0 "Venedia" #NT!
- k_poland_adj:0 "Venedian" #NT!
+ k_poland:0 "Vistula"
+ k_poland_adj:0 "Vistulan"
  d_kuyavia:0 "Goplania" #NT!
  d_kuyavia_adj:0 "Goplanian" #NT!
 
@@ -1049,7 +1049,8 @@
  k_buryatia_adj:0 "Baikal" #NT!
  k_lechia:0 "Lechia" #NT!
  k_lechia_adj:0 "Lechitic" #NT!
-
+ k_venedia:0 "Venedia"
+ k_venedia_adj:0 "Venedian"
  d_pihkova:0 "Pskov" #NT!
  d_pihkova_adj:0 "Pskovan" #NT!
 
@@ -1618,6 +1619,11 @@
 
  e_assyria:0 "Assyria" #NT!
  e_assyria_adj:0 "Assyrian" #NT!
+
+ e_illyria_pirate_article:1 "The "
+ e_illyria_pirate:0 "Pirate Empire of Illyria"
+ e_illyria_pirate_ui:0 "The Pirate Empire of Illyria"
+ e_illyria_pirate_adj:0 "Illyrian"
 
  e_rashidun_article:0 "the " #NT!
  e_rashidun:0 "Rashidun Caliphate" #NT!

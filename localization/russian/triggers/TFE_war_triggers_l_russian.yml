@@ -45,3 +45,6 @@
 
  great_houses_are_too_strong:0 "You can't imprison [great_house|E] heads if the [great_houses|E] are too strong" #NT!
  NOT_great_houses_are_too_strong:0 "You can't imprison [great_house|E] heads if the [great_houses|E] are too strong" #NT!
+
+ cant_grant_titles_to_legions:0 "You can't grant titles to [legions|E]"
+ NOT_cant_grant_titles_to_legions:0 "You can't grant titles to [legions|E]"

@@ -113,4 +113,10 @@
  SENATE_LOYAL:0 "#P Loyal#!" #NT!
  SENATE_SUPPORTIVE:0 "#P Supportive#!" #NT!
 
- SENATE_TOOLTIP_LOL:0 "[level_of_loyalty|E]:\nLevels of loyalty detrimine the relation between a senate party and their liege, levels of loyalty can greatly affect\n your future as revolting parties can and will cause major revolts with the support of vicars and other vassals.\n\nLevels:\n- #N Revolting#! 0-15 (unlocked by 2nd tier of levels of influence)\n-#N Disloyal#! 16-40 (unlocked by 1st tier of levels of influence)\n- #V Indifferent#! 41-60\n- #P Loyal#!  61-75 (unlocked by 1st tier of levels of influence)\n- #P Supportive#! 76-100 (unlocked by 2nd tier of levels of influence)\n\nBreakdown:" #NT!
+ SENATE_TOOLTIP_LOL:0 "[level_of_loyalty|E]:\nLevels of loyalty detrimine the relation between a senate party and their liege, levels of loyalty can greatly affect\n your future as revolting parties can and will cause major revolts with the support of vicars and other vassals.\n\nLevels:\n- #N Revolting#! 0-15 (unlocked by 2nd tier of levels of influence)\n-#N Disloyal#! 16-40 (unlocked by 1st tier of levels of influence)\n- #V Indifferent#! 41-60\n- #P Loyal#!  61-75 (unlocked by 1st tier of levels of influence)\n- #P Supportive#! 76-100 (unlocked by 2nd tier of levels of influence)\n\nBreakdown:"
+
+ SENATE_TOGGLE_OFFICE_EVENTS:0 "Military Office Events"
+ SENATE_TOGGLE_OFFICE_EVENTS_TOGGLED:0 "#V Enabled#!"
+ SENATE_TOGGLE_OFFICE_EVENTS_NOT_TOGGLED:0 "#N Disabled#!"
+ SENATE_TOGGLE_OFFICE_EVENTS_TOOLTIP_TOGGLED:0 "Military Office Events: #V Enabled#! \nYou will be in control everytime one of the military offices (duchy and kingdom tier vassals)\nare opened and you will decide what you do with the title."
+ SENATE_TOGGLE_OFFICE_EVENTS_TOOLTIP_NOT_TOGGLED:0 "Military Office Events: #V Disabled#! \nYou will not be in control everytime one of the military offices (duchy and kingdom tier vassals)\nare opened and instead the senate will handle the title distribution based on martial and favors\nbetween them and the candidates"

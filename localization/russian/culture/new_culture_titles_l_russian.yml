@@ -135,7 +135,10 @@
  bretwalda:0 "Bretwalda" #NT!
 
  sarkibraterbetti:0 "Sar Kibrāt Erbetti" #NT!
-
+ 
+ pirate_king:0 "Pirate King"
+ pirate_queen:0 "Pirate Queen"
+ 
  # Berbers #NT!
  north_berber_male_baron:0 "Amghar" #NT!
  north_berber_female_baron:0 "Tamghart" #NT!

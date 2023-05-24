@@ -154,3 +154,9 @@
  building_type_estate_03_desc:0 "No other estate owner can take pride in their homestead when compared to ours. Everyday, caravans of slaves, animals, grain and gold go through our palace. It truly is a magnificent display of our renown." #needs change #NT!
  building_estate_03:0 "Taxing Office" #NT!
  building_estate_03_desc:0 "By ensuring the grain and tribute our serfs pay to us is well administered, we will ensure our coffers will always be full!" #needs change #NT!
+
+ building_palace_diocletian:0 "The Palace of Diocletian"
+ building_palace_diocletian_desc:0 "With construction beginning in AD 295, Diocletian's palatial complex along the Dalmatian coastline served as both an administrative center and as a fortress. By the time he abdicated in favor of retirement in AD 305, his palace was still undergoing construction."
+
+ building_type_palace_diocletian:0 "The Palace of Diocletian"
+ building_type_palace_diocletian_desc:0 "With construction beginning in AD 295, Diocletian's palatial complex along the Dalmatian coastline served as both an administrative center and as a fortress. By the time he abdicated in favor of retirement in AD 305, his palace was still undergoing construction."

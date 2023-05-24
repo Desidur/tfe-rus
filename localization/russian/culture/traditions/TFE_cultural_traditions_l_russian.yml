@@ -92,7 +92,10 @@
 
   tradition_orpheus_name:0 "Songs of Orpheus" #NT!
   tradition_orpheus_desc:0 "The legendary Orpheus was the son of a Thracian king. The people of this culture, as the cultural heirs of Orpheus, continue to honor his memory through their ability in song and poetry." #NT!
-
+  
+ tradition_pirate_kings_name:0 "Pirate Kings"
+ tradition_pirate_kings_desc:0 ""
+ culture_parameter_unlock_tfe_maa_illyrian_pirates:0 "Can recruit [GetMaA('illyrian_pirates').GetName] as [men_at_arms|E]"
  # Misc #NT!
  cannot_have_tradition_orpheus:0 "$cannot_combine_tradition_trigger_desc$ #high $tradition_orpheus_name$#!" #NT!
  cannot_have_tradition_music_theory:0 "$cannot_combine_tradition_trigger_desc$ #high $tradition_music_theory_name$#!" #NT!

@@ -99,3 +99,42 @@
 
  artifact_crocodilearmorreal_name:0 "Крокодиловая броня" #NT!
  artifact_crocodilearmorreal_description:0 "Крокодиловая кожа тщательно обработана, чтобы обеспечить защитную оболочку как для прославленного воина, так и для человека с высоким статусом." #NT!
+ 
+ artifact_ivoryscepter_name:0 "Scipio Eberneus"
+ artifact_ivoryscepter_description:0 "Tribal kings often received ivory scepters like this from Rome to symbolize their high status as Roman allies."
+
+ artifact_festooncrown_name:0 "Silver Pilos"
+ artifact_festooncrown_description:0 "A crown with festoons, this headdress was less a full head covering than a crown supported by silver bands on all sides."
+
+ artifact_goldchlamys_name:0 "Silk Chlamys with Gold Tablion"
+ artifact_goldchlamys_description:0 "Greek cloaks like this were used by the emperor and high-ranking courtiers; purple tablions (panels) were reserved for the emperor."
+
+ artifact_trishula_name:0 "Trishula"
+ artifact_trishula_description:0 "A short-handled weapon mounted on a danda (staff) resembling a trident, it is both a useful weapon and a religious symbol of significance -- for example, Shiva used it to sever the original head of Ganesha!"
+
+ artifact_sosunpattah_name:0 "Sosun Pattah"
+ artifact_sosunpattah_description:0 "This short recurved sword, also known as a lily leaf (sosan patta) sword, was used by the Rajputs in North India to great effect."
+
+ artifact_kukridagger_name:0 "Kukri Dagger"
+ artifact_kukridagger_description:0 "This dagger / short sword was used both in war and as a utility tool while working on farms. Its curved shape lent itself well to both chopping and slashing."
+
+ artifact_khandasword_name:0 "Khanda Sword"
+ artifact_khandasword_description:0 "A straight blade sword with a broader front end, it saw widespread usage among the Maratha warrior clans."
+
+ artifact_charmadhal_name:0 "Charma Dhal"
+ artifact_charmadhal_description:0 "A type of metal or hide shield found in the Indian subcontinent, they varied in size and curvature but were nearly always round. The most prized were made from Indian rhinoceros hide."
+
+ artifact_nachakh_name:0 "Nachakh"
+ artifact_nachakh_description:0 "A one-handed axe used primarily by cavalrymen, its half-moon blade suggested Persian influences in its design."
+
+ artifact_reedshield_name:0 "Reed Shield"
+ artifact_reedshield_description:0 "Typically used by the Pazyryk in the steppes, this shield generally consisted of sticks bound together by leather."
+
+ artifact_persianmace_name:0 "Qurz Mace"
+ artifact_persianmace_description:0 "Highly decorated yet extremely efficient at brutally breaking through any armor no matter how tough, these weapons were reserved for elite guard units and other heavily armored troops."
+
+ artifact_zhupinspear_name:0 "Zhupin Spear"
+ artifact_zhupinspear_description:0 "This short spear was named after Zubin (Zupin; Zhubin; Zhupin), a legendary Persian warrior famous for his courage and martial acuity."
+
+ artifact_zirah_name:0 "Zirah Armor"
+ artifact_zirah_description:0 "This chainmail armor with tubular plate vambraces offered protection for Iranian cavalry while also preserving the mobility necessary for combat."

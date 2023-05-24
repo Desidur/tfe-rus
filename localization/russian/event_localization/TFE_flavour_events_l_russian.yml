@@ -56,3 +56,7 @@
  TFE_flavour_events.0011.desc.neutral_outcome:0 "The signs, for once, are ambiguous. The shaman is unable to discern a clear path forward for me." #NT!
  TFE_flavour_events.0011.desc.bad_outcome:0 "The shaman informs me gravely that the signs are grim; my future appears to be most troublesome..." #NT!
  TFE_flavour_events.0011.desc.terrible_outcome:0 "Woe! Just moments ago, the shaman came rushing to me, his face pale and his hands shaking in fear. It appears that my future looks dire indeed..." #NT!
+
+ TFE_flavour_events.0016.t:0 "The New Pirate King"
+ TFE_flavour_events.0016.desc:0 ""
+ TFE_flavour_events.0016.a:0 "The Adriatic Sea Will Know Our Wrath!"

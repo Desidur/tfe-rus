@@ -217,6 +217,13 @@
  TFE_restore_assyria_decision_confirm:0 "Our Enemies Will Bow!" #NT!
  TFE_restore_assyria_decision_tooltip.a:0 "Every [kingdom|E] held by you in [GetGeographicalRegion('region_assyria_greater').GetName] will be transferred to $e_assyria$" #NT!
 
+ TFE_form_illyrian_pirate_empire_decision:0 "Form The Illyrian Pirate Empire"
+ TFE_form_illyrian_pirate_empire_decision_desc:0 "The ancient Illyrians were infamous pirates. Thanks to their expertise in naval warfare, and the cunning of their chieftains like Queen Teuta, other civilizations feared them greatly. Let us emulate these ancient Illyrians!" 
+ TFE_form_illyrian_pirate_empire_decision_tooltip:0 "It is time to form a great pirate empire!"
+ TFE_form_illyrian_pirate_empire_decision_confirm:0 "The Adriatic Sea Will Know Our Wrath!"
+ TFE_form_illyrian_pirate_empire_decision_tooltip.a:0 "Every [kingdom|E] held by you in [GetGeographicalRegion('region_pirate_illyria_greater').GetName] will be transferred to The $e_illyria_pirate$."  
+ TFE_form_illyrian_pirate_empire_decision_tooltip.b:0 "Your [culture|E] will gain the #V Pirate Kings#! [tradition|E]"  
+ 
  set_capital_ctesiphon_decision:0 "Reclaim Tisfun" #NT!
  set_capital_ctesiphon_decision_desc:0 "Tisfun is the ancestral capital of the Ērānian Empire, and as such rightfully belongs to me." #NT!
  set_capital_ctesiphon_decision_tooltip:0 "Restore Tisfun as the capital of your empire." #NT!
@@ -242,4 +249,7 @@
 
  TFE_major_decisions.0002.t:0 "Our Imperial Faith" #NT!
  TFE_major_decisions.0002.desc:0 "While my Empire drafted an Imperial decree declaring my faith to be the sole official Faith of the Empire, I no longer have the same zealousness I once did for [ROOT.Char.GetFaith.GetName]. It is time to turn a new page and revoke our Imperial decree" #NT!
- TFE_major_decisions.0002.a:0 "It's the right thing to do" #NT!
+ TFE_major_decisions.0002.a:0 "It's the right thing to do"
+
+
+ TFE_fictional_larp_warning_tooltip:0 "#weak Note: this decision is a port of the fictional larp decisions. If you want to remove it from the decision menu, you can do so in the game rules.#!"

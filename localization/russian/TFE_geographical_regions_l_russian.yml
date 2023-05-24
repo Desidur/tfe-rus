@@ -6,3 +6,5 @@
  custom_prussia: "Prussia" #NT!
  wre_britannia: "Britannia" #NT!
  old_north: "Yr Hen Ogledd" #NT!
+ region_pirate_illyria:0 "Adriatic Sea"
+ region_pirate_illyria_greater:0 "Greater Illyrian Pirate Empire"

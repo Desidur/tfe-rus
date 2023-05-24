@@ -80,6 +80,12 @@
  PORTRAIT_MODIFIER_custom_headgear_male_headgear_secular_celtic_berru:0 "Berru Helmet" #NT!
  PORTRAIT_MODIFIER_custom_headgear_female_headgear_secular_celtic_berru:0 "$PORTRAIT_MODIFIER_custom_headgear_male_headgear_secular_celtic_berru$" #NT!
 
+ PORTRAIT_MODIFIER_special_celtic_warpaint_custom:0 "Warpaint"
+ PORTRAIT_MODIFIER_special_celtic_warpaint_custom_celtic_warpaint1:0 "Celtic Warpaint 1"
+ PORTRAIT_MODIFIER_special_celtic_warpaint_custom_celtic_warpaint2:0 "Celtic Warpaint 2"
+ PORTRAIT_MODIFIER_special_celtic_warpaint_custom_celtic_warpaint3:0 "Celtic Warpaint 3"
+ PORTRAIT_MODIFIER_special_celtic_warpaint_custom_celtic_warpaint4:0 "Celtic Warpaint 4"
+ PORTRAIT_MODIFIER_special_celtic_warpaint_custom_celtic_warpaint5:0 "Celtic Warpaint 5"
 ############### #NT!
 ###  Greek  ### #NT!
 ############### #NT!
@@ -118,3 +124,17 @@
 ############### #NT!
 
  PORTRAIT_MODIFIER_custom_headgear_male_headgear_secular_thracianInfantry:0 "Thracian Helmet" #NT!
+ 
+
+###############
+##  Persian ## 
+###############
+
+ PORTRAIT_MODIFIER_custom_headgear_headgear_sasanian_war_male_01:0 "Persian Helmet"
+ PORTRAIT_MODIFIER_custom_headgear_headgear_sasanian_war_female_01:0 "Persian Helmet"
+ PORTRAIT_MODIFIER_custom_clothes_clothes_sasanian_war_male_01:0 "Persian Armor (No Harness)"
+ PORTRAIT_MODIFIER_custom_clothes_clothes_sasanian_war_male_02:0 "Persian Armor (With Harness)"
+ PORTRAIT_MODIFIER_custom_clothes_clothes_sasanian_war_female_01:0 "Persian Armor (No Harness)"
+ PORTRAIT_MODIFIER_custom_clothes_clothes_sasanian_war_female_02:0 "Persian Armor (With Harness)"
+ PORTRAIT_MODIFIER_custom_cloaks_cloak_sasanian_war_male_01:0 "Sassanian Pauldrons"   
+ PORTRAIT_MODIFIER_custom_cloaks_cloak_sasanian_war_female_01:0 "Sassanian Pauldrons"   

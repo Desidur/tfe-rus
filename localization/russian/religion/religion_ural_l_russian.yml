@@ -60,7 +60,7 @@ l_english: #NT!
  councillor_court_chaplain_finnish_pagan_duchy:0 "Tietäjä" #NT!
  councillor_court_chaplain_finnish_pagan_duchy_possessive:0 "Tietäjä's" #NT!
 
- finnish_priest_0: "Tietäjä" #NT!
+ finnish_priest:0 "Tietäjä" #NT!
  finnish_priest_plural:0 "Tietäjäs" #NT!
  finnish_priest_female:0 "Tietäjätär" #NT!
  finnish_priest_plural_female:0 "Tietäjätärs" #NT!

@@ -124,3 +124,16 @@
  komi:0 "Komi" #NT!
  komi_prefix:0 "Komi" #NT!
  komi_collective_noun:1 "Komis" #NT!
+ 
+ # Could've been suomenusko but the suomenusko rework mod uses väenusko so
+ finnish_pagan:1 "Väenusko"
+ finnish_pagan_adj:1 "Väenusko"
+ finnish_pagan_adherent:1 "Väenusko"
+ finnish_pagan_adherent_plural:1 "Väenuskos"
+ finnish_pagan:0 "Väenusko"
+ finnish_pagan_adj:0 "Väenusko"
+ finnish_pagan_adherent:0 "Väenusko"
+ finnish_pagan_adherent_plural:0 "Väenuskos"
+ 
+ # Moved from core_l_english.yml
+ LOADSCREEN_INITIALIZING_GAME:0 "Mobilizing the Legions . . ."

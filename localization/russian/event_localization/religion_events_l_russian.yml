@@ -101,4 +101,22 @@
  TFE_christian.0002.b:0 "Let's welcome this great thinker to my court!" #NT!
  TFE_christian.0002.c:0 "This madman should simply be ignored." #NT!
 
-
+ # Illyrian Religious Decision
+ TFE_religious_decision.0003.t:0 "Preparations"
+ TFE_religious_decision.0003.desc.sun:0 "The Cult of the Sun is one of the important cults among us [ROOT.Char.GetFaith.GetAdherentNamePlural]. It is through the sun that we endure as a community and live healthy, prosperous lives. Thus, I have decidied to perform a great sacrifice in honor of the sun."
+ TFE_religious_decision.0003.desc.serpent:0 "The Cult of the Serpent is one of the important cults among us [ROOT.Char.GetFaith.GetAdherentNamePlural]. As one of our protector totems, the serpent brings us great fertility, protection, and wisdom. Thus, I have decidied to perform a great sacrifice in honor of the serpent."
+ TFE_religious_decision.0003.desc:0 "\n\nBefore we get started, however, I need to decide how much I am willing to spend on this ceremony. The more I sacrifice, the better my actions will be seen in the eyes of the [ROOT.Char.Custom('DefaultPriestTitlePlural')] and the [ROOT.Char.GetFaith.PantheonTerm]."
+ TFE_religious_decision.0003.a:0 "A modest sacrifice will do"
+ TFE_religious_decision.0003.b:0 "A decent sacrifice shall suffice"
+ TFE_religious_decision.0003.c:0 "A great sacrifice is ideal"
+ TFE_illyrian_sacrifice_result_something:0 "You receive a #P positive#! [character_modifier|E]"
+ TFE_illyrian_sacrifice_result_nothing:0 "You receive no bonus [character_modifier|E]"
+ TFE_illyrian_sacrifice_small_piety_bonus:0 "You will gain a random amount of [piety|E] betwee [piety_i|E]#V 25#! and [piety_i|E]#V 100#!"
+ TFE_illyrian_sacrifice_medium_piety_bonus:0 "You will gain a random amount of [piety|E] betwee [piety_i|E]#V 50#! and [piety_i|E]#V 150#!"
+ TFE_illyrian_sacrifice_large_piety_bonus:0 "You will gain a random amount of [piety|E] betwee [piety_i|E]#V 75#! and [piety_i|E]#V 200#!"
+ TFE_religious_decision.0004.t:0 "The Sacrifice"
+ TFE_religious_decision.0004.desc:0 "I have completed my sacrifice ritual. Together with the [ROOT.Char.Custom('DefaultPriestTitlePlural')], we worshipped the [ROOT.Char.GetFaith.PantheonTerm] in a great ceremony, in the traditional [ROOT.Char.GetFaith.GetAdjective] manner.\n\n"
+ TFE_religious_decision.0004.desc.sun:0 "Of course, the focus of this ceremony was the Sun. Thus, as is custom, we sacrificed deer and waterfowl, symbols of the sun, at a local altar sitting atop one of the higher points in [ROOT.Char.GetCapitalLocation.GetCounty.GetTitle.GetNameNoTier], because mountain peaks are said to be sacred to the sun."
+ TFE_religious_decision.0004.desc.serpent:0 "Of course, the focus of this ceremony was the Serpent. To us, the Serpent is a being of immense spiritual and magical powers, particularly in its watery and chthonic domain. The local altar in [ROOT.Char.GetCapitalLocation.GetCounty.GetTitle.GetNameNoTier] where we did the ceremony is said to be close to sacred water and sacred terrain."
+ TFE_religious_decision.0004.a:0 "I am glad we could do this."
+ TFE_religious_decision.0004.nothing:0 "$TFE_illyrian_sacrifice_result_nothing$"

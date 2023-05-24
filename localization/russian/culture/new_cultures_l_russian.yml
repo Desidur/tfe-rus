@@ -224,13 +224,13 @@
  taifal_prefix:0 "Таифало" 
  taifal_collective_noun:0 "Таифалск" 
 
- venedian:0 "Венеды" 
- venedian_prefix:0 "Венедо" 
- venedian_collective_noun:0 "Венедск" 
+ venedian:0 "Венеды"
+ venedian_prefix:0 "Венедо"
+ venedian_collective_noun:0 "Венедск"
 
- wendish:0 "Венды" 
- wendish_prefix:0 "Вендо" 
- wendish_collective_noun:0 "Вендск" 
+ wendish:0 "Лехиты"
+ wendish_prefix:0 "Лехито"
+ wendish_collective_noun:0 "Лехитски"
 
  castran:0 "Галлеки" 
  castran_prefix:0 "Галлеко" 
@@ -312,9 +312,9 @@
  gothic_prefix:0 "Гото" 
  gothic_collective_noun:0 "Готск" 
 
- gothonic:0 "Гутоны" 
- gothonic_prefix:0 "Гутоно" 
- gothonic_collective_noun:0 "Гутонск" 
+ gothonic:0 "Вельбары"
+ gothonic_prefix:0 "Вельбаро"
+ gothonic_collective_noun:0 "Вельбарск"
 
  varinian:0 "Варины" 
  varinian_prefix:0 "Варино" 

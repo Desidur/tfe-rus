@@ -1,197 +1,197 @@
 ﻿l_russian:
 
- province_events.0006.t:0 "Temple of Juno Caelestis" #NT!
- province_events.0006.desc:0 "Many followers of our faith, including the Bishop of Carthage and Utica, have brought to my attention the elaborate Temple of Caelestis. It is the opinion of some that this heathen sanctuary in Carthage has stood for far too long in a city dedicated to the Lord. What is to be done with it?" #NT!
- province_events.0006.option.a:0 "We should convert it into a house of the Lord" #NT!
- province_events.0006.option.b:0 "We shall tear this heathen structure down to its foundations, brick by brick." #NT!
- province_events.0006.option.c:0 "They overreact. The small numbers of nonbelievers who still go to its empty halls are harmless." #NT!
+ province_events.0006.t:0 "Храм Юноны Целестиды"
+ province_events.0006.desc:0 "Многие последователи нашей веры, включая епископа Карфагена и Утики, пытались привлечь мое внимание к проблеме храма Целестиды. Некоторые считают, что это языческое святилище Карфагена слишком долго простояло в городе, посвященном Господу. Что с этим делать?"
+ province_events.0006.option.a:0 "Мы должны превратить его в дом Господа"
+ province_events.0006.option.b:0 "Мы разрушим это языческое сооружение до основания, кирпичик за кирпичиком."
+ province_events.0006.option.c:0 "Они слишком остро реагируют. Горстка неверующих, которая все еще ходят в его пустые залы, безобидна."
 
- province_events.0007.t:0 "The Praetorian Guard" #NT!
- province_events.0007.desc:0 "After Constantine's dissolution of the guard, our empire faced many situations where disasters could have been easily stopped with the emperor's elite Praetorian Guard. That's why the wise Imperator is restoring the elite guard and bringing back peace to our realm!" #NT!
- province_events.0007.option:0 "Roma Invicta!" #NT!
- province_events.0007.option.tooltip:0 "You restore the guard and they can be called from the legions tab" #NT!
+ province_events.0007.t:0 "Преторианская гвардия"
+ province_events.0007.desc:0 "После роспуска гвардии Константином наша империя столкнулась со многими ситуациями, когда бедствия можно было легко остановить с помощью элитной преторианской гвардии императора. Вот почему мудрый Император восстанавливает элитную стражу и возвращает мир в наше королевство!"
+ province_events.0007.option:0 "Roma Invicta!"
+ province_events.0007.option.tooltip:0 "Вы восстанавливаете гвардию и ее можно вызвать с помощью вкладки легионов"
 
- province_events.0009.t:0 "An Opening" #NT!
- province_events.0009.desc:0 "As our 'great emperor' is commanding the army, I notice that the only legionaries guarding their tent are scheming with me. Once I grabbed their attention and gave them a signal, they abandoned their post, leaving the emperor vulnerable to my attacks. But how should I attack?" #NT!
- province_events.0009.option.a:0 "I will enter the tent to 'consult' them" #NT!
- province_events.0009.option.a.tooltip:0 "You will try to attack the emperor in the tent" #NT!
- province_events.0009.option.b:0 "Someone inform the emperor to leave the tent. We have important matters to discuss" #NT!
- province_events.0009.option.b.tooltip:0 "You will try to attack the emperor outdoors" #NT!
- province_events.0009.option.c:0 "No, this is the wrong time" #NT!
- province_events.0009.option.c.tooltip:0 "You wait for another opening" #NT!
+ province_events.0009.t:0 "Возможность"
+ province_events.0009.desc:0 "Когда наш 'великий император' командует армией, я замечаю, что единственные легионеры, охраняющие его палатку - это те, кто состоит в моем заговоре. Как только я привлек их внимание и дал им сигнал, они покинули свой пост, оставив императора уязвимым длямоей атаки. Но как мне атаковать?"
+ province_events.0009.option.a:0 "Я войду в палатку, чтобы 'посоветоваться' с ним"
+ province_events.0009.option.a.tooltip:0 "Вы попытаетесь напасть на императора в шатре"
+ province_events.0009.option.b:0 "Кто-нибудь сообщите императору, чтобы он вышел из шатра. Нам нужно обсудить важные дела"
+ province_events.0009.option.b.tooltip:0 "Вы попытаетесь атаковать императора снаружи."
+ province_events.0009.option.c:0 "Нет, неподходящее время."
+ province_events.0009.option.c.tooltip:0 "Вы ждете другой возможности"
+ 
+ province_events.0010.t:0 "Внутри палатки"
+ province_events.0010.desc:0 "Когда я вхожу в палатку, император дает мне знак подождать. Я обнажаю меч и иду к императору."
+ province_events.0010.option.a:0 "Пора, император."
+ province_events.0010.option.a.tooltip.a:0 "Ваша атака оканчивается неудачей"
+ province_events.0010.option.a.tooltip.b:0 "Вы убиваете императора"
 
- province_events.0010.t:0 "Inside The Tent" #NT!
- province_events.0010.desc:0 "As I enter the tent, the emperor signals me to wait. I unsheath my sword and start making my way to the emperor." #NT!
- province_events.0010.option.a:0 "It's time, emperor." #NT!
- province_events.0010.option.a.tooltip.a:0 "You fail the attack" #NT!
- province_events.0010.option.a.tooltip.b:0 "You kill the emperor" #NT!
+ province_events.0011.t:0 "Провал!"
+ province_events.0011.desc:0 "За момент до того, как я пытаюсь нанести смертельный удар, император будто чувствует мое присутствие и оборачивается как раз тогда, когда я опускаю меч. Переполненый подозрениями, он отпускает меня и я знаю, что наши отношения уже не будут прежними."
+ province_events.0011.option.a:0 "Я чистил свой меч!"
+ province_events.0011.option.a.tooltip.a:0 "Ваш заговор терпит провал"
 
- province_events.0011.t:0 "Faliure!" #NT!
- province_events.0011.desc:0 "Just before I attempt the deadly blow, the emperor senses my presence and turns just as I lower my sword. Suspicious, they dismiss me and I know our relationship won't be the same." #NT!
- province_events.0011.option.a:0 "I was cleaning my sword!" #NT!
- province_events.0011.option.a.tooltip.a:0 "Your scheme fails" #NT!
+ province_events.0012.t:0 "Смертельный удар"
+ province_events.0012.desc:0 "Вы бесшумно приближаетесь к императору , заносите меч и ждете подходящего момента. После того, как вы вонзаете свой меч в спину императора и смотрите, как его тело безжизненно падает на пол, вы зовете своих товарищей-легионеров и они оттаскивают тело в кусты."
+ province_events.0012.option.a:0 "Империя в безопасности"
+ province_events.0012.option.a.tooltip.a:0 "Вы убиваете императора"
+ 
+ province_events.0013.t:0 "Предатель!"
+ province_events.0013.desc:0 "Пока я сидел в своей палатке, вошел глава преторианской гвардии, чтобы обсудить планы сражения. Я даю ему сигнал подождать и продолжаю свое письмо. Внезапно я чувствую, как воздух покидает мои легкие! Я оборачиваюсь и вижу легата, его клинок вонзен мне в спину. В глазах темнеет и я выплевываю кровь."
+ province_events.0013.option.a:0 "За что!"
 
- province_events.0012.t:0 "A Deadly Blow" #NT!
- province_events.0012.desc:0 "I near the emperor with silent steps and position my sword and wait for the right moment. As you drive your sword into the emperors back and watch their body slump to the floor lifeless, I yell for my fellow legionaries and they drag the body to the bushes." #NT!
- province_events.0012.option.a:0 "The realm is safe" #NT!
- province_events.0012.option.a.tooltip.a:0 "You kill the emperor" #NT!
+ province_events.0014.t:0 "Новый император"
+ province_events.0014.desc:0 "К настоящему времени вся империя знает о моих деяниях. Звучит резкая критика и даже разговоры о бунте, но пока мне нужно решить насущный вопрос. Кто теперь будет править империей?"
+ province_events.0014.option.a:0 "Я спас империю и буду ею править!"
+ province_events.0014.option.b:0 "Империя достанется тому, кто больше заплатит!"
+ province_events.0014.option.b.tooltip:0 "У каждого викария будет шанс претендовать на трон"
 
- province_events.0013.t:0 "The Traitor!" #NT!
- province_events.0013.desc:0 "As I'm sitting in my tent, the Praetorian guard leader entered my tent to discuss battle plans. I signal to them to wait and I continue my letter. Suddenly, I feel the air sucked from my lungs! I turn to see the legatus with their blade in my back. As it starts to get darker I spit out" #NT!
- province_events.0013.option.a:0 "Why!" #NT!
+ province_events.0015.t:0 "Император свергнут!"
+ province_events.0015.desc:0 "Наш великий император был свергнут своими доверенными стражами! Легат выставил трон на торги и пригласил меня принять участие в этой измене! Может быть, я должен извлечь выгоду из этой возможности?"
+ province_events.0015.option.a:0 "Я ставлю только 200 [Concept (gold), (золотых)|E]"
+ province_events.0015.option.b:0 "500 [Concept (gold), (золотых)|E] - это все, что я готов предложить"
+ province_events.0015.option.c:0 "1000 [Concept (gold), (золотых)|E] дадут мне все права!"
+ province_events.0015.option.d:0 "Как они смеют просить меня участвовать в этой измене!"
 
- province_events.0014.t:0 "A New Emperor" #NT!
- province_events.0014.desc:0 "By now, the entire empire knows of my deeds. There is harsh criticism and even talks of rebellion but for now, I need to manage the pressing issue. Who shall rule the empire now?" #NT!
- province_events.0014.option.a:0 "I saved the empire and I shall rule it!" #NT!
- province_events.0014.option.b:0 "The empire shall go to the highest bidder!" #NT!
- province_events.0014.option.b.tooltip:0 "Every vicarus will have the chance to bid for the throne" #NT!
+ province_events.0017.t:0 "Встреча преторианской гвардии"
+ province_events.0017.desc:0 "Пока я работаю в своей палатке и планирую следующий маршрут, по которому мы должны пойти, легионер просит меня присутствовать на встрече с моими верными охранниками. Когда я выхожу из своей палатки, я замечаю большое количество охранников, окруживших меня. Легат делает шаг вперед и обнажает свой меч."
+ province_events.0017.option.a:0 "Что происходит?"
 
- province_events.0015.t:0 "The Emperor Overthrown!" #NT!
- province_events.0015.desc:0 "Our great emperor has been overthrown by his trusted guards! The Legatus has put the throne up for bidding and invited me to partake in this treason! Maybe I should profit off of this oppurtunity?" #NT!
- province_events.0015.option.a:0 "I will only bid 200 [gold|E]" #NT!
- province_events.0015.option.b:0 "500 [gold|E] is all I'm willing to bid" #NT!
- province_events.0015.option.c:0 "1000 [gold|E] should give me my right!" #NT!
- province_events.0015.option.d:0 "How dare they ask me to partake in this treason!" #NT!
+ province_events.0018.t:0 "Вне палатки"
+ province_events.0018.desc:0 "Когда император выходит из своей палатки, он видит наше большое собрание, окружившее его. Я делаю шаг вперед и обнажаю меч."
+ province_events.0018.option.a:0 "Пора положить этому конец!"
+ province_events.0018.option.a.tooltip.a:0 "Ваша попытка покушения окончилась неудачей"
+ province_events.0018.option.a.tooltip.b:0 "Вы убиваете императора"
 
- province_events.0017.t:0 "The Praetorian Guards Meeting" #NT!
- province_events.0017.desc:0 "As I'm working in my tent and planning the next route we should take, a legionary requests my presence in a meeting with my loyal guards. As I'm leaving my tent, I notice a large amount of guards encircling my tent. The Legatus steps forward and unsheathes his sword." #NT!
- province_events.0017.option.a:0 "What's going on?" #NT!
+ province_events.0019.t:0 "Провал!"
+ province_events.0019.desc:0 "Когда я заношу свой меч, император уклоняется от моей атаки! Затем он проскальзывает через небольшое расстояние между двумя охранниками. Я приказываю всем преследовать его, но в конце концов все решаится между нами двумя. Он поворачивает за угол и исчезает. Я могу выбрать одно направление из двух.."
+ province_events.0019.option.a:0 "Поверну направо"
+ province_events.0019.option.b:0 "Поверну налево"
+ 
+ province_events.0020.t:0 "Измена!"
+ province_events.0020.desc:0 "Легат пытается нанести мне удар мечом, но я уклоняюсь от его атаки. Ошеломленный, я нахожу небольшой зазор между двумя легионерами и проскальзываю в него. Я продолжаю бежать, пока не оказываюсь на развилке"
+ province_events.0020.option.a:0 "Поверну направо"
+ province_events.0020.option.b:0 "Поверну налево"
 
- province_events.0018.t:0 "Outside The Tent" #NT!
- province_events.0018.desc:0 "As the emperor is leaving his tent, they notice our large gathering encircling their tent. I step forward and unsheathe my sword." #NT!
- province_events.0018.option.a:0 "It's time for this to end!" #NT!
- province_events.0018.option.a.tooltip.a:0 "You fail the attack" #NT!
- province_events.0018.option.a.tooltip.b:0 "You kill the emperor" #NT!
+ province_events.0021.t:0 "Смертельный бросок"
+ province_events.0021.desc:0 "Я быстро вонзил свой меч в спину императора и, услышав его последний вздох, дал сигнал легионерам прийти и оттащить теплый труп в кусты."
+ province_events.0021.option.a:0 "За империю."
+ province_events.0021.option.a.tooltip.a:0 "Вы убиваете императора"
 
- province_events.0019.t:0 "Faliure!" #NT!
- province_events.0019.desc:0 "As I thrust my sword, the emperor dodges my attack! They then slide past through a small opening between one of the guards. I order everyone to chase them but at the end, it comes down to between me and them. They turn around a corner and disappear. I have 2 directions to move." #NT!
- province_events.0019.option.a:0 "Turn Right" #NT!
- province_events.0019.option.b:0 "Turn Left" #NT!
+ province_events.0022.t:0 "Предатель!"
+ province_events.0022.desc:0 "Потрясенный происходящим, я вдруг чувствую холодную сталь меча в спине и воздух, высасываемый из моих легких. Я поворачиваюсь и вижу Легата, его клинок в моей спине. В глазах начинает темнеть и из горла выходит кровь."
+ province_events.0022.option.a:0 "За что..."
 
- province_events.0020.t:0 "Treason!" #NT!
- province_events.0020.desc:0 "As the Legatus tries to thrust his sword, I dodge his attack. Stunned, I find a small opening near a legionary and slip through. I keep running until I find two directions to continue" #NT!
- province_events.0020.option.a:0 "Turn Right" #NT!
- province_events.0020.option.b:0 "Turn Left" #NT!
+ province_events.0023.t:0 "Сбежал!"
+ province_events.0023.desc:0 "Оборачиваюсь за угол и вижу........................ничего! Продолжаем обыскивать лагерь, но безрезультатно. Этот демон, возможно, избежал моего гнева, но я получил то, за чем пришел."
+ province_events.0023.option.a:0 "Увы, мир"
+ province_events.0023.option.a.tooltip.a:0 "Вы узурпировали власть императора"
 
- province_events.0021.t:0 "A Deadly Thrust" #NT!
- province_events.0021.desc:0 "I quickly thrust my sword into the emperor's back and as I hear them draw their last breath, I signal to the legionaries to come drag the warm corpse to the bushes." #NT!
- province_events.0021.option.a:0 "For the realm" #NT!
- province_events.0021.option.a.tooltip.a:0 "You kill the emperor" #NT!
-
- province_events.0022.t:0 "The Traitor!" #NT!
- province_events.0022.desc:0 "Shocked by what's happening, I suddenly feel the cold steel of a sword in my back and the air being sucked from my lungs. I turn to see the Legatus with their blade in my back. As it starts to get darker I spit out" #NT!
- province_events.0022.option.a:0 "Why-" #NT!
-
- province_events.0023.t:0 "Escaped!" #NT!
- province_events.0023.desc:0 "I turn around the corner and see......................... nothing! We keep searching the camp but to no avail. That fiend might have escaped my wrath but I got what I came for." #NT!
- province_events.0023.option.a:0 "Alas, Peace" #NT!
- province_events.0023.option.a.tooltip.a:0 "You have usurped the emperor's power" #NT!
-
- province_events.0024.t:0 "Escaped!" #NT!
- province_events.0024.desc:0 "I turn around the corner and keep running until I reach the stable. I get on my horse and rush back to my capital, making sure to leave no tracks. By sunrise, I am long gone from their treachery, but I have surrendered my power." #NT!
- province_events.0024.option.a:0 "They will suffer for what they did!" #NT!
-
-
+ province_events.0024.t:0 "Сбежал!"
+ province_events.0024.desc:0 "Я поворачиваю за угол и продолжаю бежать, пока не добегаю до конюшни. Я сажусь на лошадь и, стараясь не оставлять следов, несусь обратно в свою столицу, . К восходу солнца я сильно оторвалься от предателей, но я отказался от своей власти."
+ province_events.0024.option.a:0 "Они будут страдать за то, что они сделали!"
 
 
 
 
 
- province_events.0025.t:0 "An Opening" #NT!
- province_events.0025.desc:0 "As our 'great emperor' is in his study, I notice that the only legionaries guarding thier tent are scheming with me. Once I grabbed their attention and gave them a signal, they abandoned their post leaving the emperor vulnerable to my attacks. But how should I attack?" #NT!
- province_events.0025.option.a:0 "I will enter the study to 'consult' them" #NT!
- province_events.0025.option.a.tooltip:0 "You will try to attack the emperor alone inside the study" #NT!
- province_events.0025.option.b:0 "Someone inform the emperor to meet me in the war chambers. We have important matters to discuss" #NT!
- province_events.0025.option.b.tooltip:0 "You will try to attack the emperor outside the study" #NT!
- province_events.0025.option.c:0 "No, this is the wrong time" #NT!
- province_events.0025.option.c.tooltip:0 "You wait for another opening" #NT!
 
- province_events.0026.t:0 "Inside The Study" #NT!
- province_events.0026.desc:0 "As I enter the study, the emperor signales me to wait. I wait for a few minutes and unsheath my sword and start making my way to the emperor." #NT!
- province_events.0026.option.a:0 "It's time emperor" #NT!
- province_events.0026.option.a.tooltip.a:0 "You fail the attack" #NT!
- province_events.0026.option.a.tooltip.b:0 "You kill the emperor" #NT!
 
- province_events.0027.t:0 "Faliure!" #NT!
- province_events.0027.desc:0 "Just before I hit the deadly blow, the emperor senses my presence and turns just as I lower my sword. Suspicious, they dismiss me and I know our relationship won't be the same." #NT!
- province_events.0027.option.a:0 "I was cleaning my sword!" #NT!
- province_events.0027.option.a.tooltip.a:0 "Your scheme fails" #NT!
+ province_events.0025.t:0 "Возможность"
+ province_events.0025.desc:0 "Наш 'великий император' находится в своем кабинете. Я замечаю, что единственные легионеры, которые охраняют вход это те, кто состоит в заговоре со мной. Как только я привлек их внимание и дал им сигнал, они покинули свой пост, оставив императора уязвимым. Но как мне нанести удар?"
+ province_events.0025.option.a:0 "Я войду в кабинет, чтобы 'посоветоваться' с ним"
+ province_events.0025.option.a.tooltip:0 "Вы попытаетесь атаковать императора в одиночку внутри кабинета."
+ province_events.0025.option.b:0 "Кто-нибудь, сообщите императору, чтобы он встретил меня в военных покоях. У нас есть важные дела для обсуждения"
+ province_events.0025.option.b.tooltip:0 "Вы попытаетесь напасть на императора за пределами кабинета."
+ province_events.0025.option.c:0 "Нет, это неподходящее время"
+ province_events.0025.option.c.tooltip:0 "Вы ждете другой возможности"
+ 
+ province_events.0026.t:0 "Внутри кабинета"
+ province_events.0026.desc:0 "Когда я вхожу в кабинет, император делает мне знак подождать. Я жду несколько минут, обнажаю меч и иду к императору."
+ province_events.0026.option.a:0 "Пришло время, император"
+ province_events.0026.option.a.tooltip.a:0 "Ваша попытка покушения провалена"
+ province_events.0026.option.a.tooltip.b:0 "Вы убиваете императора"
 
- province_events.0028.t:0 "A Deadly Blow" #NT!
- province_events.0028.desc:0 "I near the emperor with silent steps and position my sword and wait for the right moment. As you drive your sword into the emperors back and watch their body turn lifelss, I yell for my fellow legionaries and they drag the body to the bushes." #NT!
- province_events.0028.option.a:0 "The realm is safe" #NT!
- province_events.0028.option.a.tooltip.a:0 "You kill the emperor" #NT!
+ province_events.0027.t:0 "Провал!"
+ province_events.0027.desc:0 "За секунду до того, как я собираюсь нанести смертельный удар, император чувствует мое присутствие и оборачивается, я опускаю меч. Переполненый подозрениями, он приказывает мне удалиться и я знаю, что наши отношения уже не будут прежними."
+ province_events.0027.option.a:0 "Я чистил свой меч!"
+ province_events.0027.option.a.tooltip.a:0 "Ваш заговор терпит неудачу"
 
- province_events.0029.t:0 "The Traitor!" #NT!
- province_events.0029.desc:0 "As I'm sitting in my study, the Praetorian guard leader entered the chambers to discuiss possible war plans. I signale them to wait and I continue my letter. Suddenly, I feel the air sucked from my lungs! I turn to see the legatus with their blade in my back. As it starts to get darker I spit out" #NT!
- province_events.0029.option.a:0 "Why!" #NT!
+ province_events.0028.t:0 "Смертельный удар"
+ province_events.0028.desc:0 "Я бесшумно приближаюсь к императору, заношу меч и жду подходящего момента. Я вонзаю клинок в его спину и наблюдаю, как жизнь покидает тело императора. Затем я зову своих товарищей-легионеров и они оттаскивают тело в кусты."
+ province_events.0028.option.a:0 "Империя в безопасности"
+ province_events.0028.option.a.tooltip.a:0 "Вы убиваете императора"
+ 
+ province_events.0029.t:0 "Предатель!"
+ province_events.0029.desc:0 "Когда я нахожусь в своем кабинете, в комнату входит глава преторианской гвардии чтобы обсудить возможные военные планы. Я даю ему знак подождать и продолжаю свое письмо. Внезапно я чувствую, как воздух высасывается из моих легких! Я оборачиваюсь и вижу легата, его клинок в моей спине. В глазах темнеет, из горла выходит кровь."
+ province_events.0029.option.a:0 "Почему!"
 
- province_events.0030.t:0 "The Praetorian Guards Meeting" #NT!
- province_events.0030.desc:0 "As I'm sitting in my study and planning the next council meeting, a legionarie requests my presence in the warchambers with my loyal guards. As I'm leaving my study, I notice a large amount of the guards encircling me. the Legatus steps forward and unsheathes his sword." #NT!
- province_events.0030.option.a:0 "What's going on?" #NT!
+ province_events.0030.t:0 "Встреча преторианской гвардии"
+ province_events.0030.desc:0 "Когда я сижу в своем кабинете и планирую следующее собрание совета, легионер просит меня явиться в военные покои с моими верными стражниками. Когда я выхожу из своего кабинета, я вижу большое количество охранников, окруживших меня. Легат делает шаг вперед и обнажает меч."
+ province_events.0030.option.a:0 "Что происходит?"
 
- province_events.0031.t:0 "Outside The Study" #NT!
- province_events.0031.desc:0 "As the emperor is leaving his study, they notices our large gathering encircling them. I step forward and unsheathe my sword." #NT!
- province_events.0031.option.a:0 "It's time for this to end!" #NT!
- province_events.0031.option.a.tooltip.a:0 "You fail the attack" #NT!
- province_events.0031.option.a.tooltip.b:0 "You kill the emperor" #NT!
+ province_events.0031.t:0 "Вне кабинета"
+ province_events.0031.desc:0 "Когда император выходит из своего кабинета, он видит наше большое собрание, окружившее его. Я делаю шаг вперед и обнажаю меч."
+ province_events.0031.option.a:0 "Пора положить этому конец!"
+ province_events.0031.option.a.tooltip.a:0 "Ваша попытка покушения проваливается"
+ province_events.0031.option.a.tooltip.b:0 "Вы убиваете императора"
 
- province_events.0032.t:0 "Faliure!" #NT!
- province_events.0032.desc:0 "As I thrust my sword, the emperor dodges my attack! They then slid past through a small opening between one of the guards. I order everyone to chase them but at the end, it was between me and them. They turn around a corner and disappear. I have 2 directions to move." #NT!
- province_events.0032.option.a:0 "Turn Right" #NT!
- province_events.0032.option.b:0 "Turn Left" #NT!
+ province_events.0032.t:0 "Провал!"
+ province_events.0032.desc:0 "Я делаю выпад мечом, но император уклоняется от моей атаки! Затем он проскальзывает через небольшое расстояние между двумя стражниками. Я приказываю всем преследовать его, но, в конце концов, это между мной и им. Он поворачивает за угол и исчезает. Дальше я могу выбрать одно из двух направлений."
+ province_events.0032.option.a:0 "Поверну направо"
+ province_events.0032.option.b:0 "Поверну налево"
+ 
+ province_events.0033.t:0 "Измена!"
+ province_events.0033.desc:0 "Легат пытается пронзить меня своим мечом, но я уклоняюсь от его удара. Ошеломленный, я вижу небольшое расстояние между двумя легионерами и проскальзываю в него. Я продолжаю бежать пока не оказываюсь на развилке."
+ province_events.0033.option.a:0 "Поверну направо"
+ province_events.0033.option.b:0 "Поверну налево"
 
- province_events.0033.t:0 "Treason!" #NT!
- province_events.0033.desc:0 "As the Legatus tries to thrust his sword, I dodge his attack. Stunned, I find a small opening near a legionarie and slip through. I keep running till I find two directions to continue" #NT!
- province_events.0033.option.a:0 "Turn Right" #NT!
- province_events.0033.option.b:0 "Turn Left" #NT!
+ province_events.0034.t:0 "Смертельный бросок"
+ province_events.0034.desc:0 "Я быстро вонзил свой меч в спину императора и, услышав его последний вздох, дал сигнал легионерам подойти и оттащить теплый труп в кусты."
+ province_events.0034.option.a:0 "За империю"
+ province_events.0034.option.a.tooltip.a:0 "Вы убиваете императора"
 
- province_events.0034.t:0 "A Deadly Thrust" #NT!
- province_events.0034.desc:0 "I quickly thrust my sword into the emperor's back and as I hear them draw their last breath, I signal to the legionaries to come drag the warm corpse to the bushes." #NT!
- province_events.0034.option.a:0 "For the realm" #NT!
- province_events.0034.option.a.tooltip.a:0 "You kill the emperor" #NT!
+ province_events.0035.t:0 "Предатель!"
+ province_events.0035.desc:0 "Потрясенный происходящим, я вдруг чувствую холодную сталь меча в спине и воздух, высасываемый из моих легких. Я оборачиваюсь и вижу легата, его клинок в моей спине. В глазах темнеет и я кашляю кровью."
+ province_events.0035.option.a:0 "Почему"
 
- province_events.0035.t:0 "The Traitor!" #NT!
- province_events.0035.desc:0 "Shocked by what's happening, I suddenly feel the cold steel of a sword in my back and the air being sucked from my lungs. I turn to see the legatus with their blade in my back. As it starts to get darker I spit out" #NT!
- province_events.0035.option.a:0 "Why-" #NT!
+ province_events.0036.t:0 "Сбежал!"
+ province_events.0036.desc:0 "Поворачиваю за угол и вижу........................ничего! Мы продолжаем обыскивать дворец, но безрезультатно. Этот демон, возможно, избежал моего гнева, но я получил то, за чем пришел."
+ province_events.0036.option.a:0 "Увы, мир"
+ province_events.0036.option.a.tooltip.a:0 "Вы узурпировали власть императора"
 
- province_events.0036.t:0 "Escaped!" #NT!
- province_events.0036.desc:0 "I turn around the corner and see......................... nothing! We keep searching the palace but to no result. That fiend might have escaped my wrath but I got what I came for." #NT!
- province_events.0036.option.a:0 "Alas, Peace" #NT!
- province_events.0036.option.a.tooltip.a:0 "You have usurped the emperor's power" #NT!
+ province_events.0037.t:0 "Сбежал!"
+ province_events.0037.desc:0 "Я сворачиваю за угол и продолжаю бежать, пока не добираюсь до своего верного советника, приказываю ему быстро привести мне мою лошадь и встретить меня в переулке. Я сажусь на лошадь и, стараясь не привлекать внимания, мчусь в безопасное место. К восходу солнца я далеко ушел от их преследования, но ради этого я отказался от своей власти."
+ province_events.0037.option.a:0 "Они будут страдать за то, что они сделали!"
 
- province_events.0037.t:0 "Escaped!" #NT!
- province_events.0037.desc:0 "I turn around the corner and keep running till I reach my loyal councillor, I order him to fetch me my horse and to quickly meet me in the alleyway. I get on my horse an rush back to saftey making sure to not attract any attention. By sunrise, I was long gone from their treachery but for that, I have surrendred my power." #NT!
- province_events.0037.option.a:0 "They will suffer for what they did!" #NT!
+ province_events.0038.t:0 "Шлем Аврелиана"
+ province_events.0038.desc:0 "Я поручил своему доверенному антиквару отправиться в путешествие по всему миру в поисках старого и бесценного артефакта — шлема императора Аврелиана! Шансы найти такую вещь в лучшем случае минимальны, но величие и сила обладания таким артефактом перевешивают все остальное. Мой антиквар просил денег, но сколько я должен ему дать?"
+ province_events.0038.option.a:0 "Небольшую сумму, я доверяю вашим навыкам"
+ province_events.0038.option.b:0 "Значительную сумму, но вам лучше найти его!"
+ province_events.0038.option.c:0 "Чего бы это ни стоило, только найдите его!"
+ province_events.0038.option.d:0 "Неважно"
+ province_events.0038.option.tooltip.a:0 "Вы найдете шлем"
 
- province_events.0038.t:0 "Aurelian's Helmet" #NT!
- province_events.0038.desc:0 "I have called my trusted antiquarian to travel far and wide in search of an old and invaluable artifact, the helmet of Imperator Aurelian! The chances of finding such a thing is minimal at best but the grandness and power of holding such an artifact outweighs everything else. My antiquarian did ask for funds but how much should I trust him with?" #NT!
- province_events.0038.option.a:0 "A small sum, I trust your skils" #NT!
- province_events.0038.option.b:0 "A significant sum but you better find it!" #NT!
- province_events.0038.option.c:0 "Whatever it takes to bring it!" #NT!
- province_events.0038.option.d:0 "Never mind" #NT!
- province_events.0038.option.tooltip.a:0 "You find the helmet" #NT!
+ province_events.0039.t:0 "Шлем Аврелиана"
+ province_events.0039.desc:0 "Мой антиквар, явно измученный долгой и мучительной поездкой, врывается в зал. Он становится передо мной на колени и вручает деревянный ящик, рассказывает о своем путешествии, людях и деревнях, через которые он проезжал. Он открывает ящик и... Возможно ли это?"
+ province_events.0039.option.a:0 "Шлем!"
 
- province_events.0039.t:0 "Aurelian's Helmet" #NT!
- province_events.0039.desc:0 "My antiquarian bursts through my court's door, clearly exhausted from the long and harrowing trip I set him upon. He kneels infront of me and presents a wooden box, he mentions his trip, the people and villages he passed through and as he opens the box, could it be?" #NT!
- province_events.0039.option.a:0 "The Helmet!" #NT!
+ province_events.0040.t:0 "Галльская империя"
+ province_events.0040.desc:0 "Император Галлий, император Галлии. Это был титул, который носил сам Постум во время кризиса третьего века, чтобы претендовать на императорский титул. Сегодня Галльская империя провозглашена вновь и она сильнее, чем когда-либо. Да здравствует Император!"
+ province_events.0040.option.a:0 "Галльская империя вернулась!"
+ province_events.0040.option.tooltip.a:0 "Вы теперь галльский император"
 
- province_events.0040.t:0 "The Gallic Empire" #NT!
- province_events.0040.desc:0 "Imperator Galliae, The Emperor of Gaul. This was a title Postumus himself effectively had during the crisis of the third century to claim  the imperial title. Today, the Gallic Empire has been proclaimed once again stronger than ever. Long live the Emperor!" #NT!
- province_events.0040.option.a:0 "The Gallic Empire is back!" #NT!
- province_events.0040.option.tooltip.a:0 "You are now the Gallic Emperor" #NT!
+ province_events.0041.t:0 "Пальмирское царство"
+ province_events.0041.desc:0 "Пальмирское царство было государством, отколовшимся от Римской империи во время кризиса третьего века. Затем оно было отвоевано Аврелием, тогдашним римским императором. Сегодня Пальмирское царство восстановлено, и пусть оно живет сотни лет!"
+ province_events.0041.option.a:0 "Пальмирское царство вернулось!"
+ province_events.0041.option.tooltip.a:0 "Теперь вы император Пальмиры"
 
- province_events.0041.t:0 "The Palmyrene Empire" #NT!
- province_events.0041.desc:0 "The Palmyrene Empire was a breakaway state from the Roman Empire during the crisis of the third century. Then, it was reconquered by the  Aurelius, the Roman emperor at that time. Today, the Palmyrene Empire has been re-established, and may it live for hundreds of years!" #NT!
- province_events.0041.option.a:0 "The Palmyrene Empire is back!" #NT!
- province_events.0041.option.tooltip.a:0 "You are now the Palmyrene Emperor" #NT!
+ province_events.0042.t:0 "Призыв к оружию"
+ province_events.0042.desc:0 "Наш достопочтенный сюзерен призвал нас присоединиться к его делу против великой имперской реконкисты."
+ province_events.0042.option.a:0 "Наш верховный сюзерен взывает о помощи и мы ответим!"
+ province_events.0042.option.b:0 "Мы не можем себе этого позволить"
 
- province_events.0042.t:0 "A Call To Arms" #NT!
- province_events.0042.desc:0 "Our honourable liege has called upon us to join his cause against a Grand Imperial Reconquest." #NT!
- province_events.0042.option.a:0 "Our top liege calls for aid and we will answer!" #NT!
- province_events.0042.option.b:0 "We cannot afford this endeavour" #NT!
-
- province_events.0043.t:0 "A Call To Arms" #NT!
- province_events.0043.desc:0 "Our honourable liege has called upon us to join his cause in a Grand Imperial Reconquest." #NT!
- province_events.0043.option.a:0 "Our top liege calls for aid and we will answer!" #NT!
- province_events.0043.option.b:0 "We cannot afford this endeavour" #NT!
+ province_events.0043.t:0 "Призыв к оружию"
+ province_events.0043.desc:0 "Наш достопочтенный сюзерен призвал нас присоединиться к его делу великой имперской реконкисты."
+ province_events.0043.option.a:0 "Наш верховный сюзерен взывает о помощи и мы ответим!"
+ province_events.0043.option.b:0 "Мы не можем себе этого позволить"

@@ -316,6 +316,8 @@
  # FP1 Traditions #NT!
  tradition_fp1_coastal_warriors_name:0 "Воины побережий"
  tradition_fp1_coastal_warriors_desc:1 "Нас всегда тянуло к берегам. Морской ветер, крики чаек, запах копченой рыбы... да какой воин решит жить вдали от воды и свободы?"
+ tradition_debug_name:0 "Mercurial Ways"
+ tradition_debug_desc:0 "This culture is known for its many eclectic & contradictory stances."
  tradition_fp1_performative_honour_name:0 "Честь исполнения"
  tradition_fp1_performative_honour_desc:1 "С честью рождаются, но ее также можно получить или потерять. В погоне за местью солдаты превращаются в подлецов, а молодняк вырастает в воинов."
  tradition_fp1_northern_stories_name:0 "Северные истории"
@@ -499,7 +501,9 @@
  culture_parameter_characters_are_better_court_musicians:1 "[characters|E] этой [Concept( 'culture', 'культуры' )|E] лучше проявляют себя в [Concept( 'court_position', 'должности' )|E] #high $court_musician_court_position$#!"
  culture_parameter_characters_are_better_food_tasters:0 "[characters|E] этой [Concept( 'culture', 'культуры' )|E] лучше проявляют себя в [Concept( 'court_position', 'должности' )|E] #high $food_taster_court_position$#!"
  culture_parameter_characters_are_better_court_poets:0 "[characters|E] этой [Concept( 'culture', 'культуры' )|E] лучше проявляют себя в [Concept( 'court_position', 'должности' )|E] #high $court_poet_court_position$#!"
-
+ culture_parameter_more_parochial_vassals:0 "$parochial_vassals$ are more common"
+ culture_parameter_byzantine_faction_differences:0 "[vassals|E] of this [culture|E] are less likely to join [dissolution_factions|E] against the [holder|E] of the #V $e_byzantium$#!"
+ culture_parameter_byzantine_faction_preffered_claimants:0 "[vassals|E] of this [culture|E] are much more likely to join [claimant_factions|E] against the [holder|E] of the #V $e_byzantium$#! if they are not the [preferred_heir|E]"
 
 ### Decision loc #NT!
  recruit_winter_specialist_decision:0 "Нанять специалиста по зимней войне"
@@ -1105,3 +1109,15 @@
  # TFE stuff idk where to put #NT!
  culture_parameter_female_allowed_council:0 "Женщины могут назначаться [chancellors|E], [stewards|E] и [marshals|E] независимо от вероисповедания [doctrine|E]"
  culture_parameter_grandeur_from_script:0 "#P +1#! [court_grandeur|E] Базовый уровень на 50 округов, использующих этот скрипт"
+ #EP2 Traditions
+ tradition_ep2_avid_falconers_name:0 "Avid Falconers"
+ tradition_ep2_avid_falconers_desc:0 "The art of breeding, training, and hunting with raptors like falcons and hawks is one of most prestigious past-times among this culture's elite."
+ culture_parameter_falconer_traits_more_common:0 "[characters|E] gain more Falconer [trait_level_track_xp|E]"
+ culture_parameter_forest_hunt_success_chance:0 "Increased [hunt_success_chance|E] in [GetTerrain( 'forest' ).GetName] and [GetTerrain( 'taiga' ).GetName]"
+ culture_parameter_hills_hunt_success_chance:0 "Increased [hunt_success_chance|E] in [GetTerrain( 'hills' ).GetName]"
+ culture_parameter_desert_hunt_success_chance:0 "Increased [hunt_success_chance|E] in [GetTerrain( 'desert' ).GetName] and [GetTerrain( 'oasis' ).GetName]"
+ culture_parameter_steppe_hunt_success_chance:0 "Increased [hunt_success_chance|E] in [GetTerrain( 'steppe' ).GetName]"
+ culture_parameter_mountains_hunt_success_chance:0 "Increased [hunt_success_chance|E] in [GetTerrain( 'mountains' ).GetName] and [GetTerrain( 'desert_mountains' ).GetName]"
+ culture_parameter_drylands_hunt_success_chance:0 "Increased [hunt_success_chance|E] in [GetTerrain( 'drylands' ).GetName] and [GetTerrain( 'desert' ).GetName]"
+ culture_parameter_jungle_hunt_success_chance:0 "Increased [hunt_success_chance|E] in [GetTerrain( 'jungle' ).GetName]"
+ culture_parameter_wetlands_hunt_success_chance:0 "Increased [hunt_success_chance|E] in [GetTerrain( 'wetlands' ).GetName] and [GetTerrain( 'wetlands' ).floodplains]"

@@ -1,1421 +1,1416 @@
 ﻿l_russian:
- # Sol Invictus #NT!
- sol_invictus:0 "Sol Invictus" #NT!
- sol_invictus_adj:0 "Sol" #NT!
- sol_invictus_adherent:0 "Solist" #NT!
- sol_invictus_adherent_plural:0 "Solists" #NT!
- sol_invictus_desc:1 "Sol was an early Roman sun deity that fell into obscurity during the First Century CE, but later brought back into prominence during the reign of Emperor Aurelian." #NT!
-
- roman_pagan:0 "Cultus Deorum Romanorum" #NT!
- roman_pagan_adj:0 "Religio Romana" #NT!
- roman_pagan_adherent:0 "Religio Romana" #NT!
- roman_pagan_adherent_plural:0 "Greco-Latins" #NT!
- roman_pagan_desc:0 "The Cultus Deorum Romanorum refers to the system of beliefs and traditions upheld by the Romans, deriving influence from their historical neighbors in Magna Graecia and Etruria in the days of the Roman Republic." #NT!
-
- sol_invictus_old:0 "Old Sol Invictus" #NT!
- sol_invictus_old_adj:0 "Old Sol" #NT!
- sol_invictus_old_adherent:0 "Old Solist" #NT!
- sol_invictus_old_adherent_plural:0 "Old Solists" #NT!
-
- # Arabic Paganism #NT!
-
- arabic_pagan:1 "Semitic Paganism" #NT!
- arabic_pagan_adj:1 "Semitic" #NT!
- arabic_pagan_adherent:1 "Semite" #NT!
- arabic_pagan_adherents_plural:1 "Semites" #NT!
- arabic_pagan_desc:1 "Isolated from the influences of Rome and Persia, the paganist beliefs of the Arab tribes binds the peoples of the region to its deserts and calm coastlines; without unity or a lust for conquest, followers of Arabic Paganism simply seek peace and tranquility from the happenings in Europe or the Orient." #NT!
-
- arabic_pagan_old:1 "Old Semitic Paganism" #NT!
- arabic_pagan_old_adj:1 "Old Semitic" #NT!
- arabic_pagan_old_adherent:1 "Old Semite" #NT!
- arabic_pagan_old_plural:1 "Old Semites" #NT!
-
- arabic_pagan:0 "Hubalism" #NT!
- arabic_pagan_adj:0 "Hubalist" #NT!
- arabic_pagan_adherent:1 "Hubalist" #NT!
- arabic_pagan_adherent_plural:0 "Hubalists" #NT!
- arabic_pagan_desc:0 "The Arabic tribes of the central and northern Arabian peninsula worshipped a plethora of deities, with less foreign influence than their cousins further north like the Nabataeans. Their chief deity was Hubal, god of the moon." #NT!
-
- arabic_pagan_old:0 "Old Hubalism" #NT!
- arabic_pagan_old_adj:0 "Old Hubalist" #NT!
- arabic_pagan_old_adherent:1 "Old Hubalist" #NT!
- arabic_pagan_old_adherent_plural:0 "Old Hubalists" #NT!
-
- # Germanic Paganism #NT!
- central_pagan:0 "Irminsul" #NT!
- central_pagan_adj:0 "Irminsul" #NT!
- central_pagan_adherent:0 "Irminist" #NT!
- central_pagan_adherent_plural:0 "Irminists" #NT!
- central_pagan_desc:1 "The native faith of the Scandinavian and Germanic regions, the old Norse and Germanic forms of paganism revolve around reverence of gods known as the Æsir. Adherents are expected to live — and preferably die — in an honorable fashion." #NT!
-
- central_pagan_old:0 "Old Irminsul" #NT!
- central_pagan_old_adj:0 "Old Irminsul" #NT!
- central_pagan_old_adherent:0 "Old Irminist" #NT!
- central_pagan_old_adherent_plural:0 "Old Irminists" #NT!
-
- central_pagan_high_god_name:0 "Irmin" #NT!
- central_pagan_high_god_name_possessive:0 "Irmin's" #NT!
- central_pagan_high_god_she_he:0 "He" #NT!
- central_pagan_high_god_alternate:0 "Woden" #NT!
- central_pagan_high_god_alternate_possessive:0 "Woden's" #NT!
- central_pagan_good_god_thor:0 "Thunaer" #NT!
- central_pagan_good_god_baldr:0 "Baldr" #NT!
- central_pagan_good_god_frua:0 "$central_pagan_fertility_god_name$" #NT!
- central_pagan_good_god_tyr:0 "$central_pagan_war_god_name$" #NT!
- central_pagan_good_god_sunna:0 "Sunna" #NT!
-
- central_pagan_creator_god_name:0 "$central_pagan_high_god_name$" #NT!
- central_pagan_creator_god_name_possessive:0 "$central_pagan_high_god_name_possessive$" #NT!
- central_pagan_health_god_name:0 "Frō" #NT!
- central_pagan_health_god_name_possessive:0 "Frō's" #NT!
- central_pagan_fertility_god_name:0 "Frūa" #NT!
- central_pagan_fertility_god_name_possessive:0 "Frūa's" #NT!
- central_pagan_wealth_god_name:0 "Nerþuz" #NT!
- central_pagan_wealth_god_name_possessive:0 "Nerþuz's" #NT!
- central_pagan_household_god_name:0 "Fri" #NT!
- central_pagan_household_god_name_possessive:0 "Fri's" #NT!
- central_pagan_fate_god_name:0 "Idis" #NT!
- central_pagan_fate_god_name_possessive:0 "Idis's" #NT!
- central_pagan_knowledge_god_name:0 "Forsite" #NT!
- central_pagan_knowledge_god_name_possessive:0 "Forsite's" #NT!
- central_pagan_war_god_name:0 "Ziu" #NT!
- central_pagan_war_god_name_possessive:0 "Ziu's" #NT!
-
- gothic_pagan:0 "Blótan" #NT!
- gothic_pagan_adj:0 "Blótan" #NT!
- gothic_pagan_adherent:0 "Blotist" #NT!
- gothic_pagan_adherent_plural:0 "Blotists" #NT!
-
- gothic_pagan_old:0 "Old Blótan" #NT!
- gothic_pagan_old_adj:0 "Old Blótan" #NT!
- gothic_pagan_old_adherent:0 "Old Blotist" #NT!
- gothic_pagan_old_adherent_plural:0 "Old Blotists" #NT!
-
- gothic_high_god_name:0 "Gapt" #NT!
- gothic_high_god_name_possessive:0 "Gapt's" #NT!
- gothic_high_god_alternate:0 "Gapt" #NT!
- gothic_high_god_alternate_possessive:0 "Gapt's" #NT!
- gothic_good_god_fairguneis:0 "Fairguneis" #NT!
- gothic_good_god_ingwaz:0 "$gothic_fertility_god_name$" #NT!
- gothic_good_god_terwing:0 "$gothic_war_god_name$" #NT!
- gothic_priest_male:0 "blostreis" #NT!
- gothic_priest_male_plural:0 "blostreis" #NT!
- gothic_priest_female:0 "blostreis" #NT!
- gothic_priest_female_plural:0 "blostreis" #NT!
- gothic_priest_neuter:0 "blostreis" #NT!
- gothic_priest_neuter_plural:0 "blostreis" #NT!
-
- gothic_fertility_god_name:0 "Ingwaz" #NT!
- gothic_fertility_god_name_possessive:0 "Ingwaz's" #NT!
- gothic_knowledge_god_name:0 "$gothic_high_god_name$" #NT!
- gothic_knowledge_god_name_possessive:0 "$gothic_high_god_name_possessive$" #NT!
- gothic_war_god_name:0 "Terwing" #NT!
- gothic_war_god_name_possessive:0 "Terwing's" #NT!
- gothic_water_god_name:0 "Donaws" #NT!
- gothic_water_god_name_possessive:0 "Donaws'" #NT!
-
- has_special_heritage_name:0 "Special Heritage" #NT!
- special_faith_no_special_heritage_name:0 "None" #NT!
- special_faith_no_special_heritage_desc:0 "We shall forsake our heritage, and enter this world without bias." #NT!
- doctrine_parameter_no_effect_removed_upon_creation:0 "This Doctrine has no effect and will be removed when the Faith is created" #NT!
- special_faith_has_germanic_heritage_name:0 "Germanic Heritage" #NT!
- special_faith_has_germanic_heritage_desc:0 "While our practices may have drifted along the years, we revere the same gods as our cousins and still consider them our siblings in faith." #NT!
- doctrine_parameter_hostility_override_special_faith_has_germanic_heritage:0 "Considers, and is considered by, other [faiths|E] with the #V $special_faith_has_germanic_heritage_name$#! [doctrine|E] as [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]" #NT!
- doctrine_parameter_hostility_override_special_faith_teachings_of_ulfilas:0 "Considers, and is considered by, other [faiths|E] with the #V $special_faith_teachings_of_ulfilas_name$#! [doctrine|E] as [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]" #NT!
-
- saxon_pagan:0 "Eseism" #NT!
- saxon_pagan_adj:0 "Eseist" #NT!
- saxon_pagan_adherent:0 "Eseist" #NT!
- saxon_pagan_adherent_plural:0 "Eseists" #NT!
-
- saxon_pagan_old:0 "Old Eseism" #NT!
- saxon_pagan_old_adj:0 "Old Eseist" #NT!
- saxon_pagan_old_adherent:0 "Old Eseist" #NT!
- saxon_pagan_old_adherent_plural:0 "Old Eseists" #NT!
-
- saxon_pagan_high_god_name:0 "Woden" #NT!
- saxon_pagan_high_god_name_possessive:0 "Woden's" #NT!
- saxon_pagan_high_god_she_he:0 "He" #NT!
- saxon_pagan_high_god_alternate:0 "All-Father" #NT!
- saxon_pagan_high_god_alternate_possessive:0 "All-Father's" #NT!
- saxon_pagan_good_god_thor:0 "Thunor" #NT!
- saxon_pagan_good_god_wecta:0 "Wecta" #NT!
- saxon_pagan_good_god_seaxneat:0 "Seaxneat" #NT!
- saxon_pagan_good_god_baeldeag:0 "Baeldeag" #NT!
-
- saxon_pagan_creator_god_name:0 "$saxon_pagan_high_god_name$" #NT!
- saxon_pagan_creator_god_name_possessive:0 "$saxon_pagan_high_god_name_possessive$" #NT!
- saxon_pagan_health_god_name:0 "Frig" #NT!
- saxon_pagan_health_god_name_possessive:0 "Frig's" #NT!
- saxon_pagan_fertility_god_name:0 "Ing" #NT!
- saxon_pagan_fertility_god_name_possessive:0 "Ing's" #NT!
- saxon_pagan_wealth_god_name:0 "Beowa" #NT!
- saxon_pagan_wealth_god_name_possessive:0 "Beowa's" #NT!
- saxon_pagan_household_god_name:0 "$saxon_pagan_health_god_name$" #NT!
- saxon_pagan_household_god_name_possessive:0 "$saxon_pagan_health_god_name_possesive$" #NT!
- saxon_pagan_fate_god_name:0 "Wyrd" #NT!
- saxon_pagan_fate_god_name_possessive:0 "Wyrd's" #NT!
- saxon_pagan_knowledge_god_name:0 "$saxon_pagan_high_god_name$" #NT!
- saxon_pagan_knowledge_god_name_possessive:0 "$saxon_pagan_high_god_name_possessive$" #NT!
- saxon_pagan_war_god_name:0 "Tiw" #NT!
- saxon_pagan_war_god_name_possessive:0 "Tiw's" #NT!
-
- saxon_pagan_pantheon_name:0 "The Ese" #NT!
- # Generic Druidic/Common Druidic Localization #NT!
- druidism_religion:0 "Druidism" #NT!
- druidism_religion_adj:0 "Druidic" #NT!
- druidism_religion_adherent:0 "Druidist" #NT!
- druidism_religion_adherent_plural:0 "Druidists" #NT!
- druidism_religion_desc:0 "The beliefs of the ancient Celts revolved around what we call Celtic Mythology. The High Priest of these belief systems were the Druids, who were medics, astrologists, royal councillors and professors. The Romans feared the political power of these Druids to the point that they decided to wipe them off the earth." #NT!
-
- druidism:0 "Druidism" #NT!
- druidism_adj:0 "Druidic" #NT!
- druidism_adherent:0 "Druidist" #NT!
- druidism_adherent_plural:0 "Druidists" #NT!
- druidism_desc:0 "The beliefs of the ancient Celts revolved around what we call Celtic Mythology. The High Priest of these belief systems were the Druids, who were medics, astrologists, royal councillors and professors. The Romans feared the political power of these Druids to the point that they decided to wipe them off the earth." #NT!
-
- druidism_old:0 "Old Druidism" #NT!
- druidism_old_adj:0 "Old Druidic" #NT!
- druidism_old_adherent:0 "Old Druidist" #NT!
- druidism_old_adherent_plural:0 "Old Druidists" #NT!
-
- druidism_high_god_name:0 "Taranis" #NT!
- druidism_high_god_name_possessive:0 "Taranis'" #NT!
- druidism_high_god_name_alternate:0 "Father Sky" #NT!
- druidism_high_god_name_alternate_possessive:0 "Father Sky's" #NT!
- druidism_good_god_father_sky:0 "$druidism_high_god_name$" #NT!
- druidism_good_god_protection:0 "Toutatis" #NT!
- druidism_good_god_sailors:0 "Esus" #NT!
- druidism_devil_name:0 "Cernunnos" #NT!
- druidism_devil_name_possessive:0 "Cernunnos'" #NT!
- druidism_devil_shehe:0 "it" #NT!
- druidism_devil_herselfhimself:0 "itself" #NT!
- druidism_devil_herhis:0 "its" #NT!
- druidism_evil_god_decay:0 "blight" #NT!
- druidism_evil_god_decay_possessive:0 "blight's" #NT!
- druidism_evil_god_drought:0 "drought" #NT!
- druidism_death_deity_name:0 "Vellaunus" #NT!
- druidism_death_deity_name_possessive:0 "Vellaunus's" #NT!
- druidism_death_deity_herhis:0 "its" #NT!
- druidism_pantheon_gods:0 "The Gods" #NT!
-
- druidism_creator_god_name:0 "The Matronae" #NT!
- druidism_creator_god_name_possessive:0 "The Matronae's" #NT!
- druidism_health_god_name:0 "$druidism_high_god_name$" #NT!
- druidism_health_god_name_possessive:0 "$druidism_high_god_name_possessive$" #NT!
- druidism_fertility_god_name:0 "$druidism_high_god_name$" #NT!
- druidism_fertility_god_name_possessive:0 "$druidism_high_god_name_possessive$" #NT!
- druidism_wealth_god_name:0 "$druidism_high_god_name$" #NT!
- druidism_wealth_god_name_possessive:0 "$druidism_high_god_name_possessive$" #NT!
- druidism_household_god_name:0 "$druidism_high_god_name$" #NT!
- druidism_household_god_name_possessive:0 "$druidism_high_god_name_possessive$" #NT!
- druidism_fate_god_name:0 "$druidism_creator_god_name$" #NT!
- druidism_fate_god_name_possessive:0 "$druidism_creator_god_name_possessive$" #NT!
- druidism_knowledge_god_name:0 "Brigid" #NT!
- druidism_knowledge_god_name_possessive:0 "Brigid's" #NT!
- druidism_war_god_name:0 "Lug" #NT!
- druidism_war_god_name_possessive:0 "Lug's" #NT!
- druidism_trickster_god_name:0 "Father Sky" #NT!
- druidism_trickster_god_name_possessive:0 "Father Sky" #NT!
- druidism_night_god_name:0 "$druidism_trickster_god_name$" #NT!
- druidism_night_god_name_possessive:0 "$druidism_trickster_god_name_possessive$" #NT!
- druidism_water_god_name:0 "$druidism_high_god_name$" #NT!
- druidism_water_god_name_possessive:0 "$druidism_high_god_name_possessive$" #NT!
-
- druidism_house_of_worship:0 "Sacred Grove" #NT!
- druidism_house_of_worship_plural:0 "Groves" #NT!
- druidism_religious_symbol:0 "Triquetra" #NT!
- druidism_religious_text:0 "Sacred stories" #NT!
- druidism_religious_head_title:0 "High Druid" #NT!
- druidism_religious_head_title_name:0 "Druid Council" #NT!
- druidism_devotee:0 "Vate" #NT!
- druidism_devoteep_lural:0 "Vates" #NT!
- druidism_priest:0 "Bard" #NT!
- druidism_priest_plural:0 "Bards" #NT!
- druidism_priest_alternate_plural:0 "Druids" #NT!
- druidism_divine_realm:0 "The Heavens" #NT!
- druidism_afterlife:0 "The Otherworld" #NT!
- witchgodname_druidism_the_shadow:0 "the Shadow" #NT!
- druidism_mother_earth_father_sky:0 "Taranis" #NT!
-
- irish_druidism:0 "Gaelic Paganism" #NT!
- irish_druidism_adj:0 "Gaelic" #NT!
- irish_druidism_adherent:0 "Gaelic" #NT!
- irish_druidism_adherent_plural:0 "Gaelics" #NT!
- irish_druidism_desc:0 "Similar in fashion and tradition to Pictish Druidism, Gaelic Druidism has managed to distinguish itself from its close cousin in Britannia by being arguably the most “pure” form of Druidism unaffected by Roman or Gallic influences by virtue of its isolation over the years, being both north of the traditional province of Britannia and on the unconquered and independent island of Hibernia." #NT!
-
- irish_druidism_old:0 "Unreformed Gaelic Paganism" #NT!
- irish_druidism_old_adj:0 "Unreformed Gaelic" #NT!
- irish_druidism_old_adherent:0 "Unreformed Gaelic" #NT!
- irish_druidism_old_adherent_plural:0 "Unreformed Gaelics" #NT!
-
- irish_druidism_high_god_name:0 "The Dagda" #NT!
- irish_druidism_high_god_name_possessive:0 "The Dagda's'" #NT!
- irish_druidism_high_god_name_alternate:0 "Dárie" #NT!
- irish_druidism_high_god_name_alternate_possessive:0 "Dáire's" #NT!
- irish_druidism_good_god_father_sky:0 "$irish_druidism_high_god_name$" #NT!
- irish_druidism_good_god_protection:0 "$irish_druidism_high_god_name$" #NT!
- irish_druidism_devil_name:0 "Balor" #NT!
- irish_druidism_devil_name_possessive:0 "Balor's" #NT!
- irish_druidism_evil_god_decay:0 "$irish_druidism_devil_name$" #NT!
- irish_druidism_evil_god_decay_possessive:0 "$irish_druidism_devil_name$" #NT!
- irish_druidism_evil_god_drought:0 "$irish_druidism_devil_name$" #NT!
- irish_druidism_death_deity_name:0 "Donn" #NT!
- irish_druidism_death_deity_name_possessive:0 "Donn's" #NT!
- irish_druidism_pantheon_gods:0 "the Tuatha Dé Danann" #NT!
- irish_druidism_pantheon_gods_possesive:0 "the Tuatha Dé Danann's" #NT!
-
- irish_druidism_creator_god_name:0 "$irish_druidism_pantheon_gods$" #NT!
- irish_druidism_creator_god_name_possessive:0 "$irish_druidism_pantheon_gods_possesive$" #NT!
- irish_druidism_health_god_name:0 "Cainte" #NT!
- irish_druidism_health_god_name_possessive:0 "Cainte's"" #NT!
- irish_druidism_fertility_god_name:0 "Brigid" #NT!
- irish_druidism_fertility_god_name_possessive:0 "Brigid's" #NT!
- irish_druidism_wealth_god_name:0 "Áine" #NT!
- irish_druidism_wealth_god_name_possessive:0 "Áine's" #NT!
- irish_druidism_household_god_name:0 "$irish_druidism_high_god_name$" #NT!
- irish_druidism_household_god_name_possessive:0 "$irish_druidism_high_god_name_possessive$" #NT!
- irish_druidism_fate_god_name:0 "Morrigan" #NT!
- irish_druidism_fate_god_name_possessive:0 "Morrigan's" #NT!
- irish_druidism_knowledge_god_name:0 "Brigid" #NT!
- irish_druidism_knowledge_god_name_possessive:0 "Brigid's" #NT!
- irish_druidism_war_god_name:0 "Neit" #NT!
- irish_druidism_war_god_name_possessive:0 "Neit's" #NT!
- irish_druidism_trickster_god_name:0 "Lugh" #NT!
- irish_druidism_trickster_god_name_possessive:0 "Lugh's" #NT!
- irish_druidism_night_god_name:0 "Arianrhod" #NT!
- irish_druidism_night_god_name_possessive:0 "Arianrhod's" #NT!
- irish_druidism_water_god_name:0 "$irish_druidism_high_god_name$" #NT!
- irish_druidism_water_god_name_possessive:0 "$irish_druidism_high_god_name_possessive$" #NT!
- witchgodname_irish_ruidism_the_shadow:0 "the Cailleach" #NT!
-
- pictish_druidism:0 "Pictish Paganism" #NT!
- pictish_druidism_adj:0 "Pictish" #NT!
- pictish_druidism_adherent:0 "Pictish" #NT!
- pictish_druidism_adherent_plural:0 "Picts" #NT!
- pictish_druidism_desc:0 "The Pictish people are one of the furthest flung parts of the Druidic world. Containing more aspects of Celtic polytheism than their continental Gaulish or Britannic counterparts, Pictish Druidism is still very recognizable to any follower wherever they may be." #NT!
-
- pictish_druidism_old:0 "Unreformed Pictish Paganism" #NT!
- pictish_druidism_old_adj:0 "Unreformed Pictish" #NT!
- pictish_druidism_old_adherent:0 "Unreformed Pictish" #NT!
- pictish_druidism_old_adherent_plural:0 "Unreformed Picts" #NT!
-
- gaulish_high_god_name:0 "Ambisagrus" #NT!
- gaulish_high_god_name_possessive:0 "Ambisagrus'" #NT!
- gaulish_high_god_name_alternate:0 "Thunder God" #NT!
- gaulish_high_god_name_alternate_possessive:0 "Thunder God's" #NT!
- gaulish_good_god_vercingetorix:0 "Vercingetorix" #NT!
- gaulish_good_god_grannus:0 "Grannus" #NT!
- gaulish_good_god_rosmerta:0 "Rosmerta" #NT!
- gaulish_good_god_cissonius:0 "Cissonius" #NT!
- gaulish_good_god_moccus:0 "Moccus" #NT!
- gaulish_good_god_alaunius:0 "Alaunius" #NT!
- gaulish_good_god_ecne:0 "Ecne" #NT!
- gaulish_good_god_caturix:0 "Caturix" #NT!
- gaulish_good_god_virotutis:0 "Virotutis" #NT!
- gaulish_good_god_bormana:0 "Bormana" #NT!
- gaulish_good_god_mullo:0 "Mullo" #NT!
- gaulish_good_god_loucetios:0 "Loucetios" #NT!
- gaulish_good_god_esus:0 "Esus" #NT!
- gaulish_good_god_sequana:0 "Sequana" #NT!
- gaulish_good_god_maiabus:0 "Maiabus" #NT!
- gaulish_good_god_epona:0 "Epona" #NT!
- gaulish_good_god_brixta:0 "Brixta" #NT!
- gaulish_creator_god_name:0 "Eiocha" #NT!
- gaulish_creator_god_name_possessive:0 "Eiocha's" #NT!
- gaulish_health_god_name:0 "Grannus" #NT!
- gaulish_health_god_name_possessive:0 "Grannus'" #NT!
- gaulish_fertility_god_name:0 "Rosmerta" #NT!
- gaulish_fertility_god_name_possessive:0 "Rosmerta's" #NT!
- gaulish_wealth_god_name:0 "Cissonius" #NT!
- gaulish_wealth_god_name_possessive:0 "Cissonius'" #NT!
- gaulish_household_god_name:0 "Moccus" #NT!
- gaulish_household_god_name_possessive:0 "Moccus'" #NT!
- gaulish_fate_god_name:0 "Alaunius" #NT!
- gaulish_fate_god_name_possessive:0 "Alaunius'" #NT!
- gaulish_knowledge_god_name:0 "Ecne" #NT!
- gaulish_knowledge_god_name_possessive:0 "Ecne'" #NT!
- gaulish_war_god_name:0 "Caturix" #NT!
- gaulish_war_god_name_possessive:0 "Caturix's" #NT!
- gaulish_trickster_god_name:0 "Virotutis" #NT!
- gaulish_trickster_god_name_possessive:0 "Virotutis'" #NT!
- gaulish_night_god_name:0 "Ambisagrus" #NT!
- gaulish_night_god_name_possessive:0 "Ambisagrus'" #NT!
- gaulish_water_god_name:0 "Bormana" #NT!
- gaulish_water_god_name_possessive:0 "Bormana's" #NT!
- gaulish_devil_name:0 "Erecura" #NT!
- gaulish_devil_name_possessive:0 "Erecura's" #NT!
- gaulish_evil_god_ankou:0 "Ankou" #NT!
- gaulish_evil_god_aereda:0 "Aereda" #NT!
- gaulish_religious_symbol:0 "triskelion" #NT!
- gaulish_religious_text:0 "Senchanúlói Cochrávan" #NT!
- gaulish_divine_realm:0 "the Otherworld" #NT!
- gaulish_positive_afterlife_name:0 "the Underworld" #NT!
- gaulish_negative_afterlife_name:0 "the Underworld" #NT!
- gaulish_death_deity_name:0 "Vellaunus" #NT!
- gaulish_death_deity_name_possessive:0 "Vellaunus'" #NT!
- gaulish_witchgodname_morrigan:0 "Adsagsona" #NT!
-
- gaulish_pagan:0 "Gaulish" #NT!
- gaulish_pagan_adj:0 "Gaulish" #NT!
- gaulish_pagan_adherent:0 "Gaul" #NT!
- gaulish_pagan_adherent_plural:0 "Gauls" #NT!
-
- gaulish_pagan_old:0 "Old Gaulish" #NT!
- gaulish_pagan_old_adj:0 "Old Gaulish" #NT!
- gaulish_pagan_old_adherent:0 "Old Gaul" #NT!
- gaulish_pagan_old_adherent_plural:0 "Old Gauls" #NT!
-
- gaulish_pagan_desc:0 "The Gauls are a proud and strong people who take pride in their heritage and their gods. Although heavily influenced by their Roman neighbours, and eventually overlords, the Gauls still hold onto their gods and traditions." #NT!
- celto_hellenic_syncretism:0 "Taranism" #NT!
- celto_hellenic_syncretism_adj:0 "Taranic" #NT!
- celto_hellenic_syncretism_adherent:0 "Taranic" #NT!
- celto_hellenic_syncretism_adherent_plural:0 "Taranics" #NT!
- celto_hellenic_syncretism_desc:0 "The Gods of the Greco-Romans and the Celtics aren’t so different from each other. For as long as the Celtic world has been in contact with the Greco-Romans of the Mediterranean, their gods have overlapped and mixed. The Celtic Galatians of Asia Minor, for example, have already combined their pantheon with that of the Greeks to form gods such as Zeus Tavianos. For cultural cohesion or assimilation into the host religion, the policy of religious synchronization will become state law." #NT!
-
- celto_hellenic_syncretism_old:0 "Old Celto-Hellenic Syncretism" #NT!
- celto_hellenic_syncretism_old_adj:0 "Old Celto-Hellenic" #NT!
- celto_hellenic_syncretism_old_adherent:0 "Old Celto-Hellenic" #NT!
- celto_hellenic_syncretism_old_adherent_plural:0 "Old Celto-Hellenics" #NT!
-
- celto_hellenic_syncretism_high_god_name:0 "Taranis Jupiter" #NT!
- celto_hellenic_syncretism_high_god_name_possesive:0 "Taranis Jupiter's" #NT!
- celto_hellenic_syncretism_high_god_name_alternate:0 "Jupiter Poeninus" #NT!
- celto_hellenic_syncretism_high_god_name_alternate_possesive:0 "Jupiter Poeninus'" #NT!
- celto_hellenic_syncretism_creator_god_name:0 "Dis Pater" #NT!
- celto_hellenic_syncretism_creator_god_name_possessive:0 "Dis Pater's" #NT!
-
- celto_hellenic_syncretism_health_god_name:0 "Apollo Belenus" #NT!
- celto_hellenic_syncretism_health_god_name_possessive:0 "Apollo Belenus'" #NT!
- celto_hellenic_syncretism_fertility_god_name:0 "Aepona" #NT!
- celto_hellenic_syncretism_fertility_god_name_possessive:0 "Aepona's" #NT!
- celto_hellenic_syncretism_wealth_god_name:0 "Mercurius Visucius" #NT!
- celto_hellenic_syncretism_wealth_god_name_possessive:0 "Mercurius Visucius" #NT!
- celto_hellenic_syncretism_household_god_name:0 "the Lares" #NT!
- celto_hellenic_syncretism_household_god_name_possessive:0 "the Lares'" #NT!
- celto_hellenic_syncretism_knowledge_god_name:0 "Minerva Brigantia" #NT!
- celto_hellenic_syncretism_knowledge_god_name_possessive:0 "Minerva Brigantia's" #NT!
- celto_hellenic_syncretism_war_god_name:0 "Mars Lugus" #NT!
- celto_hellenic_syncretism_war_god_name_possessive:0 "Mars Lugus'" #NT!
- celto_hellenic_syncretism_trickster_god_name:0 "$celto_hellenic_syncretism_wealth_god_name$" #NT!
- celto_hellenic_syncretism_trickster_god_name_possessive:0 "$celto_hellenic_syncretism_wealth_god_name_possessive$" #NT!
- celto_hellenic_syncretism_night_god_name:0 "Trivia" #NT!
- celto_hellenic_syncretism_night_god_name_possessive:0 "Trivia's" #NT!
- celto_hellenic_syncretism_water_god_name:0 "Neptunus Nodens" #NT!
- celto_hellenic_syncretism_water_god_name_possessive:0 "Neptunus Nodens'" #NT!
-
- celto_hellenic_syncretism_pantheon_term:0 "Dii Consentes" #NT!
- celto_hellenic_syncretism_devil_name:0 "Pluto" #NT!
- celto_hellenic_syncretism_devil_name_possessive:0 "Pluto's" #NT!
- celto_hellenic_syncretism_devil_shehe:0 "him" #NT!
- celto_hellenic_syncretism_devil_herselfhimself:0 "himself" #NT!
- celto_hellenic_syncretism_devil_herhis:0 "his" #NT!
- celto_hellenic_syncretism_death_deity_name:0 "$celto_hellenic_syncretism_devil_name$" #NT!
- celto_hellenic_syncretism_death_deity_name_possessive:0 "$celto_hellenic_syncretism_devil_name_possessive$" #NT!
- celto_hellenic_syncretism_death_deity_herhis:0 "$celto_hellenic_syncretism_devil_herhis$" #NT!
-
- celto_hellenic_syncretism_house_of_worship:0 "Aedes" #NT!
- celto_hellenic_syncretism_of_worship_plural:0 "$celto_hellenic_syncretism_house_of_worship$" #NT!
- celto_hellenic_bad_afterlife:0 "Tartarus" #NT!
- celto_hellenic_good_afterlife:0 "Elysium" #NT!
-
- britano_roman_pagan:0 "Yr Cywir" #NT!
- britano_roman_pagan_adj:0 "Cywir" #NT!
- britano_roman_pagan_adherent:0 "Cywir" #NT!
- britano_roman_pagan_adherent_plural:0 "Cywirs" #NT!
- britano_roman_pagan_desc:0 "Followers of the Truth, the Cywirs worship the world around them as a living, breathing entity. Every nook and cranny of their world is filled with local deities, some native to Britain, while others arrived via boat from the Hellenized world. In Yr Cywir there is no wrong or right as long as the strict Brythonic code of conduct is followed. Courage, Honour, Honesty, Hospitality and Loyalty come first." #NT!
-
- britano_roman_pagan_high_god_name:0 "Brigantia" #NT!
- britano_roman_pagan_high_god_name_possesive:0 "Brigantia's" #NT!
- britano_roman_pagan_high_god_name_alternate:0 "Brigantia" #NT!
- britano_roman_pagan_high_god_name_alternate_possesive:0 "Brigantia's" #NT!
- britano_roman_pagan_creator_god_name:0 "Saturn" #NT!
- britano_roman_pagan_creator_god_name_possessive:0 "Saturn's" #NT!
-
- britano_roman_pagan_health_god_name:0 "Mabon" #NT!
- britano_roman_pagan_health_god_name_possessive:0 "Mabon's" #NT!
- britano_roman_pagan_fertility_god_name:0 "Rhiannon" #NT!
- britano_roman_pagan_fertility_god_name_possessive:0 "Rhiannon's" #NT!
- britano_roman_pagan_wealth_god_name:0 "Senuna" #NT!
- britano_roman_pagan_wealth_god_name_possessive:0 "Senuna's" #NT!
- britano_roman_pagan_household_god_name:0 "the Lares" #NT!
- britano_roman_pagan_household_god_name_possessive:0 "the Lares'" #NT!
- britano_roman_pagan_knowledge_god_name:0 "Minerva Sulis" #NT!
- britano_roman_pagan_knowledge_god_name_possessive:0 "Sulis'" #NT!
- britano_roman_pagan_war_god_name:0 "Lleu" #NT!
- britano_roman_pagan_war_god_name_possessive:0 "Lleu's" #NT!
- britano_roman_pagan_trickster_god_name:0 "Gwydion" #NT!
- britano_roman_pagan_trickster_god_name_possessive:0 "Gwydion's" #NT!
- britano_roman_pagan_night_god_name:0 "Arawn" #NT!
- britano_roman_pagan_night_god_name_possessive:0 "Arawn's" #NT!
- britano_roman_pagan_water_god_name:0 "Nudd" #NT!
- britano_roman_pagan_water_god_name_possessive:0 "Nudd's" #NT!
-
- britano_roman_pagan_good_god_modron:0 "The Modron" #NT!
- britano_roman_pagan_good_god_bran:0 "Bran" #NT!
-
- britano_roman_pagan_pantheon_term:0 "The Gods" #NT!
- britano_roman_pagan_devil_name:0 "$britano_roman_pagan_night_god_name$" #NT!
- britano_roman_pagan_devil_name_possessive:0 "$britano_roman_pagan_night_god_name_possessive$" #NT!
- britano_roman_pagan_devil_shehe:0 "him" #NT!
- britano_roman_pagan_devil_herselfhimself:0 "himself" #NT!
- britano_roman_pagan_devil_herhis:0 "his" #NT!
- britano_roman_pagan_death_deity_name:0 "$britano_roman_pagan_devil_name$" #NT!
- britano_roman_pagan_death_deity_name_possessive:0 "$britano_roman_pagan_devil_name_possessive$" #NT!
- britano_roman_pagan_death_deity_herhis:0 "$britano_roman_pagan_devil_herhis$" #NT!
-
- britano_roman_pagan_house_of_worship:0 "Fanum" #NT!
- britano_roman_pagan_house_of_worship_plural:0 "Fanums" #NT!
- britano_roman_pagan_bad_afterlife:0 "Annwn" #NT!
- britano_roman_pagan_good_afterlife:0 "Annwn" #NT!
- britano_roman_pagan_witch_god_name:0 "Ceridwen" #NT!
-
- briton_pagan:0 "Yr Hen Cywir" #NT!
- briton_pagan_adj:0 "Hen Cywir" #NT!
- briton_pagan_adherent:0 "Hen Cywir" #NT!
- briton_pagan_adherent_plural:0 ""Hen Cywir"s" #NT!
- briton_pagan_desc:0 "Followers of the Old Truth, the Hen Cywirs worship the world around them as a living, breathing entity. Every nook and cranny of their world is filled with local deities. The gods of nature watch over the Britons and they resist conversion to foreign faiths, unwilling to adopt the Roman deities. The old truths have remained unhellenized. While the druids are long gone, their influence can still be felt on those who choose to look for it and follow the strict Brythonic code of conduct - Courage, Honour, Honesty, Hospitality and Loyalty." #NT!
-
- briton_pagan_old:0 "Unreformed Hen Cywir" #NT!
- briton_pagan_old_adj:0 "Unreformed Hen Cywir" #NT!
- briton_pagan_old_adherent:0 "Unreformed Hen Cywir" #NT!
- briton_pagan_old_adherent_plural:0 "Unreformed Hen Cywirs" #NT!
-
-
- briton_pagan_health_god_name:0 "Nodens" #NT!
- briton_pagan_health_god_name_possessive:0 "Nodens's" #NT!
- briton_pagan_fertility_god_name:0 "Epona" #NT!
- briton_pagan_fertility_god_name_possessive:0 "Epona's" #NT!
- briton_pagan_wealth_god_name:0 "Borvo" #NT!
- briton_pagan_wealth_god_name_possessive:0 "Borvo's" #NT!
- briton_pagan_household_god_name:0 "Conrebis" #NT!
- briton_pagan_household_god_name_possessive:0 "Conrebis's" #NT!
- briton_pagan_trickster_god_name:0 "Gwydion" #NT!
- briton_pagan_trickster_god_name_possessive:0 "Gwydion" #NT!
- briton_pagan_night_god_name:0 "Rhiannon" #NT!
- briton_pagan_night_god_name_possessive:0 "Rhiannon's" #NT!
- briton_pagan_water_god_name:0 "Sulis" #NT!
- briton_pagan_water_god_name_possessive:0 "Sulis's" #NT!
-
- briton_pagan_devil_name:0 "Arawn" #NT!
- briton_pagan_devil_name_possessive:0 "Arawn's" #NT!
- briton_pagan_devil_shehe:0 "him" #NT!
- briton_pagan_devil_herselfhimself:0 "himself" #NT!
- briton_pagan_devil_herhis:0 "his" #NT!
- briton_pagan_death_deity_name:0 "$briton_pagan_devil_name$" #NT!
- briton_pagan_death_deity_name_possessive:0 "$briton_pagan_devil_name_possessive$" #NT!
- briton_pagan_death_deity_herhis:0 "$briton_pagan_devil_herhis$" #NT!
- briton_pagan_afterlife:0 "The Realm of Annwn" #NT!
- witchgodname_briton_pagan_adsagsona:0 "Adsagsona" #NT!
-
-
- special_faith_has_hellenic_syncretism_name:0 "Hellenic Syncretism" #NT!
- special_faith_has_hellenic_syncretism_desc:0 "The pantheon of Greece and Rome is a constantly changing group of deities, integrating and discarding deities as their respective popularity and cult wanes and waxes. Gods from other cultures are easily considered as just another aspect of an existing Hellenic god, or they might just be added to the core Hellenic deities." #NT!
- doctrine_parameter_hostility_override_special_faith_has_hellenic_syncretism:0 "Considers, and is considered by, other [faiths|E] with the #V $special_faith_has_hellenic_syncretism_name$#! [doctrine|E] as [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]" #NT!
-
- siberian_religion:0 "Turumic" #NT!
- siberian_religion_adj:0 "Turumic" #NT!
-
- desert_paganism_religion:0 "Desert Paganism" #NT!
- desert_paganism_religion_adj:0 "Desert Paganism" #NT!
-
- # Iranian Paganism group #NT!
- iranian_religion:0 "Iranism" #NT!
- iranian_religion_adj:0 "Iranic" #NT!
- iranian_religion_adherent:0 "Iranic" #NT!
- iranian_religion_adherent_plural:0 "Iranic" #NT!
- iranian_religion_desc:0 "Though many of the Iranian-speaking peoples have adopted newer, different beliefs, there are still those who worship the gods in the same manner as their ancestors did in Central Asia." #NT!
-
- iranian_religion_old:0 "Old Iranism" #NT!
- iranian_religion_old_adj:0 "Old Iranic" #NT!
- iranian_religion_old_adherent:0 "Old Iranic" #NT!
- iranian_religion_old_adherent_plural:0 "Old Iranic" #NT!
-
- scythian_pagan:0 "Scythian Paganism" #NT!
- scythian_pagan_adj:0 "Heptadian" #NT!
- scythian_pagan_adherent:0 "Heptadianist" #NT!
- scythian_pagan_adherent_plural:0 "Heptadianists" #NT!
- scythian_pagan_desc:0 "Originating in Scythian lands, this pantheistic faith worshiped seven principal gods, often equated to those of the Greek pantheon. Elements of the earlier polytheistic folk religion of the scythians still remains, as does the practice of horse sacrifice and chariot burials, similar to those of the Celts." #NT!
-
- scythian_pagan_old:0 "Unreformed Scythian Paganism" #NT!
- scythian_pagan_old_adj:0 "Unreformed Heptadian" #NT!
- scythian_pagan_old_adherent:0 "Unreformed Heptadianist" #NT!
- scythian_pagan_old_adherent_plural:0 "Unreformed Heptadianists" #NT!
-
- # Iranian Paganism #NT!
- iranian_pagan:0 "Iranian Paganism" #NT!
- iranian_pagan_adj:0 "Daevan" #NT!
- iranian_pagan_adherent:0 "Daevanite" #NT!
- iranian_pagan_adherent_plural:0 "Daevanites" #NT!
- iranian_pagan_desc:0 "The deities worthy of worship are divided into two main categories: the daevas, or heavenly ones, and the ahuras, or the divine lords. Prominent among the important gods are Varuna, Mithra, and Agni, among others. Worship is mainly performed through a central ritual known as yazna." #NT!
-
- iranian_pagan_old:0 "Old Iranian Paganism" #NT!
- iranian_pagan_old_adj:0 "Old Daevan" #NT!
- iranian_pagan_old_adherent:0 "Old Daevanite" #NT!
- iranian_pagan_old_adherent_plural:0 "Old Daevanites" #NT!
-
- # Dacian Paganism #NT!
- dacian_pagan:0 "Zalmoxianism" #NT!
- dacian_pagan_adj:0 "Zalmoxian" #NT!
- dacian_pagan_adherent:0 "Zalmoxian" #NT!
- dacian_pagan_adherent_plural:0 "Zalmoxians" #NT!
- dacian_pagan_desc:0 "The greatest deity is Zalmoxis, whose worship is faciliated by a class of priests. It is he who instructed his followers about the immortality of human souls, and how after death, people merely change their location and are reborn elsewhere. Orpheus, the Thracian bard of Greek legend, is also an important figure of veneration." #NT!
-
- dacian_pagan_old:0 "Old Zalmoxianism" #NT!
- dacian_pagan_old_adj:0 "Old Zalmoxian" #NT!
- dacian_pagan_old_adherent:0 "Old Zalmoxian" #NT!
- dacian_pagan_old_adherent_plural:0 "Old Zalmoxians" #NT!
-
-
- dacian_high_god_name:0 "Zis" #NT!
- dacian_high_god_name_possessive:0 "Zis'" #NT!
- dacian_death_deity_name:0 "Hades" #NT!
- dacian_death_deity_name_possessive:0 "Hades'" #NT!
- dacian_creator_god_name:0 "Zis" #NT!
- dacian_creator_god_name_possessive:0 "Zis'" #NT!
- dacian_health_god_name:0 "Bendis" #NT!
- dacian_health_god_name_possessive:0 "Bendis'" #NT!
- dacian_fertility_god_name:0 "Bendis" #NT!
- dacian_fertility_god_name_possessive:0 "Bendis'" #NT!
- dacian_wealth_god_name:0 "Zalmoxis" #NT!
- dacian_wealth_god_name_possessive:0 "Zalmoxis'" #NT!
- dacian_household_god_name:0 "Bendis" #NT!
- dacian_household_god_name_possessive:0 "Bendis'" #NT!
- dacian_fate_god_name:0 "Orpheus" #NT!
- dacian_fate_god_name_possessive:0 "Orpheus'" #NT!
- dacian_knowledge_god_name:0 "Zalmoxis" #NT!
- dacian_knowledge_god_name_possessive:0 "Zalmoxis'" #NT!
- dacian_war_god_name:0 "Zalmoxis" #NT!
- dacian_war_god_name_possessive:0 "Zalmoxis'" #NT!
- dacian_trickster_god_name:0 "Zalmoxis" #NT!
- dacian_trickster_god_name_possessive:0 "Zalmoxis'" #NT!
- dacian_night_god_name:0 "Bendis" #NT!
- dacian_night_god_name_possessive:0 "Bendis'" #NT!
- dacian_water_god_name:0 "Bendis" #NT!
- dacian_water_god_name_possessive:0 "Bendis'" #NT!
-
- # Balkan/Daco-Thracian Paganism group #NT!
- balkan_religion:0 "Balkanism" #NT!
- balkan_religion_adj:0 "Balkanic" #NT!
- balkan_religion_adherent:0 "Balkanic" #NT!
- balkan_religion_adherent_plural:0 "Balkanic" #NT!
- balkan_religion_desc:0 "The tribes who dwell in the Balkan lands have a diverse set of beliefs, rites, and festivals, which in recent times have influenced and been influenced by Hellenic and Roman ideas." #NT!
-
- balkan_religion_old:0 "Unreformed Balkanism" #NT!
- balkan_religion_old_adj:0 "Unreformed Balkanic" #NT!
- balkan_religion_old_adherent:0 "Unreformed Balkanic" #NT!
- balkan_religion_old_adherent_plural:0 "Unreformed Balkanic" #NT!
-
- # Egyptian Paganism ig #NT!
- egyptian_pagan:0 "Kemetism" #NT!
- egyptian_pagan_adj:0 "Kemetic" #NT!
- egyptian_pagan_adherent:0 "Kemite" #NT!
- egyptian_pagan_adherent_plural:0 "Kemites" #NT!
- egyptian_pagan_desc:0 "The religion of the Pharaohs stretches back thousands of years. An innumerable group of deities are present in, and control the world, and ritual prayers, offerings, celebrations, and construction of elaborate temples and monuments are needed to gain their favor and maintain Ma'at, the cosmic order." #NT!
-
- egyptian_pagan_old:0 "Classic Kemetism" #NT!
- egyptian_pagan_old_adj:0 "Classic Kemetic" #NT!
- egyptian_pagan_old_adherent:0 "Classic Kemite" #NT!
- egyptian_pagan_old_adherent_plural:0 "Classic Kemites" #NT!
-
- egyptian_high_god_name:0 "Amun-Ra" #NT!
- egyptian_high_god_name_2:0 "Osiris" #NT!
- egyptian_high_god_name_possessive:0 "Amun-Ra's" #NT!
- egyptian_high_god_name_alternate:0 "$egyptian_high_god_name_2$" #NT!
- egyptian_high_god_name_alternate_possessive:0 "$egyptian_high_god_name_2$'s" #NT!
- paganism_evil_god_chaos:0 "Chaos" #NT!
- egyptian_death_deity_name:0 "Anubis" #NT!
- egyptian_death_deity_name_possessive:0 "Anubis's" #NT!
- egyptian_religious_symbol:0 "ankh" #NT!
- egyptian_religious_symbol_2:0 "$egyptian_religious_symbol$" #NT!
- egyptian_religious_symbol_3:0 "$egyptian_religious_symbol$" #NT!
- egyptian_religious_text:0 "sacred stones" #NT!
- egyptian_divine_realm:0 "Duat" #NT!
- egyptian_divine_realm_2:0 "$egyptian_divine_realm$" #NT!
- egyptian_divine_realm_3:0 "$egyptian_divine_realm$" #NT!
- egyptian_devil_name:0 "Apep" #NT!
- egyptian_devil_name_possessive:0 "Apep's" #NT!
- egyptian_witch_god_name:0 "Heka" #NT!
- egyptian_witch_god_name_possessive:0 "Heka's" #NT!
- egyptian_creator_god_name:0 "Atum" #NT!
- egyptian_creator_god_name_possessive:0 "Atum's" #NT!
- egyptian_health_god_name:0 "Isis" #NT!
- egyptian_health_god_name_possessive:0 "Isis's" #NT!
- egyptian_fertility_god_name:0 "Hathor" #NT!
- egyptian_fertility_god_name_possessive:0 "Hathor's" #NT!
- egyptian_wealth_god_name:0 "Khnum" #NT!
- egyptian_wealth_god_name_possessive:0 "Khnum's" #NT!
- egyptian_household_god_name:0 "Bes" #NT!
- egyptian_household_god_name_possessive:0 "Bes'" #NT!
- egyptian_fate_god_name:0 "Shai" #NT!
- egyptian_fate_god_name_possessive:0 "Shai's" #NT!
- egyptian_knowledge_god_name:0 "Thoth" #NT!
- egyptian_knowledge_god_name_possessive:0 "Thoth's" #NT!
- egyptian_war_god_name:0 "Wepwawet" #NT!
- egyptian_war_god_name_possessive:0 "Wepwawet's" #NT!
- egyptian_trickster_god_name:0 "Set" #NT!
- egyptian_trickster_god_name_possessive:0 "Set's" #NT!
- egyptian_night_god_name:0 "Nephthys" #NT!
- egyptian_night_god_name_possessive:0 "Nephthys's" #NT!
- egyptian_water_god_name:0 "Tefnut" #NT!
- egyptian_water_god_name_possessive:0 "Tefnut's" #NT!
-
- # Kushitism #NT!
- kushitism_religion:1 "Kemetism" #NT!
- kushitism_religion_adj:1 "Kemetic" #NT!
- kushitism_religion_adherent:1 "Kemite" #NT!
- kushitism_religion_adherent_plural:1 "Kemites" #NT!
- kushitism_religion_desc:0 "Veneration of the ancient gods remains strong here, as does the veneration of the boundary between life and death." #NT!
-
- kushitism_religion:1 "Old Kemetism" #NT!
- kushitism_religion_adj:1 "Old Kemetic" #NT!
- kushitism_religion_adherent:1 "Old Kemite" #NT!
- kushitism_religion_adherent_plural:1 "Old Kemites" #NT!
-
- #Amazigh paganism #NT!
- amazigh_religion:0 "Amazigh" #NT!
- amazigh_religion_adj:0 "Amazigh" #NT!
- amazigh_religion_adherent:1 "Amazigh" #NT!
- amazigh_religion_adherent_plural:1 "Imazighen" #NT!
- amazigh_religion_desc:1 "Centred on a reverence for nature including sacred mountains and trees, veneration of ancestors, and a belief in spirits, the Amazigh pantheon has also been influenced by ancient Greek, Roman, and Punic religions." #NT!
- # Temples, priests, symbols, divine terms #NT!
- amazigh_house_of_worship:0 "Temple" #NT!
- amazigh_house_of_worship_plural:0 "Temples" #NT!
- amazigh_religious_symbol:0 "Sign of Tanit" #NT!
- amazigh_religious_text:0 "sacred songs" #fictional #NT!
- amazigh_religious_head_title:0 "High Priest"  #fictional #NT!
- amazigh_religious_head_title_name:0 "High Council"  #fictional #NT!
- amazigh_priest:0 "Priest" #NT!
- amazigh_priest_plural:0 "Priests" #NT!
- amazigh_priest_female:0 "Priestess" #NT!
- amazigh_priest_female_plural:0 "Priestesses" #NT!
- amazigh_priest_term_plural:0 "Priests" #NT!
- amazigh_priest_neuter:0 "Diviner" #NT!
- amazigh_priest_neuter_plural:0 "Diviners" #NT!
- amazigh_bishop_male:0 "Head Priest" #NT!
- amazigh_bishop_male_plural:0 "Head Priests" #NT!
- amazigh_bishop_female:0 "Head Priestess" #NT!
- amazigh_bishop_female_plural:0 "Head Priestesses" #NT!
- amazigh_bishop_neuter:0 "Head Priest" #NT!
- amazigh_bishop_neuter_plural:0 "Head Priests" #NT!
- amazigh_the_spirits:0 "the ancestor spirits" #NT!
- amazigh_divine_realm:0 "the ancestors" #fictional #NT!
- amazigh_afterlife:0 "$amazigh_divine_realm$" #NT!
- # The great and good gods and goddesses #NT!
- amazigh_high_god_name:0 "Ammon" #king of the gods, aka Baal Hammon #NT!
- amazigh_high_god_name_possessive:0 "Ammon's" #NT!
- amazigh_high_god_name_alternate:0 "Baal Hammon" #NT!
- amazigh_high_god_name_alternate_possessive:0 "Baal Hammon's" #NT!
- amazigh_good_god_anti:0 "Anti" #legendary figure of Berber mythology #NT!
- amazigh_good_god_tinja:0 "Tinja" #legendary figure of Berber mythology #NT!
- amazigh_good_god_sufax:0 "Sufax" #legendary figure of Berber mythology #NT!
- amazigh_good_god_anzar:0 "Anzar" #god of rainfall #NT!
- amazigh_good_god_suggen:0 "Suggan" #NT!
- amazigh_good_god_tililwa:0 "Tililwa" #NT!
- amazigh_good_god_tislit:0 "Tislit" #NT!
- # The evil gods #NT!
- amazigh_devil_name:0 "the dark spirits" #fictional #NT!
- amazigh_devil_name_possessive:0 "the dark spirits'" #NT!
- # The great and good gods and goddesses #NT!
- amazigh_creator_god_name:0 "Tanit" #mother goddess, and goddess of fertility #NT!
- amazigh_creator_god_name_possessive:0 "Tanit's" #NT!
- amazigh_health_god_name:0 "$amazigh_creator_god_name$" #NT!
- amazigh_health_god_name_possessive:0 "$amazigh_creator_god_name_possessive$" #NT!
- amazigh_fertility_god_name:0 "$amazigh_creator_god_name$" #NT!
- amazigh_fertility_god_name_possessive:0 "$amazigh_creator_god_name_possessive$" #NT!
- amazigh_wealth_god_name:0 "$amazigh_creator_god_name$" #NT!
- amazigh_wealth_god_name_possessive:0 "$amazigh_creator_god_name_possessive$" #NT!
- amazigh_household_god_name:0 "$amazigh_creator_god_name$" #NT!
- amazigh_household_god_name_possessive:0 "$amazigh_creator_god_name_possessive$" #NT!
- amazigh_knowledge_god_name:0 "Anigouran" #wiseman figure of Berber mythology #NT!
- amazigh_knowledge_god_name_possessive:0 "Anigouran's" #NT!
- amazigh_fate_god_name:0 "Afri" #goddess of fortune and fertility #NT!
- amazigh_fate_god_name_possessive:0 "Afri's" #NT!
- amazigh_war_god_name:0 "Gurzil" #god of sun and in some places, war, taken into battle with the Byzantines and the Arabs by Berber tribes. #NT!
- amazigh_war_god_name_possessive:0 "Gurzil's" #NT!
- amazigh_trickster_god_name:0 "$amazigh_devil_name$" #NT!
- amazigh_trickster_god_name_possessive:0 "$amazigh_devil_name_possessive$" #NT!
- amazigh_night_god_name:0 "Ayyur" #lit. the moon #NT!
- amazigh_night_god_name_possessive:0 "Ayyur's" #NT!
- amazigh_water_god_name:0 "Awessu" #a sea god, alt. Anzar the rain god #NT!
- amazigh_water_god_name_possessive:0 "Awessu's" #NT!
- amazigh_death_deity_name:0 "$amazigh_creator_god_name$" #NT!
- amazigh_death_deity_name_possessive:0 "$amazigh_creator_god_name_possessive$" #NT!
- witchgodname_amazigh:0 "$amazigh_devil_name$" #NT!
- witchgodname_amazigh_possessive:0 "$amazigh_devil_name_possessive$" #NT!
-
- amazigh_pagan:0 "Amazighism" #NT!
- amazigh_pagan_adj:0 "Amazigh" #NT!
- amazigh_pagan_adherent:0 "Amazigh" #NT!
- amazigh_pagan_adherent_plural:0 "Imazighen" #NT!
-
- amazigh_pagan_old:0 "Old Amazigh" #NT!
- amazigh_pagan_old_adj:0 "Old Amazigh" #NT!
- amazigh_pagan_old_adherent:0 "Old Amazigh" #NT!
- amazigh_pagan_old_adherent_plural:0 "Old Imazighen" #NT!
-
- #Tuareg paganism #NT!
- tuareg_religious_symbol:0 "tanaghilt" #NT!
- tuareg_house_of_worship:0 "Shrine" #NT!
- tuareg_house_of_worship_plural:0 "Shrines" #NT!
- # The evil gods #NT!
- tuareg_devil_name:0 "the Kel Esuf" #NT!
- tuareg_devil_name_possessive:0 "the Kel Esuf" #NT!
- # The great and good gods and goddesses #NT!
- tuareg_creator_god_name:0 "Illu" #high god of the desert worshipped by Tuareg #NT!
- tuareg_creator_god_name_possessive:0 "Illu's" #NT!
- tuareg_high_god_name:0 "Illu" #high god of the desert worshipped by Tuareg #NT!
- tuareg_high_god_name_possessive:0 "Illu's" #NT!
- tuareg_water_god_name:0 "Anzar" #The god of rain #NT!
- tuareg_water_god_name_possessive:0 "Anzar's" #NT!
- tuareg_war_god_name:0 "Tin Hinan" #legendary warrior queen of the Tuareg #NT!
- tuareg_war_god_name_possessive:0 "Tin Hinan's" #NT!
- tuareg_divine_realm:0 "Kel Esuf" #fictional #NT!
- tuareg_trickster_god_name:0 "the Kel Esuf" #NT!
- tuareg_trickster_god_name_possessive:0 "the Kel Esuf's" #NT!
- witchgodname_tuareg:0 "the Kel Esuf" #NT!
- witchgodname_tuareg_possessive:0 "the Kel Esuf's" #NT!
-
- tuareg_pagan:0 "Illuism" #NT!
- tuareg_pagan_adj:0 "Illuic" #NT!
- tuareg_pagan_adherent:0 "Illuist" #NT!
- tuareg_pagan_adherent_plural:0 "Illuist" #NT!
-
- tuareg_pagan_old:0 "Old Illuism" #NT!
- tuareg_pagan_old_adj:0 "Old Illuism" #NT!
- tuareg_pagan_old_adherent:0 "Old Illuism" #NT!
- tuareg_pagan_old_adherent_plural:0 "Old Illuists" #NT!
-
- #Guanche paganism #NT!
- guanche_pagan:0 "Guanche" #NT!
- guanche_pagan_adj:0 "Guanche" #NT!
- guanche_pagan_adherent:1 "Guanche" #NT!
- guanche_pagan_adherent_plural:1 "Guanches" #NT!
- guanche_pagan_desc:1 "Achamán, the eternal sky god, created the land and the water, the fire and the air, and thus all creatures derived their existence from him. Achamán lives in the heights and sometimes descends upon the summits of the mountains, contemplating his creations. According to legend, Guayota kidnapped the sun Magec and trapped it in the volcano Teide, plunging the world into darkness. Humans prayed to Achamán who saved Magec, and instead locked the evil Guayota up in the Teide, where Guayota will reside forever. Guayota continues to torment humans via his offspring, the Tibicenas, demons with the bodies of great wild dogs with red eyes and covered by long black fur. Tibicenas live in deep caves and like their father Guayota, inside mountains; they are also known come out at night to attack humans or livestock." #NT!
- carthage_pagan:0 "Canaanism" #NT!
- carthage_pagan_adj:0 "Canaanite" #NT!
- carthage_pagan_adherent:0 "Canaanite" #NT!
- carthage_pagan_adherent_plural:0 "Canaanites" #NT!
- carthage_pagan_desc:0 "The Canaanite religion venerates a number of Gods and their aspects, in a polytheistic manner. Baal is regarded as the chief deity in a complex hierarchy of lesser gods, who were often worshiped at shrines found on mountains or hilltops." #NT!
- # Temples, priests, symbols, divine terms #NT!
- guanche_house_of_worship:0 "Almogarén" #NT!
- guanche_house_of_worship_plural:0 "Almogaréns" #NT!
- guanche_religious_symbol:0 "Añepa" #NT!
- guanche_religious_text:0 "sacred songs" #fictional #NT!
- guanche_religious_head_title:0 "Supreme Guañameñe"  #fictional #NT!
- guanche_religious_head_title_name:0 "High Council"  #fictional #NT!
- guanche_priest:0 "Kanku" #NT!
- guanche_priest_plural:0 "Kankus" #NT!
- guanche_priest_term_plural:0 "Kankus" #NT!
- guanche_priest_alternate:1 "Faycán" #NT!
- guanche_priest_alternate_plural:1 "Faycáns" #NT!
- guanche_priest_neuter:0 "Kanku" #NT!
- guanche_priest_neuter_plural:0 "Kankus" #NT!
- guanche_bishop_male:0 "Guañameñe" #NT!
- guanche_bishop_male_plural:0 "Guañameñes" #NT!
- guanche_bishop_female:0 "Maguada" #NT!
- guanche_bishop_female_plural:0 "Maguadases" #NT!
- guanche_bishop_neuter:0 "Guañameñe" #NT!
- guanche_bishop_neuter_plural:0 "Guañameñes" #NT!
- guanche_positive_afterlife:0 "Ahyur" #NT!
- guanche_negative_afterlive:0 "Echeyde" #NT!
- # The great and good gods and goddesses #NT!
- guanche_high_god_name:0 "Achamán" #supreme god of Tenerife, other various names in the islands #NT!
- guanche_high_god_name_possessive:0 "Achamán's" #NT!
- guanche_high_god_name_alternate:0 "Acorán" #NT!
- guanche_high_god_name_alternate_possessive:0 "Acorán's" #NT!
- guanche_good_god_abora:0 "Abora" #supreme god of la palma #NT!
- guanche_good_god_orahan:0 "Orahan" #supreme god of la gomera #NT!
- guanche_good_god_eraorahan:0 "Eraorahan" #supreme god of el hierro #NT!
- guanche_good_god_moneib:0 "Moneib" #protector of women #NT!
- # The evil gods #NT!
- guanche_devil_name:0 "Guayota" #NT!
- guanche_devil_name_possessive:0 "Guayota's" #NT!
- guanche_devil_herselfhimself:0 "himself" #NT!
- # The great and good gods and goddesses #NT!
- guanche_creator_god_name:0 "Achamán" #NT!
- guanche_creator_god_name_possessive:0 "Achamán's" #NT!
- guanche_health_god_name:0 "Chaxiraxi" #the sun mother #NT!
- guanche_health_god_name_possessive:0 "Chaxiraxi's" #NT!
- guanche_fertility_god_name:0 "Moneib" #NT!
- guanche_fertility_god_name_possessive:0 "Moneib's" #NT!
- guanche_wealth_god_name:0 "Magec" #sun goddess #NT!
- guanche_wealth_god_name_possessive:0 "Magec's" #NT!
- guanche_household_god_name:0 "the Maxios" #NT!
- guanche_household_god_name_possessive:0 "the Maxios'" #NT!
- guanche_knowledge_god_name:0 "$guanche_creator_god_name$" #NT!
- guanche_knowledge_god_name_possessive:0 "$guanche_creator_god_name_possessive$" #NT!
- guanche_fate_god_name:0 "Achuguayo" #god of moon and time #NT!
- guanche_fate_god_name_possessive:0 "Achuguayo's" #NT!
- guanche_war_god_name:0 "$guanche_creator_god_name$" #NT!
- guanche_war_god_name_possessive:0 "$guanche_creator_god_name_possessive$" #NT!
- guanche_trickster_god_name:0 "$guanche_devil_name$" #NT!
- guanche_trickster_god_name_possessive:0 "$guanche_devil_name_possessive$" #NT!
- guanche_night_god_name:0 "Achuguayo" #god of moon and time #NT!
- guanche_night_god_name_possessive:0 "Achuguayo's" #NT!
- guanche_water_god_name:0 "Achuhucanac" #the rain god #NT!
- guanche_water_god_name_possessive:0 "Achuhucanac's" #NT!
- guanche_death_deity_name:0 "$guanche_devil_name$" #NT!
- guanche_death_deity_name_possessive:0 "$guanche_devil_name_possessive$" #NT!
- witchgodname_guanche_tibicena:0 "the Tibicena" #NT!
- witchgodname_guanche_tibicena_possessive:0 "the Tibicena's" #NT!
-
- #Guanche Pagan #NT!
- guanche_pagan:0 "Achamánism" #NT!
- guanche_pagan_adj:0 "Achamánic" #NT!
- guanche_pagan_adherent:0 "Achamánist" #fictional #NT!
- guanche_pagan_adherent_plural:0 "Achamánists" #NT!
-
- guanche_pagan_old:0 "Old Achamánism" #NT!
- guanche_pagan_old_adj:0 "Old Achamánic" #NT!
- guanche_pagan_old_adherent:0 "Old Achamánist" #NT!
- guanche_pagan_old_adherent_plural:0 "Old Achamánists" #NT!
-
-# Ammonism #NT!
-
- ammon_pagan:0 "Ammonism" #NT!
- ammon_pagan_adj:0 "Ammon" #NT!
- ammon_pagan_adherent:0 "Ammonite" #NT!
- ammon_pagan_adherent_plural:0 "Ammonites" #NT!
- ammon_pagan_desc:0 "A syncretic religion centered around the Oracle at Siwa that mixed Hellenic, Berber, and Kemetic practices" #NT!
-
- ammon_pagan_old:0 "Old Ammonism" #NT!
- ammon_pagan_old_adj:0 "Old Ammon" #NT!
- ammon_pagan_old_adherent:0 "Old Ammonite" #NT!
- ammon_pagan_old_plural:0 "Old Ammonites" #NT!
-
- # Semitic (formerly Helleno-Semitic) #NT!
- semitic_religion:1 "Semitic" #NT!
- semitic_religion_adj:1 "Semitic" #NT!
- semitic_religion_adherent:1 "Semitic" #NT!
- semitic_religion_adherent_plural:1 "Semitics" #NT!
- semitic_religion_desc:1 "The peoples of the Middle East have a long tradition of polytheism. Some of their pantheons have blended with that of other peoples they have come into contact with over the centuries, such as the Greeks and Romans." #NT!
- #semitic_religion_desc:1 "In the Classical Era, Graeco-Roman religion syncretized with the native polytheistic beliefs of the Semitic peoples living in the Levant and northern Mesopotamia following centuries of rule under the Diadochi and later the Roman Empire." #NT!
-
- semitic_religion_old:1 "Old Semitic" #NT!
- semitic_religion_old_adj:1 "Old Semitic" #NT!
- semitic_religion_old_adherent:1 "Old Semitic" #NT!
- semitic_religion_old_adherent_plural:1 "Old Semitics" #NT!
-
- harranian_pagan:0 "Harranism" #NT!
- harranian_pagan_adj:0 "Harranian" #NT!
- harranian_pagan_adherent:1 "Harranian" #NT!
- harranian_pagan_adherent_plural:0 "Harranians" #NT!
- harranian_pagan_desc:0 "Though they chose to identify as the Sabians mentioned in the Quran in order to be labeled as People of the Book by their Muslim neighbors, the pagans of Harran are a distinct sect. Their practices range from worship of ancient Mesopotamian and Hellenic deities to the esoteric pursuits of their renowned scholars who observe the all-telling stars and follow a philosophy rooted in classical Neoplatonism and Hermeticism." #NT!
-
- heliopolitan_pagan:0 "Heliopolitanism" #NT!
- heliopolitan_pagan_adj:0 "Heliopolitan" #NT!
- heliopolitan_pagan_adherent:1 "Heliopolitan" #NT!
- heliopolitan_pagan_adherent_plural:0 "Heliopolitans" #NT!
- heliopolitan_pagan_desc:0 "The Cult of the Triad was a syncretic form of Roman and Canaanite polytheism which worshipped above all gods a Triad consisting of: Jupiter, identified with Ba'al or Hadad, and Helios; Venus, identified with Astarte; and Mercury, identified with Adon. It was prominent in Baalbek, or Heliopolis, which remained one of the last pagan strongholds in the Near East (besides Harran) until the Arab Conquests of the 7th century." #NT!
-
- nabataean_pagan:0 "Dusharaism" #NT!
- nabataean_pagan_adj:0 "Dusharaist" #NT!
- nabataean_pagan_adherent:1 "Dusharaist" #NT!
- nabataean_pagan_adherent_plural:0 "Dusharaists" #NT!
- nabataean_pagan_desc:0 "The Nabataeans incorporated a variety of gods from other cultures into their Semitic pantheon, particularly the Greek and Roman gods after Nabataea became part of the Roman Empire. The prominence of their chief deity Dushara sets the Nabataeans apart from other ancient Arab peoples, and he was later associated with Zeus (or Jupiter) and Dionysus. Worship of Dushara may have persisted into the early Islamic period." #NT!
-
- aksumite_pagan:0 "Mahremism" #NT!
- aksumite_pagan_adj:0 "Mahremist" #NT!
- aksumite_pagan_adherent:1 "Mahremist" #NT!
- aksumite_pagan_adherent_plural:0 "Mahremists" #NT!
- aksumite_pagan_old:0 "Old Mahremism" #NT!
- aksumite_pagan_old_adj:0 "Old Mahremist" #NT!
- aksumite_pagan_old_adherent:1 "Old Mahremist" #NT!
- aksumite_pagan_old_adherent_plural:0 "Old Mahremists" #NT!
- aksumite_pagan_desc:0 "The cults of the ancient Ethiopians bear strong influence from that of the South Arabian kingdoms. The supreme god is Mahrem, son of the god Ashtar; the gods are all called the Sons of the Invincible Mahrem." #NT!
-
- south_arabian_pagan:0 "Athtarism" #NT!
- south_arabian_pagan_adj:0 "Athtarist" #NT!
- south_arabian_pagan_adherent:1 "Athtarist" #NT!
- south_arabian_pagan_adherent_plural:0 "Athtarists" #NT!
- south_arabian_pagan_desc:0 "Though the ancient peoples of South Arabia worship a variety of deities depending on their region, they also have many shared elements in their religious practices, distinct from the less urbanized Arabs to their north." #NT!
-
- holy_order_warriors_of_tammuz:0 "Warriors of Tammuz" #NT!
- holy_order_thunderbolts_of_jupiter:0 "Thunderbolts of Jupiter" #NT!
- holy_order_champions_of_the_stars:0 "Champions of the Stars" #NT!
-
- # Based on the SOUTH ARABIAN pantheon #NT!
- semitic_high_god_name:0 "Athtar" #NT!
- semitic_high_god_name_possessive:0 "Athtar's" #NT!
- semitic_devil_name:0 "Evil Jinn" #NT!
- semitic_devil_name_possessive:0 "Evil Jinns'" #NT!
- semitic_evil_god_demons:0 "the Evil Jinns" #NT!
- semitic_death_deity_name:0 "Athtar" #NT!
- semitic_death_deity_name_possessive:0 "Athtar's" #NT!
- semitic_religious_symbol:0 "statue" #NT!
- semitic_religious_text:0 "Corpus Hermeticum" #NT!
- semitic_religious_head_title:0 "High Priest" #NT!
- semitic_religious_head_title_name:0 "High Council" #NT!
- semitic_witchgodname:0 "Sham" #NT!
- semitic_witchgodname_possessive:0 "Sham's" #NT!
- semitic_priest_male:0 "Priest" #NT!
- semitic_priest_male_plural:0 "Priests" #NT!
- semitic_priest_female:0 "Priestess" #NT!
- semitic_priest_female_plural:0 "Priestesses" #NT!
- semitic_priest_neuter:0 "Diviner" #NT!
- semitic_priest_neuter_plural:0 "Diviners" #NT!
- semitic_bishop_male:0 "Head Priest" #NT!
- semitic_bishop_male_plural:0 "Head Priests" #NT!
- semitic_bishop_female:0 "Head Priestess" #NT!
- semitic_bishop_female_plural:0 "Head Priestesses" #NT!
- semitic_bishop_neuter:0 "Head Priest" #NT!
- semitic_bishop_neuter_plural:0 "Head Priests" #NT!
-
- semitic_creator_god_name:0 "Athtar" #NT!
- semitic_creator_god_name_possessive:0 "Athtar's" #NT!
- semitic_health_god_name:0 "Shams" #NT!
- semitic_health_god_name_possessive:0 "Shams'" #NT!
- semitic_fertility_god_name:0 "Dhat-Badan" #NT!
- semitic_fertility_god_name_possessive:0 "Dhat-Badan's" #NT!
- semitic_wealth_god_name:0 "Shams" #NT!
- semitic_wealth_god_name_possessive:0 "Shams's" #NT!
- semitic_household_god_name:0 "Shams" #NT!
- semitic_household_god_name_possessive:0 "Shams'" #NT!
- semitic_fate_god_name:0 "Anbay" #NT!
- semitic_fate_god_name_possessive:0 "Anbay's" #NT!
- semitic_knowledge_god_name:0 "Anbay" #NT!
- semitic_knowledge_god_name_possessive:0 "Anbay's" #NT!
- semitic_war_god_name:0 "Athtar" #NT!
- semitic_war_god_name_possessive:0 "Athtar's" #NT!
- semitic_trickster_god_name:0 "Jinn" #NT!
- semitic_trickster_god_name_possessive:0 "Jinns'" #NT!
- semitic_night_god_name:0 "Almaqah" #NT!
- semitic_night_god_name_possessive:0 "Almaqah's" #NT!
- semitic_water_god_name:0 "Athtar" #NT!
- semitic_water_god_name_possessive:0 "Athtar's" #NT!
-
- arabic_pagan_high_god_name:0 "Hubal" #NT!
- arabic_pagan_high_god_name_possessive:0 "Hubal's" #NT!
- arabic_pagan_creator_god_name:0 "Hubal" #NT!
- arabic_pagan_creator_god_name_possessive:0 "Hubal's" #NT!
- arabic_pagan_death_deity_name:0 "Hubal" #NT!
- arabic_pagan_death_deity_name_possessive:0 "Hubal's" #NT!
- arabic_pagan_health_god_name:0 "Al-Uzza" #NT!
- arabic_pagan_health_god_name_possessive:0 "Al-Uzza's" #NT!
- arabic_pagan_fertility_god_name:0 "Al-Uzza" #NT!
- arabic_pagan_fertility_god_name_possessive:0 "Al-Uzza's" #NT!
- arabic_pagan_wealth_god_name:0 "Sa'd" #NT!
- arabic_pagan_wealth_god_name_possessive:0 "Sa'd's" #NT!
- arabic_pagan_household_god_name:0 "Nuha" #NT!
- arabic_pagan_household_god_name_possessive:0 "Nuha's" #NT!
- arabic_pagan_fate_god_name:0 "Manat" #NT!
- arabic_pagan_fate_god_name_possessive:0 "Manat's" #NT!
- arabic_pagan_knowledge_god_name:0 "Hubal" #NT!
- arabic_pagan_knowledge_god_name_possessive:0 "Hubal's" #NT!
- arabic_pagan_war_god_name:0 "Allat" #NT!
- arabic_pagan_war_god_name_possessive:0 "Allat's" #NT!
- arabic_pagan_trickster_god_name:0 "Jinn" #NT!
- arabic_pagan_trickster_god_name_possessive:0 "Jinns'" #NT!
- arabic_pagan_night_god_name:0 "Allat" #NT!
- arabic_pagan_night_god_name_possessive:0 "Allat's" #NT!
- arabic_pagan_water_god_name:0 "Hubal" #NT!
- arabic_pagan_water_god_name_possessive:0 "Hubal's" #NT!
-
- aksumite_pagan_high_god_name:0 "Mahrem" #NT!
- aksumite_pagan_high_god_name_possessive:0 "Mahrem's" #NT!
- aksumite_pagan_creator_god_name:0 "Athtar" #NT!
- aksumite_pagan_creator_god_name_possessive:0 "Athtar's" #NT!
- aksumite_pagan_death_deity_name:0 "Athtar" #NT!
- aksumite_pagan_death_deity_name_possessive:0 "Athtar's" #NT!
- aksumite_pagan_health_god_name:0 "Meder" #NT!
- aksumite_pagan_health_god_name_possessive:0 "Meder's" #NT!
- aksumite_pagan_fertility_god_name:0 "Meder" #NT!
- aksumite_pagan_fertility_god_name_possessive:0 "Meder's" #NT!
- aksumite_pagan_wealth_god_name:0 "Athtar" #NT!
- aksumite_pagan_wealth_god_name_possessive:0 "Athtar's" #NT!
- aksumite_pagan_household_god_name:0 "Meder" #NT!
- aksumite_pagan_household_god_name_possessive:0 "Meder's" #NT!
- aksumite_pagan_fate_god_name:0 "Mahrem" #NT!
- aksumite_pagan_fate_god_name_possessive:0 "Mahrem's" #NT!
- aksumite_pagan_knowledge_god_name:0 "Athtar" #NT!
- aksumite_pagan_knowledge_god_name_possessive:0 "Athtar's" #NT!
- aksumite_pagan_war_god_name:0 "Mahrem" #NT!
- aksumite_pagan_war_god_name_possessive:0 "Mahrem's" #NT!
- aksumite_pagan_trickster_god_name:0 "spirits" #NT!
- aksumite_pagan_trickster_god_name_possessive:0 "spirits'" #NT!
- aksumite_pagan_night_god_name:0 "Ilumquh" #NT!
- aksumite_pagan_night_god_name_possessive:0 "Ilumquh's" #NT!
- aksumite_pagan_water_god_name:0 "Beher" #NT!
- aksumite_pagan_water_god_name_possessive:0 "Beher's" #NT!
-
- harranian_high_god_name:0 "the One" #NT!
- harranian_high_god_name_possessive:0 "the One's" #NT!
- harranian_high_god_name_alternate:0 "the Supreme One" #NT!
- harranian_high_god_name_alternate_possessive:0 "the Supreme One's" #NT!
- harranian_good_god_hermes:0 "Hermes" #NT!
- harranian_good_god_sin:0 "Sin" #NT!
- harranian_devil_name:0 "Evil Demon" #NT!
- harranian_devil_name_possessive:0 "Evil Demons'" #NT!
- harranian_evil_god_demons:0 "the Evil Demons" #NT!
- harranian_death_deity_name:0 "Pluto" #NT!
- harranian_death_deity_name_possessive:0 "Pluto's" #NT!
- harranian_religious_symbol:0 "laurel" #NT!
- harranian_religious_text:0 "Corpus Hermeticum" #NT!
- harranian_religious_head_title:0 "High Priest" #NT!
- harranian_religious_head_title_name:0 "High Council" #NT!
- harranian_divine_realm:0 "Olympus" #NT!
- harranian_witchgodname:0 "Hekate" #NT!
- harranian_witchgodname_possessive:0 "Hekate's" #NT!
- harranian_priest_male:0 "Priest" #NT!
- harranian_priest_male_plural:0 "Priests" #NT!
- harranian_priest_female:0 "Priestess" #NT!
- harranian_priest_female_plural:0 "Priestesses" #NT!
- harranian_priest_neuter:0 "Diviner" #NT!
- harranian_priest_neuter_plural:0 "Diviners" #NT!
- harranian_bishop_male:0 "Head Priest" #NT!
- harranian_bishop_male_plural:0 "Head Priests" #NT!
- harranian_bishop_female:0 "Head Priestess" #NT!
- harranian_bishop_female_plural:0 "Head Priestesses" #NT!
- harranian_bishop_neuter:0 "Head Priest" #NT!
- harranian_bishop_neuter_plural:0 "Head Priests" #NT!
-
- harranian_creator_god_name:0 "Gaia" #NT!
- harranian_creator_god_name_possessive:0 "Gaia's" #NT!
- harranian_health_god_name:0 "Asclepius" #NT!
- harranian_health_god_name_possessive:0 "Asclepius'" #NT!
- harranian_fertility_god_name:0 "Tammuz" #NT!
- harranian_fertility_god_name_possessive:0 "Tammuz's" #NT!
- harranian_wealth_god_name:0 "Pluto" #NT!
- harranian_wealth_god_name_possessive:0 "Pluto's" #NT!
- harranian_household_god_name:0 "Vesta" #NT!
- harranian_household_god_name_possessive:0 "Vesta's" #NT!
- harranian_fate_god_name:0 "Saturn" #NT!
- harranian_fate_god_name_possessive:0 "Saturn's" #NT!
- harranian_knowledge_god_name:0 "Hermes" #NT!
- harranian_knowledge_god_name_possessive:0 "Hermes'" #NT!
- harranian_war_god_name:0 "Mars" #NT!
- harranian_war_god_name_possessive:0 "Mars'" #NT!
- harranian_trickster_god_name:0 "Hermes" #NT!
- harranian_trickster_god_name_possessive:0 "Hermes'" #NT!
- harranian_night_god_name:0 "Sin" #NT!
- harranian_night_god_name_possessive:0 "Sin's" #NT!
- harranian_water_god_name:0 "Enki" #NT!
- harranian_water_god_name_possessive:0 "Enki's" #NT!
-
- nabataean_high_god_name:0 "Dushara" #NT!
- nabataean_high_god_name_possessive:0 "Dushara's" #NT!
- nabataean_health_god_name:0 "Isis" #NT!
- nabataean_health_god_name_possessive:0 "Isis'" #NT!
- nabataean_fertility_god_name:0 "Al-Lat" #NT!
- nabataean_fertility_god_name_possessive:0 "Al-Lat's" #NT!
- nabataean_wealth_god_name:0 "Tyche" #NT!
- nabataean_wealth_god_name_possessive:0 "Tyche's" #NT!
- nabataean_household_god_name:0 "Obodas" #NT!
- nabataean_household_god_name_possessive:0 "Obodas's" #NT!
- nabataean_fate_god_name:0 "Manat" #NT!
- nabataean_fate_god_name_possessive:0 "Manat's" #NT!
- nabataean_knowledge_god_name:0 "Al-Kutbā" #NT!
- nabataean_knowledge_god_name_possessive:0 "Al-Kutbā's" #NT!
- nabataean_war_god_name:0 "Al-'Uzzā" #NT!
- nabataean_war_god_name_possessive:0 "Al-'Uzzā'" #NT!
- nabataean_trickster_god_name:0 "Mercury" #NT!
- nabataean_trickster_god_name_possessive:0 "Mercury's" #NT!
- nabataean_night_god_name:0 "Shay' Al-Qaum" #NT!
- nabataean_night_god_name_possessive:0 "Shay' Al-Qaum's" #NT!
- nabataean_water_god_name:0 "Atargatis" #NT!
- nabataean_water_god_name_possessive:0 "Atargatis's" #NT!
-
- # Peristani/Kalash/Nuristani #NT!
- peristani_religion:1 "Peristani" #NT!
- peristani_religion_adj:1 "Peristani" #NT!
- peristani_religion_adherent:1 "Peristani" #NT!
- peristani_religion_adherent_plural:1 "Peristanis" #NT!
- peristani_religion_desc:1 "The Indo-Iranian pagans who live along the Pamir and Hindu Kush mountains worship many gods in a manner reminiscent of the ancient pre-Vedic Indians and pre-Zoroastrian Iranians. Purity and impurity are important concepts, and the belief in spirits or fairies known as Peris is strong." #NT!
-
- nuristani_pagan:0 "Dezawism" #NT!
- nuristani_pagan_adj:0 "Dezawist" #NT!
- nuristani_pagan_adherent:1 "Dezawist" #NT!
- nuristani_pagan_adherent_plural:0 "Dezawists" #NT!
- nuristani_pagan_desc:0 "Dezaw was the supreme creator deity of several pagan tribes in northern Pakistan and eastern Afghanistan, particularly the Kalash. Their rituals focus on the boundaries between the worlds of purity and impurity. For example, high mountains, goats, and prepubescent boys are seen as exemplars of purity." #NT!
-
- nuristani_pagan_old:0 "Old Dezawism" #NT!
- nuristani_pagan_old_adj:0 "Old Dezawist" #NT!
- nuristani_pagan_old_adherent:1 "Old Dezawist" #NT!
- nuristani_pagan_old_adherent_plural:0 "Old Dezawists" #NT!
- nuristani_pagan_old_desc:0 "Dezaw was the supreme creator deity of several pagan tribes in northern Pakistan and eastern Afghanistan, particularly the Kalash. Their rituals focus on the boundaries between the worlds of purity and impurity. For example, high mountains, goats, and prepubescent boys are seen as exemplars of purity." #NT!
-
- holy_order_companions_of_the_suchi:0 "Companions of the Suchi" #NT!
- holy_order_defenders_of_the_pure_mountains:0 "Defenders of the Pure Mountains" #NT!
- holy_order_warriors_of_mahandeo:0 "Warriors of Mahandeo" #NT!
-
- peristani_high_god_name:0 "Dezaw" #NT!
- peristani_high_god_name_possessive:0 "Dezaw's" #NT!
- peristani_high_god_name_alternate:0 "Imra" #NT!
- peristani_high_god_name_alternate_possessive:0 "Imra's" #NT!
- peristani_devil_name:0 "Jestan" #NT!
- peristani_devil_name_possessive:0 "Jestan's" #NT!
- peristani_death_deity_name:0 "Mara" #NT!
- peristani_death_deity_name_possessive:0 "Mara's" #NT!
- peristani_religious_symbol:0 "goat" #NT!
- peristani_religious_text:0 "Ištikavan" #NT!
- peristani_religious_head_title:0 "High Ištikavan" #NT!
- peristani_religious_head_title_name:0 "High Council" #NT!
- peristani_divine_realm:0 "Tsiam" #NT!
- peristani_priest_male:0 "Ištikavan" #NT!
- peristani_priest_male_plural:0 "Ištikavans" #NT!
- peristani_priest_female:0 "Ištikavan" #NT!
- peristani_priest_female_plural:0 "Ištikavans" #NT!
- peristani_priest_neuter:0 "Ištikavan" #NT!
- peristani_priest_neuter_plural:0 "Ištikavans" #NT!
- peristani_bishop_male:0 "Head Ištikavan" #NT!
- peristani_bishop_male_plural:0 "Head Ištikavans" #NT!
- peristani_bishop_female:0 "Head Ištikavan" #NT!
- peristani_bishop_female_plural:0 "Head Ištikavans" #NT!
- peristani_bishop_neuter:0 "Head Ištikavan" #NT!
- peristani_bishop_neuter_plural:0 "Head Ištikavans" #NT!
- peristani_creator_god_name:0 "Dezaw" #NT!
- peristani_creator_god_name_possessive:0 "Dezaw's" #NT!
- peristani_health_god_name:0 "Dezalik" #NT!
- peristani_health_god_name_possessive:0 "Dezalik's" #NT!
- peristani_fertility_god_name:0 "Dezalik" #NT!
- peristani_fertility_god_name_possessive:0 "Dezalik's" #NT!
- peristani_wealth_god_name:0 "Mahandeo" #NT!
- peristani_wealth_god_name_possessive:0 "Mahandeo's" #NT!
- peristani_household_god_name:0 "Jestak" #NT!
- peristani_household_god_name_possessive:0 "Jestak's" #NT!
- peristani_fate_god_name:0 "Balumain" #NT!
- peristani_fate_god_name_possessive:0 "Balumain's" #NT!
- peristani_knowledge_god_name:0 "Balumain" #NT!
- peristani_knowledge_god_name_possessive:0 "Balumain's" #NT!
- peristani_war_god_name:0 "Mahandeo" #NT!
- peristani_war_god_name_possessive:0 "Mahandeo's" #NT!
- peristani_trickster_god_name:0 "Sajigor" #NT!
- peristani_trickster_god_name_possessive:0 "Sajigor's" #NT!
- peristani_night_god_name:0 "Indra" #NT!
- peristani_night_god_name_possessive:0 "Indra's" #NT!
- peristani_water_god_name:0 "Indra" #NT!
- peristani_water_god_name_possessive:0 "Indra's" #NT!
- peristani_house_of_worship:0 "Amol" #NT!
- peristani_house_of_worship_plural:0 "Amols" #NT!
- peristani_good_god_dezaw:0 "Dezaw" #NT!
- peristani_good_god_dezalik:0 "Dezalik" #NT!
- peristani_good_god_jestak:0 "Jestak" #NT!
- peristani_good_god_balumain:0 "Balumain" #NT!
- peristani_good_god_mahandeo:0 "Mahandeo" #NT!
- peristani_good_god_indra:0 "Indra" #NT!
- peristani_witchgodname:0 "Balumain" #NT!
- peristani_witchgodname_possessive:0 "Balumain's" #NT!
-
-
- ############################################################################################ #NT!
- # #NT!
- # Holy Sites #NT!
- # #NT!
- ############################################################################################ #NT!
-
-
- holy_site_harran_name:1 "Harran" #NT!
- holy_site_harran_effect_name:0 "From [holy_site|E] #weak ($holy_site_harran_name$)#!" #NT!
- holy_site_giza_name:1 "Giza" #NT!
- holy_site_giza_effect_name:0 "From [holy_site|E] #weak ($holy_site_giza_name$)#!" #NT!
- holy_site_baalbek_name:1 "Baalbek" #NT!
- holy_site_baalbek_effect_name:0 "From [holy_site|E] #weak ($holy_site_baalbek_name$)#!" #NT!
- holy_site_petra_name:1 "Petra" #NT!
- holy_site_petra_effect_name:0 "From [holy_site|E] #weak ($holy_site_petra_name$)#!" #NT!
- holy_site_fuerteventura_name:0 "Erbanne" #NT!
- holy_site_fuerteventura_effect_name:0 "From [holy_site|E] #weak ($holy_site_fuerteventura_name$)#!" #NT!
- holy_site_canarias_name:0 "Guanchinet" #NT!
- holy_site_canarias_effect_name:0 "From [holy_site|E] #weak ($holy_site_canarias_name$)#!" #NT!
- holy_site_bilizma_name:0 "Bilizma" #NT!
- holy_site_bilizma_effect_name:0 "From [holy_site|E] #weak ($holy_site_bilizma_name$)#!" #NT!
- holy_site_ahaggar_name:0 "Ahaggar" #NT!
- holy_site_ahaggar_effect_name:0 "From [holy_site|E] #weak ($holy_site_ahaggar_name$)#!" #NT!
- holy_site_tanas_name:0 "Tanas" #NT!
- holy_site_tanas_effect_name:0 "From [holy_site|E] #weak ($holy_site_tanas_name$)#!" #NT!
- holy_site_thebes_name:0 "Thebes" #NT!
- holy_site_thebes_effect_name:0 "From [holy_site|E] #weak ($holy_site_thebes_name$)#!" #NT!
-
- # #NT!
- holy_site_baduhena_name:0 "Grove of Baduhenna" #NT!
- holy_site_baduhena_effect_name:0 "From [holy_site|E] #weak ($holy_site_baduhena_name$)#!" #NT!
- holy_site_nerthus_name:0 "Grove of Nerthus" #NT!
- holy_site_nerthus_effect_name:0 "From [holy_site|E] #weak ($holy_site_nerthus_name$)#!" #NT!
- holy_site_irminsul_name:0 "Irminsul" #NT!
- holy_site_irminsul_effect_name:0 "From [holy_site|E] #weak ($holy_site_irminsul_name$)#!" #NT!
- holy_site_semnones_name:0 "Grove of the Semnones" #NT!
- holy_site_semnones_effect_name:0 "From [holy_site|E] #weak ($holy_site_semnones_name$)#!" #NT!
- holy_site_gotland_name:0 "Gotland" #NT!
- holy_site_gotland_effect_name:0 "From [holy_site|E] #weak ($holy_site_gotland_name$)#!" #NT!
- holy_site_oium_name:0 "Oium" #NT!
- holy_site_oium_effect_name:0 "From [holy_site|E] #weak ($holy_site_oium_name$)#!" #NT!
- holy_site_alesia_name:0 "Alesia" #NT!
- holy_site_alesia_effect_name:0 "From [holy_site|E] #weak ($holy_site_alesia_name$)#!" #NT!
- holy_site_alesia_effects:0 "County Conversion Speed: #P +15%#!" #NT!
- holy_site_vannes_name:0 "Vannes" #NT!
- holy_site_vannes_effect_name:0 "From [holy_site|E] #weak ($holy_site_vannes_name$)#!" #NT!
- COURT_CHAPLAIN_CONVERSION_HOLY_SITE_ALESIA:0 "Holy Site — Alesia" #NT!
-
- holy_site_naxos_name:0 "Naxos" #NT!
- holy_site_naxos_effect_name:0 "From [holy_site|E] #weak ($holy_site_naxos_name$)#!" #NT!
- holy_site_cephalonia_name:0 "Cephalonia" #NT!
- holy_site_cephalonia_effect_name:0 "From [holy_site|E] #weak ($holy_site_cephalonia_name$)#!" #NT!
- holy_site_ephesos_name:0 "Ephesos" #NT!
- holy_site_ephesos_effect_name:0 "From [holy_site|E] #weak ($holy_site_ephesos_name$)#!" #NT!
-
- holy_site_siwa_name:0 "Siwa" #NT!
- holy_site_siwa_effect_name:0 "From [holy_site|E] #weak ($holy_site_siwa_name$)#!" #NT!
-
- # Awjila #NT!
- holy_site_augila_name:0 "Augila" #NT!
- holy_site_augila_effect_name:0 "From [holy_site|E] #weak ($holy_site_augila_name$)#!" #NT!
-
- # Germa #NT!
- holy_site_garama_name:0 "Garama" #NT!
- holy_site_garama_effect_name:0 "From [holy_site|E] #weak ($holy_site_garama_name$)#!" #NT!
-
- # Djerba #NT!
- holy_site_jerba_name:0 "Jerba" #NT!
- holy_site_jerba_effect_name:0 "From [holy_site|E] #weak ($holy_site_jerba_name$)#!" #NT!
-
- # Ammonism #NT!
- ammon_religious_head_title:0 "High Priest of Gurzil" #NT!
- ammon_religious_head_title_name:0 "High Priesthood" #NT!
- d_ammon:0 "Ammonite Council" #NT!
-
- # Sardinian Paganism #NT!
-
- sardinian_religion:1 "Sardinian" #NT!
- sardinian_religion_adj:1 "Sardinian" #NT!
- sardinian_religion_adherent:1 "Sardinian" #NT!
- sardinian_religion_adherents_plural:1 "Sardinians" #NT!
- sardinian_religion_desc:1 "The indigenous inhabitants of Sardinia worship gods who are often associated with various animals and symbols of nature, in particular the fertility deities of the male Bull-Sun and the female Water-Moon. Traditionally, islanders would gather throughout the year in holy places like sacred wells to worship." #NT!
-
- sardinian_pagan_old:1 "Old Nuragism" #NT!
- sardinian_pagan_old_adj:1 "Old Nuragic" #NT!
- sardinian_pagan_old_adherent:1 "Old Nuragic" #NT!
- sardinian_pagan_old_plural:1 "Old Nuragics" #NT!
-
- sardinian_pagan:0 "Nuragism" #NT!
- sardinian_pagan_adj:0 "Nuragic" #NT!
- sardinian_pagan_adherent:1 "Nuragic" #NT!
- sardinian_pagan_adherent_plural:0 "Nuragics" #NT!
- sardinian_pagan_desc:0 "$sardinian_religion_desc$" #NT!
-
- # Illyian Paganism #NT!
-
- illyrian_pagan_old:1 "Old Illyrian Paganism" #NT!
- illyrian_pagan_old_adj:1 "Old Tadenusist" #NT!
- illyrian_pagan_old_adherent:1 "Old Tadenusist" #NT!
- illyrian_pagan_old_plural:1 "Old Tadenusists" #NT!
-
- illyrian_pagan:0 "Illyrian Paganism" #NT!
- illyrian_pagan_adj:0 "Tadenusist" #NT!
- illyrian_pagan_adherent:1 "Tadenusist" #NT!
- illyrian_pagan_adherent_plural:0 "Tadenusists" #NT!
- illyrian_pagan_desc:0 "The pantheons of the Illyrian peoples vary greatly from tribe to tribe, and over the centuries, the Illyrians have adopted many deities and beliefs from the Romans, Greeks, Celts, and Thracians. The sun and serpent cults are particularly common among other forms of nature worship." #NT!
-
- illyrian_high_god_name:0 "Deipaturos" #NT!
- illyrian_high_god_name_possessive:0 "Deipaturos'" #NT!
- illyrian_death_deity_name:0 "Pluto" #NT!
- illyrian_death_deity_name_possessive:0 "Pluto's" #NT!
- illyrian_creator_god_name:0 "Deipaturos" #NT!
- illyrian_creator_god_name_possessive:0 "Deipaturos'" #NT!
- illyrian_health_god_name:0 "Thana" #NT!
- illyrian_health_god_name_possessive:0 "Thana's" #NT!
- illyrian_fertility_god_name:0 "Vidasus" #NT!
- illyrian_fertility_god_name_possessive:0 "Vidasus'" #NT!
- illyrian_wealth_god_name:0 "Redon" #NT!
- illyrian_wealth_god_name_possessive:0 "Redon's" #NT!
- illyrian_household_god_name:0 "Tadenus" #NT!
- illyrian_household_god_name_possessive:0 "Tadenus'" #NT!
- illyrian_fate_god_name:0 "Tadenus" #NT!
- illyrian_fate_god_name_possessive:0 "Tadenus'" #NT!
- illyrian_knowledge_god_name:0 "Tadenus" #NT!
- illyrian_knowledge_god_name_possessive:0 "Tadenus'" #NT!
- illyrian_war_god_name:0 "Meudaurus" #NT!
- illyrian_war_god_name_possessive:0 "Meudaurus'" #NT!
- illyrian_trickster_god_name:0 "Tadenus" #NT!
- illyrian_trickster_god_name_possessive:0 "Tadenus'" #NT!
- illyrian_night_god_name:0 "Diana" #NT!
- illyrian_night_god_name_possessive:0 "Diana's" #NT!
- illyrian_water_god_name:0 "Redon" #NT!
- illyrian_water_god_name_possessive:0 "Redon's" #NT!
-
- holy_site_risinium_name:0 "Risinium" #NT!
- holy_site_risinium_effect_name:0 "From [holy_site|E] #weak ($holy_site_risinium_name$)#!" #NT!
-
- # Hypsistarians #NT!
-
- hypsistarian_pagan_old:1 "Old Hypsistarianism" #NT!
- hypsistarian_pagan_old_adj:1 "Old Hypsistarian" #NT!
- hypsistarian_pagan_old_adherent:1 "Old Hypsistarian" #NT!
- hypsistarian_pagan_old_plural:1 "Old Hypsistarians" #NT!
-
- hypsistarian_pagan:0 "Hypsistarianism" #NT!
- hypsistarian_pagan_adj:0 "Hypsistarian" #NT!
- hypsistarian_pagan_adherent:1 "Hypsistarian" #NT!
- hypsistarian_pagan_adherent_plural:0 "Hypsistarians" #NT!
- hypsistarian_pagan_desc:0 "The Hypsistarians are an eclectic group of Hellenic pagan sects from Asia Minor and the Black Sea who have been greatly influenced by Jewish ideas. They focus their worship solely on Hypsistos, the "Most High" God, but do not necessarily deny the existence of other gods." #NT!
-
- holy_site_oenoanda_name:0 "Oenoanda" #NT!
- holy_site_oenoanda_effect_name:0 "From [holy_site|E] #weak ($holy_site_oenoanda_name$)#!" #NT!
-
- # Palmyra #NT!
- holy_site_palmyra_name:0 "Palmyra" #NT!
- holy_site_palmyra_effect_name:0 "From [holy_site|E] #weak ($holy_site_palmyra_name$)#!" #NT!
-
- palmyrene_pagan_old:1 "Old Palmyrene Paganism" #NT!
- palmyrene_pagan_old_adj:1 "Old Palmyrene" #NT!
- palmyrene_pagan_old_adherent:1 "Old Palmyrene" #NT!
- palmyrene_pagan_old_plural:1 "Old Palmyrenes" #NT!
-
- palmyrene_pagan:0 "Palmyrene Paganism" #NT!
- palmyrene_pagan_adj:0 "Palmyrene" #NT!
- palmyrene_pagan_adherent:1 "Palmyrene" #NT!
- palmyrene_pagan_adherent_plural:0 "Palmyrenes" #NT!
- palmyrene_pagan_desc:0 "Palmyra's pantheon blends together Phoenician, Mesopotamian, Arabic, and Hellenic deities. The chief gods are the triad of Bel, the supreme god, Aglibol, a lunar god, and Malakbel, the sun god. Powerful, wealthy families serve priestly functions, and attnedance at sacred feasts are of paramount soco-religious importance." #NT!
-
- palmyrene_high_god_name:0 "Bel" #NT!
- palmyrene_high_god_name_possessive:0 "Bel's" #NT!
- palmyrene_high_god_alternate_name:0 "Baalshamin" #NT!
- palmyrene_high_god_alternate_name_possessive:0 "Baalshamin's" #NT!
- palmyrene_death_deity_name:0 "Bel" #NT!
- palmyrene_death_deity_name_possessive:0 "Bel's" #NT!
- palmyrene_creator_god_name:0 "Bel" #NT!
- palmyrene_creator_god_name_possessive:0 "Bel's" #NT!
- palmyrene_health_god_name:0 "Malakbel" #NT!
- palmyrene_health_god_name_possessive:0 "Malakbel's" #NT!
- palmyrene_fertility_god_name:0 "Atargatis" #NT!
- palmyrene_fertility_god_name_possessive:0 "Atargatis'" #NT!
- palmyrene_wealth_god_name:0 "Arsu and Azizu" #NT!
- palmyrene_wealth_god_name_possessive:0 "Arsu and Azizu's" #NT!
- palmyrene_household_god_name:0 "Astarte" #NT!
- palmyrene_household_god_name_possessive:0 "Astarte's" #NT!
- palmyrene_fate_god_name:0 "Manawat" #NT!
- palmyrene_fate_god_name_possessive:0 "Manawat's" #NT!
- palmyrene_knowledge_god_name:0 "Nabu" #NT!
- palmyrene_knowledge_god_name_possessive:0 "Nabu's" #NT!
- palmyrene_war_god_name:0 "Allat" #NT!
- palmyrene_war_god_name_possessive:0 "Allat's" #NT!
- palmyrene_trickster_god_name:0 "the ginnaye" #NT!
- palmyrene_trickster_god_name_possessive:0 "the ginnayes'" #NT!
- palmyrene_night_god_name:0 "Aglibol" #NT!
- palmyrene_night_god_name_possessive:0 "Aglibol's" #NT!
- palmyrene_water_god_name:0 "Elqonera" #NT!
- palmyrene_water_god_name_possessive:0 "Elqonera's" #NT!
-
-
-
- greco_egyptian_pagan:0 "Serapism" #NT!
- greco_egyptian_pagan_adj:0 "Serapist" #NT!
- greco_egyptian_pagan_adherent:0 "Serapist" #NT!
- greco_egyptian_pagan_adherent_plural:0 "Serapists" #NT!
- greco_egyptian_pagan_desc:0 "The Ptolemaic Dynasty developed a pantheon that blended together Hellenic and indigenous Egyptian gods, to unite both Greeks and Egyptians. At the center of this syncretic faith was the sun god Serapis, who was worshipped at special temples called serapeums." #NT!
-
- greco_egyptian_pagan_old:0 "Old Serapism" #NT!
- greco_egyptian_pagan_old_adj:0 "Old Serapist" #NT!
- greco_egyptian_pagan_old_adherent:0 "Old Serapist" #NT!
- greco_egyptian_pagan_old_adherent_plural:0 "Old Serapist" #NT!
-
-
- greco_egyptian_high_god_name:0 "Serapis" #NT!
- greco_egyptian_high_god_name_2:0 "Zeus-Ammon" #NT!
- greco_egyptian_high_god_name_possessive:0 "Serapis'" #NT!
- greco_egyptian_high_god_name_alternate:0 "Zeus-Ammon" #NT!
- greco_egyptian_high_god_name_alternate_possessive:0 "Zeus-Ammon's" #NT!
- greco_egyptian_death_deity_name:0 "Hermanubis" #NT!
- greco_egyptian_death_deity_name_possessive:0 "Hermanubis'" #NT!
- greco_egyptian_knowledge_god_name:0 "Hermes Trismegistus" #NT!
- greco_egyptian_knowledge_god_name_possessive:0 "Hermes Trismegistus'" #NT!
-
+  # Sol Invictus 
+ sol_invictus: "Солнечск"
+ sol_invictus_adj: "Непобедимое Солнце"
+ sol_invictus_adherent: "Культист Непобедимого Солнца"
+ sol_invictus_adherent_plural: "Культисты Непобедимого Солнца"
+ sol_invictus_desc: "«Sol Invictus (Непобедимое Солнце)» был ранним римским божеством солнца, которое впало в безвестность в течение первого века нашей эры, но позже вернуло себе известность во время правления императора Аврелиана."
+  
+ roman_pagan: "Римск" #Машинный перевод 28.06.2023
+ roman_pagan_adj: "Римское язычество" #Машинный перевод 28.06.2023
+ roman_pagan_adherent: "Греко-латинец" #Машинный перевод 28.06.2023
+ roman_pagan_adherent_plural: "Греко-латинцы" #Машинный перевод 28.06.2023
+ roman_pagan_desc: "Cultus Deorum Romanorum относится к системе верований и традиций, которых придерживались римляне, получая влияние от своих исторических соседей в Великой Греции и Этрурии во времена Римской республики." #Машинный перевод 28.06.2023
+  
+ sol_invictus_old: "Древне-Непобедимо-Солнцечн"
+ sol_invictus_old_adj: "Древнее Непобедимое Солнце"
+ sol_invictus_old_adherent: "Культист Древнего Непобедимого Солнца"
+ sol_invictus_old_adherent_plural: "Культисты Древнего Непобедимого Солнца"
+  
+  # Arabic Paganism 
+  
+ arabic_pagan: "Хубалистск"
+ arabic_pagan_adj: "Хубализм"
+ arabic_pagan_adherent: "Хубалист"
+ arabic_pagan_adherents_plural: "Семиты" #Машинный перевод 28.06.2023
+ arabic_pagan_desc: "Арабские племена центральной и северной части Аравийского полуострова поклонялись множеству божеств, при этом иностранное влияние было меньше, чем у их двоюродных братьев, живущих дальше на севере, таких как набатеи. Их главным божеством был Хубал, бог луны"
+  
+ arabic_pagan_old: "Старо-хубалистск"
+ arabic_pagan_old_adj: "Старый хубализм"
+ arabic_pagan_old_adherent: "Хубалист"
+ arabic_pagan_old_plural: "Семиты"
+  
+ arabic_pagan: "Хубалистск"
+ arabic_pagan_adj: "Хубализм"
+ arabic_pagan_adherent: "Хубалист"
+ arabic_pagan_adherent_plural: "Хубалисты"
+ arabic_pagan_desc: "Арабские племена центральной и северной части Аравийского полуострова поклонялись множеству божеств, при этом иностранное влияние было меньше, чем у их двоюродных братьев, живущих дальше на севере, таких как набатеи. Их главным божеством был Хубал, бог луны"
+  
+ arabic_pagan_old: "Старо-хубалистск"
+ arabic_pagan_old_adj: "Старый хубализм"
+ arabic_pagan_old_adherent: "Хубалист"
+ arabic_pagan_old_adherent_plural: "Хубалисты"
+  
+  # Germanic Paganism 
+ central_pagan: "Ирминсульск"
+ central_pagan_adj: "Ирминсуль"
+ central_pagan_adherent: "Ирминист"
+ central_pagan_adherent_plural: "Ирминисты"
+ central_pagan_desc: "Важность природы - самый важный элемент ирминистов. Строительство храмов и икон не допускается, по их мнению, поклоняться богам следует в священных рощах и природных местах.\n\n#weak Выходец из восточных степей, Воден однажды пришел и объединил Германию, наполнив ее своим семенем. Теперь его потомки правят и борются друг с другом за контроль над своим наследством. Борьба за выживание развила в их обществе потребность в разжигании войны.#!"
+  
+ central_pagan_old: "Старо-ирминсульск"
+ central_pagan_old_adj: "Старый Ирминсуль"
+ central_pagan_old_adherent: "Ирминист"
+ central_pagan_old_adherent_plural: "Ирминисты"
+  
+ central_pagan_high_god_name: "Ирмин"
+ central_pagan_high_god_name_possessive: "Ирмина"
+ central_pagan_high_god_she_he: "Он"
+ central_pagan_high_god_alternate: "Воден"
+ central_pagan_high_god_alternate_possessive: "Водена"
+ central_pagan_good_god_thor: "Тунайр"
+ central_pagan_good_god_baldr: "Бальдр"
+ central_pagan_good_god_frua: "$central_pagan_fertility_god_name$"
+ central_pagan_good_god_tyr: "$central_pagan_war_god_name$"
+ central_pagan_good_god_sunna: "Сунна"
+  
+ central_pagan_creator_god_name: "$central_pagan_high_god_name$"
+ central_pagan_creator_god_name_possessive: "$central_pagan_high_god_name_possessive$"
+ central_pagan_health_god_name: "Фро"
+ central_pagan_health_god_name_possessive: "Фро"
+ central_pagan_fertility_god_name: "Фруа"
+ central_pagan_fertility_god_name_possessive: "Фруа"
+ central_pagan_wealth_god_name: "Нербуз"
+ central_pagan_wealth_god_name_possessive: "Нербуза"
+ central_pagan_household_god_name: "Фри"
+ central_pagan_household_god_name_possessive: "Фри"
+ central_pagan_fate_god_name: "Идис"
+ central_pagan_fate_god_name_possessive: "Идиса"
+ central_pagan_knowledge_god_name: "Форсайт"
+ central_pagan_knowledge_god_name_possessive: "Форсайта"
+ central_pagan_war_god_name: "Зиу"
+ central_pagan_war_god_name_possessive: "Зиу"
+  
+ gothic_pagan: "Блотск"
+ gothic_pagan_adj: "Блот"
+ gothic_pagan_adherent: "Блотист"
+ gothic_pagan_adherent_plural: "Блотисты"
+  
+ gothic_pagan_old: "Старо-блотск"
+ gothic_pagan_old_adj: "Старый Блот"
+ gothic_pagan_old_adherent: "Блотист"
+ gothic_pagan_old_adherent_plural: "Блотисты"
+  
+ gothic_high_god_name: "Гаптск"
+ gothic_high_god_name_possessive: "Гапта"
+ gothic_high_god_alternate: "Гапт"
+ gothic_high_god_alternate_possessive: "Гапты"
+ gothic_good_god_fairguneis: "Фаиргунейс"
+ gothic_good_god_ingwaz: "$gothic_fertility_god_name$"
+ gothic_good_god_terwing: "$gothic_war_god_name$"
+ gothic_priest_male: "Блострейс"
+ gothic_priest_male_plural: "Блострейса"
+ gothic_priest_female: "Блострейс"
+ gothic_priest_female_plural: "Блострейсы"
+ gothic_priest_neuter: "Блострейс"
+ gothic_priest_neuter_plural: "Блострейса"
+  
+ gothic_fertility_god_name: "Ингваз"
+ gothic_fertility_god_name_possessive: "Ингваза"
+ gothic_knowledge_god_name: "$gothic_high_god_name$"
+ gothic_knowledge_god_name_possessive: "$gothic_high_god_name_possessive$"
+ gothic_war_god_name: "Тервинг"
+ gothic_war_god_name_possessive: "Тервинга"
+ gothic_water_god_name: "Донаус"
+ gothic_water_god_name_possessive: "Донауса"
+  
+ has_special_heritage_name: "Особое наследие"
+ special_faith_no_special_heritage_name: "Нет"
+ special_faith_no_special_heritage_desc: "Мы откажемся от нашего наследия и войдем в этот мир беспристрастно"
+ doctrine_parameter_no_effect_removed_upon_creation: "This Doctrine has no effect and will be removed when the Faith is created"
+ special_faith_has_germanic_heritage_name: "Германское наследие"
+ special_faith_has_germanic_heritage_desc: "Несмотря на то, что наши обычаи с годами изменились, мы почитаем тех же богов, что и наши двоюродные братья, и до сих пор считаем их своими братьями и сестрами по вере."
+ doctrine_parameter_hostility_override_special_faith_has_germanic_heritage: "Considers, and is considered by, other [faiths|E] with the #V $special_faith_has_germanic_heritage_name$#! [doctrine|E] as [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]"
+ doctrine_parameter_hostility_override_special_faith_teachings_of_ulfilas: "Considers, and is considered by, other [faiths|E] with the #V $special_faith_teachings_of_ulfilas_name$#! [doctrine|E] as [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]"
+  
+ saxon_pagan: "Эссеитск"
+ saxon_pagan_adj: "Эссеизм"
+ saxon_pagan_adherent: "Эссеист"
+ saxon_pagan_adherent_plural: "Эссеисты"
+  
+ saxon_pagan_old: "Старо-эссеитск"
+ saxon_pagan_old_adj: "Старый Эссеизм"
+ saxon_pagan_old_adherent: "Эссеист"
+ saxon_pagan_old_adherent_plural: "Эссеисты"
+  
+ saxon_pagan_high_god_name: "Воден"
+ saxon_pagan_high_god_name_possessive: "Водена"
+ saxon_pagan_high_god_she_he: "Он"
+ saxon_pagan_high_god_alternate: "Всеотец"
+ saxon_pagan_high_god_alternate_possessive: "Всеотца"
+ saxon_pagan_good_god_thor: "Тунор"
+ saxon_pagan_good_god_wecta: "Векта"
+ saxon_pagan_good_god_seaxneat: "Сакснет"
+ saxon_pagan_good_god_baeldeag: "Бельведе́р"
+  
+ saxon_pagan_creator_god_name: "$saxon_pagan_high_god_name$"
+ saxon_pagan_creator_god_name_possessive: "$saxon_pagan_high_god_name_possessive$"
+ saxon_pagan_health_god_name: "Фрига"
+ saxon_pagan_health_god_name_possessive: "Фриги"
+ saxon_pagan_fertility_god_name: "Инг"
+ saxon_pagan_fertility_god_name_possessive: "Инг"
+ saxon_pagan_wealth_god_name: "Беова"
+ saxon_pagan_wealth_god_name_possessive: "Беовы"
+ saxon_pagan_household_god_name: "$saxon_pagan_health_god_name$"
+ saxon_pagan_household_god_name_possessive: "$ saxon_pagan_health_god_name_possesive$"
+ saxon_pagan_fate_god_name: "Вирд"
+ saxon_pagan_fate_god_name_possessive: "Вирда"
+ saxon_pagan_knowledge_god_name: "$saxon_pagan_high_god_name$"
+ saxon_pagan_knowledge_god_name_possessive: "$saxon_pagan_high_god_name_possessive$"
+ saxon_pagan_war_god_name: "Тив"
+ saxon_pagan_war_god_name_possessive: "Тива"
+  
+ saxon_pagan_pantheon_name: "Эсе"
+  # Generic Druidic/Common Druidic Localization 
+ druidism_religion: "Друидск"
+ druidism_religion_adj: "Друидизм"
+ druidism_religion_adherent: "Друид"
+ druidism_religion_adherent_plural: "Друиды"
+ druidism_religion_desc: "Верования древних кельтов вращались вокруг того, что мы называем кельтской мифологией. Верховными жрецами этих систем верований были друиды, медики, астрологи, королевские советники и профессора. момент, когда они решили стереть их с лица земли"
+  
+ druidism: "Друидск"
+ druidism_adj: "Друидизм"
+ druidism_adherent: "Друид"
+ druidism_adherent_plural: "Друиды"
+ druidism_desc: "Верования древних кельтов вращались вокруг того, что мы называем кельтской мифологией. Верховными жрецами этих систем верований были друиды, которые были медиками, астрологами, королевскими советниками и профессорами. Римляне боялись политической власти этих друидов, чтобы момент, когда они решили стереть их с лица земли"
+  
+ druidism_old: "Старо-друидск"
+ druidism_old_adj: "Старый Друидизм"
+ druidism_old_adherent: "Друид"
+ druidism_old_adherent_plural: "Друиды"
+  
+ druidism_high_god_name: "Таранис"
+ druidism_high_god_name_possessive: "Тараниса"
+ druidism_high_god_name_alternate: "Отец Небо"
+ druidism_high_god_name_alternate_possessive: "Отца Небо"
+ druidism_good_god_father_sky: "$druidism_high_god_name$"
+ druidism_good_god_protection: "Тутатис"
+ druidism_good_god_sailors: "Эсус"
+ druidism_devil_name: "Цернуннос"
+ druidism_devil_name_possessive: "Цернуннос"
+ druidism_devil_shehe: "Это"
+ druidism_devil_herselfhimself: "Сам"
+ druidism_devil_herhis: "Его"
+ druidism_evil_god_decay: "Гниль"
+ druidism_evil_god_decay_possessive: "Порча"
+ druidism_evil_god_drought: "Засуха"
+ druidism_death_deity_name: "Веллаун"
+ druidism_death_deity_name_possessive: "Веллауна"
+ druidism_death_deity_herhis: "его"
+ druidism_pantheon_gods: "Боги"
+  
+ druidism_creator_god_name: "Матроны"
+ druidism_creator_god_name_possessive: "Матронеи"
+ druidism_health_god_name: "$druidism_high_god_name$"
+ druidism_health_god_name_possessive: "$druidism_high_god_name_possessive$"
+ druidism_fertility_god_name: "$druidism_high_god_name$"
+ druidism_fertility_god_name_possessive: "$druidism_high_god_name_possessive$"
+ druidism_wealth_god_name: "$druidism_high_god_name$"
+ druidism_wealth_god_name_possessive: "$druidism_high_god_name_possessive$"
+ druidism_household_god_name: "$druidism_high_god_name$"
+ druidism_household_god_name_possessive: "$druidism_high_god_name_possessive$"
+ druidism_fate_god_name: "$druidism_creator_god_name$"
+ druidism_fate_god_name_possessive: "$druidism_creator_god_name_possessive$"
+ druidism_knowledge_god_name: "Бриджит"
+ druidism_knowledge_god_name_possessive: "Бригид"
+ druidism_war_god_name: "Луг"
+ druidism_war_god_name_possessive: "Луг"
+ druidism_trickster_god_name: "Отец Небо"
+ druidism_trickster_god_name_possessive: "Отец Небо"
+ druidism_night_god_name: "$druidism_trickster_god_name$"
+ druidism_night_god_name_possessive: "$druidism_trickster_god_name_possessive$"
+ druidism_water_god_name: "$druidism_high_god_name$"
+ druidism_water_god_name_possessive: "$druidism_high_god_name_possessive$"
+  
+ druidism_house_of_worship: "Священная роща"
+ druidism_house_of_worship_plural: "Рощи"
+ druidism_religious_symbol: "Трикетра"
+ druidism_religious_text: "Священные истории"
+ druidism_religious_head_title: "Верховный друид"
+ druidism_religious_head_title_name: "Совет друидов"
+ druidism_devotee: "Вейт"
+ druidism_devoteep_lural: "Ватес"
+ druidism_priest: "Бард"
+ druidism_priest_plural: "Барды"
+ druidism_priest_alternate_plural: "Друиды"
+ druidism_divine_realm: "Небеса"
+ druidism_afterlife: "Другой мир"
+ witchgodname_druidism_the_shadow: "Тень"
+ druidism_mother_earth_father_sky: "Таранис"
+  
+ irish_druidism: "Гэльск"
+ irish_druidism_adj: "Гэльский Друидизм"
+ irish_druidism_adherent: "Гэл"
+ irish_druidism_adherent_plural: "Гэлы"
+ irish_druidism_desc: "Похоже по моде и традициям на пиктский Друидизм, гэльский Друидизм сумел отличиться от своего близкого родственника в Британии тем, что, возможно, является наиболее "чистой" формой Друидизма, не затронутой римскими или галльскими влияниями в силу своей изоляции от лет как к северу от традиционной провинции Британия, так и на непокоренном и независимом острове Хиберния"
+  
+ irish_druidism_old: "Старо-гэльск"
+ irish_druidism_old_adj: "Старый Гэльский Друидизм"
+ irish_druidism_old_adherent: "Гэл"
+ irish_druidism_old_adherent_plural: "Гэлы"
+  
+ irish_druidism_high_god_name: "Дагда"
+ irish_druidism_high_god_name_possessive: "Дагды"
+ irish_druidism_high_god_name_alternate: "Дари"
+ irish_druidism_high_god_name_alternate_possessive: "Даире"
+ irish_druidism_good_god_father_sky: "$irish_druidism_high_god_name$"
+ irish_druidism_good_god_protection: "$irish_druidism_high_god_name$"
+ irish_druidism_devil_name: "Балор"
+ irish_druidism_devil_name_possessive: "Балора"
+ irish_druidism_evil_god_decay: "$irish_druidism_devil_name$"
+ irish_druidism_evil_god_decay_possessive: "$irish_druidism_devil_name$"
+ irish_druidism_evil_god_drought: "$irish_druidism_devil_name$"
+ irish_druidism_death_deity_name: "Донн"
+ irish_druidism_death_deity_name_possessive: "Донна"
+ irish_druidism_pantheon_gods: "Туата Де Дананн"
+ irish_druidism_pantheon_gods_possesive: "Туата Де Дананна"
+  
+ irish_druidism_creator_god_name: "$irish_druidism_pantheon_gods$"
+ irish_druidism_creator_god_name_possessive: "$irish_druidism_pantheon_gods_possessive$"
+ irish_druidism_health_god_name: "Каинте"
+ irish_druidism_health_god_name_possessive: "Каинте"
+ irish_druidism_fertility_god_name: "Бригид"
+ irish_druidism_fertility_god_name_possessive: "Бригиды"
+ irish_druidism_wealth_god_name: "Айне"
+ irish_druidism_wealth_god_name_possessive: "Айне"
+ irish_druidism_household_god_name: "$irish_druidism_high_god_name$"
+ irish_druidism_household_god_name_possessive: "$irish_druidism_high_god_name_possessive$"
+ irish_druidism_fate_god_name: "Морриган"
+ irish_druidism_fate_god_name_possessive: "Морриган"
+ irish_druidism_knowledge_god_name: "Бриджит"
+ irish_druidism_knowledge_god_name_possessive: "Бриджит"
+ irish_druidism_war_god_name: "Нейт"
+ irish_druidism_war_god_name_possessive: "Нейта"
+ irish_druidism_trickster_god_name: "Луг"
+ irish_druidism_trickster_god_name_possessive: "Луг"
+ irish_druidism_night_god_name: "Арианрод"
+ irish_druidism_night_god_name_possessive: "Арианрода"
+ irish_druidism_water_god_name: "$irish_druidism_high_god_name$"
+ irish_druidism_water_god_name_possessive: "$irish_druidism_high_god_name_possessive$"
+ witchgodname_irish_ruidism_the_shadow: "Кайллич"
+  
+ pictish_druidism: "Пиктск"
+ pictish_druidism_adj: "Пиктский Друидизм"
+ pictish_druidism_adherent: "Пикт"
+ pictish_druidism_adherent_plural: "Пикты"
+ pictish_druidism_desc: "Пикты - одна из самых отдаленных частей мира друидов. Содержащий в себе больше аспектов Кельтского многобожия, чем их континентальные Галльские или Британские аналоги, пиктский Друидизм по-прежнему очень узнаваем для любого последователя, где бы он ни находился."
+  
+ pictish_druidism_old: "Пиктск"
+ pictish_druidism_old_adj: "Старый Пиктский Друидизм"
+ pictish_druidism_old_adherent: "Пикт"
+ pictish_druidism_old_adherent_plural: "Пикты"
+  
+ gaulish_high_god_name: "Амбисагрус"
+ gaulish_high_god_name_possessive: "Амбисагруса"
+ gaulish_high_god_name_alternate: "Бог грома"
+ gaulish_high_god_name_alternate_possessive: "Бога Грома"
+ gaulish_good_god_vercingetorix: "Верцингеторикс"
+ gaulish_good_god_grannus: "Граннус"
+ gaulish_good_god_rosmerta: "Росмерта"
+ gaulish_good_god_cissonius: "Циссониус"
+ gaulish_good_god_moccus: "Моккус"
+ gaulish_good_god_alaunius: "Алауниус"
+ gaulish_good_god_ecne: "Экне"
+ gaulish_good_god_caturix: "Катурикс"
+ gaulish_good_god_virotutis: "Виротутис"
+ gaulish_good_god_bormana: "Бормана"
+ gaulish_good_god_mullo: "Мулло"
+ gaulish_good_god_loucetios: "Луцетиос"
+ gaulish_good_god_esus: "Эсус"
+ gaulish_good_god_sequana: "Секвана"
+ gaulish_good_god_maiabus: "Майабус"
+ gaulish_good_god_epona: "Эпона"
+ gaulish_good_god_brixta: "Брикста"
+ gaulish_creator_god_name: "Эйоха"
+ gaulish_creator_god_name_possessive: "Эйоха"
+ gaulish_health_god_name: "Граннус"
+ gaulish_health_god_name_possessive: "Граннуса"
+ gaulish_fertility_god_name: "Росмерта"
+ gaulish_fertility_god_name_possessive: "Росмерта"
+ gaulish_wealth_god_name: "Циссоний"
+ gaulish_wealth_god_name_possessive: "Циссония"
+ gaulish_household_god_name: "Моккус"
+ gaulish_household_god_name_possessive: "Моккуса"
+ gaulish_fate_god_name: "Алауниус"
+ gaulish_fate_god_name_possessive: "Алауниуса"
+ gaulish_knowledge_god_name: "Экне"
+ gaulish_knowledge_god_name_possessive: "Экне"
+ gaulish_war_god_name: "Катурикс"
+ gaulish_war_god_name_possessive: "Катурикса"
+ gaulish_trickster_god_name: "Виротутис"
+ gaulish_trickster_god_name_possessive: "Виротутиса"
+ gaulish_night_god_name: "Амбисагрус"
+ gaulish_night_god_name_possessive: "Амбисагруса"
+ gaulish_water_god_name: "Борман"
+ gaulish_water_god_name_possessive: "Бормана"
+ gaulish_devil_name: "Эрекура"
+ gaulish_devil_name_possessive: "Эрекура"
+ gaulish_evil_god_ankou: "Анкоу"
+ gaulish_evil_god_aereda: "Аэреда"
+ gaulish_religious_symbol: "трискелион"
+ gaulish_religious_text: "Сенчанулой Кокраван"
+ gaulish_divine_realm: "Другой мир"
+ gaulish_positive_afterlife_name: "Подземный мир"
+ gaulish_negative_afterlife_name: "Подземный мир"
+ gaulish_death_deity_name: "Веллаун"
+ gaulish_death_deity_name_possessive: "Веллаун"
+ gaulish_witchgodname_morrigan: "Адсагсона"
+  
+ gaulish_pagan: "Галльск"
+ gaulish_pagan_adj: "Галльское язычество"
+ gaulish_pagan_adherent: "Галл"
+ gaulish_pagan_adherent_plural: "Галлы"
+  
+ gaulish_pagan_old: "Галльск"
+ gaulish_pagan_old_adj: "Старое Галльское язычество"
+ gaulish_pagan_old_adherent: "Галл"
+ gaulish_pagan_old_adherent_plural: "Галлы"
+  
+ gaulish_pagan_desc: "Галлы — гордый и сильный народ, который гордится своим наследием и своими богами. Несмотря на сильное влияние своих римских соседей и, в конечном итоге, повелителей, галлы по-прежнему держались своих богов и традиций."
+ celto_hellenic_syncretism: "Таранистск"
+ celto_hellenic_syncretism_adj: "Таранизм"
+ celto_hellenic_syncretism_adherent: "Тараник"
+ celto_hellenic_syncretism_adherent_plural: "Тараники"
+ celto_hellenic_syncretism_desc: "Боги греко-римлян и кельтов не так уж сильно отличаются друг от друга. Пока кельтский мир находился в контакте с греко-римлянами Средиземноморья, их боги пересекались и смешивались. Кельтские галаты из Малой Азии, например, уже объединили свой пантеон с пантеоном греков, чтобы сформировать таких богов, как Зевс Тавианос. Для культурной сплоченности или ассимиляции с принимающей религией политика религиозной синхронизации станет государственным законом"
+  
+ celto_hellenic_syncretism_old: "Кельто-эллинск"
+ celto_hellenic_syncretism_old_adj: "Старый кельто-эллинский синкретизм"
+ celto_hellenic_syncretism_old_adherent: "Кельто-Грек"
+ celto_hellenic_syncretism_old_adherent_plural: "Кельто-Греки"
+  
+ celto_hellenic_syncretism_high_god_name: "Таранис Юпитер"
+ celto_hellenic_syncretism_high_god_name_possesive: "Тараниса Юпитера"
+ celto_hellenic_syncretism_high_god_name_alternate: "Юпитер Поэнин"
+ celto_hellenic_syncretism_high_god_name_alternate_possesive: "Юпитера Поэнина"
+ celto_hellenic_syncretism_creator_god_name: "Дис Патер"
+ celto_hellenic_syncretism_creator_god_name_possessive: "Дис Патера"
+  
+ celto_hellenic_syncretism_health_god_name: "Аполлон Беленус"
+ celto_hellenic_syncretism_health_god_name_possessive: "Аполлон Беленуса"
+ celto_hellenic_syncretism_fertility_god_name: "Эпона"
+ celto_hellenic_syncretism_fertility_god_name_possessive: "Эпоны"
+ celto_hellenic_syncretism_wealth_god_name: "Меркурий Визуций"
+ celto_hellenic_syncretism_wealth_god_name_possessive: "Меркурий Визуция"
+ celto_hellenic_syncretism_household_god_name: "Лара"
+ celto_hellenic_syncretism_household_god_name_possessive: "Лары"
+ celto_hellenic_syncretism_knowledge_god_name: "Минерва Бригантия"
+ celto_hellenic_syncretism_knowledge_god_name_possessive: "Минервы Бригантии"
+ celto_hellenic_syncretism_war_god_name: "Марс Лугус"
+ celto_hellenic_syncretism_war_god_name_possessive: "Марсы Лугус"
+ celto_hellenic_syncretism_trickster_god_name: "$celto_hellenic_syncretism_wealth_god_name$"
+ celto_hellenic_syncretism_trickster_god_name_possessive: "$celto_hellenic_syncretism_wealth_god_name_possessive$"
+ celto_hellenic_syncretism_night_god_name: "Викторианцы"
+ celto_hellenic_syncretism_night_god_name_possessive: "Викторианцев"
+ celto_hellenic_syncretism_water_god_name: "Нептун Ноденс"
+ celto_hellenic_syncretism_water_god_name_possessive: "Нептуна Ноденса"
+  
+ celto_hellenic_syncretism_pantheon_term: "Дии согласия"
+ celto_hellenic_syncretism_devil_name: "Плутон"
+ celto_hellenic_syncretism_devil_name_possessive: "Плутона"
+ celto_hellenic_syncretism_devil_shehe: "он"
+ celto_hellenic_syncretism_devil_herselfhimself: "сам"
+ celto_hellenic_syncretism_devil_herhis: "его"
+ celto_hellenic_syncretism_death_deity_name: "$celto_hellenic_syncretism_devil_name$"
+ celto_hellenic_syncretism_death_deity_name_possessive: "$celto_hellenic_syncretism_devil_name_possessive$"
+ celto_hellenic_syncretism_death_deity_herhis: "$celto_hellenic_syncretism_devil_herhis$"
+  
+ celto_hellenic_syncretism_house_of_worship: "Эдес"
+ celto_hellenic_syncretism_of_worship_plural: "$celto_hellenic_syncretism_house_of_worship$"
+ celto_hellenic_bad_afterlife: "Тартар"
+ celto_hellenic_good_afterlife: "Элизиум"
+  
+ britano_roman_pagan: "Кивирск"
+ britano_roman_pagan_adj: "Юр Кивир"
+ britano_roman_pagan_adherent: "Кивир"
+ britano_roman_pagan_adherent_plural: "Кивиры"
+ britano_roman_pagan_desc: "Последователи Истины, цивиры поклоняются окружающему миру как живому дышащему существу. Каждый уголок и закоулок их мира заполнен местными божествами. Некоторые родом из Британии, а другие прибыли на лодке из эллинизированного мира. ... В Юр Кивир нет ничего плохого или правильного, пока соблюдается строгий британский кодекс поведения; на первом месте стоят Мужество, Честь, Честность, Гостеприимство и Верность"
+  
+ britano_roman_pagan_high_god_name: "Бригантия"
+ britano_roman_pagan_high_god_name_possesive: "Бригантии"
+ britano_roman_pagan_high_god_name_alternate: "Бригантия"
+ britano_roman_pagan_high_god_name_alternate_possesive: "Бригантии"
+ britano_roman_pagan_creator_god_name: "Сатурн"
+ britano_roman_pagan_creator_god_name_possessive: "Сатурна"
+  
+ britano_roman_pagan_health_god_name: "Мабон"
+ britano_roman_pagan_health_god_name_possessive: "Мабона"
+ britano_roman_pagan_fertility_god_name: "Рианнон"
+ britano_roman_pagan_fertility_god_name_possessive: "Рианнона"
+ britano_roman_pagan_wealth_god_name: "Сенуна"
+ britano_roman_pagan_wealth_god_name_possessive: "Сенуна"
+ britano_roman_pagan_household_god_name: "Лара"
+ britano_roman_pagan_household_god_name_possessive: "Лары"
+ britano_roman_pagan_knowledge_god_name: "Минерва Сулис"
+ britano_roman_pagan_knowledge_god_name_possessive: "Сулис"
+ britano_roman_pagan_war_god_name: "Ллеу"
+ britano_roman_pagan_war_god_name_possessive: "Ллеу"
+ britano_roman_pagan_trickster_god_name: "Гвидион"
+ britano_roman_pagan_trickster_god_name_possessive: "Гвидиона"
+ britano_roman_pagan_night_god_name: "Араун"
+ britano_roman_pagan_night_god_name_possessive: "Арауна"
+ britano_roman_pagan_water_god_name: "Надд"
+ britano_roman_pagan_water_god_name_possessive: "Надда"
+  
+ britano_roman_pagan_good_god_modron: "Модрон"
+ britano_roman_pagan_good_god_bran: "Отруби"
+  
+ britano_roman_pagan_pantheon_term: "Боги"
+ britano_roman_pagan_devil_name: "$britano_roman_pagan_night_god_name$"
+ britano_roman_pagan_devil_name_possessive: "$britano_roman_pagan_night_god_name_possessive$"
+ britano_roman_pagan_devil_shehe: "он"
+ britano_roman_pagan_devil_herselfhimself: "сам"
+ britano_roman_pagan_devil_herhis: "его"
+ britano_roman_pagan_death_deity_name: "$britano_roman_pagan_devil_name$"
+ britano_roman_pagan_death_deity_name_possessive: "$britano_roman_pagan_devil_name_possessive$"
+ britano_roman_pagan_death_deity_herhis: "$britano_roman_pagan_devil_herhis$"
+  
+ britano_roman_pagan_house_of_worship: "Фанум"
+ britano_roman_pagan_house_of_worship_plural: "Фанумы"
+ britano_roman_pagan_bad_afterlife: "Аннун"
+ britano_roman_pagan_good_afterlife: "Аннун"
+ britano_roman_pagan_witch_god_name: "Керидвен"
+  
+ briton_pagan: "Йр-хен-кивирск"
+ briton_pagan_adj: "Курица Кивир"
+ briton_pagan_adherent: "Курица кивир"
+ briton_pagan_adherent_plural: "Курица кивиры"
+ briton_pagan_desc: "Последователи Древней Истины, Хен Цивиры поклоняются окружающему миру как живому дышащему существу. Каждый уголок и трещинка их мира заполнены местными богами. Боги природы наблюдают за британцами, и они сопротивляются, не желая принять римских богов, старые истины остались неэллинизированными.Хотя друиды давно ушли, их влияние все еще можно почувствовать на тех, кто решил искать его и следовать строгому бриттскому кодексу поведения: Мужество, Честь, Честность, Гостеприимство и верность"
+  
+ briton_pagan_old: "Старо-Кивирск"
+ briton_pagan_old_adj: "Старый Кивир"
+ briton_pagan_old_adherent: "Старо-кивир"
+ briton_pagan_old_adherent_plural: "Старо-кивиры"
+  
+  
+ briton_pagan_health_god_name: "Нодены"
+ briton_pagan_health_god_name_possessive: "Ноденс"
+ briton_pagan_fertility_god_name: "Эпона"
+ briton_pagan_fertility_god_name_possessive: "Эпона"
+ briton_pagan_wealth_god_name: "Борво"
+ briton_pagan_wealth_god_name_possessive: "Борво"
+ briton_pagan_household_god_name: "Конребис"
+ briton_pagan_household_god_name_possessive: "Конребиса"
+ briton_pagan_trickster_god_name: "Гвидион"
+ briton_pagan_trickster_god_name_possessive: "Гвидион"
+ briton_pagan_night_god_name: "Рианнон"
+ briton_pagan_night_god_name_possessive: "Рианнон"
+ briton_pagan_water_god_name: "Сулис"
+ briton_pagan_water_god_name_possessive: "Сулис"
+  
+ briton_pagan_devil_name: "Араун"
+ briton_pagan_devil_name_possessive: "Араун"
+ briton_pagan_devil_shehe: "он"
+ briton_pagan_devil_herselfhimself: "сам"
+ briton_pagan_devil_herhis: "его"
+ briton_pagan_death_deity_name: "$briton_pagan_devil_name$"
+ briton_pagan_death_deity_name_possessive: "$briton_pagan_devil_name_possessive$"
+ briton_pagan_death_deity_herhis: "$briton_pagan_devil_herhis$"
+ briton_pagan_afterlife: "Царство Аннун"
+ witchgodname_briton_pagan_adsagsona: "Адсагсона"
+  
+  
+ special_faith_has_hellenic_syncretism_name: "Эллинический синкретизм"
+ special_faith_has_hellenic_syncretism_desc: "Пантеон Греции и Рима — это постоянно меняющаяся группа божеств, объединяющая и отбрасывающая божества по мере того, как их популярность и культ угасают и растут. Боги из других культур легко рассматриваются как еще один аспект существующего эллинского бога, или они могут быть просто добавлены к основным эллинским божествам"
+ doctrine_parameter_hostility_override_special_faith_has_hellenic_syncretism: "Considers, and is considered by, other [faiths|E] with the #V $special_faith_has_hellenic_syncretism_name$#! [doctrine|E] as [GetHostilityLevelName( TOKEN_PARAMETER.GetIntValue )|V]"
+  
+ siberian_religion: "Турумическ"
+ siberian_religion_adj: "Турумичество"
+  
+ desert_paganism_religion: "Пустынно-языческ"
+ desert_paganism_religion_adj: "Пустынное язычество"
+  
+  # Iranian Paganism group 
+ iranian_religion: "Иранск"
+ iranian_religion_adj: "Иранизм"
+ iranian_religion_adherent: "Иранец"
+ iranian_religion_adherent_plural: "Иранцы"
+ iranian_religion_desc: "Хотя многие ираноязычные народы приняли более новые, иные верования, все еще есть те, кто поклоняется богам так же, как их предки в Средней Азии."
+  
+ iranian_religion_old: "Старо-иранск"
+ iranian_religion_old_adj: "Старый иранизм"
+ iranian_religion_old_adherent: "Старо-иранец"
+ iranian_religion_old_adherent_plural: "Старо-иранцы"
+  
+ scythian_pagan: "Гептадианск"
+ scythian_pagan_adj: "Скифское язычество"
+ scythian_pagan_adherent: "Гептадианец"
+ scythian_pagan_adherent_plural: "Гептадианцы"
+ scythian_pagan_desc: "Эта пантеистическая вера, зародившаяся в скифских землях, поклонялась семи главным богам, часто приравниваемым к богам греческого пантеона. Элементы более ранней политеистической народной религии скифов до сих пор сохранились, равно как и практика жертвоприношений лошадей и захоронений в колесницах, как у кельтов"
+  
+ scythian_pagan_old: "Старо-гептадианск"
+ scythian_pagan_old_adj: "Старо-скифское язычество"
+ scythian_pagan_old_adherent: "Старо-гептадианец"
+ scythian_pagan_old_adherent_plural: "Старо-гептадианцы"
+  
+  # Iranian Paganism 
+ iranian_pagan: "Даэванск"
+ iranian_pagan_adj: "Иранское язычество"
+ iranian_pagan_adherent: "Даэванит"
+ iranian_pagan_adherent_plural: "Даэваниты"
+ iranian_pagan_desc: "Божества, достойные поклонения, делятся на две основные категории: дэвы, или небесные, и ахуры, или божественные владыки. Среди важных богов выделяются Варуна, Митра и Агни и другие. в основном осуществляется через центральный ритуал, известный как язна"
+  
+ iranian_pagan_old: "Старо-даэванск"
+ iranian_pagan_old_adj: "Старое иранское язычество"
+ iranian_pagan_old_adherent: "Старо-дэванит"
+ iranian_pagan_old_adherent_plural: "Старо-дэваниты"
+  
+  # Dacian Paganism 
+ dacian_pagan: "Залмоксианск"
+ dacian_pagan_adj: "Залмоксианство"
+ dacian_pagan_adherent: "Залмоксианин"
+ dacian_pagan_adherent_plural: "Залмоксианцы"
+ dacian_pagan_desc: "Высшее божество — Залмоксис, поклонение которому осуществляется классом жрецов. Именно он рассказал своим последователям о бессмертии человеческих душ и о том, что после смерти люди просто меняют свое местонахождение и перерождаются в другом месте."
+  
+ dacian_pagan_old: "Старо-залмоксианск"
+ dacian_pagan_old_adj: "Старо-залмоксианство"
+ dacian_pagan_old_adherent: "Старо-залмоксианин"
+ dacian_pagan_old_adherent_plural: "Старо-залмоксианцы"
+  
+  
+ dacian_high_god_name: "Зис" #Машинный перевод 28.06.2023
+ dacian_high_god_name_possessive: "Зись" #Машинный перевод 28.06.2023
+ dacian_death_deity_name: "Аид" #Машинный перевод 28.06.2023
+ dacian_death_deity_name_possessive: "Аид'" #Машинный перевод 28.06.2023
+ dacian_creator_god_name: "Зис" #Машинный перевод 28.06.2023
+ dacian_creator_god_name_possessive: "Зись" #Машинный перевод 28.06.2023
+ dacian_health_god_name: "Бендис" #Машинный перевод 28.06.2023
+ dacian_health_god_name_possessive: "Бендис" #Машинный перевод 28.06.2023
+ dacian_fertility_god_name: "Бендис" #Машинный перевод 28.06.2023
+ dacian_fertility_god_name_possessive: "Бендис" #Машинный перевод 28.06.2023
+ dacian_wealth_god_name: "Залмоксис" #Машинный перевод 28.06.2023
+ dacian_wealth_god_name_possessive: "Залмоксис" #Машинный перевод 28.06.2023
+ dacian_household_god_name: "Бендис" #Машинный перевод 28.06.2023
+ dacian_household_god_name_possessive: "Бендис" #Машинный перевод 28.06.2023
+ dacian_fate_god_name: "Орфей" #Машинный перевод 28.06.2023
+ dacian_fate_god_name_possessive: "Орфей'" #Машинный перевод 28.06.2023
+ dacian_knowledge_god_name: "Залмоксис" #Машинный перевод 28.06.2023
+ dacian_knowledge_god_name_possessive: "Залмоксис" #Машинный перевод 28.06.2023
+ dacian_war_god_name: "Залмоксис" #Машинный перевод 28.06.2023
+ dacian_war_god_name_possessive: "Залмоксис" #Машинный перевод 28.06.2023
+ dacian_trickster_god_name: "Залмоксис" #Машинный перевод 28.06.2023
+ dacian_trickster_god_name_possessive: "Залмоксис" #Машинный перевод 28.06.2023
+ dacian_night_god_name: "Бендис" #Машинный перевод 28.06.2023
+ dacian_night_god_name_possessive: "Бендис" #Машинный перевод 28.06.2023
+ dacian_water_god_name: "Бендис" #Машинный перевод 28.06.2023
+ dacian_water_god_name_possessive: "Бендис" #Машинный перевод 28.06.2023
+  
+  # Balkan/Daco-Thracian Paganism group 
+ balkan_religion: "Балканск"
+ balkan_religion_adj: "Балканизм"
+ balkan_religion_adherent: "Балканец"
+ balkan_religion_adherent_plural: "Балканцы"
+ balkan_religion_desc: "Племена, населяющие балканские земли, имеют разнообразный набор верований, обрядов и праздников, которые в последнее время находились под влиянием эллинских и римских идей и находились под их влиянием."
+  
+ balkan_religion_old: "Старое-балканск"
+ balkan_religion_old_adj: "Старый балканизм"
+ balkan_religion_old_adherent: "Старо-балканец"
+ balkan_religion_old_adherent_plural: "Старо-балканцы"
+  
+  # Egyptian Paganism ig 
+ egyptian_pagan: "Кеметиск"
+ egyptian_pagan_adj: "Кеметизм"
+ egyptian_pagan_adherent: "Кемит"
+ egyptian_pagan_adherent_plural: "Кемиты"
+ egyptian_pagan_desc: "Религия фараонов насчитывает тысячи лет. Бесчисленная группа божеств присутствует в мире и управляет им, и ритуальные молитвы, подношения, празднования и строительство сложных храмов и памятников необходимы, чтобы завоевать их благосклонность и поддерживать Маат, космический порядок." #Машинный перевод 28.06.2023
+  
+ egyptian_pagan_old: "Древне-кеметиск"
+ egyptian_pagan_old_adj: "Древний кеметизм"
+ egyptian_pagan_old_adherent: "Древне-кемит"
+ egyptian_pagan_old_adherent_plural: "Древне-кемиты"
+  
+ egyptian_high_god_name: "Амон-Ра"
+ egyptian_high_god_name_2: "Осирис"
+ egyptian_high_god_name_possessive: "Амон-Ра"
+ egyptian_high_god_name_alternate: "$egyptian_high_god_name_2$"
+ egyptian_high_god_name_alternate_possessive: "$egyptian_high_god_name_2$"
+ paganism_evil_god_chaos: "Хаос"
+ egyptian_death_deity_name: "Анубис"
+ egyptian_death_deity_name_possessive: "Анубис"
+ egyptian_religious_symbol: "анкх"
+ egyptian_religious_symbol_2: "$egyptian_religious_symbol$"
+ egyptian_religious_symbol_3: "$egyptian_religious_symbol$"
+ egyptian_religious_text: "священные камни"
+ egyptian_divine_realm: "Дуат"
+ egyptian_divine_realm_2: "$egyptian_divine_realm$"
+ egyptian_divine_realm_3: "$egyptian_divine_realm$"
+ egyptian_devil_name: "Апеп"
+ egyptian_devil_name_possessive: "Апеп"
+ egyptian_witch_god_name: "Хека"
+ egyptian_witch_god_name_possessive: "Хеки"
+ egyptian_creator_god_name: "Атум"
+ egyptian_creator_god_name_possessive: "Атум"
+ egyptian_health_god_name: "Исида"
+ egyptian_health_god_name_possessive: "Исиды"
+ egyptian_fertility_god_name: "Хатор"
+ egyptian_fertility_god_name_possessive: "Хатор"
+ egyptian_wealth_god_name: "Хнум"
+ egyptian_wealth_god_name_possessive: "Хнум"
+ egyptian_household_god_name: "Бес"
+ egyptian_household_god_name_possessive: "Бес"
+ egyptian_fate_god_name: "Шай"
+ egyptian_fate_god_name_possessive: "Шай"
+ egyptian_knowledge_god_name: "Тот"
+ egyptian_knowledge_god_name_possessive: "Тота"
+ egyptian_war_god_name: "Вепвавет"
+ egyptian_war_god_name_possessive: "Вепвавет"
+ egyptian_trickster_god_name: "Набор"
+ egyptian_trickster_god_name_possessive: "Наборы"
+ egyptian_night_god_name: "Нефтида"
+ egyptian_night_god_name_possessive: "Нефтис"
+ egyptian_water_god_name: "Тефнут"
+ egyptian_water_god_name_possessive: "Тефнут"
+  
+  # Kushitism 
+ kushitism_religion: "Старо-кеметизм"
+ kushitism_religion_adj: "Старый кеметизм"
+ kushitism_religion_adherent: "Старо-кемит"
+ kushitism_religion_adherent_plural: "Старо-кемиты"
+ kushitism_religion_desc: "Почитание древних богов здесь остается сильным, как и почитание границы между жизнью и смертью."
+
+  #Amazigh paganism 
+ amazigh_religion: "Амазигск"
+ amazigh_religion_adj: "Амазиги"
+ amazigh_religion_adherent: "Амазиг"
+ amazigh_religion_adherent_plural: "Амазиги"
+ amazigh_religion_desc: "Сосредоточенный на благоговении перед природой, включая священные горы и деревья, почитание предков и веру в духов, пантеон амазигов также находился под влиянием древнегреческих, римских и пунических религий"
+  # Temples, priests, symbols, divine terms 
+ amazigh_house_of_worship: "Храм"
+ amazigh_house_of_worship_plural: "Храмы"
+ amazigh_religious_symbol: "Знак Танит"
+ amazigh_religious_text: "священные песни"
+ amazigh_religious_head_title: "Первосвященник"
+ amazigh_religious_head_title_name: "Высший совет"
+ amazigh_priest: "Жрец"
+ amazigh_priest_plural: "Священники"
+ amazigh_priest_female: "Жрица"
+ amazigh_priest_female_plural: "Жрицы"
+ amazigh_priest_term_plural: "Священники"
+ amazigh_priest_neuter: "Прорицатель"
+ amazigh_priest_neuter_plural: "Прорицатели"
+ amazigh_bishop_male: "Главный жрец"
+ amazigh_bishop_male_plural: "Главные жрецы"
+ amazigh_bishop_female: "Главная жрица"
+ amazigh_bishop_female_plural: "Главные жрицы"
+ amazigh_bishop_neuter: "Главный жрец"
+ amazigh_bishop_neuter_plural: "Главные жрецы"
+ amazigh_the_spirits: "духи предков"
+ amazigh_divine_realm: "предки"
+ amazigh_afterlife: "$amazigh_divine_realm$"
+  # The great and good gods and goddesses 
+ amazigh_high_god_name: "Аммон"
+ amazigh_high_god_name_possessive: "Аммона"
+ amazigh_high_god_name_alternate: "Ваал Хаммон"
+ amazigh_high_god_name_alternate_possessive: "Баал Хаммона"
+ amazigh_good_god_anti: "Анти"
+ amazigh_good_god_tinja: "Тинджа"
+ amazigh_good_god_sufax: "Суфакс"
+ amazigh_good_god_anzar: "Анзар"
+ amazigh_good_god_suggen: "Сугган"
+ amazigh_good_god_tililwa: "Тилилва"
+ amazigh_good_god_tislit: "Тислит"
+  # The evil gods 
+ amazigh_devil_name: "темные духи"
+ amazigh_devil_name_possessive: "темные духи"
+  # The great and good gods and goddesses 
+ amazigh_creator_god_name: "Танит"
+ amazigh_creator_god_name_possessive: "Танит"
+ amazigh_health_god_name: "$amazigh_creator_god_name$"
+ amazigh_health_god_name_possessive: "$amazigh_creator_god_name_possessive$"
+ amazigh_fertility_god_name: "$amazigh_creator_god_name$"
+ amazigh_fertility_god_name_possessive: "$amazigh_creator_god_name_possessive$"
+ amazigh_wealth_god_name: "$amazigh_creator_god_name$"
+ amazigh_wealth_god_name_possessive: "$amazigh_creator_god_name_possessive$"
+ amazigh_household_god_name: "$amazigh_creator_god_name$"
+ amazigh_household_god_name_possessive: "$amazigh_creator_god_name_possessive$"
+ amazigh_knowledge_god_name: "Анигуран"
+ amazigh_knowledge_god_name_possessive: "Анигурана"
+ amazigh_fate_god_name: "Афри"
+ amazigh_fate_god_name_possessive: "Афри"
+ amazigh_war_god_name: "Гурзил"
+ amazigh_war_god_name_possessive: "Гурзил"
+ amazigh_trickster_god_name: "$amazigh_devil_name$"
+ amazigh_trickster_god_name_possessive: "$amazigh_devil_name_possessive$"
+ amazigh_night_god_name: "Айюр"
+ amazigh_night_god_name_possessive: "Айюр"
+ amazigh_water_god_name: "Авессу"
+ amazigh_water_god_name_possessive: "Авессу"
+ amazigh_death_deity_name: "$amazigh_creator_god_name$"
+ amazigh_death_deity_name_possessive: "$amazigh_creator_god_name_possessive$"
+ witchgodname_amazigh: "$amazigh_devil_name$"
+ witchgodname_amazigh_possessive: "$amazigh_devil_name_possessive$"
+  
+ amazigh_pagan: "Амазигск"
+ amazigh_pagan_adj: "Амазигизм"
+ amazigh_pagan_adherent: "Амазиг"
+ amazigh_pagan_adherent_plural: "Амазиги"
+  
+ amazigh_pagan_old: "Старо-амазигск"
+ amazigh_pagan_old_adj: "Старый амазигизм"
+ amazigh_pagan_old_adherent: "Старо-амазиг"
+ amazigh_pagan_old_adherent_plural: "Старо-амазиги"
+  
+  #Tuareg paganism 
+ tuareg_religious_symbol: "Танагильт"
+ tuareg_house_of_worship: "Святилище"
+ tuareg_house_of_worship_plural: "Святыни"
+  # The evil gods 
+ tuareg_devil_name: "Кел Эсуф"
+ tuareg_devil_name_possessive: "Кел Эсуф"
+  # The great and good gods and goddesses 
+ tuareg_creator_god_name: "Иллу"
+ tuareg_creator_god_name_possessive: "Иллу"
+ tuareg_high_god_name: "Иллу"
+ tuareg_high_god_name_possessive: "Иллу"
+ tuareg_water_god_name: "Анзар"
+ tuareg_water_god_name_possessive: "Анзар"
+ tuareg_war_god_name: "Тин Хинан"
+ tuareg_war_god_name_possessive: "Тин Хинан"
+ tuareg_divine_realm: "Кел Эсуф"
+ tuareg_trickster_god_name: "Кел Эсуф"
+ tuareg_trickster_god_name_possessive: "Кел Эсуф"
+ witchgodname_tuareg: "Кел Эсуф"
+ witchgodname_tuareg_possessive: "Кел Эсуф"
+  
+ tuareg_pagan: "Иллюизск"
+ tuareg_pagan_adj: "Иллюизм"
+ tuareg_pagan_adherent: "Иллюист"
+ tuareg_pagan_adherent_plural: "Иллюисты"
+  
+ tuareg_pagan_old: "Старо-иллюзск"
+ tuareg_pagan_old_adj: "Старый иллюзм"
+ tuareg_pagan_old_adherent: "Старо-иллюист"
+ tuareg_pagan_old_adherent_plural: "Старо-иллюисты"
+  
+  #Guanche paganism 
+ guanche_pagan: "Ахаманизск"
+ guanche_pagan_adj: "Ахаманизм"
+ guanche_pagan_adherent: "Ахаманист"
+ guanche_pagan_adherent_plural: "Ахаманисты"
+ guanche_pagan_desc: "Ахаман, вечный бог неба, создал землю и воду, огонь и воздух, все существа получили свое существование от него. Ахаман живет в высотах и ​​иногда спускается на вершины гор, созерцая свои творения. Согласно легенде, Гуайота похитил солнечного Магека и заточил его в вулкане Тейде, погрузив мир во тьму. Люди молились Ачаману, который спас Магека, и вместо этого заперли злого Гуайоту в Тейде, где Гуайота будет жить вечно. чтобы мучить людей через своих потомков, Тибицен, демонов с телами больших диких собак с красными глазами и покрытых длинным черным мехом. Тибицены живут в глубоких пещерах и, как и их отец Гуайота, в горах, они также известны выходящими ночью нападать на людей или домашний скот"
+ carthage_pagan: "Ханаанск"
+ carthage_pagan_adj: "Ханаанство"
+ carthage_pagan_adherent: "Ханаанин"
+ carthage_pagan_adherent_plural: "Ханаанеи"
+ carthage_pagan_desc: "Ханаанская религия почитает ряд богов и их аспекты политеистическим образом. Ваал считается главным божеством в сложной иерархии меньших богов, которым часто поклонялись в святилищах, найденных в горах или на вершинах холмов."
+  # Temples, priests, symbols, divine terms 
+ guanche_house_of_worship: "Альмогарен"
+ guanche_house_of_worship_plural: "Альмогарены"
+ guanche_religious_symbol: "Аньепа"
+ guanche_religious_text: "священные песни"
+ guanche_religious_head_title: "Верховный Гуанаменье"
+ guanche_religious_head_title_name: "Высший совет"
+ guanche_priest: "Канку"
+ guanche_priest_plural: "Канкус"
+ guanche_priest_term_plural: "Канкус"
+ guanche_priest_alternate: "Файкан"
+ guanche_priest_alternate_plural: "Файканс"
+ guanche_priest_neuter: "Канку"
+ guanche_priest_neuter_plural: "Канкус"
+ guanche_bishop_male: "Гуанаменье"
+ guanche_bishop_male_plural: "Гуанаменьес"
+ guanche_bishop_female: "Магуада"
+ guanche_bishop_female_plural: "Магуадасы"
+ guanche_bishop_neuter: "Гуанаменье"
+ guanche_bishop_neuter_plural: "Гуанаменьес"
+ guanche_positive_afterlife: "Айур"
+ guanche_negative_afterlive: "Эчейде"
+  # The great and good gods and goddesses 
+ guanche_high_god_name: "Ахаман"
+ guanche_high_god_name_possessive: "Ахаман"
+ guanche_high_god_name_alternate: "Акоран"
+ guanche_high_god_name_alternate_possessive: "Акорана"
+ guanche_good_god_abora: "Абора"
+ guanche_good_god_orahan: "Орахан"
+ guanche_good_god_eraorahan: "Эраорахан"
+ guanche_good_god_moneib: "Монейб"
+  # The evil gods 
+ guanche_devil_name: "Гуайота"
+ guanche_devil_name_possessive: "Гуайота"
+ guanche_devil_herselfhimself: "сам"
+  # The great and good gods and goddesses 
+ guanche_creator_god_name: "Ахаман"
+ guanche_creator_god_name_possessive: "Ахаман"
+ guanche_health_god_name: "Чаксиракси"
+ guanche_health_god_name_possessive: "Чаксиракси"
+ guanche_fertility_god_name: "Монейб"
+ guanche_fertility_god_name_possessive: "Монейб"
+ guanche_wealth_god_name: "Маг"
+ guanche_wealth_god_name_possessive: "Магии"
+ guanche_household_god_name: "Максиос"
+ guanche_household_god_name_possessive: "Максио"
+ guanche_knowledge_god_name: "$guanche_creator_god_name$"
+ guanche_knowledge_god_name_possessive: "$guanche_creator_god_name_possessive$"
+ guanche_fate_god_name: "Ачугуайо"
+ guanche_fate_god_name_possessive: "Ачугуайо"
+ guanche_war_god_name: "$guanche_creator_god_name$"
+ guanche_war_god_name_possessive: "$guanche_creator_god_name_possessive$"
+ guanche_trickster_god_name: "$guanche_devil_name$"
+ guanche_trickster_god_name_possessive: "$guanche_devil_name_possessive$"
+ guanche_night_god_name: "Ачугуайо"
+ guanche_night_god_name_possessive: "Ачугуайо"
+ guanche_water_god_name: "Ачухуканак"
+ guanche_water_god_name_possessive: "Ачухуканак"
+ guanche_death_deity_name: "$guanche_devil_name$"
+ guanche_death_deity_name_possessive: "$guanche_devil_name_possessive$"
+ witchgodname_guanche_tibicena: "Тибицена"
+ witchgodname_guanche_tibicena_possessive: "Тибицена"
+  
+  #Guanche Pagan 
+ guanche_pagan: "Ахаманизск"
+ guanche_pagan_adj: "Ахаманизм"
+ guanche_pagan_adherent: "Ахаманист"
+ guanche_pagan_adherent_plural: "Ахаманисты"
+  
+ guanche_pagan_old: "Старо-ахаманизск"
+ guanche_pagan_old_adj: "Старый ахаманизм"
+ guanche_pagan_old_adherent: "Старо-ахаманист"
+ guanche_pagan_old_adherent_plural: "Старо-ахаманисты"
+  
+ # Ammonism 
+  
+ ammon_pagan: "Аммонск" #Машинный перевод 28.06.2023
+ ammon_pagan_adj: "Аммон" #Машинный перевод 28.06.2023
+ ammon_pagan_adherent: "Аммонит" #Машинный перевод 28.06.2023
+ ammon_pagan_adherent_plural: "Аммониты" #Машинный перевод 28.06.2023
+ ammon_pagan_desc: "Синкретическая религия, сосредоточенная вокруг Оракула в Сиве, в которой смешались эллинские, берберские и кеметские практики." #Машинный перевод 28.06.2023
+  
+ ammon_pagan_old: "Старо-аммонск" #Машинный перевод 28.06.2023
+ ammon_pagan_old_adj: "Старый Аммон" #Машинный перевод 28.06.2023
+ ammon_pagan_old_adherent: "Старо-аммонит" #Машинный перевод 28.06.2023
+ ammon_pagan_old_plural: "Старо-аммониты" #Машинный перевод 28.06.2023
+  
+  # Semitic (formerly Helleno-Semitic) 
+ semitic_religion: "Семитск"
+ semitic_religion_adj: "Семизм"
+ semitic_religion_adherent: "Семит"
+ semitic_religion_adherent_plural: "Семиты"
+ semitic_religion_desc: "Народы Ближнего Востока имеют давнюю традицию многобожия. Некоторые из их пантеонов смешались с пантеонами других народов, с которыми они контактировали на протяжении веков, таких как греки и римляне."
+ #semitic_religion_desc: "В классическую эпоху греко-римская религия объединилась с коренными политеистическими верованиями семитских народов, живших в Леванте и северной Месопотамии после столетий правления диадохов, а затем и Римской империи"
+  
+ semitic_religion_old: "Старо-семитск"
+ semitic_religion_old_adj: "Старый семизм"
+ semitic_religion_old_adherent: "Старо-семит"
+ semitic_religion_old_adherent_plural: "Старо-семиты"
+  
+ harranian_pagan: "Харранск"
+ harranian_pagan_adj: "Харранизм"
+ harranian_pagan_adherent: "Харранин"
+ harranian_pagan_adherent_plural: "Харранцы"
+ harranian_pagan_desc: "Хотя они решили идентифицировать себя как сабийцев, упомянутых в Коране, чтобы их соседи-мусульмане называли их Людьми Книги, язычники Харрана представляют собой отдельную секту. Их обычаи варьируются от поклонения древним месопотамским и эллинским богов к эзотерическим занятиям их известных ученых, которые наблюдают за звездами и следуют философии, уходящей корнями в классический неоплатонизм и герметизм"
+  
+ heliopolitan_pagan: "Гелиополитск"
+ heliopolitan_pagan_adj: "Гелиополитизм"
+ heliopolitan_pagan_adherent: "Гелиополитец"
+ heliopolitan_pagan_adherent_plural: "Гелиополитанцы"
+ heliopolitan_pagan_desc: "Культ Триады был синкретической формой римского и ханаанского политеизма, который превыше всех богов поклонялся Триаде, состоящей из: Юпитера, отождествляемого с Ваалом или Хададом, и Гелиоса; Венеры, отождествляемой с Астартой; и Меркурия, отождествляется с Адоном. Он был заметен в Баальбеке или Гелиополе, который оставался одним из последних языческих оплотов на Ближнем Востоке (помимо Харрана) до арабских завоеваний 7 века"
+  
+ nabataean_pagan: "Душараизск"
+ nabataean_pagan_adj: "Душараизм"
+ nabataean_pagan_adherent: "Душараит"
+ nabataean_pagan_adherent_plural: "Душараиты"
+ nabataean_pagan_desc: "Набатеи включили в свой семитский пантеон множество богов из других культур, особенно греческих и римских богов после того, как Набатея стала частью Римской империи. Выдающееся положение их главного божества Душара отличает набатейцев от других древних арабских народов. , а позже он был связан с Зевсом (или Юпитером) и Дионисом. Поклонение Душаре могло сохраняться в ранний исламский период"
+  
+ aksumite_pagan: "Аксумитизск"
+ aksumite_pagan_adj: "Аксумитизм"
+ aksumite_pagan_adherent: "Аксумитист"
+ aksumite_pagan_adherent_plural: "Аксумитисты"
+ aksumite_pagan_old: "Старо-аксумитизск"
+ aksumite_pagan_old_adj: "Старый аксумитизм"
+ aksumite_pagan_old_adherent: "Старо-аксумитист"
+ aksumite_pagan_old_adherent_plural: "Старо-аксумитисты"
+ aksumite_pagan_desc: "На пантеон древних народов Эфиопии сильное влияние оказали южноаравийские королевства."
+  
+ south_arabian_pagan: "Аттаризск"
+ south_arabian_pagan_adj: "Аттаризм"
+ south_arabian_pagan_adherent: "Аттарист"
+ south_arabian_pagan_adherent_plural: "Аттаристы"
+ south_arabian_pagan_desc: "Хотя древние народы Южной Аравии поклоняются различным божествам в зависимости от их региона, у них также есть много общих элементов в их религиозных практиках, отличных от менее урбанизированных арабов на их севере."
+  
+ holy_order_warriors_of_tammuz: "Воины Тамуза"
+ holy_order_thunderbolts_of_jupiter: "Громовержцы Юпитера"
+ holy_order_champions_of_the_stars: "Избранные Звёзд"
+  
+  # Based on the SOUTH ARABIAN pantheon 
+ semitic_high_god_name: "Аттар"
+ semitic_high_god_name_possessive: "Аттар"
+ semitic_devil_name: "Злой джинн"
+ semitic_devil_name_possessive: "Злые джинны"
+ semitic_evil_god_demons: "Злые джинны"
+ semitic_death_deity_name: "Плутон"
+ semitic_death_deity_name_possessive: "Плутона"
+ semitic_religious_symbol: "статуя"
+ semitic_religious_text: "Герметический корпус"
+ semitic_religious_head_title: "Первосвященник"
+ semitic_religious_head_title_name: "Высший совет"
+ semitic_witchgodname: "Шам"
+ semitic_witchgodname_possessive: "Шэма"
+ semitic_priest_male: "Священник"
+ semitic_priest_male_plural: "Священники"
+ semitic_priest_female: "Жрица"
+ semitic_priest_female_plural: "Жрицы"
+ semitic_priest_neuter: "Прорицатель"
+ semitic_priest_neuter_plural: "Прорицатели"
+ semitic_bishop_male: "Главный жрец"
+ semitic_bishop_male_plural: "Главные жрецы"
+ semitic_bishop_female: "Главная жрица"
+ semitic_bishop_female_plural: "Главные жрицы"
+ semitic_bishop_neuter: "Главный жрец"
+ semitic_bishop_neuter_plural: "Главные жрецы"
+  
+ semitic_creator_god_name: "Аттар"
+ semitic_creator_god_name_possessive: "Аттар"
+ semitic_health_god_name: "Шамс"
+ semitic_health_god_name_possessive: "Шамс"
+ semitic_fertility_god_name: "Дхат-Бадан"
+ semitic_fertility_god_name_possessive: "Дхат-Бадан"
+ semitic_wealth_god_name: "Шамс"
+ semitic_wealth_god_name_possessive: "Шамса"
+ semitic_household_god_name: "Шамс"
+ semitic_household_god_name_possessive: "Шамс"
+ semitic_fate_god_name: "Анбай"
+ semitic_fate_god_name_possessive: "Анбая"
+ semitic_knowledge_god_name: "Анбай"
+ semitic_knowledge_god_name_possessive: "Анбая"
+ semitic_war_god_name: "Аттар"
+ semitic_war_god_name_possessive: "Аттар"
+ semitic_trickster_god_name: "Джинн"
+ semitic_trickster_god_name_possessive: "Джиннов"
+ semitic_night_god_name: "Альмака"
+ semitic_night_god_name_possessive: "Альмака"
+ semitic_water_god_name: "Аттар"
+ semitic_water_god_name_possessive: "Аттар"
+  
+ arabic_pagan_high_god_name: "Хубал" #Машинный перевод 28.06.2023
+ arabic_pagan_high_god_name_possessive: "Хубала" #Машинный перевод 28.06.2023
+ arabic_pagan_creator_god_name: "Хубал" #Машинный перевод 28.06.2023
+ arabic_pagan_creator_god_name_possessive: "Хубала" #Машинный перевод 28.06.2023
+ arabic_pagan_death_deity_name: "Хубал" #Машинный перевод 28.06.2023
+ arabic_pagan_death_deity_name_possessive: "Хубала" #Машинный перевод 28.06.2023
+ arabic_pagan_health_god_name: "Аль-Узза" #Машинный перевод 28.06.2023
+ arabic_pagan_health_god_name_possessive: "Аль-Узза" #Машинный перевод 28.06.2023
+ arabic_pagan_fertility_god_name: "Аль-Узза" #Машинный перевод 28.06.2023
+ arabic_pagan_fertility_god_name_possessive: "Аль-Узза" #Машинный перевод 28.06.2023
+ arabic_pagan_wealth_god_name: "Грустный" #Машинный перевод 28.06.2023
+ arabic_pagan_wealth_god_name_possessive: "Саада" #Машинный перевод 28.06.2023
+ arabic_pagan_household_god_name: "Нуха" #Машинный перевод 28.06.2023
+ arabic_pagan_household_god_name_possessive: "Нухи" #Машинный перевод 28.06.2023
+ arabic_pagan_fate_god_name: "Манат" #Машинный перевод 28.06.2023
+ arabic_pagan_fate_god_name_possessive: "манат" #Машинный перевод 28.06.2023
+ arabic_pagan_knowledge_god_name: "Хубал" #Машинный перевод 28.06.2023
+ arabic_pagan_knowledge_god_name_possessive: "Хубала" #Машинный перевод 28.06.2023
+ arabic_pagan_war_god_name: "Аллат" #Машинный перевод 28.06.2023
+ arabic_pagan_war_god_name_possessive: "Аллата" #Машинный перевод 28.06.2023
+ arabic_pagan_trickster_god_name: "Джинн" #Машинный перевод 28.06.2023
+ arabic_pagan_trickster_god_name_possessive: "Джинны" #Машинный перевод 28.06.2023
+ arabic_pagan_night_god_name: "Аллат" #Машинный перевод 28.06.2023
+ arabic_pagan_night_god_name_possessive: "Аллата" #Машинный перевод 28.06.2023
+ arabic_pagan_water_god_name: "Хубал" #Машинный перевод 28.06.2023
+ arabic_pagan_water_god_name_possessive: "Хубала" #Машинный перевод 28.06.2023
+  
+ aksumite_pagan_high_god_name: "Махрем" #Машинный перевод 28.06.2023
+ aksumite_pagan_high_god_name_possessive: "Махрем" #Машинный перевод 28.06.2023
+ aksumite_pagan_creator_god_name: "Аттар" #Машинный перевод 28.06.2023
+ aksumite_pagan_creator_god_name_possessive: "Аттара" #Машинный перевод 28.06.2023
+ aksumite_pagan_death_deity_name: "Аттар" #Машинный перевод 28.06.2023
+ aksumite_pagan_death_deity_name_possessive: "Аттара" #Машинный перевод 28.06.2023
+ aksumite_pagan_health_god_name: "Медер" #Машинный перевод 28.06.2023
+ aksumite_pagan_health_god_name_possessive: "Медера" #Машинный перевод 28.06.2023
+ aksumite_pagan_fertility_god_name: "Медер" #Машинный перевод 28.06.2023
+ aksumite_pagan_fertility_god_name_possessive: "Медера" #Машинный перевод 28.06.2023
+ aksumite_pagan_wealth_god_name: "Аттар" #Машинный перевод 28.06.2023
+ aksumite_pagan_wealth_god_name_possessive: "Аттара" #Машинный перевод 28.06.2023
+ aksumite_pagan_household_god_name: "Медер" #Машинный перевод 28.06.2023
+ aksumite_pagan_household_god_name_possessive: "Медера" #Машинный перевод 28.06.2023
+ aksumite_pagan_fate_god_name: "Махрем" #Машинный перевод 28.06.2023
+ aksumite_pagan_fate_god_name_possessive: "Махрем" #Машинный перевод 28.06.2023
+ aksumite_pagan_knowledge_god_name: "Аттар" #Машинный перевод 28.06.2023
+ aksumite_pagan_knowledge_god_name_possessive: "Аттара" #Машинный перевод 28.06.2023
+ aksumite_pagan_war_god_name: "Махрем" #Машинный перевод 28.06.2023
+ aksumite_pagan_war_god_name_possessive: "Махрем" #Машинный перевод 28.06.2023
+ aksumite_pagan_trickster_god_name: "духи" #Машинный перевод 28.06.2023
+ aksumite_pagan_trickster_god_name_possessive: "духи" #Машинный перевод 28.06.2023
+ aksumite_pagan_night_god_name: "Илумкух" #Машинный перевод 28.06.2023
+ aksumite_pagan_night_god_name_possessive: "Илумку" #Машинный перевод 28.06.2023
+ aksumite_pagan_water_god_name: "Бехер" #Машинный перевод 28.06.2023
+ aksumite_pagan_water_god_name_possessive: "Бехер" #Машинный перевод 28.06.2023
+  
+ harranian_high_god_name: "Единственный"
+ harranian_high_god_name_possessive: "Единственный"
+ harranian_high_god_name_alternate: "Всевышний"
+ harranian_high_god_name_alternate_possessive: "Всевышний"
+ harranian_good_god_hermes: "Гермес"
+ harranian_good_god_sin: "Грех"
+ harranian_devil_name: "Злой Демон"
+ harranian_devil_name_possessive: "Злые демоны"
+ harranian_evil_god_demons: "Злые Демоны"
+ harranian_death_deity_name: "Плутон"
+ harranian_death_deity_name_possessive: "Плутона"
+ harranian_religious_symbol: "лавр"
+ harranian_religious_text: "Герметический корпус"
+ harranian_religious_head_title: "Первосвященник"
+ harranian_religious_head_title_name: "Высший совет"
+ harranian_divine_realm: "Олимп"
+ harranian_witchgodname: "Геката"
+ harranian_witchgodname_possessive: "Геката"
+ harranian_priest_male: "Священник"
+ harranian_priest_male_plural: "Священники"
+ harranian_priest_female: "Жрица"
+ harranian_priest_female_plural: "Жрицы"
+ harranian_priest_neuter: "Прорицатель"
+ harranian_priest_neuter_plural: "Прорицатели"
+ harranian_bishop_male: "Главный жрец"
+ harranian_bishop_male_plural: "Главные жрецы"
+ harranian_bishop_female: "Главная жрица"
+ harranian_bishop_female_plural: "Главные жрицы"
+ harranian_bishop_neuter: "Главный жрец"
+ harranian_bishop_neuter_plural: "Главные жрецы"
+  
+ harranian_creator_god_name: "Гея"
+ harranian_creator_god_name_possessive: "Геи"
+ harranian_health_god_name: "Асклепий"
+ harranian_health_god_name_possessive: "Асклепий"
+ harranian_fertility_god_name: "Таммуз"
+ harranian_fertility_god_name_possessive: "Таммуза"
+ harranian_wealth_god_name: "Плутон"
+ harranian_wealth_god_name_possessive: "Плутона"
+ harranian_household_god_name: "Веста"
+ harranian_household_god_name_possessive: "Весты"
+ harranian_fate_god_name: "Сатурн"
+ harranian_fate_god_name_possessive: "Сатурн"
+ harranian_knowledge_god_name: "Гермес"
+ harranian_knowledge_god_name_possessive: "Гермес"
+ harranian_war_god_name: "Марс"
+ harranian_war_god_name_possessive: "Марс"
+ harranian_trickster_god_name: "Гермес"
+ harranian_trickster_god_name_possessive: "Гермес"
+ harranian_night_god_name: "Грех"
+ harranian_night_god_name_possessive: "Грех"
+ harranian_water_god_name: "Энки"
+ harranian_water_god_name_possessive: "Энки"
+  
+ nabataean_high_god_name: "Душара"
+ nabataean_high_god_name_possessive: "Душара"
+ nabataean_health_god_name: "Исида"
+ nabataean_health_god_name_possessive: "Исида"
+ nabataean_fertility_god_name: "Аль-Лат"
+ nabataean_fertility_god_name_possessive: "Аль-Лат"
+ nabataean_wealth_god_name: "Тихе"
+ nabataean_wealth_god_name_possessive: "Тихе"
+ nabataean_household_god_name: "Обода"
+ nabataean_household_god_name_possessive: "Ободас"
+ nabataean_fate_god_name: "Манат"
+ nabataean_fate_god_name_possessive: "Манат"
+ nabataean_knowledge_god_name: "Аль-Кутба"
+ nabataean_knowledge_god_name_possessive: "Аль-Кутба"
+ nabataean_war_god_name: "Аль-Узза"
+ nabataean_war_god_name_possessive: "Аль-'Узза'"
+ nabataean_trickster_god_name: "Меркурий"
+ nabataean_trickster_god_name_possessive: "Меркурий"
+ nabataean_night_god_name: "Шей Аль-Каум"
+ nabataean_night_god_name_possessive: "Шей Аль-Каум"
+ nabataean_water_god_name: "Атаргатис"
+ nabataean_water_god_name_possessive: "Атаргатис"
+  
+  # Peristani/Kalash/Nuristani 
+ peristani_religion: "Перистанск"
+ peristani_religion_adj: "Перистани"
+ peristani_religion_adherent: "Перистани"
+ peristani_religion_adherent_plural: "Перистани"
+ peristani_religion_desc: "Индоиранские язычники, живущие в горах Памира и Гиндукуша, поклоняются многим богам в манере, напоминающей древних доведических индийцев и дозороастрийских иранцев. Чистота и нечистота являются важными понятиями, а вера в духов или феи, известные как Перис, сильны"
+  
+ nuristani_pagan: "Дезавизмск"
+ nuristani_pagan_adj: "Дезавизм"
+ nuristani_pagan_adherent: "Дезавист"
+ nuristani_pagan_adherent_plural: "Дезависты"
+ nuristani_pagan_desc: "Дезо был верховным божеством-создателем нескольких языческих племен в северном Пакистане и восточном Афганистане, особенно калашей. Их ритуалы сосредоточены на границах между мирами чистоты и нечистоты. Например, высокие горы, козы и мальчики предпубертатного возраста. считаются образцами чистоты"
+  
+ nuristani_pagan_old: "Старо-дезавизмск"
+ nuristani_pagan_old_adj: "Старый дезавизм"
+ nuristani_pagan_old_adherent: "Старо-дезавист"
+ nuristani_pagan_old_adherent_plural: "Старо-дезависты"
+ nuristani_pagan_old_desc: "Дезо был верховным божеством-создателем нескольких языческих племен в северном Пакистане и восточном Афганистане, особенно калашей. Их ритуалы сосредоточены на границах между мирами чистоты и нечистоты. Например, высокие горы, козы и мальчики предпубертатного возраста. считаются образцами чистоты"
+  
+ holy_order_companions_of_the_suchi: "Компаньоны Сучи"
+ holy_order_defenders_of_the_pure_mountains: "Защитники чистейших гор"
+ holy_order_warriors_of_mahandeo: "Воители Махандео"
+  
+ peristani_high_god_name: "Дезо"
+ peristani_high_god_name_possessive: "Дезо"
+ peristani_high_god_name_alternate: "Имра"
+ peristani_high_god_name_alternate_possessive: "Имра"
+ peristani_devil_name: "Джестан"
+ peristani_devil_name_possessive: "Джестан"
+ peristani_death_deity_name: "Мара"
+ peristani_death_deity_name_possessive: "Мары"
+ peristani_religious_symbol: "коза"
+ peristani_religious_text: "Иштикаван"
+ peristani_religious_head_title: "Высокий Иштикаван"
+ peristani_religious_head_title_name: "Высший совет"
+ peristani_divine_realm: "Циам"
+ peristani_priest_male: "Иштикаван"
+ peristani_priest_male_plural: "Иштикаваны"
+ peristani_priest_female: "Иштикаван"
+ peristani_priest_female_plural: "Иштикаваны"
+ peristani_priest_neuter: "Иштикаван"
+ peristani_priest_neuter_plural: "Иштикаваны"
+ peristani_bishop_male: "Глава Иштикавана"
+ peristani_bishop_male_plural: "Главный иштикаван"
+ peristani_bishop_female: "Глава Иштикавана"
+ peristani_bishop_female_plural: "Главный иштикаван"
+ peristani_bishop_neuter: "Глава Иштикавана"
+ peristani_bishop_neuter_plural: "Главный иштикаван"
+ peristani_creator_god_name: "Дезо"
+ peristani_creator_god_name_possessive: "Дезо"
+ peristani_health_god_name: "Дезалик"
+ peristani_health_god_name_possessive: "Дезалик"
+ peristani_fertility_god_name: "Дезалик"
+ peristani_fertility_god_name_possessive: "Дезалик"
+ peristani_wealth_god_name: "Маандео"
+ peristani_wealth_god_name_possessive: "Махандео"
+ peristani_household_god_name: "Джестак"
+ peristani_household_god_name_possessive: "Джестак"
+ peristani_fate_god_name: "Балюмейн"
+ peristani_fate_god_name_possessive: "Балюмейн"
+ peristani_knowledge_god_name: "Балюмейн"
+ peristani_knowledge_god_name_possessive: "Балюмейн"
+ peristani_war_god_name: "Маандео"
+ peristani_war_god_name_possessive: "Махандео"
+ peristani_trickster_god_name: "Саджигор"
+ peristani_trickster_god_name_possessive: "Саджигор"
+ peristani_night_god_name: "Индра"
+ peristani_night_god_name_possessive: "Индры"
+ peristani_water_god_name: "Индра"
+ peristani_water_god_name_possessive: "Индры"
+ peristani_house_of_worship: "Амол"
+ peristani_house_of_worship_plural: "Амолы"
+ peristani_good_god_dezaw: "Дезо"
+ peristani_good_god_dezalik: "Дезалик"
+ peristani_good_god_jestak: "Джестак"
+ peristani_good_god_balumain: "Балюмейн"
+ peristani_good_god_mahandeo: "Маандео"
+ peristani_good_god_indra: "Индра"
+ peristani_witchgodname: "Балюмейн"
+ peristani_witchgodname_possessive: "Балюмейн"
+  
+  
+  ############################################################################################ 
+  # 
+  # Holy Sites 
+  # 
+  ############################################################################################ 
+  
+  
+ holy_site_harran_name: "Харан"
+ holy_site_harran_effect_name: "Из [holy_site|E] #weak ($holy_site_harran_name$)#!"
+ holy_site_giza_name: "Гиза"
+ holy_site_giza_effect_name: "Из [holy_site|E] #weak ($holy_site_giza_name$)#!"
+ holy_site_baalbek_name: "Баалбек"
+ holy_site_baalbek_effect_name: "Из [holy_site|E] #weak ($holy_site_baalbek_name$)#!"
+ holy_site_petra_name: "Петра"
+ holy_site_petra_effect_name: "Из [holy_site|E] #weak ($holy_site_petra_name$)#!"
+ holy_site_fuerteventura_name: "Ербан"
+ holy_site_fuerteventura_effect_name: "Из [holy_site|E] #weak ($holy_site_fuerteventura_name$)#!"
+ holy_site_canarias_name: "Гуанчинет"
+ holy_site_canarias_effect_name: "Из [holy_site|E] #weak ($holy_site_canarias_name$)#!"
+ holy_site_bilizma_name: "Билизма"
+ holy_site_bilizma_effect_name: "Из [holy_site|E] #weak ($holy_site_bilizma_name$)#!"
+ holy_site_ahaggar_name: "Ахагаар"
+ holy_site_ahaggar_effect_name: "Из [holy_site|E] #weak ($holy_site_ahaggar_name$)#!"
+ holy_site_tanas_name: "Танас"
+ holy_site_tanas_effect_name: "Из [holy_site|E] #weak ($holy_site_tanas_name$)#!"
+ holy_site_thebes_name: "Зебес"
+ holy_site_thebes_effect_name: "Из [holy_site|E] #weak ($holy_site_thebes_name$)#!"
+  
+  # 
+ holy_site_baduhena_name: "Роща Бадухенны"
+ holy_site_baduhena_effect_name: "Из [holy_site|E] #weak ($holy_site_baduhena_name$)#!"
+ holy_site_nerthus_name: "Роща Нертуса"
+ holy_site_nerthus_effect_name: "Из [holy_site|E] #weak ($holy_site_nerthus_name$)#!"
+ holy_site_irminsul_name: "Ирминсул"
+ holy_site_irminsul_effect_name: "Из [holy_site|E] #weak ($holy_site_irminsul_name$)#!"
+ holy_site_semnones_name: "Роща Семнонов"
+ holy_site_semnones_effect_name: "Из [holy_site|E] #weak ($holy_site_semnones_name$)#!"
+ holy_site_gotland_name: "Готланд"
+ holy_site_gotland_effect_name: "Из [holy_site|E] #weak ($holy_site_gotland_name$)#!"
+ holy_site_oium_name: "Оуим"
+ holy_site_oium_effect_name: "Из [holy_site|E] #weak ($holy_site_oium_name$)#!"
+ holy_site_alesia_name: "Алесия"
+ holy_site_alesia_effect_name: "Из [holy_site|E] #weak ($holy_site_alesia_name$)#!"
+ holy_site_alesia_effects: "Скорость преобразования графства: #P +15%#!"
+ holy_site_vannes_name: "Ваннес"
+ holy_site_vannes_effect_name: "Из [holy_site|E] #weak ($holy_site_vannes_name$)#!"
+ COURT_CHAPLAIN_CONVERSION_HOLY_SITE_ALESIA: "Святое место — Алеся"
+  
+ holy_site_naxos_name: "Наксос"
+ holy_site_naxos_effect_name: "Из [holy_site|E] #weak ($holy_site_naxos_name$)#!"
+ holy_site_cephalonia_name: "Сефалония"
+ holy_site_cephalonia_effect_name: "Из [holy_site|E] #weak ($holy_site_cephalonia_name$)#!"
+ holy_site_ephesos_name: "Ефесос"
+ holy_site_ephesos_effect_name: "Из [holy_site|E] #weak ($holy_site_ephesos_name$)#!"
+  
+ holy_site_siwa_name: "Сива" #Машинный перевод 28.06.2023
+ holy_site_siwa_effect_name: "Из [holy_site|E] #weak ($holy_site_siwa_name$)#!" #Машинный перевод 28.06.2023
+  
+  # Awjila 
+ holy_site_augila_name: "Аугила" #Машинный перевод 28.06.2023
+ holy_site_augila_effect_name: "Из [holy_site|E] #weak ($holy_site_augila_name$)#!" #Машинный перевод 28.06.2023
+  
+  # Germa 
+ holy_site_garama_name: "Гарама" #Машинный перевод 28.06.2023
+ holy_site_garama_effect_name: "Из [holy_site|E] #weak ($holy_site_garama_name$)#!" #Машинный перевод 28.06.2023
+  
+  # Djerba 
+ holy_site_jerba_name: "Джерба" #Машинный перевод 28.06.2023
+ holy_site_jerba_effect_name: "Из [holy_site|E] #weak ($holy_site_jerba_name$)#!" #Машинный перевод 28.06.2023
+  
+  # Ammonism 
+ ammon_religious_head_title: "Верховный жрец Гурзила" #Машинный перевод 28.06.2023
+ ammon_religious_head_title_name: "Первосвященство" #Машинный перевод 28.06.2023
+ d_ammon: "Аммонитский совет" #Машинный перевод 28.06.2023
+  
+  # Sardinian Paganism 
+  
+ sardinian_religion: "Сардинск" #Машинный перевод 28.06.2023
+ sardinian_religion_adj: "Сардинское язычество" #Машинный перевод 28.06.2023
+ sardinian_religion_adherent: "Сардинец" #Машинный перевод 28.06.2023
+ sardinian_religion_adherents_plural: "Сардинцы" #Машинный перевод 28.06.2023
+ sardinian_religion_desc: "Коренные жители Сардинии поклоняются богам, которые часто ассоциируются с различными животными и символами природы, в частности божествам плодородия в лице мужчины-Быка-Солнца и женщины-Воды-Луны. Традиционно островитяне собирались в течение всего года в святых местах, таких как священные колодцы, для поклонения." #Машинный перевод 28.06.2023
+  
+ sardinian_pagan_old: "Нурагизск" #Машинный перевод 28.06.2023
+ sardinian_pagan_old_adj: "Нурагизм" #Машинный перевод 28.06.2023
+ sardinian_pagan_old_adherent: "Нурагист" #Машинный перевод 28.06.2023
+ sardinian_pagan_old_plural: "Нурагисты" #Машинный перевод 28.06.2023
+  
+ sardinian_pagan: "Старо-нурагизск" #Машинный перевод 28.06.2023
+ sardinian_pagan_adj: "Старо-нурагизм" #Машинный перевод 28.06.2023
+ sardinian_pagan_adherent: "Старо-нурагист" #Машинный перевод 28.06.2023
+ sardinian_pagan_adherent_plural: "Старо-нурагисты" #Машинный перевод 28.06.2023
+ sardinian_pagan_desc: "$sardinian_religion_desc$" #Машинный перевод 28.06.2023
+  
+  # Illyian Paganism 
+  
+ illyrian_pagan_old: "Древнеиллирийск" #Машинный перевод 28.06.2023
+ illyrian_pagan_old_adj: "Древнеиллирийское язычество" #Машинный перевод 28.06.2023
+ illyrian_pagan_old_adherent: "Старо-иллириец" #Машинный перевод 28.06.2023
+ illyrian_pagan_old_plural: "Старо-иллирийцы" #Машинный перевод 28.06.2023
+  
+ illyrian_pagan: "Иллирийск" #Машинный перевод 28.06.2023
+ illyrian_pagan_adj: "Иллирийское язычество" #Машинный перевод 28.06.2023
+ illyrian_pagan_adherent: "Иллириец" #Машинный перевод 28.06.2023
+ illyrian_pagan_adherent_plural: "Иллирийцы" #Машинный перевод 28.06.2023
+ illyrian_pagan_desc: "Пантеоны иллирийских народов сильно различаются от племени к племени, и на протяжении веков иллирийцы переняли множество божеств и верований от римлян, греков, кельтов и фракийцев. Культы солнца и змеи особенно распространены среди других форм поклонения природе." #Машинный перевод 28.06.2023
+  
+ illyrian_high_god_name: "Деипатурос" #Машинный перевод 28.06.2023
+ illyrian_high_god_name_possessive: "Деипатуроса" #Машинный перевод 28.06.2023
+ illyrian_death_deity_name: "Плутон" #Машинный перевод 28.06.2023
+ illyrian_death_deity_name_possessive: "Плутона" #Машинный перевод 28.06.2023
+ illyrian_creator_god_name: "Деипатурос" #Машинный перевод 28.06.2023
+ illyrian_creator_god_name_possessive: "Деипатуроса" #Машинный перевод 28.06.2023
+ illyrian_health_god_name: "Тана" #Машинный перевод 28.06.2023
+ illyrian_health_god_name_possessive: "Тана" #Машинный перевод 28.06.2023
+ illyrian_fertility_god_name: "Видасус" #Машинный перевод 28.06.2023
+ illyrian_fertility_god_name_possessive: "Видасус" #Машинный перевод 28.06.2023
+ illyrian_wealth_god_name: "Редон" #Машинный перевод 28.06.2023
+ illyrian_wealth_god_name_possessive: "Редона" #Машинный перевод 28.06.2023
+ illyrian_household_god_name: "Таденус" #Машинный перевод 28.06.2023
+ illyrian_household_god_name_possessive: "Таденус" #Машинный перевод 28.06.2023
+ illyrian_fate_god_name: "Таденус" #Машинный перевод 28.06.2023
+ illyrian_fate_god_name_possessive: "Таденус" #Машинный перевод 28.06.2023
+ illyrian_knowledge_god_name: "Таденус" #Машинный перевод 28.06.2023
+ illyrian_knowledge_god_name_possessive: "Таденус" #Машинный перевод 28.06.2023
+ illyrian_war_god_name: "Медаурус" #Машинный перевод 28.06.2023
+ illyrian_war_god_name_possessive: "Медаурус" #Машинный перевод 28.06.2023
+ illyrian_trickster_god_name: "Таденус" #Машинный перевод 28.06.2023
+ illyrian_trickster_god_name_possessive: "Таденус" #Машинный перевод 28.06.2023
+ illyrian_night_god_name: "Диана" #Машинный перевод 28.06.2023
+ illyrian_night_god_name_possessive: "Диана" #Машинный перевод 28.06.2023
+ illyrian_water_god_name: "Редон" #Машинный перевод 28.06.2023
+ illyrian_water_god_name_possessive: "Редона" #Машинный перевод 28.06.2023
+  
+ holy_site_risinium_name: "Рисиниум" #Машинный перевод 28.06.2023
+ holy_site_risinium_effect_name: "Из [holy_site|E] #weak ($holy_site_risinium_name$)#!" #Машинный перевод 28.06.2023
+  
+  # Hypsistarians 
+  
+ hypsistarian_pagan_old: "Старогипсистарианск" #Машинный перевод 28.06.2023
+ hypsistarian_pagan_old_adj: "Старое гипсистарианство" #Машинный перевод 28.06.2023
+ hypsistarian_pagan_old_adherent: "Старо-гипсистарианец" #Машинный перевод 28.06.2023
+ hypsistarian_pagan_old_plural: "Старо-гипсистарианцы" #Машинный перевод 28.06.2023
+  
+ hypsistarian_pagan: "Гипсистарианск" #Машинный перевод 28.06.2023
+ hypsistarian_pagan_adj: "Гипсистарианство" #Машинный перевод 28.06.2023
+ hypsistarian_pagan_adherent: "Гипсистарианец" #Машинный перевод 28.06.2023
+ hypsistarian_pagan_adherent_plural: "Гипсистарианцы" #Машинный перевод 28.06.2023
+ hypsistarian_pagan_desc: "Гипсистары — это эклектичная группа эллинских языческих сект из Малой Азии и Причерноморья, на которых большое влияние оказали еврейские идеи. Они сосредотачивают свое поклонение исключительно на Гипсисте, «Всевышнем» Боге, но не обязательно отрицают существование других богов." #Машинный перевод 28.06.2023
+  
+ holy_site_oenoanda_name: "Эноанда" #Машинный перевод 28.06.2023
+ holy_site_oenoanda_effect_name: "Из [holy_site|E] #weak ($holy_site_oenoanda_name$)#!" #Машинный перевод 28.06.2023
+  
+  # Palmyra 
+ holy_site_palmyra_name: "Пальмира" #Машинный перевод 28.06.2023
+ holy_site_palmyra_effect_name: "Из [holy_site|E] #weak ($holy_site_palmyra_name$)#!" #Машинный перевод 28.06.2023
+  
+ palmyrene_pagan_old: "Старопальмирск" #Машинный перевод 28.06.2023
+ palmyrene_pagan_old_adj: "Старое пальмирское язычество" #Машинный перевод 28.06.2023
+ palmyrene_pagan_old_adherent: "Старо-пальмирец" #Машинный перевод 28.06.2023
+ palmyrene_pagan_old_plural: "Старо-пальмирцы" #Машинный перевод 28.06.2023
+  
+ palmyrene_pagan: "Пальмирск" #Машинный перевод 28.06.2023
+ palmyrene_pagan_adj: "Пальмирское язычество" #Машинный перевод 28.06.2023
+ palmyrene_pagan_adherent: "Пальмирец" #Машинный перевод 28.06.2023
+ palmyrene_pagan_adherent_plural: "Пальмирцы" #Машинный перевод 28.06.2023
+ palmyrene_pagan_desc: "Пантеон Пальмиры сочетает в себе финикийских, месопотамских, арабских и эллинских божеств. Главные боги — это триада Бела, верховного бога, Аглибола, лунного бога, и Малакбеля, бога солнца. Властные, богатые семьи выполняют священнические функции, и присутствие на священных пирах имеет первостепенное социально-религиозное значение." #Машинный перевод 28.06.2023
+  
+ palmyrene_high_god_name: "Бел" #Машинный перевод 28.06.2023
+ palmyrene_high_god_name_possessive: "Бел" #Машинный перевод 28.06.2023
+ palmyrene_high_god_alternate_name: "Баалшамин" #Машинный перевод 28.06.2023
+ palmyrene_high_god_alternate_name_possessive: "Баалшамина" #Машинный перевод 28.06.2023
+ palmyrene_death_deity_name: "Бел" #Машинный перевод 28.06.2023
+ palmyrene_death_deity_name_possessive: "Бел" #Машинный перевод 28.06.2023
+ palmyrene_creator_god_name: "Бел" #Машинный перевод 28.06.2023
+ palmyrene_creator_god_name_possessive: "Бел" #Машинный перевод 28.06.2023
+ palmyrene_health_god_name: "Малакбель" #Машинный перевод 28.06.2023
+ palmyrene_health_god_name_possessive: "Малакбель" #Машинный перевод 28.06.2023
+ palmyrene_fertility_god_name: "Атаргатис" #Машинный перевод 28.06.2023
+ palmyrene_fertility_god_name_possessive: "Атаргатис" #Машинный перевод 28.06.2023
+ palmyrene_wealth_god_name: "Арсу и Азизу" #Машинный перевод 28.06.2023
+ palmyrene_wealth_god_name_possessive: "Арсу и Азизу" #Машинный перевод 28.06.2023
+ palmyrene_household_god_name: "Астарта" #Машинный перевод 28.06.2023
+ palmyrene_household_god_name_possessive: "Астарты" #Машинный перевод 28.06.2023
+ palmyrene_fate_god_name: "Манават" #Машинный перевод 28.06.2023
+ palmyrene_fate_god_name_possessive: "Манавата" #Машинный перевод 28.06.2023
+ palmyrene_knowledge_god_name: "Набу" #Машинный перевод 28.06.2023
+ palmyrene_knowledge_god_name_possessive: "Набу" #Машинный перевод 28.06.2023
+ palmyrene_war_god_name: "Аллат" #Машинный перевод 28.06.2023
+ palmyrene_war_god_name_possessive: "Аллата" #Машинный перевод 28.06.2023
+ palmyrene_trickster_god_name: "джиннай" #Машинный перевод 28.06.2023
+ palmyrene_trickster_god_name_possessive: "джинны" #Машинный перевод 28.06.2023
+ palmyrene_night_god_name: "Аглибол" #Машинный перевод 28.06.2023
+ palmyrene_night_god_name_possessive: "Аглибола" #Машинный перевод 28.06.2023
+ palmyrene_water_god_name: "Эльконера" #Машинный перевод 28.06.2023
+ palmyrene_water_god_name_possessive: "Эльконеры" #Машинный перевод 28.06.2023
+  
+  
+  
+ greco_egyptian_pagan: "Серапистск" #Машинный перевод 28.06.2023
+ greco_egyptian_pagan_adj: "Серапизм" #Машинный перевод 28.06.2023
+ greco_egyptian_pagan_adherent: "Серапист" #Машинный перевод 28.06.2023
+ greco_egyptian_pagan_adherent_plural: "Сераписты" #Машинный перевод 28.06.2023
+ greco_egyptian_pagan_desc: "Династия Птолемеев разработала пантеон, в котором смешались эллинские и местные египетские боги, чтобы объединить как греков, так и египтян. В центре этой синкретической веры находился бог солнца Серапис, которому поклонялись в особых храмах, называемых серапеумами." #Машинный перевод 28.06.2023
+  
+ greco_egyptian_pagan_old: "Старосерапистск" #Машинный перевод 28.06.2023
+ greco_egyptian_pagan_old_adj: "Старый серапизм" #Машинный перевод 28.06.2023
+ greco_egyptian_pagan_old_adherent: "Старо-серапист" #Машинный перевод 28.06.2023
+ greco_egyptian_pagan_old_adherent_plural: "Старо-сераписты" #Машинный перевод 28.06.2023
+  
+  
+ greco_egyptian_high_god_name: "Серапис" #Машинный перевод 28.06.2023
+ greco_egyptian_high_god_name_2: "Зевс-Аммон" #Машинный перевод 28.06.2023
+ greco_egyptian_high_god_name_possessive: "Серапис" #Машинный перевод 28.06.2023
+ greco_egyptian_high_god_name_alternate: "Зевс-Аммон" #Машинный перевод 28.06.2023
+ greco_egyptian_high_god_name_alternate_possessive: "Зевса-Аммона" #Машинный перевод 28.06.2023
+ greco_egyptian_death_deity_name: "Германубис" #Машинный перевод 28.06.2023
+ greco_egyptian_death_deity_name_possessive: "Германубис" #Машинный перевод 28.06.2023
+ greco_egyptian_knowledge_god_name: "Гермес Трисмегист" #Машинный перевод 28.06.2023
+ greco_egyptian_knowledge_god_name_possessive: "Гермес Трисмегист." #Машинный перевод 28.06.2023
+  

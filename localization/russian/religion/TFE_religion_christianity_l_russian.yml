@@ -1,144 +1,144 @@
 ﻿l_russian:
- arianism:0 "Arianism" #NT!
- arianism_adj:0 "Arian" #NT!
- arianism_adherent:0 "Arian" #NT!
- arianism_adherent_plural:0 "Arians" #NT!
- arianism_desc:0 "Arianism is a Christological doctrine first attributed to Arius (c. AD 256–336), a Christian presbyter in Alexandria, Egypt. Arian theology holds that Jesus Christ is the Son of God, who was begotten by God the Father, and is distinct from the Father (therefore subordinate to him). However, in contrast with traditional Trinitarianism, Arianism holds that the Son is also the Son of God, but not co-eternal with God the Father in contrast. The term Arian is derived from the name Arius and, like the term Christian, it was not what they called themselves, but rather a term used by outsiders. The nature of Arius's teachings and his supporters were opposed to the theological views held by Homoousian Christians, regarding the nature of the Trinity and the nature of Christ. The Arian concept of Christ is based on the belief that the Son of God did not always exist but was begotten within time by God the Father, therefore Jesus was not co-eternal with God the Father." #NT!
- special_faith_teachings_of_ulfilas_name:0 "Teachings of Ulfilas" #NT!
- special_faith_teachings_of_ulfilas_desc:0 "One of our priests, Ulfilas, spent his life spreading the word of God and our faith among the Gothic people. His work and his apprentices' ensure that our branch of Christendom is popular among the Goths, and that our relations with the heathen Goths are more cordial than they are with other Christian sects." #NT!
-
- donatism:0 "Donatism" #NT!
- donatism_adj:0 "Donatist" #NT!
- donatism_adherent:0 "Donatist" #NT!
- donatism_adherent_plural:0 "Donatists" #NT!
- donatism_desc:0 "Donatism was a Christian sect leading to schism in the pre-Great Schism, Christian Church, in the region of the Church of Carthage, from the fourth to the sixth centuries AD. Donatists argued that Christian clergy must be faultless for their ministry to be effective and their prayers and sacraments to be valid." #NT!
-
- macedonianism:0 "Macedonianism" #NT!
- macedonianism_adj:0 "Macedonian" #NT!
- macedonianism_adherent:0 "Macedonian" #NT!
- macedonianism_adherent_plural:0 "Macedonians" #NT!
-
- pelagianism:0 "Pelagianism" #NT!
- pelagianism_adj:0 "Pelagian" #NT!
- pelagianism_adherent:0 "Pelagian" #NT!
- pelagianism_adherent_plural:0 "Pelagians" #NT!
-
- west_christian_fertility_god_name:0 "St. Brigid" #NT!
- west_christian_fertility_god_name_possessive:0 "St. Brigid's" #NT!
- west_christian_wealth_god_name:0 "St. Matthew" #NT!
- west_christian_wealth_god_name_possessive:0 "St. Matthew's" #NT!
- west_christian_household_god_name:0 "St. Joseph" #NT!
- west_christian_household_god_name_possessive:0 "St. Joseph's" #NT!
- west_christian_knowledge_god_name:0 "St. Catherine" #NT!
- west_christian_knowledge_god_name_possessive:0 "St. Catherine's" #NT!
- west_christian_war_god_name:0 "St. George" #NT!
- west_christian_war_god_name_possessive:0 "St. George's" #NT!
- west_christian_water_god_name:0 "St. Nicholas" #NT!
- west_christian_water_god_name_possessive:0 "St. Nicholas'" #NT!
-
- paulician:0 "Paulicianism" #NT!
- paulician_adj:0 "Paulician" #NT!
- paulician_adherent:0 "Paulician" #NT!
- paulician_adherent_plural:0 "Paulicians" #NT!
- paulician_desc:0 "Rejecting the divinity of Christ and viewing the veneration of the cross as heathenish, Paulicians aim to restore what they believe to be the true form of Christianity as laid out by Paul of Tarsus." #NT!
- paulician_religious_text:0 "Key of Truth" #NT!
-
- chalcedonian:0 "Chalcedonian Christianity" #NT!
- chalcedonian_adj:0 "Chalcedonian" #NT!
- chalcedonian_adherent:0 "Chalcedonianan" #NT!
- chalcedonian_adherent_plural:0 "Chalcedonianans" #NT!
- chalcedonian_desc:0 "Chalcedonian Christianity is a set of Christian doctrinal traditions which reflect the Chalcedonian Creed, which was formulated at the First Council of Chalcedon in AD 451." #NT!
- chalcedonian_religious_head_title:0 "Patriarch" #NT!
- chalcedonian_religious_head_title_name:0 "Patriarchate" #NT!
-
- nicene:0 "Nicene Christianity" #NT!
- nicene_adj:0 "Nicene" #NT!
- nicene_adherent:0 "Nicene" #NT!
- nicene_adherent_plural:0 "Nicenes" #NT!
- nicene_desc:0 "Nicene Christianity is a set of Christian doctrinal traditions which reflect the Nicene Creed, which was formulated at the First Council of Nicaea in AD 325 and amended at the First Council of Constantinople in AD 381." #NT!
- nicene_religious_head_title:0 "Patriarch" #NT!
- nicene_religious_head_title_name:0 "Patriarchate" #NT!
-
- syriac:0 "Syriac Christianity" #NT!
- syriac_adj:0 "Syrian" #NT!
- syriac_adherent:0 "Syriac" #NT!
- syriac_adherent_plural:0 "Syriacs" #NT!
- syriac_desc:0 "A distinctive branch of Eastern Christianity, Syriac Christianity is built upon theological writings and traditional liturgies that are expressed in the Classical Syriac language." #NT!
-
- hesychasm:0 "Hesychasm" #NT!
- hesychasm_adj:0 "Hesychastic" #NT!
- hesychasm_adherent:0 "Hesychast" #NT!
- hesychasm_adherent_plural:0 "Hesychasts" #NT!
- hesychasm_desc:0 "Following a much more strict and ascetic way of prayer and contemplation, the Hesycastic traditions push their followers to all wordly thoughts in order to achieve Karharsis, Theoria, and Theosis." #NT!
-
- marcionite:0 "Marcionism" #NT!
- marcionite_adj:0 "Marcionite" #NT!
- marcionite_adherent:0 "Marcionite" #NT!
- marcionite_adherent_plural:0 "Marcionites" #NT!
- marcionite_desc:0 "Marcionites follow the teachings of Marcion of Sinope, an early Christian theologian who taught that the benevolent God of the Gospel, the true Supreme Being, was different than the malevolent Demiurge or Creator of the Hebrew Old Testament. According to Marcion, Paul the Apostle was the only true apostle of Jesus Christ." #NT!
-
- montanist:0 "Montanism" #NT!
- montanist_adj:0 "Montanist" #NT!
- montanist_adherent:0 "Montanist" #NT!
- montanist_adherent_plural:0 "Montanists" #NT!
- montanist_desc:0 "The New Prophecy movement, also known as Montanism from its founder Montanus, is a Christian sect that strongly emphasizes the importance of prophetic revelations. Through possession by God, worthy men and women can become prophets, who can subsequently resolve any ambiguities of scripture or gain the power to forgive sins." #NT!
-
- # Perpuza #NT!
- holy_site_perpuza_name:0 "Perpuza" #NT!
- holy_site_perpuza_effect_name:0 "From [holy_site|E] #weak ($holy_site_perpuza_name$)#!" #NT!
-
- abelian:0 "Abelianism" #NT!
- abelian_adj:0 "Abelian" #NT!
- abelian_adherent:0 "Abelian" #NT!
- abelian_adherent_plural:0 "Abelians" #NT!
- abelian_desc:0 "Emerging from the rustic countryside of Hippo Regius, the Abelians live in the same kind of continence that they believe Abel did. They do not believe in procreation, and encourage couples to practice abstinence and adopt children. Their beliefs blend together Christian, Jewish, Gnostic, and pagan ideas." #NT!
-
- nazarene:0 "Nazarene Christianity" #NT!
- nazarene_adj:0 "Nazarene" #NT!
- nazarene_adherent:0 "Nazarene" #NT!
- nazarene_adherent_plural:0 "Nazarenes" #NT!
- nazarene_desc:0 "Descended from the original Jewish followers of Jesus, the Nazarene sect rejects #italic halakah#!, believes in Jesus' divinity, are accepting the Apostles, and are thus considered by other Jews as apostates. They share many beliefs with the "orthodox" Gentile Church that considers them heretical, but differ in their continued strict adherence to the Law of Moses." #NT!
-
- bardaisanism:0 "Bardaisanism" #NT!
- bardaisanism_adj:0 "Bardaisanite" #NT!
- bardaisanism_adherent:0 "Bardaisanite" #NT!
- bardaisanism_adherent_plural:0 "Bardaisanites" #NT!
- bardaisanism_desc:0 "Bardaisanes, a 2nd century Syriac thinker and writer, deftly combined Christian theology with Gnosticism. He taught that while Almighty God endowed man with free will, the sun, moon, and planets are living beings that influence people's propensity to do good or evil. In contrast to other Gnostic sects, Bardaisanes also saw procreation in marriage as a positive force to understanding the divine." #NT!
-
- carpocratian:0 "Carpocratianism" #NT!
- carpocratian_adj:0 "Carpocratian" #NT!
- carpocratian_adherent:0 "Carpocratian" #NT!
- carpocratian_adherent_plural:0 "Carpocratians" #NT!
- carpocratian_desc:0 "According to Carpocrates and those who expanded on his teachings, like Marcellina, Jesus was not divine, but had a soul so pure and steadfast, he was able to free himself from the material realm, and no longer be bound by Mosaic Law or any other false morality. The Greek philosophers like Pythagoras, Plato, and Aristotle, are to be honored as a model like Jesus. Ultimately, all people are inherently equal, and property to be shared." #NT!
-
- collyridian:0 "Collyridianism" #NT!
- collyridian_adj:0 "Collyridian" #NT!
- collyridian_adherent:0 "Collyridian" #NT!
- collyridian_adherent_plural:0 "Collyridians" #NT!
- collyridian_desc:0 "The Virgin Mary, Mother of Jesus, is the greatest of saints and she inspires us all with her purity, virtue, and holiness, as evidenced by the many miracles, intercessions, and apparitions attributed to her. Detractors claim we worship her as a pagan goddess. However, by venerating her and giving her offerings, we can worship God and come ever closer to Him." #NT!
-
- encratite:0 "Encratitism" #NT!
- encratite_adj:0 "Encratite" #NT!
- encratite_adherent:0 "Encratite" #NT!
- encratite_adherent_plural:0 "Encratites" #NT!
- encratite_desc:0 "The way to salvation is to refrain from wine, animal food, marriage, and intercourse, for these are the work of Satan – even the Eucharist cannot use wine. Those who refuse otherwise are, in effect, in league with the devil." #NT!
-
- jovinian:0 "Jovinianism" #NT!
- jovinian_adj:0 "Jovinian" #NT!
- jovinian_adherent:0 "Jovinian" #NT!
- jovinian_adherent_plural:0 "Jovinians" #NT!
- jovinian_desc:0 "Though restraint is admirable, extreme asceticism are heretical practices of the arrogant. The faithful should focus less on distinctions between sinful and more sinful, virtuous and more virtuous, celibate and married, ascetic and non-ascetic, and instead focus on keeping a pure heart as they do good works for the glory of God." #NT!
-
- novatianism:0 "Novatianism" #NT!
- novatianism_adj:0 "Novatian" #NT!
- novatianism_adherent:0 "Novatian" #NT!
- novatianism_adherent_plural:0 "Novatians" #NT!
- novatianism_desc:0 "The theologian Novatian taught that baptized Christians who deny their faith or perform pagan rituals, even to protect themselves from pagan prosecution, cannot be readmitted into the Church. Some may decry us as extremists, but how can these apostates be trusted? Allowing sinners back into the fold endangers the Church." #NT!
-
- rogatism:0 "Rogatism" #NT!
- rogatism_adj:0 "Rogatist" #NT!
- rogatism_adherent:0 "Rogatist" #NT!
- rogatism_adherent_plural:0 "Rogatists" #NT!
- rogatism_desc:0 "A splinter of the Donatists, the Rogatist sect founded by Rogatus is more conciliatory than the stern Donatists. Though they agree with the Donatists that clergy must be faultless, they abhor the use of violence in religious matters. As they often say, "No one should be compelled to follow righteousness."" #NT!
-
-
+ arianism: "Арианск"
+ arianism_adj: "Арианство"
+ arianism_adherent: "Арианин"
+ arianism_adherent_plural: "Ариане"
+ arianism_desc: "Арианство — это христологическое учение, впервые приписываемое Арию (ок. 256–336 гг. н. э.), христианскому пресвитеру в Александрии, Египет. Арианское богословие утверждает, что Иисус Христос — Сын Божий, рожденный Богом Отцом, и отличен от Отца (поэтому подчинен ему). Однако, в отличие от традиционного тринитаризма, арианство считает, что Сын также является Сыном Божьим, но, в отличие от него, не совечен Богу Отцу. Термин ариан происходит от имени Арий и, как и термин христианин, это был не то, чем они себя называли, а скорее термин, употребляемый посторонними.Характер учения Ария и его сторонников противостоял теологическим взглядам, которых придерживались гомоусианские христиане, относительно природы Троица и природа Христа. Арианская концепция Христа основана на вере в то, что Сын Божий не всегда существовал, но был рожден во времени Богом-Отцом, поэтому Иисус не был совечен Богу-Отцу"
+ special_faith_teachings_of_ulfilas_name: "Учения Ульфиласа"
+ special_faith_teachings_of_ulfilas_desc: "One of our priests, Ulfilas, spent his life spreading the word of God and our faith among the Gothic people. His work and his apprentices' ensure that our branch of Christendom is popular among the Goths, and that our relations with the heathen Goths are more cordial than they would be with other Christian sects."
+  
+ donatism: "Донатистская"
+ donatism_adj: "Донатизм"
+ donatism_adherent: "Донатист"
+ donatism_adherent_plural: "Донатисты"
+ donatism_desc: "Donatism was a Christian sect leading to schism in the pre-Great Schism, Christian Church, in the region of the Church of Carthage, from the fourth to the sixth centuries AD. Donatists argued that Christian clergy must be faultless for their ministry to be effective and their prayers and sacraments to be valid."
+  
+ macedonianism: "Македонианск"
+ macedonianism_adj: "Македонианство"
+ macedonianism_adherent: "Македонец"
+ macedonianism_adherent_plural: "Македонцы"
+  
+ pelagianism: "Пелагианск"
+ pelagianism_adj: "Пелагианство"
+ pelagianism_adherent: "Пелагианец"
+ pelagianism_adherent_plural: "Пелагиане"
+  
+ west_christian_fertility_god_name: "Св. Бригида"
+ west_christian_fertility_god_name_possessive: "Св. Бригиды"
+ west_christian_wealth_god_name: "Св. Матфей"
+ west_christian_wealth_god_name_possessive: "Св. Матфея"
+ west_christian_household_god_name: "Св. Иосиф"
+ west_christian_household_god_name_possessive: "Св. Иосифа"
+ west_christian_knowledge_god_name: "Св. Катерина"
+ west_christian_knowledge_god_name_possessive: "Св. Катерины"
+ west_christian_war_god_name: "Св. Георгий"
+ west_christian_war_god_name_possessive: "Св. Георгия"
+ west_christian_water_god_name: "Св. Николай"
+ west_christian_water_god_name_possessive: "Св. Николая"
+  
+ paulician: "Павликанск"
+ paulician_adj: "Павликанство"
+ paulician_adherent: "Павликанец"
+ paulician_adherent_plural: "Павликане"
+ paulician_desc: "Отвергая божественность Христа и рассматривая почитание креста как языческое, Павликане стремятся восстановить то, что они считают истинной формой христианства, изложенной Павлом из Тарса."
+ paulician_religious_text: "Ключ Истины"
+  
+ chalcedonian: "Халкидонск"
+ chalcedonian_adj: "Халкидонство"
+ chalcedonian_adherent: "Chalcedonianan"
+ chalcedonian_adherent_plural: "Халкидонцы"
+ chalcedonian_desc: "Халкидонское христианство представляет собой набор христианских доктринальных традиций, отражающих халкидонский символ веры, сформулированный на Первом Халкидонском соборе в 451 году нашей эры."
+ chalcedonian_religious_head_title: "Патриарх"
+ chalcedonian_religious_head_title_name: "Патриархат"
+  
+ nicene: "Никейско-христианск"
+ nicene_adj: "Никейское христианство"
+ nicene_adherent: "Никеец"
+ nicene_adherent_plural: "Никейцы"
+ nicene_desc: "Никейское христианство — это набор христианских доктринальных традиций, отражающих Никейский символ веры, который был сформулирован на Первом Никейском соборе в 325 году нашей эры и дополнен на Первом Константинопольском соборе в 381 году нашей эры."
+ nicene_religious_head_title: "Патриарх"
+ nicene_religious_head_title_name: "Патриархат"
+  
+ syriac: "Сирийско-христианск"
+ syriac_adj: "Сирийское христианство"
+ syriac_adherent: "Сириец"
+ syriac_adherent_plural: "Сирийцы"
+ syriac_desc: "Отличительная ветвь восточного христианства, сирийское христианство основано на богословских трудах и традиционных литургиях, выраженных на классическом сирийском языке."
+  
+ hesychasm: "Исихастск"
+ hesychasm_adj: "Исихазм"
+ hesychasm_adherent: "Исихаст"
+ hesychasm_adherent_plural: "Исихасты"
+ hesychasm_desc: "Следуя гораздо более строгому и аскетичному пути молитвы и созерцания, исикастические традиции подталкивают своих последователей ко всем мирским мыслям, чтобы достичь Катарсиса, Теорию и Теосиса."
+  
+ marcionite: "Маркиониск" #Машинный перевод 28.06.2023
+ marcionite_adj: "Маркионизм" #Машинный перевод 28.06.2023
+ marcionite_adherent: "Маркионит" #Машинный перевод 28.06.2023
+ marcionite_adherent_plural: "Маркиониты" #Машинный перевод 28.06.2023
+ marcionite_desc: "Маркиониты следуют учению Маркиона Синопского, раннехристианского теолога, который учил, что доброжелательный Бог Евангелия, истинное Высшее Существо, отличается от злобного Демиурга или Творца еврейского Ветхого Завета. Согласно Маркиону, апостол Павел был единственным истинным апостолом Иисуса Христа." #Машинный перевод 28.06.2023
+  
+ montanist: "Монтаниск" #Машинный перевод 28.06.2023
+ montanist_adj: "Монтанизм" #Машинный перевод 28.06.2023
+ montanist_adherent: "Монтанист" #Машинный перевод 28.06.2023
+ montanist_adherent_plural: "Монтанисты" #Машинный перевод 28.06.2023
+ montanist_desc: "Движение «Новое пророчество», также известное как монтанизм по имени его основателя Монтануса, представляет собой христианскую секту, особо подчеркивающую важность пророческих откровений. Благодаря одержимости Богом достойные мужчины и женщины могут стать пророками, которые впоследствии смогут разрешить любые двусмысленности в Священных Писаниях или обрести силу прощать грехи." #Машинный перевод 28.06.2023
+  
+  # Perpuza 
+ holy_site_perpuza_name: "Перпуза" #Машинный перевод 28.06.2023
+ holy_site_perpuza_effect_name: "Из [holy_site|E] #weak ($holy_site_perpuza_name$)#!" #Машинный перевод 28.06.2023
+  
+ abelian: "Абелианск" #Машинный перевод 28.06.2023
+ abelian_adj: "Абелианство" #Машинный перевод 28.06.2023
+ abelian_adherent: "Абелев" #Машинный перевод 28.06.2023
+ abelian_adherent_plural: "Абеляне" #Машинный перевод 28.06.2023
+ abelian_desc: "Выйдя из деревенской сельской местности Гиппопотама Региуса, абелийцы живут в таком же воздержании, как, по их мнению, Авель. Они не верят в деторождение и поощряют пары практиковать воздержание и усыновлять детей. В их верованиях смешаны христианские, иудейские, гностические и языческие идеи." #Машинный перевод 28.06.2023
+  
+ nazarene: "Назарянск" #Машинный перевод 28.06.2023
+ nazarene_adj: "Назарянизм" #Машинный перевод 28.06.2023
+ nazarene_adherent: "Назарянин" #Машинный перевод 28.06.2023
+ nazarene_adherent_plural: "Назореи" #Машинный перевод 28.06.2023
+ nazarene_desc: "Происходя от первоначальных еврейских последователей Иисуса, секта назареев отвергает #italic галаха#!,, верит в божественность Иисуса, принимает апостолов, и поэтому другие евреи считают их отступниками. Они разделяют многие верования с «ортодоксальной» языческой церковью, которая считает их еретиками, но отличаются своим постоянным строгим соблюдением Закона Моисея." #Машинный перевод 28.06.2023
+  
+ bardaisanism: "Бардеанск" #Машинный перевод 28.06.2023
+ bardaisanism_adj: "Бардеанство" #Машинный перевод 28.06.2023
+ bardaisanism_adherent: "Бардезанит" #Машинный перевод 28.06.2023
+ bardaisanism_adherent_plural: "Бардезаниты" #Машинный перевод 28.06.2023
+ bardaisanism_desc: "Вардесан, сирийский мыслитель и писатель II века, ловко сочетал христианское богословие с гностицизмом. Он учил, что, хотя Всемогущий Бог наделил человека свободой воли, солнце, луна и планеты являются живыми существами, которые влияют на склонность людей делать добро или зло. В отличие от других гностических сект, Вардесаны также рассматривали продолжение рода в браке как положительную силу для понимания божественного." #Машинный перевод 28.06.2023
+  
+ carpocratian: "Карпократиск" #Машинный перевод 28.06.2023
+ carpocratian_adj: "Карпократизм" #Машинный перевод 28.06.2023
+ carpocratian_adherent: "Карпократиан" #Машинный перевод 28.06.2023
+ carpocratian_adherent_plural: "Карпократы" #Машинный перевод 28.06.2023
+ carpocratian_desc: "Согласно Карпократу и тем, кто расширил его учение, например, Марцеллине, Иисус не был божественным, но имел настолько чистую и непоколебимую душу, что смог освободиться от материального царства и больше не был связан Моисеевым законом или каким-либо другим законом. ложная мораль. Греческих философов, таких как Пифагор, Платон и Аристотель, следует почитать как образец, подобный Иисусу. В конечном счете, все люди по своей сути равны, и имущество должно быть общим." #Машинный перевод 28.06.2023
+  
+ collyridian: "Коллиридианск" #Машинный перевод 28.06.2023
+ collyridian_adj: "Коллиридианство" #Машинный перевод 28.06.2023
+ collyridian_adherent: "Коллиридиан" #Машинный перевод 28.06.2023
+ collyridian_adherent_plural: "Коллиридианцы" #Машинный перевод 28.06.2023
+ collyridian_desc: "Дева Мария, Мать Иисуса, является величайшей из святых, и она вдохновляет всех нас своей чистотой, добродетелью и святостью, о чем свидетельствуют многочисленные чудеса, ходатайства и явления, приписываемые Ей. Недоброжелатели утверждают, что мы поклоняемся ей как языческой богине. Однако, почитая ее и принося ей приношения, мы можем поклоняться Богу и еще больше приближаться к Нему." #Машинный перевод 28.06.2023
+  
+ encratite: "Энкратитиск" #Машинный перевод 28.06.2023
+ encratite_adj: "Энкратитизм" #Машинный перевод 28.06.2023
+ encratite_adherent: "Энкратит" #Машинный перевод 28.06.2023
+ encratite_adherent_plural: "Энкратиты" #Машинный перевод 28.06.2023
+ encratite_desc: "Путь к спасению — воздержание от вина, животной пищи, брака и полового акта, ибо это дело рук сатаны — даже в Евхаристии нельзя употреблять вино. Те, кто отказывается от иного, фактически находятся в союзе с дьяволом." #Машинный перевод 28.06.2023
+  
+ jovinian: "Джовинианск" #Машинный перевод 28.06.2023
+ jovinian_adj: "Джовинианство" #Машинный перевод 28.06.2023
+ jovinian_adherent: "Джовинианин" #Машинный перевод 28.06.2023
+ jovinian_adherent_plural: "Джовинианцы" #Машинный перевод 28.06.2023
+ jovinian_desc: "Хотя сдержанность достойна восхищения, крайний аскетизм — это еретическая практика высокомерных. Верующие должны меньше сосредотачиваться на различиях между грешным и более грешным, добродетельным и более добродетельным, соблюдающим целомудрие и женатым, аскетом и неаскетом, а вместо этого сосредоточиться на сохранении чистого сердца, совершая добрые дела во славу Божию." #Машинный перевод 28.06.2023
+  
+ novatianism: "Новацианск" #Машинный перевод 28.06.2023
+ novatianism_adj: "Новацианство" #Машинный перевод 28.06.2023
+ novatianism_adherent: "Новациан" #Машинный перевод 28.06.2023
+ novatianism_adherent_plural: "Новациане" #Машинный перевод 28.06.2023
+ novatianism_desc: "Богослов Новациан учил, что крещеные христиане, которые отрекаются от своей веры или совершают языческие обряды, даже для того, чтобы защитить себя от языческих преследований, не могут быть повторно приняты в Церковь. Некоторые могут осуждать нас как экстремистов, но как можно доверять этим отступникам? Позволить грешникам вернуться в стадо подвергает опасности Церковь." #Машинный перевод 28.06.2023
+  
+ rogatism: "Рогатиск" #Машинный перевод 28.06.2023
+ rogatism_adj: "Рогатизм" #Машинный перевод 28.06.2023
+ rogatism_adherent: "Рогатист" #Машинный перевод 28.06.2023
+ rogatism_adherent_plural: "Рогатисты" #Машинный перевод 28.06.2023
+ rogatism_desc: "Отколовшаяся от донатистов секта рогатистов, основанная Рогатусом, более примирительна, чем суровые донатисты. Хотя они согласны с донатистами в том, что духовенство должно быть безупречным, они ненавидят применение насилия в религиозных вопросах. Как часто говорят: «Никто не должен принуждаться следовать праведности»." #Машинный перевод 28.06.2023
+  
+  

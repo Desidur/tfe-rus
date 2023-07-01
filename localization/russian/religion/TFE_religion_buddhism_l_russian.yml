@@ -1,32 +1,32 @@
 ﻿l_russian:
-
- #Pudgalavada #NT!
- pudgalavada:0 "Pudgalavada" #NT!
- pudgalavada_adj:0 "Pudgalavada" #NT!
- pudgalavada_adherent:0 "Pudgalavadan" #NT!
- pudgalavada_adherent_plural:0 "Pudgalavadans" #NT!
- pudgalavada_desc:0 "While there is no atman, there is a pudgala (person), which is neither a conditioned dharma nor an unconditioned dharma. The path to enlightenment involves understanding this pudagala through personal experience, reflection and reasoning. This is a controversial view among other Buddhists, but one the Pudgalavada defend staunchly." #NT!
- #Dharmaguptaka #NT!
- dharmaguptaka:0 "Dharmaguptaka" #NT!
- dharmaguptaka_adj:0 "Dharmaguptaka" #NT!
- dharmaguptaka_adherent:0 "Dharmaguptakan" #NT!
- dharmaguptaka_adherent_plural:0 "Dharmaguptakans" #NT!
- dharmaguptaka_desc:0 "The Dharmaguptaka sect traces its heritage to the legendary Dharmagupta, a fervent follower of Buddha's disciple Maudgalyayana. They are based in Gandhara, but have had an impact across Central Asia and beyond. Their teachings include the belief that the Four Noble Truths are to be observed simultaneously, and that the path of a sravaka and of a Boddhisattva are separate." #NT!
- #Sarvastivada #NT!
- sarvastivada:0 "Sarvastivada" #NT!
- sarvastivada_adj:0 "Sarvastivada" #NT!
- sarvastivada_adherent:0 "Sarvastivadan" #NT!
- sarvastivada_adherent_plural:0 "Sarvastivadans" #NT!
- sarvastivada_desc:0 ""Sarvastivada" means the "theory that all exists." They are a school with a strong Abhidharma (or scholastic) tradition, with seven unique Abhidharma works, and have exerted a significant influence on the development of Indian Buddhist philosophy and theology." #NT!
- #Vibhajjavada #NT!
- vibhajjavada:0 "Vibhajjavada" #NT!
- vibhajjavada_adj:0 "Vibhajjavada" #NT!
- vibhajjavada_adherent:0 "Vibhajjavadan" #NT!
- vibhajjavada_adherent_plural:0 "Vibhajjavadans" #NT!
- vibhajjavada_desc:0 "The distinctionists are known as such because they distinguish between phenomena that exist in the present and the past, and dhammas that do not exist in the past and the future. Having rejected the Pudgalavada and Sthavira doctrines, they are a group of schools that see themselves as upholders of the true Buddhist teachings." #NT!
- #Mahasanghika #NT!
- mahasanghika:0 "Mahasanghika" #NT!
- mahasanghika_adj:0 "Mahasanghika" #NT!
- mahasanghika_adherent:0 "Mahasanghikan" #NT!
- mahasanghika_adherent_plural:0 "Mahasanghikans" #NT!
- mahasanghika_desc:0 "At the Second Buddhist Council, the Mahasanghika were the majority faction who refused to adopt additional rules for the Buddhist monastic community (as opposed to the Sthaviras). They believe in the transcendental, supramundane nature of Buddhas and Bodhisattvas, the fallibility of arhats, and that the historical Buddha never had a true physical form, merely manifesting as an illusion to help sentient beings." #NT!
+  
+  #Pudgalavada 
+ pudgalavada: "Пудгалавадск"
+ pudgalavada_adj: "Пудгалавада"
+ pudgalavada_adherent: "Пудгалавадан"
+ pudgalavada_adherent_plural: "Пудгалаваданцы"
+ pudgalavada_desc: "Хотя атмана нет, есть пудгала (личность), которая не является ни обусловленной дхармой, ни безусловной дхармой. Путь к просветлению включает в себя понимание этой пудагалы через личный опыт, размышления и рассуждения. Это противоречивая точка зрения. среди других буддистов, но пудгалавады стойко защищают одного"
+  #Dharmaguptaka 
+ dharmaguptaka: "Дхармагуптакск"
+ dharmaguptaka_adj: "Дхармагуптака"
+ dharmaguptaka_adherent: "Дхармагуптакан"
+ dharmaguptaka_adherent_plural: "Дхармагуптаканцы"
+ dharmaguptaka_desc: "Секта Дхармагуптака ведет свое происхождение от легендарного Дхармагупты, ярого последователя ученика Будды Маудгальяяны. Они базируются в Гандхаре, но оказали влияние по всей Центральной Азии и за ее пределами. Их учения включают веру в то, что Четыре Благородные Истины следует соблюдать одновременно, и что пути шраваки и бодхисаттвы различны"
+  #Sarvastivada 
+ sarvastivada: "Сарвастивадск"
+ sarvastivada_adj: "Сарвастивада"
+ sarvastivada_adherent: "Сарвастивадан"
+ sarvastivada_adherent_plural: "Сарвастивадане"
+ sarvastivada_desc: "«Сарвастивада» означает "теория существования всего". Это школа с сильной абхидхармической (или схоластической) традицией, с семью уникальными работами по абхидхарме, которые оказали значительное влияние на развитие индийской буддийской философии и богословие"
+  #Vibhajjavada 
+ vibhajjavada: "Вибхаджджавадск"
+ vibhajjavada_adj: "Вибхаджавада"
+ vibhajjavada_adherent: "Вибхаджавадан"
+ vibhajjavada_adherent_plural: "Вибхаджавадане"
+ vibhajjavada_desc: "Дисциплинисты известны как таковые, потому что они проводят различие между явлениями, существующими в настоящем и прошлом, и дхаммами, не существующими в прошлом и будущем. Отвергнув доктрины Пудгалавады и Стхавиры, они представляют собой группу школы, считающие себя сторонниками истинного буддийского учения"
+  #Mahasanghika 
+ mahasanghika: "Махасангхикск"
+ mahasanghika_adj: "Махасангхика"
+ mahasanghika_adherent: "Махасангхикан"
+ mahasanghika_adherent_plural: "Махасангикане"
+ mahasanghika_desc: "На Втором буддийском соборе махасангхика составляла большинство, отказавшееся принять дополнительные правила для буддийской монашеской общины (в отличие от стхавир). архатов, и что исторический Будда никогда не имел истинной физической формы, просто проявляясь как иллюзия, чтобы помочь живым существам"

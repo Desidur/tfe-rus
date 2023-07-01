@@ -1,17 +1,17 @@
 ﻿l_russian:
-
- basilidianism:0 "Basilidianism" #NT!
- basilidianism_adj:0 "Basilidean" #NT!
- basilidianism_adherent:0 "Basilidean" #NT!
- basilidianism_adherent_plural:0 "Basilideans" #NT!
- basilidianism_desc:0 "The secretive Basilidean sect has a very divergent interpretation of the Christian Gospel: the Great Archon created much of the world and thought he was God, but eventually learned to the truth, that there were higher beings than himself. Unlike other Gnostic sects, the creator repented for his sin, and sought to enlighten the world. By following Jesus, the world the Great Archon created can be purified and ascend itself." #NT!
-
- quqite:0 "Quqism" #NT!
- quqite_adj:0 "Quqite" #NT!
- quqite_adherent:0 "Quqite" #NT!
- quqite_adherent_plural:0 "Quqites" #NT!
- quqite_desc:0 "The variety of Gnosticism as preached by Quq mixes together Christian, Jewish, and pagan ideas. "Chaldean" astrology plays a major role in their beliefs, and the twelve prophets are associated with the twelve apostles. Intercourse in the context of marriage is also viewed positively as a means to understand the divine." #NT!
-
- # Edessa #NT!
- holy_site_edessa_name:0 "Edessa" #NT!
- holy_site_edessa_effect_name:0 "From [holy_site|E] #weak ($holy_site_edessa_name$)#!" #NT!
+  
+ basilidianism: "Василидианск" #Машинный перевод 28.06.2023
+ basilidianism_adj: "Василидианство" #Машинный перевод 28.06.2023
+ basilidianism_adherent: "Василидеанец" #Машинный перевод 28.06.2023
+ basilidianism_adherent_plural: "Василидеанцы" #Машинный перевод 28.06.2023
+ basilidianism_desc: "Скрытная василидская секта имеет очень расходящуюся интерпретацию христианского Евангелия: Великий Архонт сотворил большую часть мира и считал себя Богом, но в конце концов узнал истину, что есть существа более высокие, чем он сам. В отличие от других гностических сект, создатель раскаялся в своем грехе и стремился просветить мир. Следуя за Иисусом, мир, созданный Великим Архонтом, может очиститься и вознестись." #Машинный перевод 28.06.2023
+  
+ quqite: "Квизск" #Машинный перевод 28.06.2023
+ quqite_adj: "Квизм" #Машинный перевод 28.06.2023
+ quqite_adherent: "Квизмит" #Машинный перевод 28.06.2023
+ quqite_adherent_plural: "Квизмиты" #Машинный перевод 28.06.2023
+ quqite_desc: "Разнообразие гностицизма, проповедуемого Куком, смешивает христианские, еврейские и языческие идеи. «Халдейская» астрология играет важную роль в их верованиях, а двенадцать пророков ассоциируются с двенадцатью апостолами. Половой акт в контексте брака также положительно рассматривается как средство постижения божественного." #Машинный перевод 28.06.2023
+  
+  # Edessa 
+ holy_site_edessa_name: "Эдесса" #Машинный перевод 28.06.2023
+ holy_site_edessa_effect_name: "Из [holy_site|E] #weak ($holy_site_edessa_name$)#!" #Машинный перевод 28.06.2023

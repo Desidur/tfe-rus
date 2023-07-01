@@ -1,13 +1,13 @@
 ﻿l_russian:
-
- ebionite:0 "Ebionitism" #NT!
- ebionite_adj:0 "Ebionitie" #NT!
- ebionite_adherent:0 "Ebionitie" #NT!
- ebionite_adherent_plural:0 "Ebionities" #NT!
- ebionite_desc:0 "Though Jesus of Nazareth was a mortal man, he was chosen by God to be the messianic prophet like Moses. He preached poverty as a spiritual blessing, sought to abolish animal sacrifices, and died a martyr to move all Israel to repentance. Whether Jew or Gentile, every follower of Jesus must adhere to the Mosaic law." #NT!
-
- elkesaite:0 "Elkesaitism" #NT!
- elkesaite_adj:0 "Elkesaites" #NT!
- elkesaite_adherent:0 "Elkesaites" #NT!
- elkesaite_adherent_plural:0 "Elkesaitess" #NT!
- elkesaite_desc:0 "Elkesai, during the reign of Emperor Trajan, received in Parthia a holy book from a giant angel, the Son of God, accompanied by his sister, the Holy Ghost. As Elkesai taught, adherence to the Jewish Prophets and Jesus requires ritual adherence to the Mosaic Law, avoidance of animal sacrifice and meat-eating, and frequent baptisms for purification." #NT!
+  
+ ebionite: "Эбионитск" #Машинный перевод 28.06.2023
+ ebionite_adj: "Эбионитизм" #Машинный перевод 28.06.2023
+ ebionite_adherent: "Эбионити" #Машинный перевод 28.06.2023
+ ebionite_adherent_plural: "Эбиониты" #Машинный перевод 28.06.2023
+ ebionite_desc: "Хотя Иисус из Назарета был смертным человеком, он был избран Богом, чтобы стать мессианским пророком, подобным Моисею. Он проповедовал бедность как духовное благословение, стремился отменить принесение в жертву животных и умер мученической смертью, чтобы побудить весь Израиль к покаянию. Будь то еврей или язычник, каждый последователь Иисуса должен соблюдать Моисеев закон." #Машинный перевод 28.06.2023
+  
+ elkesaite: "Элькесаитиск" #Машинный перевод 28.06.2023
+ elkesaite_adj: "Элькесаитизм" #Машинный перевод 28.06.2023
+ elkesaite_adherent: "Элькесаит" #Машинный перевод 28.06.2023
+ elkesaite_adherent_plural: "Элькесаиты" #Машинный перевод 28.06.2023
+ elkesaite_desc: "Элькесай, во времена правления императора Траяна, получил в Парфии священную книгу от великана-ангела, Сына Божия, в сопровождении своей сестры, Святого Духа. Как учил Элькесай, приверженность еврейским пророкам и Иисусу требует ритуального соблюдения Моисеева закона, воздержания от жертвоприношения животных и употребления в пищу мяса, а также частых крещений для очищения." #Машинный перевод 28.06.2023

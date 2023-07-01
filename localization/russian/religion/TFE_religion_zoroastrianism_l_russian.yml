@@ -1,14 +1,14 @@
 ﻿l_russian:
-
-
- armaz:1 "Armaz" #NT!
- armaz_adj:1 "Armaz" #NT!
- armaz_adherent:1 "Armazi" #NT!
- armaz_adherent_plural:1 "Armazis" #NT!
- armaz_desc:1 "Armaz is the adaptation of Zoroastrian beliefs in the territory within and surrounding the Caucasus Mountains." #NT!
-
- magousaian:1 "Magousaian" #NT!
- magousaian_adj:1 "Magousaian" #NT!
- magousaian_adherent:1 "Magousaian" #NT!
- magousaian_adherent_plural:1 "Magousaians" #NT!
- magousaian_desc:1 "The Anatolian variety of Zoroastrianism, dating back to the Achaemenid era, retains a number of conservative features due to isolation from more recent religious developments in Iran. It is also heavily syncretized with Hellenistic and Anatolian polytheism, and frequently uses the Greek language instead of Iranian." #NT!
+  
+  
+ armaz: "Армазск" #Машинный перевод 28.06.2023
+ armaz_adj: "Армази" #Машинный перевод 28.06.2023
+ armaz_adherent: "Армаз" #Машинный перевод 28.06.2023
+ armaz_adherent_plural: "Армазы" #Машинный перевод 28.06.2023
+ armaz_desc: "Армаз - это адаптация зороастрийских верований на территории внутри и вокруг Кавказских гор." #Машинный перевод 28.06.2023
+  
+ magousaian: "Магусаиск" #Машинный перевод 28.06.2023
+ magousaian_adj: "Магусаизм" #Машинный перевод 28.06.2023
+ magousaian_adherent: "Магусаян" #Машинный перевод 28.06.2023
+ magousaian_adherent_plural: "Магусайцы" #Машинный перевод 28.06.2023
+ magousaian_desc: "Анатолийская разновидность зороастризма, восходящая к эпохе Ахеменидов, сохраняет ряд консервативных черт из-за изоляции от более поздних религиозных событий в Иране. Он также сильно синкретизирован с эллинистическим и анатолийским политеизмом и часто использует греческий язык вместо иранского." #Машинный перевод 28.06.2023

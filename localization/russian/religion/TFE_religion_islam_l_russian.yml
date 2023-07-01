@@ -1,25 +1,25 @@
 ﻿l_russian:
-
- united_islam:0 "Islam" #NT!
- united_islam_adj:0 "Muslim" #NT!
- united_islam_adherent:0 "Muslim" #NT!
- united_islam_adherent_plural:0 "Muslims" #NT!
- united_islam_desc:0 "Believing that they are the righteous continuation of Christianity, Muslims emerged from the deserts of Arabia under the guidance of their prophet, Muhammed." #NT!
-
- sunni:0 "Sunni" #NT!
- sunni_adj:0 "Sunni" #NT!
- sunni_adherent:0 "Sunni" #NT!
- sunni_adherent_plural:0 "Sunnis" #NT!
- sunni_desc:0 "Believing that following the true faith is in following the prophet's actions and none other, Sunnis emerged after the great Muslim schism and believe that the succession was correct" #NT!
-
- shia:0 "Shia" #NT!
- shia_adj:0 "Shi'ite" #NT!
- shia_adherent:0 "Shi'ite" #NT!
- shia_adherent_plural:0 "Shi'ites" #NT!
- shia_desc:0 "Believing that Ali Ibn Abi Talib is the true successor after Muhammed and that Abu Bakr shouldn't have been appointed Caliph, Shias believe the succession was wrongly decided" #NT!
-
- khawariji:0 "Khawarij" #NT!
- khawariji_adj:0 "Kharijite" #NT!
- khawariji_adherent:0 "Kharijite" #NT!
- khawariji_adherent_plural:0 "Kharijites" #NT!
- khawariji_desc:0 "The Kharijites are an early islamic sect that appeared during the first fitna after Caliph Ali agreed to the arbitration." #NT!
+  
+ united_islam: "Исламск"
+ united_islam_adj: "Ислам"
+ united_islam_adherent: "Мусульманин"
+ united_islam_adherent_plural: "Мусульманине"
+ united_islam_desc: "Полагая, что они являются праведным продолжением христианства, мусульмане вышли из пустынных земель Аравии вслед за своим пророком Мухаммедом."
+  
+ sunni: "Сунитск"
+ sunni_adj: "Сунизм"
+ sunni_adherent: "Сунниты"
+ sunni_adherent_plural: "Сунниты"
+ sunni_desc: "Полагая, что следование истинной вере заключается не в следовании действиям пророка, а в чем-либо ином, сунниты появились после великого мусульманского раскола и верят, что преемственность была правильной"
+  
+ shia: "Шиитск"
+ shia_adj: "Шиизм"
+ shia_adherent: "Шиит"
+ shia_adherent_plural: "Шииты"
+ shia_desc: "Полагая, что Али ибн Аби Талиб является истинным преемником Мухаммеда и что Абу Бакр не должен был быть назначен халифом."
+  
+ khawariji: "Хариджск"
+ khawariji_adj: "Хариджизм"
+ khawariji_adherent: "Хариджит"
+ khawariji_adherent_plural: "Хариджиты"
+ khawariji_desc: "Хариджиты - ранняя исламская секта, появившаяся во время первой фитны после того, как халиф Али согласился на арбитраж."
